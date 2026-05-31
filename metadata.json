@@ -1,0 +1,6 @@
+{
+  "name": "Gastro Updates 2026",
+  "description": "Latest 2026 medical updates, clinical trials, and practice guidelines in Gastroenterology, Hepatology, and Endoscopy with an interactive AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
