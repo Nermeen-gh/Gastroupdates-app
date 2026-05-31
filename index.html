@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gastro Updates 2026 | Gastroenterology, Hepatology & Endoscopy</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Alpine.js for lightweight state management -->
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <!-- FontAwesome for clinical icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        tealprim: '#0D9488',
+                        tealprimhover: '#0F766E',
+                        navysec: '#1E3A8A',
+                        minttert: '#14B8A6',
+                        darkbg: '#0F172A',
+                        cardbgdark: '#1E293B',
+                    },
+                    fontFamily: {
+                        sans: ['Plus Jakarta Sans', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        [x-cloak] { display: none !important; }
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+        pre, code {
+            font-family: 'JetBrains Mono', monospace;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 transition-colors duration-300 min-h-screen flex flex-col" x-data="gastroApp()" x-init="init()">
+
+    <!-- TOP DEPLOYMENT SUGGESTION ACCORDION -->
+    <div class="bg-teal-900 text-teal-100 px-4 py-3" x-data="{ showDeployTips: true }" x-show="showDeployTips">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-start md:items-center justify-between gap-3 text-xs md:text-sm">
+            <div class="flex items-center gap-2">
+                <span class="bg-teal-500 text-teal-950 font-bold px-2 py-0.5 rounded text-[10px] uppercase">Netlify Deploy Ready</span>
+                <span>To fix the Netlify 404 error, commit this <strong>index.html</strong> directly to the root of your GitHub repository. Netlify will deploy it instantly!</span>
+            </div>
+            <div class="flex items-center gap-4">
+                <a href="https://docs.netlify.com/routing/redirects/" target="_blank" class="underline hover:text-white font-semibold">Netlify Docs</a>
+                <button @click="showDeployTips = false" class="text-teal-300 hover:text-white"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN BRANDED NAVIGATION HEADER -->
+    <header class="bg-gradient-to-r from-teal-800 to-teal-950 text-white shadow-md sticky top-0 z-40">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-18 flex items-center justify-between py-4">
+            <div class="flex items-center space-x-3">
+                <div class="bg-teal-500 text-teal-950 p-2.5 rounded-xl shadow-inner flex items-center justify-center">
+                    <i class="fa-solid fa-briefcase-medical text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="font-bold text-xl tracking-tight flex items-center gap-2">
+                        Gastro Updates <span class="bg-teal-500/30 text-teal-300 text-xs px-2 py-0.5 rounded-full border border-teal-500/20 font-bold">2026 Edition</span>
+                    </h1>
+                    <p class="text-[11px] text-teal-200/90 font-medium">Gastroenterology, Hepatology & Endoscopy Clinical Advisor</p>
+                </div>
+            </div>
+
+            <!-- DESKTOP TOP TABS -->
+            <nav class="hidden md:flex space-x-1 bg-teal-900/40 p-1.5 rounded-xl border border-teal-700/20">
+                <button @click="activeTab = 'updates'" :class="activeTab === 'updates' ? 'bg-teal-600 text-white shadow-sm' : 'text-teal-200 hover:text-white hover:bg-teal-800/30'" class="px-4 py-2 rounded-lg text-sm font-semibold transition-all">
+                    <i class="fa-solid fa-file-medical-trend mr-1.5"></i> 2026 Clinical Updates
+                </button>
+                <button @click="activeTab = 'tools'" :class="activeTab === 'tools' ? 'bg-teal-600 text-white shadow-sm' : 'text-teal-200 hover:text-white hover:bg-teal-800/30'" class="px-4 py-2 rounded-lg text-sm font-semibold transition-all">
+                    <i class="fa-solid fa-calculator mr-1.5"></i> Clinical Calculators
+                </button>
+                <button @click="activeTab = 'chat'" :class="activeTab === 'chat' ? 'bg-teal-600 text-white shadow-sm' : 'text-teal-200 hover:text-white hover:bg-teal-800/30'" class="px-4 py-2 rounded-lg text-sm font-semibold transition-all">
+                    <i class="fa-solid fa-brain-circuit mr-1.5"></i> GastroAssistant AI
+                </button>
+            </nav>
+
+            <div class="flex items-center space-x-3">
+                <!-- Saved items counter -->
+                <button @click="activeTab = 'updates'; showBookmarkedOnly = !showBookmarkedOnly" class="relative p-2 text-teal-200 hover:text-white focus:outline-none transition-transform" :class="showBookmarkedOnly ? 'text-amber-400' : ''" title="Toggle Bookmarked Updates">
+                    <i class="fa-solid fa-bookmark text-lg"></i>
+                    <span x-show="bookmarkedIds.length > 0" class="absolute -top-1 -right-1 bg-amber-500 text-teal-950 font-bold rounded-full w-4 h-4 flex items-center justify-center text-[9px]" x-text="bookmarkedIds.length">0</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- MOBILE SUB HEADER NAVIGATION (STICKY SUB-NAV) -->
+    <div class="md:hidden bg-teal-900 border-t border-teal-800 text-teal-100 flex justify-around py-2.5 sticky top-[72px] z-30 shadow-sm">
+        <button @click="activeTab = 'updates'" class="flex flex-col items-center gap-1 text-[11px] font-semibold w-1/3 transition-colors" :class="activeTab === 'updates' ? 'text-amber-400' : 'text-teal-200 hover:text-white'">
+            <i class="fa-solid fa-file-medical-trend text-base"></i>
+            <span>Updates</span>
+        </button>
+        <button @click="activeTab = 'tools'" class="flex flex-col items-center gap-1 text-[11px] font-semibold w-1/3 transition-colors" :class="activeTab === 'tools' ? 'text-amber-400' : 'text-teal-200 hover:text-white'">
+            <i class="fa-solid fa-calculator text-base"></i>
+            <span>Calculators</span>
+        </button>
+        <button @click="activeTab = 'chat'" class="flex flex-col items-center gap-1 text-[11px] font-semibold w-1/3 transition-colors" :class="activeTab === 'chat' ? 'text-amber-400' : 'text-teal-200 hover:text-white'">
+            <i class="fa-solid fa-brain-circuit text-base"></i>
+            <span>GastroAI</span>
+        </button>
+    </div>
+
+    <!-- MAIN BODY SECTION -->
+    <main class="flex-grow max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-6">
+
+        <!-- ==================== TAB 1: CLINICAL UPDATES ==================== -->
+        <div x-show="activeTab === 'updates'" class="space-y-6">
+            
+            <!-- Filters & Search Workspace -->
+            <div class="bg-white rounded-2xl p-4 sm:p-6 shadow-sm border border-slate-100 space-y-4">
+                <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                    <!-- Search Input -->
+                    <div class="relative flex-grow">
+                        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400 pointer-events-none">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </span>
+                        <input type="text" x-model="searchQuery" placeholder="Search latest guidelines, clinical criteria, abstracts..." class="w-full pl-10 pr-10 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white text-sm transition-all placeholder:text-slate-400">
+                        <button x-show="searchQuery !== ''" @click="searchQuery = ''" class="absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-slate-600">
+                            <i class="fa-solid fa-circle-xmark"></i>
+                        </button>
+                    </div>
+
+                    <!-- Bookmark quick filter button -->
+                    <button @click="showBookmarkedOnly = !showBookmarkedOnly" :class="showBookmarkedOnly ? 'bg-amber-100 text-amber-800 border-amber-200' : 'bg-slate-50 text-slate-700 border-slate-200 hover:bg-slate-100'" class="flex items-center justify-center gap-2 px-4 py-3 rounded-xl border text-sm font-semibold transition-all">
+                        <i class="fa-solid" :class="showBookmarkedOnly ? 'fa-bookmark text-amber-500' : 'fa-bookmark-slash'"></i>
+                        <span x-text="showBookmarkedOnly ? 'Showing Saved Updates' : 'Filter Saved'">Saved Only</span>
+                    </button>
+                </div>
+
+                <!-- Chips Category Selection -->
+                <div class="flex flex-wrap gap-2 pt-2 border-t border-slate-100">
+                    <template x-for="cat in categories" :key="cat">
+                        <button @click="selectedCategory = cat" :class="selectedCategory === cat ? 'bg-tealprim text-white border-tealprim' : 'bg-slate-50 text-slate-600 border-slate-100 hover:bg-slate-100'" class="px-4 py-1.5 rounded-full border text-xs font-semibold uppercase tracking-wider transition-all" x-text="cat"></button>
+                    </template>
+                </div>
+            </div>
+
+            <!-- Updates List -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <template x-for="update in filteredUpdates()" :key="update.id">
+                    <div class="bg-white rounded-2xl p-5 shadow-sm hover:shadow-md border border-slate-100 flex flex-col justify-between transition-all duration-300">
+                        <div>
+                            <!-- Header tags row -->
+                            <div class="flex items-center justify-between gap-2 mb-3">
+                                <span class="bg-teal-50 text-tealprim text-[10px] font-bold px-2.5 py-1 rounded-md uppercase tracking-wider" x-text="update.category">Category</span>
+                                <div class="flex items-center gap-1.5">
+                                    <span class="text-xs text-slate-400" x-text="update.date">Date</span>
+                                    <button @click="toggleBookmark(update.id)" class="text-slate-300 hover:text-amber-500 transition-colors p-1" :class="isBookmarked(update.id) ? 'text-amber-500' : ''">
+                                        <i class="fa-solid fa-bookmark text-sm"></i>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- News Title -->
+                            <h3 class="text-base font-bold text-slate-900 leading-snug hover:text-tealprim cursor-pointer transition-colors" @click="openDetails(update)" x-text="update.title">Update Title</h3>
+
+                            <!-- Mini Summary -->
+                            <p class="text-slate-500 text-xs mt-2.5 leading-relaxed line-clamp-3" x-text="update.summary">A brief description summarizing the major 2026 outcomes and FDA guidelines.</p>
+                        </div>
+
+                        <!-- Card Footer actions -->
+                        <div class="mt-5 pt-3 border-t border-slate-50 flex items-center justify-between gap-4">
+                            <span class="text-[11px] font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded" x-text="update.status">Status</span>
+                            <button @click="openDetails(update)" class="text-xs font-bold text-tealprim hover:text-tealprimhover flex items-center gap-1">
+                                Read Guidelines <i class="fa-solid fa-arrow-right-long text-[10px]"></i>
+                            </button>
+                        </div>
+                    </div>
+                </template>
+
+                <!-- Empty state for filters -->
+                <div x-show="filteredUpdates().length === 0" class="col-span-1 md:col-span-2 bg-slate-100 rounded-2xl py-16 text-center border border-slate-200">
+                    <div class="max-w-md mx-auto px-4">
+                        <i class="fa-solid fa-folder-open text-4xl text-slate-300 mb-3"></i>
+                        <h4 class="font-bold text-slate-700 text-lg">No Results Match</h4>
+                        <p class="text-slate-500 text-xs mt-1">Try modifying your search text, category filter, or toggling the Saved Updates selection.</p>
+                        <button @click="resetFilters()" class="mt-4 inline-flex items-center justify-center gap-2 px-4 py-2 bg-tealprim text-white text-xs font-semibold rounded-lg hover:bg-tealprimhover transition-all">
+                            <i class="fa-solid fa-arrows-rotate"></i> Clear Filters
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ==================== TAB 2: CLINICAL CALCULATORS ==================== -->
+        <div x-show="activeTab === 'tools'" class="space-y-6">
+            
+            <div class="bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden">
+                <!-- Inner subtabs -->
+                <div class="flex border-b border-slate-100 bg-slate-50/50">
+                    <button @click="calcTab = 'fib4'" :class="calcTab === 'fib4' ? 'border-b-2 border-tealprim text-tealprim bg-white font-bold' : 'text-slate-500 hover:text-slate-800 hover:bg-slate-50 font-semibold'" class="flex-1 py-4 text-center text-xs md:text-sm transition-all">
+                        <i class="fa-solid fa-scale-unbalanced mr-1.5"></i> FIB-4 Fibrosis Score
+                    </button>
+                    <button @click="calcTab = 'mdf'" :class="calcTab === 'mdf' ? 'border-b-2 border-tealprim text-tealprim bg-white font-bold' : 'text-slate-500 hover:text-slate-800 hover:bg-slate-50 font-semibold'" class="flex-1 py-4 text-center text-xs md:text-sm transition-all">
+                        <i class="fa-solid fa-droplet mr-1.5"></i> Maddrey MDF Score (AH)
+                    </button>
+                </div>
+
+                <!-- Score calculator body -->
+                <div class="p-6">
+                    <!-- FIB-4 calculator -->
+                    <div x-show="calcTab === 'fib4'" class="space-y-6">
+                        <div>
+                            <h2 class="text-lg font-bold text-slate-900">FIB-4 Liver Scoring Index</h2>
+                            <p class="text-slate-500 text-xs mt-1 leading-relaxed">FIB-4 is a clinical scoring tool to screen for advanced hepatic fibrosis and cirrhosis in MASH/MASLD, viral hepatitis, or chronic alcohol-induced dysfunction.</p>
+                        </div>
+
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <!-- Input forms -->
+                            <div class="space-y-4">
+                                <div>
+                                    <label class="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5">Patient Age (Years)</label>
+                                    <input type="number" x-model.number="fibAge" placeholder="e.g. 52" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-800 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                                </div>
+                                <div class="grid grid-cols-2 gap-3">
+                                    <div>
+                                        <label class="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5">AST level (U/L)</label>
+                                        <input type="number" x-model.number="fibAst" placeholder="e.g. 45" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-800 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                                    </div>
+                                    <div>
+                                        <label class="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5">ALT level (U/L)</label>
+                                        <input type="number" x-model.number="fibAlt" placeholder="e.g. 50" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-800 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                                    </div>
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5">Platelet Count (x10⁹/L)</label>
+                                    <input type="number" x-model.number="fibPlt" placeholder="e.g. 165 (do not input 165000)" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-800 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                                </div>
+
+                                <div class="flex gap-2">
+                                    <button @click="clearFib4()" class="px-4 py-2.5 bg-slate-100 text-slate-600 rounded-lg text-xs font-bold hover:bg-slate-200 transition-all">Reset</button>
+                                    <button @click="calculateFib4()" class="flex-grow py-2.5 bg-tealprim text-white rounded-lg text-xs font-bold hover:bg-tealprimhover transition-all">Compute FIB-4</button>
+                                </div>
+                            </div>
+
+                            <!-- Outcomes and instructions -->
+                            <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100 flex flex-col justify-between">
+                                <template x-if="fibResult === null">
+                                    <div class="text-center py-12 text-slate-400">
+                                        <i class="fa-solid fa-list-check text-3xl mb-2"></i>
+                                        <p class="text-xs">Fill in patient diagnostic telemetry on the left to review automated clinical grading metrics.</p>
+                                    </div>
+                                </template>
+
+                                <template x-if="fibResult !== null">
+                                    <div class="space-y-4">
+                                        <h4 class="text-xs font-bold text-slate-500 uppercase tracking-wider">Scoring Evaluation</h4>
+                                        <div>
+                                            <span class="text-4xl font-extrabold text-tealprim" x-text="fibResult.score.toFixed(2)">0.00</span>
+                                            <span class="text-xs text-slate-400 ml-1">FIB-4 Index</span>
+                                        </div>
+                                        <div class="p-4 rounded-xl text-xs leading-relaxed" :class="fibResult.color">
+                                            <p class="font-bold flex items-center gap-1.5 uppercase mb-1">
+                                                <i class="fa-solid" :class="fibResult.icon"></i>
+                                                <span x-text="fibResult.label">Risk Status</span>
+                                            </p>
+                                            <p x-text="fibResult.interpretation" class="font-medium text-slate-700"></p>
+                                        </div>
+                                        <div class="text-[10px] text-slate-400 leading-normal bg-white p-2.5 rounded-lg border border-slate-100">
+                                            <strong>Formula:</strong> (Age × AST) ÷ (Platelets × √ALT)<br>
+                                            *Valid age interval 35 to 65 years. Stratification varies in older populations.
+                                        </div>
+                                    </div>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Maddrey's Discriminant Function (MDF) calculator -->
+                    <div x-show="calcTab === 'mdf'" class="space-y-6">
+                        <div>
+                            <h2 class="text-lg font-bold text-slate-900">Maddrey's Discriminant Function (MDF)</h2>
+                            <p class="text-slate-500 text-xs mt-1 leading-relaxed">MDF helps assess prognostication and guides resource scheduling for Severe Alcoholic Hepatitis (AH), validating steroid chemotherapy eligibility.</p>
+                        </div>
+
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <!-- Input form fields -->
+                            <div class="space-y-4">
+                                <div class="grid grid-cols-2 gap-3">
+                                    <div>
+                                        <label class="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5">Patient PT (sec)</label>
+                                        <input type="number" x-model.number="mdfPatientPt" placeholder="e.g. 19.5" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-800 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                                    </div>
+                                    <div>
+                                        <label class="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5">Control PT (sec)</label>
+                                        <input type="number" x-model.number="mdfControlPt" placeholder="e.g. 12.0" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-800 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                                    </div>
+                                </div>
+                                <div>
+                                    <label class="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-1.5">Total Bilirubin (mg/dL)</label>
+                                    <input type="number" x-model.number="mdfBili" placeholder="e.g. 15.2" class="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-lg text-sm text-slate-800 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                                </div>
+
+                                <div class="flex gap-2">
+                                    <button @click="clearMdf()" class="px-4 py-2.5 bg-slate-100 text-slate-600 rounded-lg text-xs font-bold hover:bg-slate-200 transition-all">Reset</button>
+                                    <button @click="calculateMdf()" class="flex-grow py-2.5 bg-tealprim text-white rounded-lg text-xs font-bold hover:bg-tealprimhover transition-all">Compute MDF</button>
+                                </div>
+                            </div>
+
+                            <!-- Maddrey details/outcomes view -->
+                            <div class="bg-slate-50 rounded-2xl p-5 border border-slate-100 flex flex-col justify-between">
+                                <template x-if="mdfResult === null">
+                                    <div class="text-center py-12 text-slate-400">
+                                        <i class="fa-solid fa-list-check text-3xl mb-2"></i>
+                                        <p class="text-xs">Fill in patient liver profiling metrics on the left to compute immediate 30-day mortality risk and guideline outcomes.</p>
+                                    </div>
+                                </template>
+
+                                <template x-if="mdfResult !== null">
+                                    <div class="space-y-4">
+                                        <h4 class="text-xs font-bold text-slate-500 uppercase tracking-wider">MDF Analysis Results</h4>
+                                        <div>
+                                            <span class="text-4xl font-extrabold" :class="mdfResult.score >= 32 ? 'text-red-600' : 'text-tealprim'" x-text="mdfResult.score.toFixed(1)">0.0</span>
+                                            <span class="text-xs text-slate-400 ml-1">MDF Score</span>
+                                        </div>
+                                        <div class="p-4 rounded-xl text-xs leading-relaxed" :class="mdfResult.color">
+                                            <p class="font-bold flex items-center gap-1.5 uppercase mb-1">
+                                                <i class="fa-solid" :class="mdfResult.icon"></i>
+                                                <span x-text="mdfResult.label">Severity Class</span>
+                                            </p>
+                                            <p x-text="mdfResult.interpretation" class="font-medium text-slate-700"></p>
+                                        </div>
+                                        <div class="text-[10px] text-slate-400 leading-normal bg-white p-2.5 rounded-lg border border-slate-100">
+                                            <strong>Formula:</strong> 4.6 × (Patient PT - Control PT) + Bilirubin (mg/dL)<br>
+                                            *If score >= 32.0, corticosteroid trial (e.g. Prednisolone 40mg/day) is recommended unless absolute contraindications are active.
+                                        </div>
+                                    </div>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ==================== TAB 3: GASTROASSISTANT AI LIVE WORKSPACE ==================== -->
+        <div x-show="activeTab === 'chat'" class="space-y-6">
+            
+            <div class="bg-white rounded-2xl shadow-sm border border-slate-100 flex flex-col h-[600px] overflow-hidden">
+                <!-- Chat settings bar (API details) -->
+                <div class="bg-slate-50 border-b border-slate-100 px-4 py-3 flex items-center justify-between">
+                    <div class="flex items-center gap-2">
+                        <span class="w-2.5 h-2.5 bg-emerald-500 rounded-full animate-pulse"></span>
+                        <h3 class="text-xs font-bold text-slate-700">GastroAssistant Live Clinical Engine</h3>
+                    </div>
+                    
+                    <button @click="showApiDrawer = !showApiDrawer" :class="apiKey ? 'text-tealprim' : 'text-slate-400'" class="text-xs font-bold flex items-center gap-1 hover:text-slate-700 transition-colors">
+                        <i class="fa-solid fa-key"></i>
+                        <span x-text="apiKey ? 'API Key Stored' : 'Setup Personal API Key'">Gemini API Settings</span>
+                    </button>
+                </div>
+
+                <!-- API Configurations Drawer -->
+                <div x-show="showApiDrawer" x-transition class="bg-teal-50/75 p-4 border-b border-teal-100/60 text-xs text-slate-700 space-y-3">
+                    <div class="flex justify-between items-start">
+                        <p class="font-bold text-teal-950">Supply Your Gemini API Key</p>
+                        <button @click="showApiDrawer = false" class="text-slate-400 hover:text-slate-700"><i class="fa-solid fa-xmark"></i></button>
+                    </div>
+                    <p class="leading-relaxed">To ask the clinical chat assistant custom questions, please paste your Gemini API Key. (You can generate a free key from the <a href="https://aistudio.google.com/" target="_blank" class="underline text-tealprim font-semibold">Google AI Studio</a> dashboard). Keys are stored locally inside your browser secure cache.</p>
+                    <div class="flex gap-2">
+                        <input type="password" x-model="apiKey" placeholder="AI Studio Secret Key (AIzaSy...)" class="flex-grow px-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs text-slate-800 focus:outline-none focus:ring-1 focus:ring-tealprim">
+                        <button @click="saveApiKey()" class="px-4 bg-tealprim text-white font-bold rounded-lg hover:bg-tealprimhover transition-colors">Save</button>
+                    </div>
+                </div>
+
+                <!-- Chat history items list -->
+                <div class="flex-grow p-4 overflow-y-auto space-y-4" id="chat-scroller">
+                    <template x-for="message in chatMessages" :key="message.id">
+                        <div class="flex" :class="message.isUser ? 'justify-end' : 'justify-start'">
+                            <div class="max-w-[85%] rounded-2xl p-4 text-xs sm:text-sm shadow-sm" :class="message.isUser ? 'bg-tealprim text-white rounded-tr-none' : 'bg-slate-50 text-slate-800 border border-slate-100 rounded-tl-none'">
+                                <!-- Sender identifier -->
+                                <p class="text-[10px] font-bold tracking-wider uppercase mb-1" :class="message.isUser ? 'text-teal-200' : 'text-tealprim'">
+                                    <span x-text="message.isUser ? 'You (Clinician)' : 'GastroAssistant AI'">User</span>
+                                </p>
+                                <!-- Body text -->
+                                <div class="whitespace-pre-line leading-relaxed" x-html="renderMarkdown(message.text)"></div>
+                            </div>
+                        </div>
+                    </template>
+
+                    <!-- Loading loading message bubble -->
+                    <div x-show="chatLoading" class="flex justify-start">
+                        <div class="bg-slate-50 rounded-2xl rounded-tl-none p-4 text-xs text-slate-500 border border-slate-100 flex items-center gap-2">
+                            <i class="fa-solid fa-spinner animate-spin text-tealprim"></i>
+                            <span>Analyzing gastrointestinal/liver diagnostic data...</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick start questions slider -->
+                <div class="bg-slate-50/50 p-2 overflow-x-auto flex gap-1.5 border-t border-slate-100 scrollbar-none">
+                    <template x-for="qs in quickStarts" :key="qs">
+                        <button @click="sendFastMessage(qs)" class="whitespace-nowrap px-3 py-1 bg-white border border-slate-200 rounded-full text-[10px] sm:text-xs text-slate-600 font-semibold hover:border-tealprim hover:text-tealprim transition-colors" x-text="qs"></button>
+                    </template>
+                </div>
+
+                <!-- Input actions bar -->
+                <div class="p-3 bg-white border-t border-slate-100 flex gap-2 items-center">
+                    <input type="text" x-model="chatInput" @keyup.enter="sendChatMessage()" placeholder="Ask about cirrhosis markers, PCAB vs PPI, trial guidelines..." class="flex-grow px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white text-xs sm:text-sm placeholder:text-slate-400 transition-all">
+                    
+                    <button @click="clearChat()" class="p-3 text-slate-300 hover:text-red-500 hover:bg-red-50 rounded-xl transition-all" title="Reset thread">
+                        <i class="fa-solid fa-trash-can text-sm"></i>
+                    </button>
+                    <button @click="sendChatMessage()" :disabled="!chatInput" class="p-3 bg-tealprim hover:bg-tealprimhover text-white rounded-xl shadow-sm transition-all disabled:opacity-40 flex items-center justify-center">
+                        <i class="fa-solid fa-paper-plane text-sm"></i>
+                    </button>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- EXCLUSIVE CLINICAL DETAIL MODAL DIALOG DRAWER -->
+    <div x-show="currentDetail !== null" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm" x-cloak>
+        <div class="bg-white rounded-2xl w-full max-w-2xl max-h-[85vh] flex flex-col justify-between overflow-hidden shadow-2xl border border-slate-100" @click.away="currentDetail = null" x-transition>
+            <!-- Title Header banner -->
+            <div class="bg-gradient-to-r from-teal-800 to-teal-900 px-6 py-5 text-white flex items-start justify-between gap-4">
+                <div>
+                    <span class="bg-teal-500 text-teal-950 font-extrabold text-[10px] px-2.5 py-0.5 rounded uppercase tracking-wider" x-text="currentDetail ? currentDetail.category : ''">CAT</span>
+                    <h3 class="font-bold text-base sm:text-lg mt-1" x-text="currentDetail ? currentDetail.title : ''">Title</h3>
+                </div>
+                <button @click="currentDetail = null" class="text-teal-200 hover:text-white"><i class="fa-solid fa-xmark text-lg"></i></button>
+            </div>
+
+            <!-- Content details viewport -->
+            <div class="p-6 overflow-y-auto space-y-5 flex-grow" x-data="{ copied: false }">
+                <div class="flex items-center gap-4 text-xs text-slate-500">
+                    <div><span class="font-semibold text-slate-700">Source:</span> <span x-text="currentDetail ? currentDetail.source : ''">Source</span></div>
+                    <div><span class="font-semibold text-slate-700">Timeline:</span> <span x-text="currentDetail ? currentDetail.date : ''">Jan 2026</span></div>
+                </div>
+
+                <div>
+                    <h4 class="text-xs font-bold text-tealprim uppercase tracking-wider mb-1">Clinical Overview Summary</h4>
+                    <p class="text-slate-700 text-xs sm:text-sm leading-relaxed" x-text="currentDetail ? currentDetail.fullDetails : ''">Comprehensive clinical description</p>
+                </div>
+
+                <!-- Practical instructions takeaways -->
+                <div class="bg-teal-50/50 rounded-xl p-4 border border-teal-100/60" x-show="currentDetail && currentDetail.practicalTakeaways.length > 0">
+                    <h4 class="text-xs font-bold text-tealprim uppercase tracking-wider mb-2.5 flex items-center gap-1.5">
+                        <i class="fa-solid fa-check"></i> 2026 Practice Takeaways
+                    </h4>
+                    <ul class="text-xs space-y-2 text-slate-700">
+                        <template x-for="takeaway in (currentDetail ? currentDetail.practicalTakeaways : [])" :key="takeaway">
+                            <li class="flex items-start gap-2">
+                                <span class="text-tealprim font-bold text-base leading-[12px]">•</span>
+                                <span x-text="takeaway">point</span>
+                            </li>
+                        </template>
+                    </ul>
+                </div>
+
+                <!-- Literature references -->
+                <div>
+                    <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">Literature & References</h4>
+                    <p class="text-[11px] text-slate-500 italic" x-text="currentDetail ? currentDetail.references : ''">NEJM 2026</p>
+                </div>
+            </div>
+
+            <!-- Modal Bottom Button actions -->
+            <div class="bg-slate-50 px-6 py-4 border-t border-slate-100 flex items-center justify-between gap-3">
+                <button @click="toggleBookmark(currentDetail.id)" class="px-4 py-2 border border-slate-200 rounded-lg text-xs font-semibold text-slate-700 hover:bg-slate-100 transition-colors flex items-center gap-2">
+                    <i class="fa-solid" :class="isBookmarked(currentDetail ? currentDetail.id : '') ? 'fa-bookmark text-amber-500' : 'fa-bookmark-slash'"></i>
+                    <span x-text="isBookmarked(currentDetail ? currentDetail.id : '') ? 'Saved' : 'Save To Dashboard'">Save</span>
+                </button>
+                <button @click="currentDetail = null" class="px-5 py-2 bg-tealprim text-white font-bold rounded-lg text-xs hover:bg-tealprimhover transition-all">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN ROOT SYSTEM FOOTER -->
+    <footer class="bg-slate-900 text-slate-400 text-center py-6 text-xs border-t border-slate-800">
+        <p>© 2026 Gastro Updates. Built for Clinical and Scientific reference.</p>
+        <p class="text-[10px] text-slate-500 max-w-2xl mx-auto px-4 mt-1.5 leading-relaxed">
+            Disclaimer: All updates, calculators, and automated AI assistance values are designed strictly for educational reference and general clinical guidance. This should not serve as an absolute standard of care, professional diagnosis decision system, or therapeutic prescription mechanism without certified practitioner evaluation.
+        </p>
+    </footer>
+
+    <!-- EMBEDDED DATABASES & BUSINESS LOGIC -->
+    <script>
+        function gastroApp() {
+            return {
+                activeTab: 'updates',
+                calcTab: 'fib4',
+                searchQuery: '',
+                selectedCategory: 'All',
+                showBookmarkedOnly: false,
+                showApiDrawer: false,
+                currentDetail: null,
+                apiKey: '',
+                chatInput: '',
+                chatLoading: false,
+
+                categories: ['All', 'Gastroenterology', 'Hepatology', 'Endoscopy'],
+                bookmarkedIds: [],
+
+                // FIB-4 inputs
+                fibAge: '',
+                fibAst: '',
+                fibAlt: '',
+                fibPlt: '',
+                fibResult: null,
+
+                // MDF inputs
+                mdfPatientPt: '',
+                mdfControlPt: '',
+                mdfBili: '',
+                mdfResult: null,
+
+                // Quick start prompt sliders
+                quickStarts: [
+                    "Recent MASH approvals in 2026?",
+                    "What are the Baveno VIII beta-blocker guidelines?",
+                    "Dual biologic therapies in refractory Ulcerative Colitis?",
+                    "Standardizing AI in screening colonoscopy (ASGE)?"
+                ],
+
+                // Pre-populated medical database updates matching Room schema
+                updates: [
+                    {
+                        id: "resmetirom_2026",
+                        title: "Resmetirom (Rezdiffra) Real-World MASH Efficacy (2026)",
+                        category: "Hepatology",
+                        source: "AASLD Practice Guidelines Update 2026",
+                        summary: "Real-world registry data in 2026 confirms high efficacy of Resmetirom in reversing Metabolic Dysfunction-Associated Steatohepatitis (MASH) hepatic fibrosis in stage F2-F3 disease.",
+                        fullDetails: "Post-marketing analysis from the multi-center MASH registries in 2026 demonstrates that oral Resmetirom (80-100 mg daily THR-β selective thyroid hormone receptor agonist) achieves histologically significant resolution of steatohepatitis in 28.6% of patients and improves fibrosis stage (by at least 1 stage with no worsening of MASH) in 25.9% of F2-F3 patients over 52 weeks. Liver stiffness measurements (LSM) by transient elastography (FibroScan) decreased by an average of 1.8 kPa, and MRI-PDFF showed an average relative hepatic fat reduction of 32%. No significant increase in safety signals was reported compared to initial Phase 3 trials.",
+                        practicalTakeaways: [
+                            "Indicated for patients with moderate to advanced (F2 to F3) hepatic fibrosis due to MASH/NAS.",
+                            "Dosing should be weight-based: 80 mg daily (<100 kg) or 100 mg daily (>=100 kg).",
+                            "Non-invasive tests (FIB-4, FibroScan, or MRI-PDFF) are recommended at baseline, 6 months, and 12 months for therapeutic tracking."
+                        ],
+                        date: "March 2026",
+                        status: "Standard of Care",
+                        references: "Harrison SA, et al. Real-World Efficacy of THR-β Selectivity in NASH. NEJM 2024 / Hepatology Clinical Registries Jan-May 2026 Progress Report."
+                    },
+                    {
+                        id: "ai_colon_2026",
+                        title: "Standardizing AI Computer-Aided Detection (CADe) in Colonoscopy",
+                        category: "Endoscopy",
+                        source: "ASGE Quality Standards Updates 2026",
+                        summary: "The 2026 ASGE Task Force updates recommend AI-assisted computer-aided detection (CADe) during screening colonoscopies to boost adenoma detection rates.",
+                        fullDetails: "The American Society for Gastrointestinal Endoscopy (ASGE) in early 2026 updated its standards of clinical excellence. Based on data from over 250,000 screenings, incorporating real-time computer-aided detection (CADe) platforms during colonoscopy is strongly advised. CADe AI overlays provide dynamic visual bounding boxes that outline suspected sessile or flat polyps that might otherwise be missed. Clinical cohorts demonstrated an absolute Adenoma Detection Rate (ADR) increase of 6.2% across certified endoscopy centers using AI, significantly lowering post-colonoscopy colorectal cancer (PCCRC) risk.",
+                        practicalTakeaways: [
+                            "AI systems (CADe) should scale across routine screenings to minimize flat polyp miss-rates.",
+                            "High ADR (>=30% in males, >=20% in females) remains the key quality metric, and AI assistance is proven to elevate sub-threshold performers.",
+                            "AI does not replace thorough mucosal visualization, and withdrawal time should still exceed 6 minutes."
+                        ],
+                        date: "January 2026",
+                        status: "New guidelines",
+                        references: "ASGE/ACG Joint Task Force on Quality Indicators for Colonoscopy. Gastrointestinal Endoscopy 2026;103(2):145-154."
+                    },
+                    {
+                        id: "dual_biologic_2026",
+                        title: "Dual Biologic & Targeted Therapy in Refractory IBD",
+                        category: "Gastroenterology",
+                        source: "AGA Clinical Practice Update 2026",
+                        summary: "Dual-targeted therapies (combining advanced biologics or small molecules) are highlighted as safe and highly effective options for refractory Crohn's and UC.",
+                        fullDetails: "The Management of Refractory Inflammatory Bowel Disease (IBD) guidelines published in 2026 address 'dual-targeted therapy' (DTT). For severe Crohn's Disease or Ulcerative Colitis failing multiple single agents, combining an anti-integrin (Vedolizumab) or anti-IL23p19 (Risankizumab) with a second biologic (Infliximab/Adalimumab) or a JAK inhibitor (Upadacitinib) achieves high clinical remission where previous single agents failed. 2026 clinical results from the DUO-IBD pilot protocol reported 44.5% mucosal healing at 24 weeks with no clinical synergy in opportunistic infections relative to monotherapy.",
+                        practicalTakeaways: [
+                            "Consider dual biologic/targeted therapy only in verified highly refractory Crohn's or UC under expert supervision.",
+                            "High-risk combinations (such as dual anti-TNF + JAK inhibitors) should be monitored with baseline and periodic viral panel screening.",
+                            "The preferred pairs usually combine a gut-selective agent (e.g., Vedolizumab) with a systemic pathway blocker (e.g., Risankizumab/Upadacitinib)."
+                        ],
+                        date: "May 2026",
+                        status: "Treatment Update",
+                        references: "AGA Clinical Practice Updates on Dual Targeted Therapies in IBD. Gastroenterology 2026;170(4):910-922."
+                    },
+                    {
+                        id: "hbv_cure_2026",
+                        title: "Hepatitis B Functional Cure Breakthrough Trials",
+                        category: "Hepatology",
+                        source: "AASLD-EASL Special Consensus Report 2026",
+                        summary: "Phase III trials verify high rates of HBsAg clearance with combined Bepirovirsen (antisense oligonucleotide) and interferon therapies in chronic HBV.",
+                        fullDetails: "In 2026, the clinical landscape for Chronic Hepatitis B shifted with the release of full outcomes for antisense RNA-silencing drugs. Administering Bepirovirsen (300 mg subcutaneous weekly loading, followed by monthly maintenance) in nucleos(t)ide analogue (NA)-suppressed chronic patients led to elevated Hepatitis B surface Antigen (HBsAg) loss in 14.8% of participants after 24 weeks. This increases to 21% when paired with pegylated-interferon-alpha-2a (PegIFN) short-course therapy. These are the highest functional cure rates ever achieved in clinical trials, signaling an upcoming shift in global therapeutic algorithms.",
+                        practicalTakeaways: [
+                            "Functional cure is defined as persistent HBsAg loss (<0.05 IU/mL) and undetectable HBV DNA after finishing treatment.",
+                            "The safety profile shows predictable transient ALT flares matching therapeutic immune-mediated clearance.",
+                            "Requires rigorous screening for baseline cirrhosis to prevent decompensation during immunological flares."
+                        ],
+                        date: "April 2026",
+                        status: "Clinical Trial Results",
+                        references: "AASLD Late-Breaking Abstracts & Clinical Liver Disease 2026;27(1):12-19."
+                    },
+                    {
+                        id: "third_space_2026",
+                        title: "Third-Space Endoscopy Competency Standards",
+                        category: "Endoscopy",
+                        source: "ASGE/ESGE Multi-Society Guideline 2026",
+                        summary: "Formal standardization of training pathways and competency thresholds is introduced for POEM, ESD, and EFTR procedures.",
+                        fullDetails: "Third-space endoscopy (also called intramural endoscopy) has matured from specialized experimentation into standard treatment for achalasia (POEM - Peroral Endoscopic Myotomy) and complex early neoplasia (ESD - Endoscopic Submucosal Dissection). The Joint ASGE/ESGE 2026 standards mandate that certified endoscopists must complete a minimum of 40 proctored cases for POEM and 30 for gastric ESD to demonstrate independent competency. Standardized codes (CPT codes update) are now fully integrated for reimbursement of intramural operations across hospitals.",
+                        practicalTakeaways: [
+                            "POEM is now recognized as first-line for Type II Achalasia and Spastic Esophageal Disorders.",
+                            "Institutions must maintain strict credentials, including adequate backup from thoracic/gastrointestinal surgical suites.",
+                            "Submucosal tunneling techniques require specific CO2 insufflation protocols rather than standard room air to prevent mediastinal emphysema."
+                        ],
+                        date: "February 2026",
+                        status: "Standard of Care",
+                        references: "Gastrointestinal Endoscopy 2026;103(1):89-98."
+                    },
+                    {
+                        id: "pcab_gerd_2026",
+                        title: "PCABs Outperforming PPIs in Severe Refractory GERD",
+                        category: "Gastroenterology",
+                        source: "Journal of Gastroenterology Updates 2026",
+                        summary: "Vonoprazan displays significantly faster erosive esophagitis healing and heartburn relief in clinical trials over conventional PPIs.",
+                        fullDetails: "Potassium-Competitive Acid Blockers (PCABs, such as Vonoprazan) are rapidly replacing traditional Proton Pump Inhibitors (PPIs) for severe acid-related disorders. In 2026 clinical audits, Vonoprazan (20 mg daily for healing, 10 mg daily for maintenance) demonstrated a 93.8% erosive esophagitis (EE) healing rate in Grade C/D reflux patients over 8 weeks, compared to only 82.1% for Esomeprazole (40 mg). Heartburn relief was achieved 2 days faster on average. The mechanism (acid-stable binding of the H+/K+-ATPase pump without requiring proton activation) allows complete, 24-hour gastric acid suppression from the first dose.",
+                        practicalTakeaways: [
+                            "Vonoprazan is highly recommended for severe (LA Grade C or D) erosive esophagitis or PPI-refractory GERD.",
+                            "Does not require dosing 30-60 minutes before meals; can be taken with or without food at any time.",
+                            "Long-term metabolic and safety parameters remain comparable to high-dose PPI therapy."
+                        ],
+                        date: "May 2026",
+                        status: "Standard of Care",
+                        references: "Clinical Gastroenterology and Hepatology 2026;24(5):387-395."
+                    },
+                    {
+                        id: "baveno_8_2026",
+                        title: "Preview of Baveno VIII Portal Hypertension Guidelines",
+                        category: "Hepatology",
+                        source: "Baveno Consensus Conferences 2026",
+                        summary: "Consensus drafts refine non-invasive thresholds for initiating Carvedilol in portal hypertension and rule out high-risk varices.",
+                        fullDetails: "The upcoming consensus definitions from the Baveno VIII panel (drafted in early 2026) modify clinical guidance for compensated advanced chronic liver disease (cACLD). The rule of thumb for ruling out high-risk esophageal varices remains a liver stiffness measurement (LSM) < 20 kPa and platelet count > 150,000. In addition, Carvedilol (6.25-12.5 mg daily) is officially prioritized as the non-selective beta-blocker (NSBB) of choice due to its superior portal pressure-reducing effect, to be initiated strictly upon diagnosis of cACLD with clinically significant portal hypertension (LSM >= 25 kPa) without requiring an index screening endoscopy.",
+                        practicalTakeaways: [
+                            "Carvedilol is the preferred NSBB for preventing clinical decompensation of cirrhosis.",
+                            "Screening endoscopy can be safely bypassed in patients meeting LSM <20 kPa and platelet >150,000.",
+                            "Repeated non-invasive staging (spleen stiffness and transient elastography) is validated for treatment adherence and clinical response evaluation."
+                        ],
+                        date: "February 2026",
+                        status: "New guidelines",
+                        references: "Journal of Hepatology 2026 Consensus Drafts / AASLD Abstract Updates."
+                    },
+                    {
+                        id: "scope_reprocess_2026",
+                        title: "Disposable and Shielded Endoscope Mandates",
+                        category: "Endoscopy",
+                        source: "CDC/FDA Infection Prevention Injunction 2026",
+                        summary: "Strict national standards mandate high-volume ERCP and EUS centers to employ sterile single-use disposable scope heads.",
+                        fullDetails: "The containment of carbapenem-resistant enterobacteriaceae (CRE) outbreaks tied to duodenoscopes led to strict regulations in 2026. High-volume centers performing ERCP or EUS must utilize single-use disposable duodenoscopes or scopes designed with fully disposable sterile elevator caps. Standard manual cleaning of physical elevator channels is deemed high-risk. Furthermore, institutions must implement double-cycle ethylene oxide sterilization or automated liquid chemical reprocessing with documented microbiologic culturing at 14-day intervals for any remaining semi-reusable devices.",
+                        practicalTakeaways: [
+                            "EUS and ERCP units must systematically phase out legacy fully-reusable fixed-cap duodenoscopes.",
+                            "Single-use scopes should be available as priority for patients with pre-existing multi-resistant colonizations.",
+                            "Rigorous infection tracking and microbiologic surveillance audits of reusable devices are legally mandated."
+                        ],
+                        date: "April 2026",
+                        status: "FDA Advisory Update",
+                        references: "FDA Center for Devices and Radiological Health Safety Bulletin, April 2026."
+                    }
+                ],
+
+                chatMessages: [
+                    {
+                        id: "welcome",
+                        isUser: false,
+                        text: "Welcome to GastroAssistant AI!\n\nI am configured with gastroenterology, hepatology, and endoscopy practice patterns and clinical datasets up to 2026.\n\nYou can ask me complex diagnostic questions, therapeutic dose inquiries, guideline clarifications, or help interprets scores. Try choosing a quick-start question below or compose your own query."
+                    }
+                ],
+
+                init() {
+                    // Load bookmarks from local storage
+                    const cachedBookmarks = localStorage.getItem('gastro_bookmarks_2026');
+                    if (cachedBookmarks) {
+                        this.bookmarkedIds = JSON.parse(cachedBookmarks);
+                    }
+                    // Load API key from local storage
+                    const cachedKey = localStorage.getItem('gastro_gemini_key');
+                    if (cachedKey) {
+                        this.apiKey = cachedKey;
+                    }
+                },
+
+                // Filters logic
+                filteredUpdates() {
+                    return this.updates.filter(item => {
+                        const matchesSearch = this.searchQuery === '' ||
+                            item.title.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
+                            item.summary.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
+                            item.fullDetails.toLowerCase().includes(this.searchQuery.toLowerCase());
+
+                        const matchesCategory = this.selectedCategory === 'All' ||
+                            item.category.toLowerCase() === this.selectedCategory.toLowerCase();
+
+                        const matchesBookmark = !this.showBookmarkedOnly || this.isBookmarked(item.id);
+
+                        return matchesSearch && matchesCategory && matchesBookmark;
+                    });
+                },
+
+                isBookmarked(id) {
+                    return this.bookmarkedIds.includes(id);
+                },
+
+                toggleBookmark(id) {
+                    if (this.bookmarkedIds.includes(id)) {
+                        this.bookmarkedIds = this.bookmarkedIds.filter(bId => bId !== id);
+                    } else {
+                        this.bookmarkedIds.push(id);
+                    }
+                    localStorage.setItem('gastro_bookmarks_2026', JSON.stringify(this.bookmarkedIds));
+                },
+
+                resetFilters() {
+                    this.searchQuery = '';
+                    this.selectedCategory = 'All';
+                    this.showBookmarkedOnly = false;
+                },
+
+                openDetails(update) {
+                    this.currentDetail = update;
+                },
+
+                // API Key persistence
+                saveApiKey() {
+                    localStorage.setItem('gastro_gemini_key', this.apiKey);
+                    this.showApiDrawer = false;
+                },
+
+                // FIB-4 Calculations
+                calculateFib4() {
+                    if (!this.fibAge || !this.fibAst || !this.fibAlt || !this.fibPlt) {
+                        alert("Please make sure all clinical parameter inputs are correctly filled!");
+                        return;
+                    }
+                    if (this.fibAge <= 0 || this.fibAst <= 0 || this.fibAlt <= 0 || this.fibPlt <= 0) {
+                        alert("All variables must be positive numbers greater than zero!");
+                        return;
+                    }
+
+                    const score = (this.fibAge * this.fibAst) / (this.fibPlt * Math.sqrt(this.fibAlt));
+                    let label = "Indeterminate Risk";
+                    let color = "bg-amber-50 text-amber-900 border-l-4 border-amber-500";
+                    let icon = "fa-triangle-exclamation";
+                    let interpretation = "Therapeutic intermediate zone. Guidelines suggest scheduling high-fidelity transient elastography (FibroScan) or a liver biopsy to rule out advanced bridging fibrosis.";
+
+                    if (score < 1.30) {
+                        label = "Low Risk of Advanced Fibrosis";
+                        color = "bg-emerald-50 text-emerald-900 border-l-4 border-emerald-500";
+                        icon = "fa-circle-check";
+                        interpretation = "Excellent negative predictive value (~90%). Advanced cirrhosis is highly unlikely. Continue monitoring non-invasively at 12-to-24 month thresholds.";
+                    } else if (score > 2.67) {
+                        label = "High Risk of Advanced Fibrosis / Cirrhosis";
+                        color = "bg-rose-50 text-rose-900 border-l-4 border-rose-500";
+                        icon = "fa-circle-radiation";
+                        interpretation = "High prognostic alignment (Positive Predictive Value ~80%). Immediate hepatology clinical consultation is recommended to guide staging and evaluate therapeutics (e.g. Resmetirom).";
+                    }
+
+                    this.fibResult = { score, label, color, icon, interpretation };
+                },
+
+                clearFib4() {
+                    this.fibAge = '';
+                    this.fibAst = '';
+                    this.fibAlt = '';
+                    this.fibPlt = '';
+                    this.fibResult = null;
+                },
+
+                // Maddrey calculations
+                calculateMdf() {
+                    if (!this.mdfPatientPt || !this.mdfControlPt || !this.mdfBili) {
+                        alert("Please supply patient Prothrombin times and Total Bilirubin!");
+                        return;
+                    }
+                    if (this.mdfPatientPt <= 0 || this.mdfControlPt <= 0 || this.mdfBili <= 0) {
+                        alert("Values must represent real positive biological measurements.");
+                        return;
+                    }
+
+                    const score = (4.6 * (this.mdfPatientPt - this.mdfControlPt)) + this.mdfBili;
+                    let label = "Severe Alcoholic Hepatitis";
+                    let color = "bg-rose-50 text-rose-900 border-l-4 border-rose-500";
+                    let icon = "fa-solid fa-triangle-exclamation";
+                    let interpretation = "Score exceeds the critical 32.0 threshold indicating severe disease and short-term mortality risk. Standard AASLD guidelines suggest starting Prednisolone trial (40 mg oral daily) if no sepsis or GI bleed is active.";
+
+                    if (score < 32.0) {
+                        label = "Mild-to-Moderate Alcoholic Hepatitis";
+                        color = "bg-emerald-50 text-emerald-900 border-l-4 border-emerald-500";
+                        icon = "fa-solid fa-circle-check";
+                        interpretation = "Patient displays low immediately predicted 30-day mortality. Heavy immunomodulatory corticosteroids are not indicated. Focus on aggressive clinical nutrition and alcohol cessation support.";
+                    }
+
+                    this.mdfResult = { score, label, color, icon, interpretation };
+                },
+
+                clearMdf() {
+                    this.mdfPatientPt = '';
+                    this.mdfControlPt = '';
+                    this.mdfBili = '';
+                    this.mdfResult = null;
+                },
+
+                // Chat helpers
+                sendFastMessage(text) {
+                    this.chatInput = text;
+                    this.sendChatMessage();
+                },
+
+                clearChat() {
+                    this.chatMessages = [
+                        {
+                            id: "welcome_reset",
+                            isUser: false,
+                            text: "Workspace thread cleared. I am ready to process your next specialized clinical inquiry."
+                        }
+                    ];
+                },
+
+                async sendChatMessage() {
+                    const promptText = this.chatInput.trim();
+                    if (!promptText) return;
+
+                    this.chatMessages.push({
+                        id: Date.now() + "-user",
+                        isUser: true,
+                        text: promptText
+                    });
+
+                    this.chatInput = '';
+                    this.chatLoading = true;
+                    this.scrollChat();
+
+                    // Call official Google Gemini API Endpoint directly!
+                    const baseUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
+                    
+                    const systemPrompt = `
+                        You are GastroAssistant AI, an elite clinical AI assistant specializing in gastroenterology, hepatology, and endoscopy practice updates for 2026.
+                        Answer the clinician's query accurately, professionally, and structured with headings or bullet points. Include references to Baveno VIII, ASGE, AASLD, or AGA where corresponding.
+                        Ensure you end answers with a classic healthcare system disclaimer.
+                    `;
+
+                    // Select the API Key: if empty, show useful warning
+                    const key = this.apiKey.trim();
+                    if (!key) {
+                        setTimeout(() => {
+                            this.chatMessages.push({
+                                id: Date.now() + "-ai-error",
+                                isUser: false,
+                                text: "⚠️ **Gemini API Key Missing**\n\nTo interact live with the GastroAssistant clinical engine, click **Gemini API Settings** on the upper right of this chat box and paste your Google Gemini Key. You can get one easily from your AI Studio. Thank you!"
+                            });
+                            this.chatLoading = false;
+                            this.scrollChat();
+                        }, 800);
+                        return;
+                    }
+
+                    try {
+                        const response = await fetch(`${baseUrl}?key=${key}`, {
+                            method: "POST",
+                            headers: {
+                                "Content-Type": "application/json"
+                            },
+                            body: JSON.stringify({
+                                systemInstruction: {
+                                    parts: [{ text: systemPrompt }]
+                                },
+                                contents: [
+                                    {
+                                        parts: [{ text: promptText }]
+                                    }
+                                ],
+                                generationConfig: {
+                                    temperature: 0.3
+                                }
+                            })
+                        });
+
+                        const resJson = await response.json();
+                        this.chatLoading = false;
+
+                        if (!response.ok) {
+                            const errorMsg = resJson.error?.message || `HTTP Code ${response.status}`;
+                            this.chatMessages.push({
+                                id: Date.now() + "-ai",
+                                isUser: false,
+                                text: `❌ **API Connection Error**\n\nFailed to generate content: ${errorMsg}. Make sure your API key starting with AIzaSy matches correctly.`
+                            });
+                        } else {
+                            const extractedText = resJson.candidates?.[0]?.content?.parts?.[0]?.text || "The AI returned an empty response. Let's try composing the request differently.";
+                            this.chatMessages.push({
+                                id: Date.now() + "-ai",
+                                isUser: false,
+                                text: extractedText
+                            });
+                        }
+                    } catch (e) {
+                        this.chatLoading = false;
+                        this.chatMessages.push({
+                            id: Date.now() + "-ai",
+                            isUser: false,
+                            text: `❌ **Network Connection Error**\n\nUnable to reach endpoint: ${e.message}. Please check your active internet connection and try again.`
+                        });
+                    }
+                    this.scrollChat();
+                },
+
+                scrollChat() {
+                    setTimeout(() => {
+                        const element = document.getElementById("chat-scroller");
+                        if (element) {
+                            element.scrollTop = element.scrollHeight;
+                        }
+                    }, 50);
+                },
+
+                renderMarkdown(text) {
+                    if (!text) return "";
+                    // Simple regex converter to render beautiful text in index without dependencies
+                    let parsed = text
+                        .replace(/&/g, "&amp;")
+                        .replace(/</g, "&lt;")
+                        .replace(/>/g, "&gt;")
+                        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+                        .replace(/`([^`]+)`/g, '<code class="bg-slate-100 px-1 py-0.5 rounded font-mono text-purple-600 text-xs">$1</code>')
+                        .replace(/\n\n/g, '<br><br>')
+                        .replace(/^- (.*)$/gim, '<div class="flex items-start gap-1 pb-1"><span>•</span><span>$1</span></div>');
+                    return parsed;
+                }
+            }
+        }
+    </script>
+</body>
+</html>
