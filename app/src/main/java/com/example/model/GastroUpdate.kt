@@ -143,6 +143,102 @@ object GastroDataRepository {
             date = "April 2026",
             status = "FDA Advisory Update",
             references = "FDA Center for Devices and Radiological Health Safety Bulletin, April 2026."
+        ),
+        GastroUpdate(
+            id = "h_pylori_2026",
+            title = "H. pylori Empiric First-Line Therapy Guidelines",
+            category = "Gastroenterology",
+            source = "ACG/AGA Joint Guideline Update",
+            summary = "New consensus mandates bismuth quadruple therapy or concomitant non-bismuth quadruple therapy as first-line empiric treatments, abandoning standard triple therapy in areas with unknown or high clarithromycin resistance.",
+            fullDetails = "Due to global clarithromycin resistance rates exceeding 15-20%, the 2026 guidelines recommend that standard clarithromycin triple therapy should be retired from empiric first-line blocks unless local resistance is proven low. Instead, clinicians should prescribe Bismuth Quadruple Therapy (Proton Pump Inhibitor, Bismuth Subsalicylate/Subcitrate, Metronidazole, and Tetracycline) for 14 days, or Concomitant Non-Bismuth Quadruple Therapy (PPI, Amoxicillin, Metronidazole, and Clarithromycin). High-dose dual therapy (PPI and Amoxicillin) is also supported as an alternative.",
+            practicalTakeaways = listOf(
+                "Avoid standard triple therapy unless local clarithromycin resistance is documented as low (<15%).",
+                "Bismuth quadruple therapy for 14 days offers the highest eradication rates and bypasses macrolide resistance.",
+                "Post-treatment testing with urea breath test or stool antigen is mandatory, performed >=4 weeks after concluding therapy and >=2 weeks after PPI cessation."
+            ),
+            date = "January 2026",
+            status = "Standard of Care",
+            references = "American College of Gastroenterology H. pylori Treatment Guidelines, 2026 Edition."
+        ),
+        GastroUpdate(
+            id = "celiac_nobiopsy_2026",
+            title = "Celiac Disease No-Biopsy Diagnostic Pathway",
+            category = "Gastroenterology",
+            source = "AGA Clinical Practice Guideline",
+            summary = "The 2026 consensus validates a no-biopsy diagnostic pathway for adult patients with high-clinical-probability Celiac Disease, matching pediatric standards.",
+            fullDetails = "While duodenal biopsy has historically been the gold standard for adult Celiac Disease, new 2026 multi-society guidelines propose a reliable no-biopsy diagnostic pathway. For symptomatic adults with low risk of complications, a diagnosis of Celiac Disease can be made without endoscopy if: (1) Anti-tissue transglutaminase (tTG) IgA level is highly elevated (>=10 times the upper limit of normal), and (2) A second, separate blood draw confirms positivity for Endomysial Antibodies (EMA-IgA). This pathway avoids unnecessary invasive procedures in highly predictive cases.",
+            practicalTakeaways = listOf(
+                "Validate tTG-IgA >=10x ULN AND positive EMA-IgA on a separate blood draw for the no-biopsy pathway.",
+                "Do not start a gluten-free diet before serologic and/or endoscopic investigations are completed.",
+                "Duodenal biopsy remains mandatory if serology is discordant, symptoms are atypical, or of high suspicion for complications."
+            ),
+            date = "March 2026",
+            status = "New Guideline",
+            references = "AGA Clinical Practice Guidelines on Celiac Diagnosis. Gastroenterology 2026;170(3):412-421."
+        ),
+        GastroUpdate(
+            id = "hcv_simplified_2026",
+            title = "Universal Screening and Simplified HCV Guidelines",
+            category = "Hepatology",
+            source = "AASLD/IDSA Guidance Update",
+            summary = "Comprehensive 2026 updates reaffirm universal screening for all adults and simplify direct-acting antiviral (DAA) pathways for treatment-naive chronic HCV.",
+            fullDetails = "The 2026 AASLD-IDSA guidelines mandate universal one-time HCV screening for all adults (aged 18 and older) and pregnant individuals during every pregnancy. For treatment-naive patients without cirrhosis, a 'simplified treatment pathway' is recommended. This avoids genotyping or pre-treatment viral load quantification. Dual pangenotypic regimens—either Glecaprevir/Pibrentasvir (3 tablets daily with food for 8 weeks) or Sofosbuvir/Velpatasvir (1 tablet daily with or without food for 12 weeks)—achieve Sustained Virologic Response (SVR12) in over 98% of adherent patients.",
+            practicalTakeaways = listOf(
+                "Order universal screen (HCV Antibody with reflex to HCV RNA) for all adults at least once.",
+                "Treat immediately using the simplified pathway if the patient is treatment-naive without cirrhosis.",
+                "Verify cure by ordering HCV RNA testing 12 weeks after completing antiviral therapy (SVR12)."
+            ),
+            date = "April 2026",
+            status = "Standard of Care",
+            references = "AASLD-IDSA HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C, updated Spring 2026."
+        ),
+        GastroUpdate(
+            id = "ascites_sbp_2026",
+            title = "Management of Cirrhotic Ascites and SBP Prophylaxis",
+            category = "Hepatology",
+            source = "AASLD Practice Guidance",
+            summary = "Updates define stringent guidelines for large-volume paracentesis, albumin expansion, and standard antimicrobial prophylaxis for spontaneous bacterial peritonitis.",
+            fullDetails = "The 2026 ascites guidelines optimize severe liver decompensation care. For Large-Volume Paracentesis (LVP) exceeding 5 liters, intravenous Albumin should be administered at a dose of 6 to 8 grams per liter of ascites fluid removed to prevent post-paracentesis circulatory dysfunction (PPCD). For Spontaneous Bacterial Peritonitis (SBP), diagnose immediately if ascitic PMN count is >=250 cells/mm3. Initiate third-generation cephalosporins (Ceftriaxone 2g IV daily) and secondary prophylaxis with daily Norfloxacin (400mg) or Trimethoprim-Sulfamethoxazole (one double-strength tablet daily).",
+            practicalTakeaways = listOf(
+                "Infuse 6-8g Albumin per liter removed during therapeutic paracentesis of >5 liters.",
+                "Diagnose SBP immediately when ascitic fluid polymorphonuclear leucocytes (PMN) >=250/mm3.",
+                "Administer short-course intravenous Ceftriaxone for active SBP, followed by lifelong oral secondary SBP prophylaxis."
+            ),
+            date = "May 2026",
+            status = "Standard of Care",
+            references = "AASLD Guidance on the Management of Ascites, SBP, and Hepatorenal Syndrome. Hepatology 2026;83(5):1102-1115."
+        ),
+        GastroUpdate(
+            id = "barretts_rfa_2026",
+            title = "Barrett's Esophagus Surveillance & Ablation Standards",
+            category = "Endoscopy",
+            source = "ACG Clinical Guidelines",
+            summary = "2026 ACG updates refine surveillance intervals for non-dysplastic Barrett's Esophagus and emphasize prompt endoscopic eradication therapy for verified dysplasia.",
+            fullDetails = "The 2026 ACG update on Barrett's Esophagus (BE) standardizes screening and therapy. For non-dysplastic Barrett's Esophagus, endoscopic surveillance is recommended every 3 to 5 years (for BE >= 3 cm) and every 5 years (for BE < 3 cm). In cases of confirmed low-grade dysplasia (LGD), endoscopic eradication therapy (EET)—primarily radiofrequency ablation (RFA) or endoscopic mucosal resection (EMR) for visible lesions—is preferred over surveillance. For high-grade dysplasia (HGD), active EET is highly recommended to prevent progression to esophageal adenocarcinoma.",
+            practicalTakeaways = listOf(
+                "Perform surveillance endoscopies every 3-5 years for non-dysplastic Barrett's Esophagus.",
+                "Prefer Endoscopic Eradication Therapy (RFA/EMR) over active surveillance for confirmed low-grade or high-grade dysplasia.",
+                "Document the complete eradication of intestinal metaplasia (CEIM) with post-ablation surveillance biopsies."
+            ),
+            date = "February 2026",
+            status = "New Guideline",
+            references = "ACG Clinical Guidelines: Diagnosis and Management of Barrett's Esophagus. Am J Gastroenterol 2026;121(2):201-215."
+        ),
+        GastroUpdate(
+            id = "acute_variceal_2026",
+            title = "Acute Esophageal Variceal Bleeding Intervention Protocols",
+            category = "Endoscopy",
+            source = "ASGE/AASLD Joint Consensus",
+            summary = "Comprehensive critical guidelines standardize resuscitation targets, timing of endoscopy, vasoactive drug infusion, and urgent endoscopic band ligation.",
+            fullDetails = "Acute esophageal variceal bleeding represents a high-mortality clinical emergency. 2026 consensus guidelines emphasize: (1) Restrictive transfusion strategy (holding hemoglobin target between 7-8 g/dL). (2) Initiation of vasoactive therapy (Octreotide 50 mcg IV bolus, followed by 50 mcg/hr infusion) immediately when variceal hemorrhage is suspected. (3) Prophylactic antibiotics (Ceftriaxone 1g/24h) to prevent bacterial infections. (4) Endoscopy with Endoscopic Band Ligation (EBL) should be performed within 12 hours of presentation once hemodynamic stability is achieved.",
+            practicalTakeaways = listOf(
+                "Maintain a restrictive Hemoglobin target of 7-8 g/dL to prevent portal pressure rebound.",
+                "Start intravenous Octreotide and Ceftriaxone immediately at suspected presentation, before endoscopy.",
+                "Schedule diagnostic and therapeutic endoscopy with band ligation within 12 hours of patient admission."
+            ),
+            date = "April 2026",
+            status = "Standard of Care",
+            references = "ASGE/AASLD Joint Guidelines on portal hypertensive bleeding. Gastrointestinal Endoscopy 2026;103(4):512-525."
         )
     )
 }
