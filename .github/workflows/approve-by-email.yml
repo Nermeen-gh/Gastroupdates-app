@@ -7,6 +7,7 @@ on:
 permissions:
   contents: write
   issues: write
+  pages: write
 
 jobs:
   approve:
@@ -34,6 +35,12 @@ jobs:
           git add data/updates.json
           git commit -m "Publish editor-approved medical updates"
           git push origin "HEAD:${{ github.event.repository.default_branch }}"
+
+      - name: Refresh GitHub Pages
+        if: steps.process.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
 
       - name: Confirm the result
         env:
