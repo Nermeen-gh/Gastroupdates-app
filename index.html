@@ -46,20 +46,6 @@
 </head>
 <body class="bg-slate-50 text-slate-800 transition-colors duration-300 min-h-screen flex flex-col" x-data="gastroApp()" x-init="init()">
 
-    <!-- TOP DEPLOYMENT SUGGESTION ACCORDION -->
-    <div class="bg-teal-900 text-teal-100 px-4 py-3" x-data="{ showDeployTips: true }" x-show="showDeployTips">
-        <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-start md:items-center justify-between gap-3 text-xs md:text-sm">
-            <div class="flex items-center gap-2">
-                <span class="bg-teal-500 text-teal-950 font-bold px-2 py-0.5 rounded text-[10px] uppercase">Netlify Deploy Ready</span>
-                <span>To fix the Netlify 404 error, commit this <strong>index.html</strong> directly to the root of your GitHub repository. Netlify will deploy it instantly!</span>
-            </div>
-            <div class="flex items-center gap-4">
-                <a href="https://docs.netlify.com/routing/redirects/" target="_blank" class="underline hover:text-white font-semibold">Netlify Docs</a>
-                <button @click="showDeployTips = false" class="text-teal-300 hover:text-white"><i class="fa-solid fa-xmark"></i></button>
-            </div>
-        </div>
-    </div>
-
     <!-- MAIN BRANDED NAVIGATION HEADER -->
     <header class="bg-gradient-to-r from-teal-800 to-teal-950 text-white shadow-md sticky top-0 z-40">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-18 flex items-center justify-between py-4">
@@ -89,6 +75,11 @@
             </nav>
 
             <div class="flex items-center space-x-3">
+                <!-- Editorial review alerts -->
+                <button @click="enableEditorialNotifications()" class="relative p-2 text-teal-200 hover:text-white focus:outline-none transition-transform" :class="notificationEnabled ? 'text-amber-300' : ''" :title="notificationEnabled ? 'Editorial alerts enabled' : 'Enable editorial alerts'">
+                    <i class="fa-solid fa-bell text-lg"></i>
+                    <span x-show="notificationEnabled && pendingCount > 0" class="absolute -top-1 -right-1 bg-rose-500 text-white font-bold rounded-full min-w-4 h-4 px-1 flex items-center justify-center text-[9px]" x-text="pendingCount">0</span>
+                </button>
                 <!-- Saved items counter -->
                 <button @click="activeTab = 'updates'; showBookmarkedOnly = !showBookmarkedOnly" class="relative p-2 text-teal-200 hover:text-white focus:outline-none transition-transform" :class="showBookmarkedOnly ? 'text-amber-400' : ''" title="Toggle Bookmarked Updates">
                     <i class="fa-solid fa-bookmark text-lg"></i>
@@ -146,6 +137,14 @@
                     <template x-for="cat in categories" :key="cat">
                         <button @click="selectedCategory = cat" :class="selectedCategory === cat ? 'bg-tealprim text-white border-tealprim' : 'bg-slate-50 text-slate-600 border-slate-100 hover:bg-slate-100'" class="px-4 py-1.5 rounded-full border text-xs font-semibold uppercase tracking-wider transition-all" x-text="cat"></button>
                     </template>
+                </div>
+                <div class="flex flex-wrap items-center justify-between gap-2 text-[11px] text-slate-500">
+                    <span><i class="fa-solid fa-rotate mr-1 text-tealprim"></i>Trusted literature checked daily; new items require editorial approval.</span>
+                    <span x-show="lastContentUpdate" x-text="'Latest approved import: ' + lastContentUpdate"></span>
+                </div>
+                <div x-show="notificationEnabled && pendingCount > 0" class="flex items-center gap-2 rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-xs text-amber-900">
+                    <i class="fa-solid fa-bell"></i>
+                    <strong x-text="pendingCount + ' update candidate' + (pendingCount === 1 ? '' : 's') + ' waiting for review in GitHub.'"></strong>
                 </div>
             </div>
 
@@ -468,6 +467,9 @@
                 <div>
                     <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">Literature & References</h4>
                     <p class="text-[11px] text-slate-500 italic" x-text="currentDetail ? currentDetail.references : ''">NEJM 2026</p>
+                    <a x-show="currentDetail && currentDetail.sourceUrl" :href="currentDetail ? currentDetail.sourceUrl : '#'" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1 mt-2 text-[11px] font-bold text-tealprim hover:underline">
+                        Verify at original source <i class="fa-solid fa-arrow-up-right-from-square text-[9px]"></i>
+                    </a>
                 </div>
             </div>
 
@@ -504,6 +506,9 @@
                 apiKey: '',
                 chatInput: '',
                 chatLoading: false,
+                lastContentUpdate: '',
+                pendingCount: 0,
+                notificationEnabled: false,
 
                 categories: ['All', 'Gastroenterology', 'Hepatology', 'Endoscopy'],
                 bookmarkedIds: [],
@@ -765,7 +770,7 @@
                     }
                 ],
 
-                init() {
+                async init() {
                     // Load bookmarks from local storage
                     const cachedBookmarks = localStorage.getItem('gastro_bookmarks_2026');
                     if (cachedBookmarks) {
@@ -776,6 +781,57 @@
                     if (cachedKey) {
                         this.apiKey = cachedKey;
                     }
+                    this.notificationEnabled =
+                        localStorage.getItem('gastro_editorial_notifications') === 'enabled' &&
+                        'Notification' in window &&
+                        Notification.permission === 'granted';
+                    await this.loadApprovedUpdates();
+                },
+
+                async loadApprovedUpdates() {
+                    try {
+                        const response = await fetch('./data/updates.json', { cache: 'no-store' });
+                        if (!response.ok) return;
+                        const payload = await response.json();
+                        const pending = (payload.items || []).filter(item => item.reviewStatus === 'pending');
+                        this.pendingCount = pending.length;
+                        const approved = (payload.items || []).filter(item => item.reviewStatus === 'approved');
+                        const existingIds = new Set(this.updates.map(item => item.id));
+                        this.updates = [...approved.filter(item => !existingIds.has(item.id)), ...this.updates];
+                        this.lastContentUpdate = payload.lastChecked || '';
+                        this.notifyPendingUpdates(pending);
+                    } catch (error) {
+                        console.warn('Daily update feed is temporarily unavailable.');
+                    }
+                },
+
+                async enableEditorialNotifications() {
+                    if (!('Notification' in window)) {
+                        alert('Browser notifications are not supported on this device. GitHub email alerts will still work.');
+                        return;
+                    }
+                    const permission = await Notification.requestPermission();
+                    this.notificationEnabled = permission === 'granted';
+                    if (this.notificationEnabled) {
+                        localStorage.setItem('gastro_editorial_notifications', 'enabled');
+                        new Notification('Gastro Updates alerts enabled', {
+                            body: this.pendingCount > 0
+                                ? `${this.pendingCount} update candidate(s) are waiting for review.`
+                                : 'You will be notified when review candidates are waiting.',
+                        });
+                    } else {
+                        localStorage.removeItem('gastro_editorial_notifications');
+                    }
+                },
+
+                notifyPendingUpdates(pending) {
+                    if (!this.notificationEnabled || pending.length === 0) return;
+                    const signature = pending.map(item => item.id).sort().join(',');
+                    if (localStorage.getItem('gastro_last_pending_signature') === signature) return;
+                    new Notification('Gastro Updates: review required', {
+                        body: `${pending.length} update candidate(s) are waiting for your approval in GitHub.`,
+                    });
+                    localStorage.setItem('gastro_last_pending_signature', signature);
                 },
 
                 // Filters logic
