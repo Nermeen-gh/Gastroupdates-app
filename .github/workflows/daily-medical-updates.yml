@@ -36,7 +36,7 @@ jobs:
             git push origin "HEAD:${{ github.event.repository.default_branch }}"
           fi
 
-      - name: Update the pending-review notification
+      - name: Send numbered review list
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
@@ -44,11 +44,20 @@ jobs:
           pending="$(jq '[.items[] | select(.reviewStatus == "pending")] | length' data/updates.json)"
           existing="$(gh issue list --state open --json number,title --jq '.[] | select(.title == "Review pending gastroenterology updates") | .number' | head -n 1)"
           if [ "$pending" -gt 0 ]; then
-            body="There are **${pending}** hidden update candidates waiting for editorial approval. Open data/updates.json, verify every sourceUrl, and change reviewStatus from pending to approved only for verified records. Delete irrelevant candidates. Pending records are not displayed publicly."
+            echo "## ${pending} articles waiting for your decision" > review-list.md
+            echo "" >> review-list.md
+            echo "Open any title below to read the original PubMed page before approving." >> review-list.md
+            echo "" >> review-list.md
+            jq -r '.items | to_entries[] | select(.value.reviewStatus == "pending") | "\(.key + 1). [\(.value.title)](\(.value.sourceUrl)) — **\(.value.category)**, \(.value.date)"' data/updates.json >> review-list.md
+            echo "" >> review-list.md
+            echo "Reply to this email with one line, for example: **APPROVE: 1, 4, 7**" >> review-list.md
+            echo "" >> review-list.md
+            echo "Optional: reject unsuitable items with **REJECT: 2, 3**. You may include both lines in one reply." >> review-list.md
             if [ -z "$existing" ]; then
-              gh issue create --title "Review pending gastroenterology updates" --body "$body"
+              gh issue create --title "Review pending gastroenterology updates" --body-file review-list.md
             else
-              gh issue edit "$existing" --body "$body"
+              gh issue edit "$existing" --body-file review-list.md
+              gh issue comment "$existing" --body-file review-list.md
             fi
           elif [ -n "$existing" ]; then
             gh issue close "$existing" --comment "No pending update candidates remain."
