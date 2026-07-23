@@ -135,7 +135,7 @@ async function main() {
   const additions = candidates.filter((item) => !known.has(item.id));
   const next = {
     lastChecked: new Date().toISOString().slice(0, 10),
-    items: [...additions, ...(existing.items || [])],
+    items: [...(existing.items || []), ...additions],
   };
   await fs.writeFile(OUTPUT, `${JSON.stringify(next, null, 2)}\n`);
   console.log(`Checked ${ids.length} PubMed records; added ${additions.length} review candidate(s).`);
