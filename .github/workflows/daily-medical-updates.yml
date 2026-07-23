@@ -46,13 +46,21 @@ jobs:
           if [ "$pending" -gt 0 ]; then
             echo "## ${pending} articles waiting for your decision" > review-list.md
             echo "" >> review-list.md
-            echo "Open any title below to read the original PubMed page before approving." >> review-list.md
+            echo "Click any article title below to read the original PubMed page before deciding." >> review-list.md
             echo "" >> review-list.md
             jq -r '.items | to_entries[] | select(.value.reviewStatus == "pending") | "\(.key + 1). [\(.value.title)](\(.value.sourceUrl)) — **\(.value.category)**, \(.value.date)"' data/updates.json >> review-list.md
             echo "" >> review-list.md
-            echo "Reply to this email with one line, for example: **APPROVE: 1, 4, 7**" >> review-list.md
+            echo "## Reply templates" >> review-list.md
             echo "" >> review-list.md
-            echo "Optional: reject unsuitable items with **REJECT: 2, 3**. You may include both lines in one reply." >> review-list.md
+            echo "Approve one article: **1**" >> review-list.md
+            echo "" >> review-list.md
+            echo "Approve several articles: **1, 4, 7**" >> review-list.md
+            echo "" >> review-list.md
+            echo "Approve every pending article: **ALL**" >> review-list.md
+            echo "" >> review-list.md
+            echo "Reject unsuitable articles: **REJECT: 2, 3**" >> review-list.md
+            echo "" >> review-list.md
+            echo "You only need to reply with the chosen number or numbers. Approved articles are published automatically." >> review-list.md
             if [ -z "$existing" ]; then
               gh issue create --title "Review pending gastroenterology updates" --body-file review-list.md
             else
