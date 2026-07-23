@@ -1,0 +1,57 @@
+name: Daily medical update review
+
+on:
+  schedule:
+    - cron: "15 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Search trusted literature
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ vars.NCBI_EMAIL }}
+        run: node scripts/fetch-updates.mjs
+
+      - name: Save hidden review candidates
+        shell: bash
+        run: |
+          if ! git diff --quiet -- data/updates.json; then
+            git config user.name "gastro-updates-bot"
+            git config user.email "gastro-updates-bot@users.noreply.github.com"
+            git add data/updates.json
+            git commit -m "Update daily medical review queue"
+            git push origin "HEAD:${{ github.event.repository.default_branch }}"
+          fi
+
+      - name: Update the pending-review notification
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          pending="$(jq '[.items[] | select(.reviewStatus == "pending")] | length' data/updates.json)"
+          existing="$(gh issue list --state open --json number,title --jq '.[] | select(.title == "Review pending gastroenterology updates") | .number' | head -n 1)"
+          if [ "$pending" -gt 0 ]; then
+            body="There are **${pending}** hidden update candidates waiting for editorial approval.
+
+Open data/updates.json, verify every sourceUrl, and change reviewStatus from pending to approved only for verified records. Delete irrelevant candidates. Pending records are not displayed publicly."
+            if [ -z "$existing" ]; then
+              gh issue create --title "Review pending gastroenterology updates" --body "$body"
+            else
+              gh issue edit "$existing" --body "$body"
+            fi
+          elif [ -n "$existing" ]; then
+            gh issue close "$existing" --comment "No pending update candidates remain."
+          fi
