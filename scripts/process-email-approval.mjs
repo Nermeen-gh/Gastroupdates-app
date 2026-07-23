@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 
 const FILE = "data/updates.json";
 const comment = (process.env.APPROVAL_COMMENT || "").trim();
+const commandLine = comment.split(/\r?\n/).map((line) => line.trim()).find(Boolean) || "";
 const payload = JSON.parse(await fs.readFile(FILE, "utf8"));
 const items = payload.items || [];
 
@@ -12,16 +13,16 @@ function numbersFrom(text) {
 
 let approve = [];
 let reject = [];
-const approveMatch = comment.match(/^APPROVE\s*:\s*([\d,\s]+)$/im);
-const rejectMatch = comment.match(/^REJECT\s*:\s*([\d,\s]+)$/im);
-const plainNumbers = comment.match(/^\s*[\d,\s]+\s*$/);
+const approveMatch = commandLine.match(/^APPROVE\s*:\s*([\d,\s]+)$/i);
+const rejectMatch = commandLine.match(/^REJECT\s*:\s*([\d,\s]+)$/i);
+const plainNumbers = commandLine.match(/^\s*[\d,\s]+\s*$/);
 
-if (/^ALL$/i.test(comment) || /^APPROVE\s*:\s*ALL$/im.test(comment)) {
+if (/^ALL$/i.test(commandLine) || /^APPROVE\s*:\s*ALL$/i.test(commandLine)) {
   approve = items.map((_, index) => index + 1).filter((number) => items[number - 1].reviewStatus === "pending");
 } else if (approveMatch) {
   approve = numbersFrom(approveMatch[1]);
 } else if (plainNumbers) {
-  approve = numbersFrom(comment);
+  approve = numbersFrom(commandLine);
 }
 if (rejectMatch) reject = numbersFrom(rejectMatch[1]);
 
