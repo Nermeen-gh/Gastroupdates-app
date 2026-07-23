@@ -44,7 +44,9 @@ jobs:
           pending="$(jq '[.items[] | select(.reviewStatus == "pending")] | length' data/updates.json)"
           existing="$(gh issue list --state open --json number,title --jq '.[] | select(.title == "Review pending gastroenterology updates") | .number' | head -n 1)"
           if [ "$pending" -gt 0 ]; then
-            echo "## ${pending} articles waiting for your decision" > review-list.md
+            echo "@${GITHUB_REPOSITORY_OWNER}, your article review list is ready." > review-list.md
+            echo "" >> review-list.md
+            echo "## ${pending} articles waiting for your decision" >> review-list.md
             echo "" >> review-list.md
             echo "Click any article title below to read the original PubMed page before deciding." >> review-list.md
             echo "" >> review-list.md
@@ -62,9 +64,9 @@ jobs:
             echo "" >> review-list.md
             echo "You only need to reply with the chosen number or numbers. Approved articles are published automatically." >> review-list.md
             if [ -z "$existing" ]; then
-              gh issue create --title "Review pending gastroenterology updates" --body-file review-list.md
+              gh issue create --title "Review pending gastroenterology updates" --assignee "$GITHUB_REPOSITORY_OWNER" --body-file review-list.md
             else
-              gh issue edit "$existing" --body-file review-list.md
+              gh issue edit "$existing" --add-assignee "$GITHUB_REPOSITORY_OWNER" --body-file review-list.md
               gh issue comment "$existing" --body-file review-list.md
             fi
           elif [ -n "$existing" ]; then
