@@ -1,0 +1,47 @@
+name: Approve medical updates by email
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  approve:
+    if: github.event.issue.title == 'Review pending gastroenterology updates' && github.actor == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Process your numbered reply
+        id: process
+        env:
+          APPROVAL_COMMENT: ${{ github.event.comment.body }}
+        run: node scripts/process-email-approval.mjs
+
+      - name: Publish approved records
+        if: steps.process.outputs.changed == 'true'
+        shell: bash
+        run: |
+          git config user.name "gastro-updates-bot"
+          git config user.email "gastro-updates-bot@users.noreply.github.com"
+          git add data/updates.json
+          git commit -m "Publish editor-approved medical updates"
+          git push origin "HEAD:${{ github.event.repository.default_branch }}"
+
+      - name: Confirm the result
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue comment "${{ github.event.issue.number }}" --body-file approval-summary.md
+
+      - name: Close completed review
+        if: steps.process.outputs.pending == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close "${{ github.event.issue.number }}" --comment "All pending articles have been reviewed."
