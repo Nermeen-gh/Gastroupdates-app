@@ -44,9 +44,7 @@ jobs:
           pending="$(jq '[.items[] | select(.reviewStatus == "pending")] | length' data/updates.json)"
           existing="$(gh issue list --state open --json number,title --jq '.[] | select(.title == "Review pending gastroenterology updates") | .number' | head -n 1)"
           if [ "$pending" -gt 0 ]; then
-            body="There are **${pending}** hidden update candidates waiting for editorial approval.
-
-Open data/updates.json, verify every sourceUrl, and change reviewStatus from pending to approved only for verified records. Delete irrelevant candidates. Pending records are not displayed publicly."
+            body="There are **${pending}** hidden update candidates waiting for editorial approval. Open data/updates.json, verify every sourceUrl, and change reviewStatus from pending to approved only for verified records. Delete irrelevant candidates. Pending records are not displayed publicly."
             if [ -z "$existing" ]; then
               gh issue create --title "Review pending gastroenterology updates" --body "$body"
             else
