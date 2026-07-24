@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-07-23",
+  "lastChecked": "2026-07-24",
   "items": [
     {
       "id": "pmid-42486794",
@@ -289,6 +289,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42478987/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-07-23T19:51:36.508Z"
+    },
+    {
+      "id": "pmid-42492091",
+      "pmid": "42492091",
+      "doi": "10.2196/98352",
+      "title": "The WISH 2.0 Intervention for Irritable Bowel Syndrome: Protocol for a Pilot Randomized Controlled Trial.",
+      "category": "Hepatology",
+      "source": "JMIR research protocols",
+      "summary": "There is a critical need for acceptable, scalable, and mechanistically targeted behavioral health interventions for irritable bowel syndrome (IBS), known as brain-gut behavior therapies (BGBTs). Although positive psychology (PP) interventions, which focus on the cultivation of positive psychological well-being, have been linked to improved health outcomes across diverse medical populations, they have not yet been…",
+      "fullDetails": "There is a critical need for acceptable, scalable, and mechanistically targeted behavioral health interventions for irritable bowel syndrome (IBS), known as brain-gut behavior therapies (BGBTs). Although positive psychology (PP) interventions, which focus on the cultivation of positive psychological well-being, have been linked to improved health outcomes across diverse medical populations, they have not yet been investigated in IBS. To address this gap, we developed WISH (Well-Being in IBS: Strengths and Happiness), a novel, 9-week, phone-delivered PP-based BGBT for individuals with IBS. This randomized controlled trial (RCT) aims to evaluate the feasibility, acceptability, preliminary effects, and candidate gut-brain mechanisms of a 9-week phone-delivered PP intervention for IBS compared with a time- and attention-matched educational control. The WISH 2.0 trial is a parallel-group, 9-week pilot RCT that aims to enroll 50 adults meeting Rome IV criteria for IBS. Participants are randomized (1:1), stratified by IBS subtype and gender, to either the WISH 2.0 intervention or an educational control condition. Both conditions consist of 9 weekly 30-minute phone sessions accompanied by weekly manualized exercises. Primary outcomes are feasibility (proportion completing ≥6 of 9 sessions) and acceptability (weekly ease and utility ratings). Secondary outcomes include WISH 2.0's preliminary effects on health-related, health behavior, and psychological outcomes, assessed at 4 time points: baseline, intervention midpoint, the postintervention assessment, and the 3-month postintervention assessment. Candidate gut-brain mechanisms that might underlie WISH 2.0's effects, including changes in autonomic function (heart rate variability), interoception (self-report measure), gene expression (whole transcriptome RNA sequencing), and immune system activity (serum inflammatory biomarkers), will be explored before and after the intervention. The trial was approved by the Mass General Brigham Institutional Review Board and prospectively registered at ClinicalTrials.gov in March 2025. Funding was awarded in June 2025. Following a study start-up period, recruitment commenced in October 2025 and is ongoing. As of July 2026, 20 participants have been enrolled. Study completion is anticipated in August 2028. This trial will determine the feasibility and acceptability of WISH 2.0, a novel PP intervention for IBS. Comparative results between WISH 2.0 and an educational control, including the possibility of equivalent outcomes, will provide important mechanistic insights and facilitate further optimization of BGBTs for IBS, informing a future fully powered efficacy trial.",
+      "practicalTakeaways": [],
+      "date": "2026 07 23",
+      "status": "Clinical trial",
+      "references": "JMIR research protocols · 2026 07 23 · PMID: 42492091 · DOI: 10.2196/98352",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492091/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-07-24T06:39:15.488Z"
+    },
+    {
+      "id": "pmid-42491667",
+      "pmid": "42491667",
+      "doi": "10.7717/peerj.21429",
+      "title": "Effect of continuity of patient care on quality of life and psychological state in patients with inflammatory bowel disease: a systematic review and meta-analysis of randomized controlled trials.",
+      "category": "Gastroenterology",
+      "source": "PeerJ",
+      "summary": "To systematically evaluate the effectiveness of continuity of patient care on quality of life, anxiety, and depressive symptoms in inflammatory bowel disease. Five databases were systematically searched for relevant studies from inception to March 20, 2026. The primary outcome measure included quality of life, anxiety, and depression state. The tools of Cochrane's risk-of-bias were used to assess bias risks. Then,…",
+      "fullDetails": "To systematically evaluate the effectiveness of continuity of patient care on quality of life, anxiety, and depressive symptoms in inflammatory bowel disease. Five databases were systematically searched for relevant studies from inception to March 20, 2026. The primary outcome measure included quality of life, anxiety, and depression state. The tools of Cochrane's risk-of-bias were used to assess bias risks. Then, the fixed effect or the random effect model was applied in the meta-analysis. Continuity variables were expressed as standardized mean difference (SMD) and its 95% confidence interval (95% CI), while dichotomous variables were presented as relative risk (RR) and its 95% CI. Finally, sensitivity and publication bias were performed. Twelve randomized controlled trials involving 1,246 participants were included. Continuity of patient care significantly improved quality of life (including inflammatory bowel disease questionnaire and 36-item Short Form Health Status Survey), as well as the anxiety (SMD = -1.98, 95% CI [-2.40 to -1.55], p < 0.00001) and depression (SMD = -1.82, 95% CI [-2.67 to -0.98], p < 0.0001) levels of IBD patients. They did not significantly reduce the recurrence rate (SMD = 0.94, 95% CI [0.53-1.67], p = 0.83) and nursing satisfaction (SMD = 1.19, 95% CI [0.97-1.45], p = 0.10). This meta-analysis revealed that continuity of patient care might improve the quality of life and anxiety and depression levels of patients with inflammatory bowel disease but not the recurrence rate. This meta-analysis provides novel insights into continuity of patient care in the field of IBD. Healthcare workers should practice continuity in patient care for patients with inflammatory bowel disease to improve the quality of life and anxiety and depression. Due to extremely high heterogeneity, we lowered the evidence to a moderate quality level.",
+      "practicalTakeaways": [],
+      "date": "2026 07 23",
+      "status": "Clinical trial",
+      "references": "PeerJ · 2026 07 23 · PMID: 42491667 · DOI: 10.7717/peerj.21429",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42491667/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-07-24T06:39:15.489Z"
     }
   ]
 }
