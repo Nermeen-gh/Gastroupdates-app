@@ -357,8 +357,9 @@
       "status": "Evidence review",
       "references": "The Korean journal of gastroenterology = Taehan Sohwagi Hakhoe chi · 2026 07 24 · PMID: 42494152 · DOI: 10.4166/kjg.2025.130",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494152/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-25T06:28:49.333Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-25T06:28:49.333Z",
+      "reviewedAt": "2026-07-25T07:08:22.048Z"
     },
     {
       "id": "pmid-42496873",
@@ -374,8 +375,9 @@
       "status": "Clinical trial",
       "references": "Translational stroke research · 2026 07 24 · PMID: 42496873 · DOI: 10.1007/s12975-026-01482-1",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496873/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-25T06:28:49.333Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-25T06:28:49.333Z",
+      "reviewedAt": "2026-07-25T07:08:22.049Z"
     },
     {
       "id": "pmid-42496750",
@@ -391,8 +393,9 @@
       "status": "Clinical trial",
       "references": "Rheumatology international · 2026 07 24 · PMID: 42496750 · DOI: 10.1007/s00296-026-06254-6",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42496750/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-25T06:28:49.333Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-25T06:28:49.333Z",
+      "reviewedAt": "2026-07-25T07:08:22.049Z"
     },
     {
       "id": "pmid-42495710",
@@ -408,8 +411,9 @@
       "status": "Clinical trial",
       "references": "Cancer communications (London, England) · 2026 07 24 · PMID: 42495710 · DOI: 10.34133/cancomm.0041",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495710/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-25T06:28:49.333Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-25T06:28:49.333Z",
+      "reviewedAt": "2026-07-25T07:08:22.049Z"
     },
     {
       "id": "pmid-42495613",
@@ -425,8 +429,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in immunology · 2026 07 24 · PMID: 42495613 · DOI: 10.3389/fimmu.2026.1825905",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42495613/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-25T06:28:49.334Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-25T06:28:49.334Z",
+      "reviewedAt": "2026-07-25T07:08:22.049Z"
     },
     {
       "id": "pmid-42494170",
@@ -442,8 +447,9 @@
       "status": "Guideline candidate",
       "references": "Dental and medical problems · 2026 07 24 · PMID: 42494170 · DOI: 10.17219/dmp/214902",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42494170/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-25T06:28:49.334Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-25T06:28:49.334Z",
+      "reviewedAt": "2026-07-25T07:08:22.049Z"
     }
   ]
 }
