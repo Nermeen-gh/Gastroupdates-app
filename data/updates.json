@@ -465,8 +465,9 @@
       "status": "Guideline candidate",
       "references": "European journal of sport science · 2026 07 25 · PMID: 42499192 · DOI: 10.1002/ejsc.70225",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499192/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.527Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.527Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42501213",
@@ -482,8 +483,9 @@
       "status": "Clinical trial",
       "references": "Journal of gastrointestinal cancer · 2026 07 25 · PMID: 42501213 · DOI: 10.1007/s12029-026-01539-2",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501213/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.527Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.527Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42501209",
@@ -499,8 +501,9 @@
       "status": "Guideline candidate",
       "references": "Journal of gastrointestinal cancer · 2026 07 25 · PMID: 42501209 · DOI: 10.1007/s12029-026-01541-8",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42501209/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.527Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.527Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42499107",
@@ -516,8 +519,9 @@
       "status": "Evidence review",
       "references": "Medicine · 2026 07 25 · PMID: 42499107 · DOI: 10.1097/MD.0000000000049877",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499107/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.527Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.527Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42499082",
@@ -533,8 +537,9 @@
       "status": "Guideline candidate",
       "references": "Medicine · 2026 07 25 · PMID: 42499082 · DOI: 10.1097/MD.0000000000049916",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499082/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.528Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.528Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42500681",
@@ -550,8 +555,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in immunology · 2026 07 25 · PMID: 42500681 · DOI: 10.3389/fimmu.2026.1798732",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500681/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.528Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.528Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42500667",
@@ -567,8 +573,9 @@
       "status": "Guideline candidate",
       "references": "Frontiers in immunology · 2026 07 25 · PMID: 42500667 · DOI: 10.3389/fimmu.2026.1855859",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42500667/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.528Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.528Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42499495",
@@ -584,8 +591,9 @@
       "status": "Guideline candidate",
       "references": "Frontiers in pharmacology · 2026 07 25 · PMID: 42499495 · DOI: 10.3389/fphar.2026.1877033",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42499495/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.529Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.529Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     },
     {
       "id": "pmid-42502002",
@@ -601,8 +609,9 @@
       "status": "Guideline candidate",
       "references": "Revista de gastroenterologia del Peru : organo oficial de la Sociedad de Gastroenterologia del Peru · 2026 07 25 · PMID: 42502002",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42502002/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-26T06:48:22.529Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-26T06:48:22.529Z",
+      "reviewedAt": "2026-07-26T09:23:25.669Z"
     }
   ]
 }
