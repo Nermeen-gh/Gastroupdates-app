@@ -627,8 +627,9 @@
       "status": "Guideline candidate",
       "references": "Annals of medicine · 2026 07 27 · PMID: 42504139 · DOI: 10.1080/07853890.2026.2704998",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42504139/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.575Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.575Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     },
     {
       "id": "pmid-42503925",
@@ -644,8 +645,9 @@
       "status": "Guideline candidate",
       "references": "Zhonghua yi xue za zhi · 2026 07 27 · PMID: 42503925 · DOI: 10.3760/cma.j.cn112137-20260119-00209",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503925/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.576Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.576Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     },
     {
       "id": "pmid-42509537",
@@ -661,8 +663,9 @@
       "status": "Guideline candidate",
       "references": "BMC gastroenterology · 2026 07 27 · PMID: 42509537 · DOI: 10.1186/s12876-026-05156-y",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42509537/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.576Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.576Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     },
     {
       "id": "pmid-42504203",
@@ -678,8 +681,9 @@
       "status": "Clinical trial",
       "references": "Drug design, development and therapy · 2026 07 27 · PMID: 42504203 · DOI: 10.2147/DDDT.S620139",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42504203/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.577Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.577Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     },
     {
       "id": "pmid-42503908",
@@ -695,8 +699,9 @@
       "status": "Guideline candidate",
       "references": "Zhonghua gan zang bing za zhi = Zhonghua ganzangbing zazhi = Chinese journal of hepatology · 2026 07 27 · PMID: 42503908 · DOI: 10.3760/cma.j.cn501113-20260416-00155",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42503908/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.578Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.578Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     },
     {
       "id": "pmid-42506349",
@@ -712,8 +717,9 @@
       "status": "Evidence review",
       "references": "Medical sciences (Basel, Switzerland) · 2026 07 27 · PMID: 42506349 · DOI: 10.3390/medsci14030380",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42506349/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.578Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.578Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     },
     {
       "id": "pmid-42507446",
@@ -729,8 +735,9 @@
       "status": "Clinical trial",
       "references": "JAMA network open · 2026 07 27 · PMID: 42507446 · DOI: 10.1001/jamanetworkopen.2026.24615",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42507446/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.578Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.578Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     },
     {
       "id": "pmid-42504019",
@@ -746,8 +753,9 @@
       "status": "Clinical trial",
       "references": "Endocrinology, diabetes & metabolism · 2026 07 27 · PMID: 42504019 · DOI: 10.1002/edm2.70294",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42504019/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-07-28T06:39:40.578Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-07-28T06:39:40.578Z",
+      "reviewedAt": "2026-07-29T08:04:13.825Z"
     }
   ]
 }
