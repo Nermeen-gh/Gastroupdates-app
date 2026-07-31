@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-07-30",
+  "lastChecked": "2026-07-31",
   "items": [
     {
       "id": "pmid-42486794",
@@ -1164,6 +1164,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42517457/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-07-30T06:40:43.023Z"
+    },
+    {
+      "id": "pmid-42528332",
+      "pmid": "42528332",
+      "doi": "10.1111/tct.70486",
+      "title": "Artificially Intelligent Simulated Patients in Undergraduate Surgical Teaching: A Single Blinded Randomized Controlled Study.",
+      "category": "Gastroenterology",
+      "source": "The clinical teacher",
+      "summary": "Self-directed learning (SDL) and reflection are critically important for clinicians. There is limited evidence describing the utilization of artificial intelligence (AI) to support medical SDL. AI simulated patients (AISP) may allow for high-fidelity, reflective educational interactions. We aimed to determine how SDL with AISP interaction compared to standard SDL in the development of clinical reasoning skills. Th…",
+      "fullDetails": "Self-directed learning (SDL) and reflection are critically important for clinicians. There is limited evidence describing the utilization of artificial intelligence (AI) to support medical SDL. AI simulated patients (AISP) may allow for high-fidelity, reflective educational interactions. We aimed to determine how SDL with AISP interaction compared to standard SDL in the development of clinical reasoning skills. This was a single-institution randomized controlled study in early clinical years' undergraduate students, learning about gallstone disease. For 90% power and a 20% noninferiority margin, 36 participants were randomized either to an intervention group using an AISP or to a control group using current educational resources. Both groups underwent a standardized clinical skills assessment. Quantitative and qualitative data were collected. Twenty-seven participants completed the study. The intervention group demonstrated statistical noninferiority compared with the control group (assessment scores of 13.1 vs. 12.1, respectively, p = 0.11). In addition, there were fewer borderline grades, and significantly more distinction grades in the intervention group than control (6 vs. 1, respectively, p = 0.037), suggesting the AISP may have improved performance in clinical management. The qualitative data suggested widespread satisfaction and enthusiasm for AISPs. Our results suggest that AISPs are comparable to traditional resources in developing undergraduate clinical skills, and may contribute to improved academic performance in undergraduate surgery. Globally, there is an appetite for their introduction into the clinical curriculum. Real patient interaction is the standard. However, AISPs may have a supplementary role and are likely to become increasingly prominent in medical curricula.",
+      "practicalTakeaways": [],
+      "date": "2026 07 30",
+      "status": "Clinical trial",
+      "references": "The clinical teacher · 2026 07 30 · PMID: 42528332 · DOI: 10.1111/tct.70486",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42528332/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-07-31T07:13:35.342Z"
+    },
+    {
+      "id": "pmid-42532557",
+      "pmid": "42532557",
+      "doi": "10.1136/bmjopen-2026-122248",
+      "title": "Clinical efficacy of Mepilex Lite dressings combined with indomethacin suppositories in the treatment of acute radiation dermatitis caused by rectal cancer radiotherapy: a study protocol for a randomised controlled trial.",
+      "category": "Gastroenterology",
+      "source": "BMJ open",
+      "summary": "Acute radiation dermatitis is a common adverse reaction in radiotherapy, especially in patients with rectal cancer undergoing radiotherapy. At present, acute radiation dermatitis of the perianal skin has received widespread attention; however, acute radiation skin injury of the anal canal skin has not received sufficient attention. These patients mainly complain of anal pain, which seriously affects their quality…",
+      "fullDetails": "Acute radiation dermatitis is a common adverse reaction in radiotherapy, especially in patients with rectal cancer undergoing radiotherapy. At present, acute radiation dermatitis of the perianal skin has received widespread attention; however, acute radiation skin injury of the anal canal skin has not received sufficient attention. These patients mainly complain of anal pain, which seriously affects their quality of life. Mepilex Lite dressings have been recommended for the treatment of acute radiation dermatitis and have a definite effect. However, there is limited research on the use of this dressing for the treatment of acute radiation-induced dermatitis of the anal canal skin and its clinical efficacy and safety in this context need further verification. This study is an assessor-blinded randomised controlled trial designed to evaluate the efficacy and safety of Mepilex Lite dressings combined with indomethacin suppositories for the treatment of acute radiation dermatitis of the anal canal skin. A total of 274 eligible patients from the tumour radiotherapy ward of the First Affiliated Hospital of Shandong First Medical University will be randomly assigned to either the experiment or control group (1:1). The control group will be given 30 mg of indomethacin suppositories for rectal administration, and the experiment group will be given Mepilex Lite dressings in addition to the measures taken by the control group. The 5 cm × 5 cm dressing will be inserted into the anal canal for 3 cm through the anus and exposed for 2 cm. The main outcome indicator is the treatment efficiency of the acute radiation dermatitis of the anal canal skin on the 14th day after the intervention. The secondary outcome indicator is the treatment efficiency of the acute radiation dermatitis of the anal canal skin on the seventh and 21st days after the intervention. Concurrently, the Numeric Rating Scale, Hospital Anxiety and Depression Scale, Pittsburgh Sleep Quality Index and Skin Disease Patient Quality of Life Scale-16 will be used to assess patient pain, depression and anxiety, sleep quality and quality of life, respectively. A table questionnaire survey will be conducted at baseline and on 7, 14 and 21 days after intervention. The research protocol has obtained ethical approval from the Ethics Committee of the First Affiliated Hospital of Shandong First Medical University (approval number: YXLL-KY-2024 (162)). The results will be published in peer-reviewed journals and abstracts will be submitted to domestic and international conferences to disseminate our research findings. NCT06837831.",
+      "practicalTakeaways": [],
+      "date": "2026 07 30",
+      "status": "Clinical trial",
+      "references": "BMJ open · 2026 07 30 · PMID: 42532557 · DOI: 10.1136/bmjopen-2026-122248",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42532557/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-07-31T07:13:35.343Z"
+    },
+    {
+      "id": "pmid-42530361",
+      "pmid": "42530361",
+      "doi": "10.1002/14651858.CD016112",
+      "title": "Analgesic agents versus placebo, no intervention, or alternative analgesic regimens in acute pancreatitis.",
+      "category": "Gastroenterology",
+      "source": "The Cochrane database of systematic reviews",
+      "summary": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of different pharmacological analgesics versus placebo, no intervention, or alternative analgesic regimens in people with acute pancreatitis.",
+      "fullDetails": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of different pharmacological analgesics versus placebo, no intervention, or alternative analgesic regimens in people with acute pancreatitis.",
+      "practicalTakeaways": [],
+      "date": "2026 07 30",
+      "status": "New publication",
+      "references": "The Cochrane database of systematic reviews · 2026 07 30 · PMID: 42530361 · DOI: 10.1002/14651858.CD016112",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42530361/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-07-31T07:13:35.343Z"
+    },
+    {
+      "id": "pmid-42529281",
+      "pmid": "42529281",
+      "doi": "10.3389/fimmu.2026.1791664",
+      "title": "Efficacy of first-line treatment in driver gene-negative non-small cell lung cancer with liver metastases: a Bayesian network meta-analysis.",
+      "category": "Hepatology",
+      "source": "Frontiers in immunology",
+      "summary": "This study aimed to evaluate the first-line treatment patterns and prognostic factors associated with survival in patients with driver gene-negative non-small cell lung cancer (NSCLC) and liver metastases, in order to identify the optimal treatment strategy. A Bayesian network meta-analysis was performed using R software (version 4.2.3) and RevMan (version 5.4) to systematically compare the efficacy of various fir…",
+      "fullDetails": "This study aimed to evaluate the first-line treatment patterns and prognostic factors associated with survival in patients with driver gene-negative non-small cell lung cancer (NSCLC) and liver metastases, in order to identify the optimal treatment strategy. A Bayesian network meta-analysis was performed using R software (version 4.2.3) and RevMan (version 5.4) to systematically compare the efficacy of various first-line treatment regimens, including chemotherapy, immunotherapy, and combination therapy, in patients with driver gene-negative NSCLC with liver metastases. A total of 20 randomized controlled trials were included. Among patients with driver gene-negative NSCLC and liver metastases: (1) PD-1 inhibitor plus chemotherapy significantly improved progression-free survival (PFS) (HR = 0.572, 95% CI: 0.435-0.754) and overall survival (OS) (HR = 0.681, 95% CI: 0.559-0.830) compared with chemotherapy alone. (2) In the patients with non-squamous NSCLC, PD-1/PD-L1 inhibitor plus chemotherapy resulted in a greater PFS benefit than chemotherapy alone. (3) A similar PFS advantage was observed in patients with squamous NSCLC receiving PD-1 inhibitor plus chemotherapy versus chemotherapy alone (HR = 0.583, 95% CI: 0.386-0.882). (4) Camrelizumab plus chemotherapy (CAM+CT) ranked highest in the network meta-analysis, with the top SUCRA values for both PFS (84.18%) and OS (96.38%). In treatment-naive driver gene-negative NSCLC with liver metastases: PD-1 inhibitor plus chemotherapy conferred more significant PFS and OS benefits than chemotherapy alone. CAM+CT appeared to rank favorably among the evaluated regimens, particularly in patients with squamous NSCLC and liver metastases, suggesting it may represent a candidate treatment strategy. However, given that these findings were derived from a network meta-analysis based on indirect comparisons, they should be interpreted with caution. https://www.crd.york.ac.uk/PROSPERO/view/CRD42025632364, identifier CRD42025632364.",
+      "practicalTakeaways": [],
+      "date": "2026 07 30",
+      "status": "Clinical trial",
+      "references": "Frontiers in immunology · 2026 07 30 · PMID: 42529281 · DOI: 10.3389/fimmu.2026.1791664",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42529281/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-07-31T07:13:35.344Z"
     }
   ]
 }
