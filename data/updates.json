@@ -1275,8 +1275,9 @@
       "status": "Guideline candidate",
       "references": "Journal of gastrointestinal cancer · 2026 07 31 · PMID: 42538503 · DOI: 10.1007/s12029-026-01555-2",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538503/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.975Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.975Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42536573",
@@ -1292,8 +1293,9 @@
       "status": "Evidence review",
       "references": "Medicine · 2026 07 31 · PMID: 42536573 · DOI: 10.1097/MD.0000000000050015",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536573/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.975Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.975Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42536549",
@@ -1309,8 +1311,9 @@
       "status": "Clinical trial",
       "references": "Medicine · 2026 07 31 · PMID: 42536549 · DOI: 10.1097/MD.0000000000049937",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536549/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.976Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.976Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42536534",
@@ -1326,8 +1329,9 @@
       "status": "Evidence review",
       "references": "Medicine · 2026 07 31 · PMID: 42536534 · DOI: 10.1097/MD.0000000000049951",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536534/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.976Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.976Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42536183",
@@ -1343,8 +1347,9 @@
       "status": "Evidence review",
       "references": "Pediatric surgery international · 2026 07 31 · PMID: 42536183 · DOI: 10.1007/s00383-026-06546-9",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42536183/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.976Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.976Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42533341",
@@ -1360,8 +1365,9 @@
       "status": "Evidence review",
       "references": "World journal of surgical oncology · 2026 07 31 · PMID: 42533341 · DOI: 10.1186/s12957-025-03898-9",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533341/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.976Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.976Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42534935",
@@ -1377,8 +1383,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in immunology · 2026 07 31 · PMID: 42534935 · DOI: 10.3389/fimmu.2026.1870010",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42534935/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.976Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.976Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42535748",
@@ -1394,8 +1401,9 @@
       "status": "Evidence review",
       "references": "European review for medical and pharmacological sciences · 2026 07 31 · PMID: 42535748 · DOI: 10.26355/eurrev_202607_37883",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42535748/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.977Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.977Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     },
     {
       "id": "pmid-42533755",
@@ -1411,8 +1419,9 @@
       "status": "Evidence review",
       "references": "European journal of public health · 2026 07 31 · PMID: 42533755 · DOI: 10.1093/eurpub/ckag123",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42533755/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-01T06:42:06.977Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-01T06:42:06.977Z",
+      "reviewedAt": "2026-08-01T07:52:07.211Z"
     }
   ]
 }
