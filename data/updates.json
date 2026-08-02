@@ -1437,8 +1437,9 @@
       "status": "Guideline candidate",
       "references": "The Journal of orthopaedic and sports physical therapy · 2026 08 01 · PMID: 42538791 · DOI: 10.2519/jospt.2025.13452",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538791/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-02T06:44:45.190Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-02T06:44:45.190Z",
+      "reviewedAt": "2026-08-02T06:47:01.433Z"
     },
     {
       "id": "pmid-42540637",
@@ -1454,8 +1455,9 @@
       "status": "Clinical trial",
       "references": "Drug design, development and therapy · 2026 08 01 · PMID: 42540637 · DOI: 10.2147/DDDT.S609746",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42540637/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-02T06:44:45.192Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-02T06:44:45.192Z",
+      "reviewedAt": "2026-08-02T06:47:01.433Z"
     },
     {
       "id": "pmid-42539635",
@@ -1471,8 +1473,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in medicine · 2026 08 01 · PMID: 42539635 · DOI: 10.3389/fmed.2026.1879284",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42539635/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-02T06:44:45.192Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-02T06:44:45.192Z",
+      "reviewedAt": "2026-08-02T06:47:01.433Z"
     },
     {
       "id": "pmid-42541325",
@@ -1488,8 +1491,9 @@
       "status": "Guideline candidate",
       "references": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation · 2026 08 01 · PMID: 42541325 · DOI: 10.6002/ect.2026.0042",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541325/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-02T06:44:45.193Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-02T06:44:45.193Z",
+      "reviewedAt": "2026-08-02T06:47:01.433Z"
     }
   ]
 }
