@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-01",
+  "lastChecked": "2026-08-02",
   "items": [
     {
       "id": "pmid-42486794",
@@ -1422,6 +1422,74 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-01T06:42:06.977Z",
       "reviewedAt": "2026-08-01T07:52:07.211Z"
+    },
+    {
+      "id": "pmid-42538791",
+      "pmid": "42538791",
+      "doi": "10.2519/jospt.2025.13452",
+      "title": "Prevalence and Impact of Pelvic Floor Symptoms in Performing Artists and Artistic Athletes: A Systematic Review With Meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "The Journal of orthopaedic and sports physical therapy",
+      "summary": "OBJECTIVES: To (1) estimate the prevalence of pelvic floor symptoms in performing artists and artistic athletes and (2) quantify the impact of symptoms during and outside performance and training. DESIGN: Epidemiology systematic review with meta-analysis. LITERATURE SEARCH: Six databases were searched from inception to February 2025. STUDY SELECTION CRITERIA: Studies involving participants from any artistic discip…",
+      "fullDetails": "OBJECTIVES: To (1) estimate the prevalence of pelvic floor symptoms in performing artists and artistic athletes and (2) quantify the impact of symptoms during and outside performance and training. DESIGN: Epidemiology systematic review with meta-analysis. LITERATURE SEARCH: Six databases were searched from inception to February 2025. STUDY SELECTION CRITERIA: Studies involving participants from any artistic discipline and with data on pelvic floor symptom or disorder prevalence or impact were included. DATA SYNTHESIS: Critical appraisal was conducted using the JBI (Joanna Briggs Institute) Critical Appraisal Checklist, and the certainty of evidence was judged using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) framework. Data were pooled for pelvic floor symptom proportions in performing artists and artistic athletes, with subgroup analyses for any type of urinary incontinence by discipline. We descriptively synthesized pelvic floor symptoms and impact data that were not included in the meta-analysis. RESULTS: Nineteen articles were included. Half (52%; 95% confidence interval [CI]: 38%, 66%; I 2 = 92.7%) of the performing artists and artistic athletes reported urinary incontinence, 79% (95% CI: 69%, 88%; I 2 = 80.6%) reported anal incontinence, and 47% (95% CI: 41%, 53%; I 2 = not reported (NR)) reported dyspareunia. The discipline most affected by any type of urinary incontinence was trampolining (87%; 95% CI: 70%, 98%; I 2 = NR). Up to 83% of the performing artists and artistic athletes reported some negative impact from their symptoms. CONCLUSION: At least half of the performing artists and artistic athletes reported pelvic floor symptoms, particularly urinary and flatal incontinence. The symptoms negatively impacted 83% of the athletes during performance. J Orthop Sports Phys Ther 2026;56(8):530-545. Epub September 19 2025. doi:10.2519/jospt.2025.13452 .",
+      "practicalTakeaways": [],
+      "date": "2026 08 01",
+      "status": "Guideline candidate",
+      "references": "The Journal of orthopaedic and sports physical therapy · 2026 08 01 · PMID: 42538791 · DOI: 10.2519/jospt.2025.13452",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42538791/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-02T06:44:45.190Z"
+    },
+    {
+      "id": "pmid-42540637",
+      "pmid": "42540637",
+      "doi": "10.2147/DDDT.S609746",
+      "title": "Safety and Efficacy of Oliceridine Combined with Propofol for Painless Gastroscopy: A Single-Center, Randomized, Parallel Controlled Clinical Trial.",
+      "category": "Gastroenterology",
+      "source": "Drug design, development and therapy",
+      "summary": "To explore the safety and efficacy of the novel G protein-biased μ-opioid receptor agonist oliceridine for painless gastroscopy. This study is a single-center randomized controlled clinical trial. One hundred and eighty-eight patients scheduled for painless gastroscopy were randomly assigned to four groups: Group L (oliceridine 10 μg/kg + propofol 2mg/kg), Group M (oliceridine 20 μg/kg + propofol 2mg/kg), Group H…",
+      "fullDetails": "To explore the safety and efficacy of the novel G protein-biased μ-opioid receptor agonist oliceridine for painless gastroscopy. This study is a single-center randomized controlled clinical trial. One hundred and eighty-eight patients scheduled for painless gastroscopy were randomly assigned to four groups: Group L (oliceridine 10 μg/kg + propofol 2mg/kg), Group M (oliceridine 20 μg/kg + propofol 2mg/kg), Group H (oliceridine 30 μg/kg + propofol 2mg/kg) and Group C (sufentanil 0.1 μg/kg + propofol 2mg/kg). The primary outcome was the incidence of respiratory depression. Secondary outcomes included the incidence of respiratory arrest, bradypnea (respiratory rate<8 bpm) and hypoxemia (pulse oxygen saturation (SpO 2 ) < 90%). Other outcomes included procedure and sedation-related outcomes, perioperative vital signs and adverse effects were recorded. Among the 184 patients, 46, 46, 45 and 47 patients were randomly assigned to the L, M, H and C groups, respectively, and completed the trial. The incidence of respiratory depression in Group C (55.32%) and Group H (46.67%) was significantly higher than that in Group L (15.22%) and Group M (17.39%) ( P <0.05). The incidence of respiratory arrest was higher in group H (42.22%) and group C (51.06%) compared to group L (13.04%) and group M (15.22%) ( P < 0.05). The incidence of bradypnea and hypoxemia in group C (31.90% and 14.89%) was higher than that in group M (6.5% and 0) ( P < 0.05). The sedation success rate was significantly lower in Group L than in Group M (71.74% vs 93.48%; P < 0.05). No significant differences were observed in the incidence of postoperative adverse effects. 10 μg/kg and 20 μg/kg oliceridine is associated with a reduced risk of respiratory depression when co-administered with propofol for painless gastroscopy in adults, and the 20 μg/kg oliceridine exhibits superior sedative efficacy.",
+      "practicalTakeaways": [],
+      "date": "2026 08 01",
+      "status": "Clinical trial",
+      "references": "Drug design, development and therapy · 2026 08 01 · PMID: 42540637 · DOI: 10.2147/DDDT.S609746",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42540637/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-02T06:44:45.192Z"
+    },
+    {
+      "id": "pmid-42539635",
+      "pmid": "42539635",
+      "doi": "10.3389/fmed.2026.1879284",
+      "title": "Efficacy and safety of endoscopy-specific dual-channel supraglottic airways for upper gastrointestinal endoscopic and transesophageal instrumentation procedures: a systematic review and meta-analysis.",
+      "category": "Endoscopy",
+      "source": "Frontiers in medicine",
+      "summary": "Airway management during upper gastrointestinal endoscopic procedures and other transesophageal instrumentation remains challenging because the airway and procedural device share the upper aerodigestive tract. Endoscopy-specific dual-channel supraglottic airways (dc-SGAs), including the LMA ® Gastro™ Airway and the Jcerity Endoscoper™ Airway, are designed to maintain ventilation while permitting passage of an endo…",
+      "fullDetails": "Airway management during upper gastrointestinal endoscopic procedures and other transesophageal instrumentation remains challenging because the airway and procedural device share the upper aerodigestive tract. Endoscopy-specific dual-channel supraglottic airways (dc-SGAs), including the LMA ® Gastro™ Airway and the Jcerity Endoscoper™ Airway, are designed to maintain ventilation while permitting passage of an endoscope or transesophageal probe through a separate procedural channel. Nevertheless, their comparative efficacy and safety remain uncertain across heterogeneous procedures and comparator strategies. We conducted a systematic review and meta-analysis of randomized controlled trials comparing endoscopy-specific dc-SGAs with endotracheal tubes, other placed airway or access devices, or non-invasive oxygen therapy during upper gastrointestinal endoscopic or transesophageal instrumentation procedures. Observational studies were summarized narratively but were not included in pooled analyses. Fifteen studies were included, including 13 randomized controlled trials involving 2,481 participants in the quantitative synthesis and 2 observational studies summarized narratively. Endoscopy-specific dc-SGAs showed comparable first-attempt airway device and endoscope/probe insertion success to comparator strategies and shortened airway device insertion time. Effects on endoscope/probe insertion time and endoscopist satisfaction were inconsistent and varied across comparator types. dc-SGAs reduced intraoperative hypoxemia, mainly in comparisons with non-invasive oxygen therapy. Postoperative sore throat showed a comparator-dependent pattern, with fewer events compared with endotracheal tubes but more events compared with non-invasive oxygen therapy. Endoscopy-specific dc-SGAs may represent a feasible intermediate airway strategy for selected patients undergoing upper gastrointestinal endoscopic and transesophageal instrumentation procedures. They may improve airway placement efficiency and, compared with non-invasive oxygen therapy, reduce hypoxemia; however, these potential benefits should be interpreted in light of comparator-dependent throat discomfort, procedure heterogeneity, and the low-to-moderate certainty of evidence. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251182546, identifier [CRD420251182546].",
+      "practicalTakeaways": [],
+      "date": "2026 08 01",
+      "status": "Clinical trial",
+      "references": "Frontiers in medicine · 2026 08 01 · PMID: 42539635 · DOI: 10.3389/fmed.2026.1879284",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42539635/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-02T06:44:45.192Z"
+    },
+    {
+      "id": "pmid-42541325",
+      "pmid": "42541325",
+      "doi": "10.6002/ect.2026.0042",
+      "title": "Prevalence and Clinical Impact of Multidrug-Resistant Bacterial Colonization and Infection in Liver Transplant Recipients: A Systematic Review and Meta-Analysis of Observational Studies.",
+      "category": "Hepatology",
+      "source": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation",
+      "summary": "To our knowledge, a systematic review that has comprehensively evaluated the prevalence and clinical impact of multidrug -resistant bacteria in adult liver transplant recipients is not available. This review assessed the prevalence and clinical impact of multidrug -resistant bacteria among liver transplant recipients. In accordance with PRISMA guidelines, we searched Web of Science, PubMed, and Google Scholar thro…",
+      "fullDetails": "To our knowledge, a systematic review that has comprehensively evaluated the prevalence and clinical impact of multidrug -resistant bacteria in adult liver transplant recipients is not available. This review assessed the prevalence and clinical impact of multidrug -resistant bacteria among liver transplant recipients. In accordance with PRISMA guidelines, we searched Web of Science, PubMed, and Google Scholar through August 2025. The study protocol was registered in PROSPERO (CRD420251181202 ). We included cohort and case -control studies that reported on adult first liver transplant recipients harboring and not harboring multidrug -resistant bacteria. Two reviewers assessed eligibility and conducted a risk of bias evaluation using the Newcastle -Ottawa Scale. We synthesized data using the web -based Review Manager for a meta -analysis, with a random -effects model to compute the pooled odds ratio and 95 % CI. Statistical heterogeneity was determined using the I2 statistic. In the 13 included studies (12 cohort studies, 1 case -control study ), multidrug -resistant bacteria were identified in 507 of 28 599 liver transplant recipients. Multidrug -resistant bacteria colonization significantly increased posttransplant infection (odds ratio 5.98; 95 % CI, 2.24 -15.94 ), and their presence significantly increased mortality (odds ratio 5.32; 95 % CI, 2.36 -11.97 ). Subgroup analyses suggested a regional variation in mortality risk with a higher association in China and Japan (odds ratio, 22.26; 95 % CI, 6.83 -72.6 ). Exposure to these bacteria was also associated with prolonged hospital and intensive care unit stay and showed a borderline association with acute kidney injury but not with graft rejection. Colonization with multidrug -resistant bacteria is associated with increased infection, and both colonization and infection raise the risk of mortality. Despite the variations across studies in geography, follow -up duration, and screening methods, actions to prevent colonization in transplant candidates are warranted.",
+      "practicalTakeaways": [],
+      "date": "2026 08 01",
+      "status": "Guideline candidate",
+      "references": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation · 2026 08 01 · PMID: 42541325 · DOI: 10.6002/ect.2026.0042",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42541325/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-02T06:44:45.193Z"
     }
   ]
 }
