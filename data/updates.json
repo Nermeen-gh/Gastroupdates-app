@@ -1509,8 +1509,9 @@
       "status": "Evidence review",
       "references": "Langenbeck's archives of surgery · 2026 08 03 · PMID: 42545514 · DOI: 10.1007/s00423-026-04165-5",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545514/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-04T06:40:12.720Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-04T06:40:12.720Z",
+      "reviewedAt": "2026-08-04T18:00:12.123Z"
     },
     {
       "id": "pmid-42544486",
@@ -1526,8 +1527,9 @@
       "status": "Guideline candidate",
       "references": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus · 2026 08 03 · PMID: 42544486 · DOI: 10.1093/dote/doag078",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544486/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-04T06:40:12.721Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-04T06:40:12.721Z",
+      "reviewedAt": "2026-08-04T18:00:12.123Z"
     }
   ]
 }
