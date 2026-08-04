@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-03",
+  "lastChecked": "2026-08-04",
   "items": [
     {
       "id": "pmid-42486794",
@@ -1494,6 +1494,40 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-02T06:44:45.193Z",
       "reviewedAt": "2026-08-02T06:47:01.433Z"
+    },
+    {
+      "id": "pmid-42545514",
+      "pmid": "42545514",
+      "doi": "10.1007/s00423-026-04165-5",
+      "title": "Possible underestimation of non-operative management success in perforated diverticulitis with distant free air : Re: Cirocchi R, Matteucci M, Mari GM et al. (2026) The role of non-operative management (NOM) in perforated diverticulitis: a systematic review. Langenbecks Arch Surg 411:79.",
+      "category": "Gastroenterology",
+      "source": "Langenbeck's archives of surgery",
+      "summary": "The review reported a 27.8% success rate for non-operative management in patients with distant free air and, on that basis, suggested that early surgery should be strongly considered. When we examined the published data, we were unable to reproduce this estimate. Recalculating from the information given in the review, the numerator appeared to include only studies that reported this outcome, whereas the denominato…",
+      "fullDetails": "The review reported a 27.8% success rate for non-operative management in patients with distant free air and, on that basis, suggested that early surgery should be strongly considered. When we examined the published data, we were unable to reproduce this estimate. Recalculating from the information given in the review, the numerator appeared to include only studies that reported this outcome, whereas the denominator also included patients from studies in which it was not reported; on a like-for-like basis the success rate is closer to 73% than to the reported 27.8%. Several values in the distant-free-air column of Table 5 of the review also correspond exactly to the complementary failure rates, which is compatible with a labelling or reporting error. These observations concern the distant-air subgroup specifically and require verification against the original data rather than establishing that the pooled analysis is incorrect. Given the clinical weight carried by this subgroup, clarification from the authors, and a correction if the discrepancies are confirmed, would be valuable.",
+      "practicalTakeaways": [],
+      "date": "2026 08 03",
+      "status": "Evidence review",
+      "references": "Langenbeck's archives of surgery · 2026 08 03 · PMID: 42545514 · DOI: 10.1007/s00423-026-04165-5",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42545514/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-04T06:40:12.720Z"
+    },
+    {
+      "id": "pmid-42544486",
+      "pmid": "42544486",
+      "doi": "10.1093/dote/doag078",
+      "title": "Oligometastatic esophageal squamous cell carcinoma: a systematic review of current definitions and meta-analysis of local therapy outcomes.",
+      "category": "Gastroenterology",
+      "source": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+      "summary": "Current European expert consensus definitions for esophagogastric oligometastatic disease (OMD) primarily relate to adenocarcinoma. Oligometastatic esophageal squamous cell carcinoma (OMESQ) may require a distinct definition and treatment strategy. This systematic review and meta-analysis aimed to identify applied OMESQ definitions and assess the impact of local treatment on overall survival (OS). A systematic sea…",
+      "fullDetails": "Current European expert consensus definitions for esophagogastric oligometastatic disease (OMD) primarily relate to adenocarcinoma. Oligometastatic esophageal squamous cell carcinoma (OMESQ) may require a distinct definition and treatment strategy. This systematic review and meta-analysis aimed to identify applied OMESQ definitions and assess the impact of local treatment on overall survival (OS). A systematic search of PubMed, Embase, CENTRAL, and ClinicalTrials.gov was conducted (February 2026). Studies or protocols were eligible if they reported an OMESQ definition or outcomes of local treatment in patients with limited metastatic ESCC. The primary outcomes were the maximum number of involved organs and metastases defined as OMD. Agreement across studies was scored as absent/poor (< 50%), fair (50%-75%), or strong (≥ 75%). A meta-analysis of OS after local treatment (+/- systemic therapy) versus systemic therapy alone was conducted through a random-effects pooled analysis of hazard ratios (HRs). Of the 3844 screened articles, 27 studies (23 retrospective, 4 prospective [one randomized]) and 7 protocols were included. Agreement was observed for defining synchronous OMESQ as disease in one organ with ≤3 metastases and metachronous OMESQ as disease in one organ with ≤2 metastases. Across 10 studies, meta-analysis showed that local treatment (+/- systemic therapy) was associated with improved OS compared with systemic therapy alone (pooled HR 0.61, 95% confidence interval: 0.52-0.72; I2 = 50.7%). Current literature and trial protocols considers OMESQ as ≤3 synchronous or ≤ 2 metachronous metastases in 1 organ. Local treatment is associated with improved OS compared with systemic therapy alone.",
+      "practicalTakeaways": [],
+      "date": "2026 08 03",
+      "status": "Guideline candidate",
+      "references": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus · 2026 08 03 · PMID: 42544486 · DOI: 10.1093/dote/doag078",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42544486/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-04T06:40:12.721Z"
     }
   ]
 }
