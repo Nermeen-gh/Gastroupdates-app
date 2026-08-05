@@ -1545,8 +1545,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in medicine · 2026 08 04 · PMID: 42548801 · DOI: 10.3389/fmed.2026.1872781",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42548801/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-05T06:41:09.724Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-05T06:41:09.724Z",
+      "reviewedAt": "2026-08-05T07:21:40.171Z"
     },
     {
       "id": "pmid-42551038",
@@ -1562,8 +1563,9 @@
       "status": "Evidence review",
       "references": "BJS open · 2026 08 04 · PMID: 42551038 · DOI: 10.1093/bjsopen/zrag080",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551038/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-05T06:41:09.725Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-05T06:41:09.725Z",
+      "reviewedAt": "2026-08-05T07:21:40.172Z"
     },
     {
       "id": "pmid-42551037",
@@ -1579,8 +1581,9 @@
       "status": "Clinical trial",
       "references": "BJS open · 2026 08 04 · PMID: 42551037 · DOI: 10.1093/bjsopen/zrag045",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42551037/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-05T06:41:09.725Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-05T06:41:09.725Z",
+      "reviewedAt": "2026-08-05T07:21:40.172Z"
     }
   ]
 }
