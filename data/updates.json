@@ -1599,8 +1599,9 @@
       "status": "Evidence review",
       "references": "Journal of viral hepatitis · 2026 08 05 · PMID: 42554292 · DOI: 10.1111/jvh.70219",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42554292/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-06T06:44:49.741Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-06T06:44:49.741Z",
+      "reviewedAt": "2026-08-07T06:30:26.899Z"
     },
     {
       "id": "pmid-42552646",
@@ -1616,8 +1617,9 @@
       "status": "Evidence review",
       "references": "Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences · 2026 08 05 · PMID: 42552646 · DOI: 10.1177/15910199241290846",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42552646/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-06T06:44:49.741Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-06T06:44:49.741Z",
+      "reviewedAt": "2026-08-07T06:30:26.899Z"
     },
     {
       "id": "pmid-42556905",
@@ -1633,8 +1635,9 @@
       "status": "Guideline candidate",
       "references": "The journal of evidence-based dental practice · 2026 08 05 · PMID: 42556905 · DOI: 10.1016/j.jebdp.2026.102268",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42556905/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-07T05:49:52.369Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-07T05:49:52.369Z",
+      "reviewedAt": "2026-08-07T06:30:26.899Z"
     },
     {
       "id": "pmid-42560411",
@@ -1650,8 +1653,9 @@
       "status": "Guideline candidate",
       "references": "Journal of gastrointestinal cancer · 2026 08 06 · PMID: 42560411 · DOI: 10.1007/s12029-026-01519-6",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42560411/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-07T05:49:52.369Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-07T05:49:52.369Z",
+      "reviewedAt": "2026-08-07T06:30:26.899Z"
     },
     {
       "id": "pmid-42560396",
@@ -1667,8 +1671,9 @@
       "status": "Evidence review",
       "references": "Journal of neurology · 2026 08 06 · PMID: 42560396 · DOI: 10.1007/s00415-026-14041-3",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42560396/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-07T05:49:52.369Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-07T05:49:52.369Z",
+      "reviewedAt": "2026-08-07T06:30:26.899Z"
     },
     {
       "id": "pmid-42557451",
@@ -1684,8 +1689,9 @@
       "status": "Clinical trial",
       "references": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer · 2026 08 06 · PMID: 42557451 · DOI: 10.1007/s00520-026-11035-9",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42557451/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-07T05:49:52.369Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-07T05:49:52.369Z",
+      "reviewedAt": "2026-08-07T06:30:26.900Z"
     },
     {
       "id": "pmid-42557857",
@@ -1701,8 +1707,9 @@
       "status": "Clinical trial",
       "references": "Journal of Crohn's & colitis · 2026 08 06 · PMID: 42557857 · DOI: 10.1093/ecco-jcc/jjag110",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42557857/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-07T05:49:52.370Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-07T05:49:52.370Z",
+      "reviewedAt": "2026-08-07T06:30:26.900Z"
     },
     {
       "id": "pmid-42561334",
@@ -1718,8 +1725,9 @@
       "status": "Evidence review",
       "references": "Revista do Colegio Brasileiro de Cirurgioes · 2026 08 06 · PMID: 42561334 · DOI: 10.1590/0100-6991e-2026001925-en",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42561334/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-07T05:49:52.370Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-07T05:49:52.370Z",
+      "reviewedAt": "2026-08-07T06:30:26.900Z"
     }
   ]
 }
