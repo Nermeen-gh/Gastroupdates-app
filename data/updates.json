@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-07",
+  "lastChecked": "2026-08-08",
   "items": [
     {
       "id": "pmid-42486794",
@@ -1728,6 +1728,91 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-07T05:49:52.370Z",
       "reviewedAt": "2026-08-07T06:30:26.900Z"
+    },
+    {
+      "id": "pmid-42567152",
+      "pmid": "42567152",
+      "doi": "10.1016/j.accpm.2026.101879",
+      "title": "Guidelines 2025: perioperative management of adult patients undergoing liver resection.",
+      "category": "Hepatology",
+      "source": "Anaesthesia, critical care & pain medicine",
+      "summary": "The French Society of Anesthesia and Intensive Care (SFAR), the French Society for the Study of the Liver (AFEF), and the Association for Hepato-Biliary-Pancreatic Surgery and Liver Transplantation (ACHBPT) jointly developed guidelines for the perioperative management of liver resection surgery. A multidisciplinary panel of French experts from the SFAR, the AFEF, and the ACHBPT was convened. All potential conflict…",
+      "fullDetails": "The French Society of Anesthesia and Intensive Care (SFAR), the French Society for the Study of the Liver (AFEF), and the Association for Hepato-Biliary-Pancreatic Surgery and Liver Transplantation (ACHBPT) jointly developed guidelines for the perioperative management of liver resection surgery. A multidisciplinary panel of French experts from the SFAR, the AFEF, and the ACHBPT was convened. All potential conflicts of interest were officially declared before initiation of the recommendation development process, which was conducted independently of any industry funding. The authors used the GRADE (Grading of Recommendations Assessment, Development and Evaluation) methodology to assess the quality of evidence in the literature. Three areas were defined: (1) preoperative assessment; (2) optimization of intraoperative management; and (3) optimization of postoperative management. For each domain, the objective of the recommendations was to address a series of questions formulated by experts according to the PICO model (\"Population, Intervention, Comparison, Outcome\"). Based on these questions, an extensive bibliographic search covering the period from 2004 to 2024 was conducted using predefined keywords in accordance with PRISMA recommendations. Data quality was analysed using the GRADE method. Recommendations were formulated according to the GRADE method and subsequently submitted to all experts for voting using the GRADE grid method. The experts' synthesis and application of the GRADE methodology resulted in 40 recommendations addressing 14 questions. After two rounds of voting and several revisions, strong agreement was achieved for all 40 recommendations. Among these recommendations, 7 were supported by a high level of evidence (GRADE 1), 23 by a low level of evidence (GRADE 2), and 10 corresponded to expert opinions (EO). Finally, no recommendation could be formulated for four questions. (ABS). Strong expert agreement was achieved regarding recommendations aimed at optimizing perioperative management in patients undergoing liver resection.",
+      "practicalTakeaways": [],
+      "date": "2026 08 07",
+      "status": "Guideline candidate",
+      "references": "Anaesthesia, critical care & pain medicine · 2026 08 07 · PMID: 42567152 · DOI: 10.1016/j.accpm.2026.101879",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567152/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-08T05:09:39.213Z"
+    },
+    {
+      "id": "pmid-42566454",
+      "pmid": "42566454",
+      "doi": "10.1371/journal.pone.0355677",
+      "title": "The PROGAIN trial: A randomized controlled trial of high-protein peripheral parenteral nutrition on nitrogen balance and recovery after gastric cancer surgery - study protocol.",
+      "category": "Hepatology",
+      "source": "PloS one",
+      "summary": "Patients undergoing curative gastrectomy for gastric cancer are vulnerable to perioperative protein loss, negative nitrogen balance and delayed recovery. Conventional peripheral parenteral nutrition (PN) formulations may not provide sufficient protein at clinically practical infusion volumes, and whether high-protein (amino acid-enriched) PN improves postoperative nitrogen balance after gastrectomy has not been te…",
+      "fullDetails": "Patients undergoing curative gastrectomy for gastric cancer are vulnerable to perioperative protein loss, negative nitrogen balance and delayed recovery. Conventional peripheral parenteral nutrition (PN) formulations may not provide sufficient protein at clinically practical infusion volumes, and whether high-protein (amino acid-enriched) PN improves postoperative nitrogen balance after gastrectomy has not been tested in a randomized controlled trial. The PROGAIN trial evaluates the effect of perioperative high-protein PN on nitrogen balance and recovery outcomes in this population. PROGAIN is a single-center, randomized, open-label, parallel-group superiority trial with blinded laboratory assessment and coded-group analysis of the primary endpoint. The trial will enroll 110 patients with gastric cancer scheduled for curative gastrectomy. Participants are allocated 1:1 to high-protein PN or conventional PN, administered through a peripheral intravenous line on the day before surgery and postoperative day (POD) 1 through POD 5. PN is delivered at a daily caloric target of 20 kcal/kg/day using a stepwise schedule informed by an institutional retrospective audit of oral intake. The primary outcome is nitrogen balance on POD 5, calculated using a simplified Blackburn equation. Secondary outcomes include nutritional indices, skeletal muscle index, glycemic control, postoperative complications classified by Clavien-Dindo grade and functional recovery measures. The primary analysis will compare the two arms using a two-sample t-test in the intention-to-treat population. The trial has 80% power to detect a between-group mean difference of 3 g/day at a two-sided α of 0.05. The trial is approved by the Institutional Review Board of Soonchunhyang Cheonan Hospital and conducted in accordance with the Declaration of Helsinki and ICH-Good Clinical Practice. Findings will be disseminated through peer-reviewed publication, scientific meetings and results reporting on ClinicalTrials.gov. ClinicalTrials.gov, NCT07488611.",
+      "practicalTakeaways": [],
+      "date": "2026 08 07",
+      "status": "Clinical trial",
+      "references": "PloS one · 2026 08 07 · PMID: 42566454 · DOI: 10.1371/journal.pone.0355677",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566454/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-08T05:09:39.213Z"
+    },
+    {
+      "id": "pmid-42562921",
+      "pmid": "42562921",
+      "doi": "10.1007/s10151-026-03362-0",
+      "title": "Delayed secondary repair of third- and fourth-degree obstetric anal sphincter injuries: a randomized controlled trial comparing overlapping versus end-to-end sphincter repair.",
+      "category": "Gastroenterology",
+      "source": "Techniques in coloproctology",
+      "summary": "Secondary anal sphincter repair is necessary in fewer than 3% of cases following primary repair of obstetric anal sphincter injuries (OASI). Although there is some growing evidence comparing early and delayed secondary repairs, the traditional and most common way to manage secondary OASI is still delayed repair. This study compared clinical and functional outcomes of overlapping versus end-to-end sphincter repair…",
+      "fullDetails": "Secondary anal sphincter repair is necessary in fewer than 3% of cases following primary repair of obstetric anal sphincter injuries (OASI). Although there is some growing evidence comparing early and delayed secondary repairs, the traditional and most common way to manage secondary OASI is still delayed repair. This study compared clinical and functional outcomes of overlapping versus end-to-end sphincter repair techniques in delayed secondary repair of OASI. In this single-center randomized controlled trial, 40 women with third- or fourth-degree OASI and wound dehiscence after primary repair were randomized 1:1 to overlapping sphincteroplasty or end-to-end approximation. Assessments were performed preoperatively and at 2 weeks, 3, 6, and 12 months. The primary outcome was the Wexner incontinence score at 12 months. Analysis was per-protocol with intention-to-treat sensitivity analysis. Thirty-eight women were included in the per-protocol analysis (overlapping n = 18; end-to-end n = 20). Two patients in the overlapping group were lost to follow-up. Operative time was significantly longer in the overlapping group (121.3 ± 5.5 vs 102.8 ± 6.3 min; p < 0.001). The overlapping repair resulted in a significantly lower mean Wexner score (0.5 ± 0.2 vs 2.2 ± 0.8; p < 0.001) and higher rate of complete continence (Wexner ≤ 5: 100% vs 85%; p = 0.03). Time to wound healing was shorter (23.3 ± 4.8 vs 26.9 ± 5.5 days; p = 0.08) and overall complications were lower (11.1% vs 30.0%) in the overlapping group. Endoanal ultrasound Starck scores and manometry parameters showed consistent trends favoring overlapping repair, although these differences were not statistically significant. In delayed secondary OASI repair, overlapping sphincteroplasty provided superior continence outcomes and lower complication rates than end-to-end repair, when combined with meticulous muscle mobilization and a standardized postoperative regimen. These findings support overlapping repair as the preferred technique in this setting.",
+      "practicalTakeaways": [],
+      "date": "2026 08 07",
+      "status": "Clinical trial",
+      "references": "Techniques in coloproctology · 2026 08 07 · PMID: 42562921 · DOI: 10.1007/s10151-026-03362-0",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42562921/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-08T05:09:39.213Z"
+    },
+    {
+      "id": "pmid-42564169",
+      "pmid": "42564169",
+      "doi": "10.3389/fimmu.2026.1879137",
+      "title": "Hepatic granulomas as a manifestation of ANCA-associated vasculitis:a systematic review.",
+      "category": "Hepatology",
+      "source": "Frontiers in immunology",
+      "summary": "ANCA-associated vasculitides (AAV) - granulomatosis with polyangiitis (GPA), eosinophilic granulomatosis with polyangiitis (EGPA), and microscopic polyangiitis (MPA) - are rare small-vessel autoimmune diseases. Liver involvement in AAV is uncommon and generally manifests as biochemical hepatitis; true hepatic granulomatosis is exceedingly rare and diagnostically challenging. We conducted a systematic scoping revie…",
+      "fullDetails": "ANCA-associated vasculitides (AAV) - granulomatosis with polyangiitis (GPA), eosinophilic granulomatosis with polyangiitis (EGPA), and microscopic polyangiitis (MPA) - are rare small-vessel autoimmune diseases. Liver involvement in AAV is uncommon and generally manifests as biochemical hepatitis; true hepatic granulomatosis is exceedingly rare and diagnostically challenging. We conducted a systematic scoping review following PRISMA-ScR guidelines and the Arksey & O'Malley framework, searching PubMed, Google Scholar, ScienceDirect, and Scopus without date restriction (through March 2026). A total of 7, 033 records were initially retrieved; after deduplication, title/abstract screening, and full-text review, five articles meeting strict inclusion criteria were included for qualitative synthesis. Five published cases of hepatic granulomas in AAV patients with no confirmed confounding etiology were identified. All were GPA or EGPA; no case of pure MPA was documented. Three patients were female and two were male, with a mean age of 57.6 years. Liver histology revealed non-necrotizing epithelioid granulomas (n = 2), granulomatous inflammation with necrosis (n = 1), incomplete septal cirrhosis with vasculopathic changes (n = 1), and incidental calcified granulomas (n = 1). Immunosuppressive therapy with corticosteroids and/or cyclophosphamide achieved clinical and biochemical improvement in all treated patients. Hepatic granulomatosis is a rare but genuine extra-respiratory manifestation of AAV, most frequently reported in GPA. It may antedate the canonical ENT-pulmonary-renal triad, presenting as incidental hepatomegaly or unexplained liver function test elevation. Systematic exclusion of competing etiologies (sarcoidosis, tuberculosis, primary biliary cholangitis, drug-induced hepatitis) is mandatory before attributing granulomas to AAV. Liver biopsy remains pivotal in confirming the diagnosis. Immunosuppression is the therapeutic cornerstone, with generally favourable outcomes.",
+      "practicalTakeaways": [],
+      "date": "2026 08 07",
+      "status": "Guideline candidate",
+      "references": "Frontiers in immunology · 2026 08 07 · PMID: 42564169 · DOI: 10.3389/fimmu.2026.1879137",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564169/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-08T05:09:39.214Z"
+    },
+    {
+      "id": "pmid-42565372",
+      "pmid": "42565372",
+      "doi": "10.1093/bjsopen/zrag119",
+      "title": "Laparoscopic versus open surgery for rectal cancer: individual patient data meta-analysis of the ALaCaRT and Z6051 randomized trials.",
+      "category": "Gastroenterology",
+      "source": "BJS open",
+      "summary": "The multicentre ALaCaRT and ACOSOG Z6051 randomized trials were unable to demonstrate non-inferiority of laparoscopic versus open surgery for rectal cancer with respect to a composite pathology metric indicating successful resection. Neither trial was individually powered to detect differences in long-term recurrence or survival. This planned meta-analysis determined long-term oncological outcomes of laparoscopic…",
+      "fullDetails": "The multicentre ALaCaRT and ACOSOG Z6051 randomized trials were unable to demonstrate non-inferiority of laparoscopic versus open surgery for rectal cancer with respect to a composite pathology metric indicating successful resection. Neither trial was individually powered to detect differences in long-term recurrence or survival. This planned meta-analysis determined long-term oncological outcomes of laparoscopic versus open proctectomy for rectal adenocarcinoma. This prospective meta-analysis included individual patient data from patients with cT1-3 N0-2 M0 rectal adenocarcinoma enrolled in the ALaCaRT and ACOSOG Z6051 trials. Pathologically successful resection was defined as complete or near-complete total mesorectal excision, a clear circumferential resection margin (CRM; > 1 mm), and a clear distal resection margin (> 1 mm). The non-inferiority margin for disease-free survival (DFS) was an absolute difference of 5% at least 3 years after surgery. The combined data set included 935 patients (65.6% men, mean age 60.7 years, mean body mass index 26.7 kg/m2) randomized to open (457 patients) or laparoscopic (478 patients) proctectomy. Pathologically successful resection was lower in the laparoscopic than open group (85.1% versus 89.9%, respectively; pooled estimate 4.6% difference; 95% confidence interval (c.i.) -8.6% to -0.5%). The median follow-up was 60.2 (interquartile range 49.9-61.1) months. Three-year DFS was 75.2% (95% c.i. 71.1% to 79.2%) and 76.5% (95% c.i. 72.5% to 80.6%) for the laparoscopic and open groups, respectively (pooled estimate difference -1.5%; 95% c.i. -7.2% to 4.2%). Non-inferiority of laparoscopic surgery was not demonstrated because the lower one-sided 95% c.i. (-6.3% to 100%) crossed -5%. Three-year locoregional recurrence was higher in laparoscopic than open group (5.4% (95% c.i. 3.3% to 7.5%) versus 2.0% (95% c.i. 0.7% to 3.4%), respectively; pooled estimate 3.1% difference (95% c.i. 0.6% to 5.6%)). A clear CRM was the most significant and only pathological predictor of both DFS (P < 0.0001) and overall survival (P < 0.0001). Laparoscopic proctectomy led to a lower rate of pathologically successful resection and a higher rate of locoregional recurrence at 3 years. The possibility of subsequent poorer DFS or overall survival rate requires further evaluation, because this analysis was not specifically powered for these endpoints.",
+      "practicalTakeaways": [],
+      "date": "2026 08 07",
+      "status": "Clinical trial",
+      "references": "BJS open · 2026 08 07 · PMID: 42565372 · DOI: 10.1093/bjsopen/zrag119",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42565372/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-08T05:09:39.214Z"
     }
   ]
 }
