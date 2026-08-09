@@ -1743,8 +1743,9 @@
       "status": "Guideline candidate",
       "references": "Anaesthesia, critical care & pain medicine · 2026 08 07 · PMID: 42567152 · DOI: 10.1016/j.accpm.2026.101879",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42567152/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-08T05:09:39.213Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-08T05:09:39.213Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42566454",
@@ -1760,8 +1761,9 @@
       "status": "Clinical trial",
       "references": "PloS one · 2026 08 07 · PMID: 42566454 · DOI: 10.1371/journal.pone.0355677",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566454/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-08T05:09:39.213Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-08T05:09:39.213Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42562921",
@@ -1777,8 +1779,9 @@
       "status": "Clinical trial",
       "references": "Techniques in coloproctology · 2026 08 07 · PMID: 42562921 · DOI: 10.1007/s10151-026-03362-0",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42562921/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-08T05:09:39.213Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-08T05:09:39.213Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42564169",
@@ -1794,8 +1797,9 @@
       "status": "Guideline candidate",
       "references": "Frontiers in immunology · 2026 08 07 · PMID: 42564169 · DOI: 10.3389/fimmu.2026.1879137",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42564169/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-08T05:09:39.214Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-08T05:09:39.214Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42565372",
@@ -1811,8 +1815,9 @@
       "status": "Clinical trial",
       "references": "BJS open · 2026 08 07 · PMID: 42565372 · DOI: 10.1093/bjsopen/zrag119",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42565372/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-08T05:09:39.214Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-08T05:09:39.214Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42570330",
@@ -1828,8 +1833,9 @@
       "status": "Evidence review",
       "references": "Journal of Crohn's & colitis · 2026 08 08 · PMID: 42570330 · DOI: 10.1093/ecco-jcc/jjag111",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42570330/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.408Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.408Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42568293",
@@ -1845,8 +1851,9 @@
       "status": "Guideline candidate",
       "references": "Cancer medicine · 2026 08 08 · PMID: 42568293 · DOI: 10.1002/cam4.72142",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568293/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.409Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.409Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42568201",
@@ -1862,8 +1869,9 @@
       "status": "Clinical trial",
       "references": "Psycho-oncology · 2026 08 08 · PMID: 42568201 · DOI: 10.1002/pon.70570",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568201/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.409Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.409Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42568174",
@@ -1879,8 +1887,9 @@
       "status": "Evidence review",
       "references": "Pediatric transplantation · 2026 08 08 · PMID: 42568174 · DOI: 10.1111/petr.70425",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568174/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.409Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.409Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42568838",
@@ -1896,8 +1905,9 @@
       "status": "Evidence review",
       "references": "Frontiers in pharmacology · 2026 08 08 · PMID: 42568838 · DOI: 10.3389/fphar.2026.1822157",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568838/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.409Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.409Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42568705",
@@ -1913,8 +1923,9 @@
       "status": "Evidence review",
       "references": "Frontiers in pharmacology · 2026 08 08 · PMID: 42568705 · DOI: 10.3389/fphar.2026.1870457",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568705/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.409Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.409Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42568405",
@@ -1930,8 +1941,9 @@
       "status": "Evidence review",
       "references": "Frontiers in nutrition · 2026 08 08 · PMID: 42568405 · DOI: 10.3389/fnut.2026.1885679",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568405/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.409Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.409Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     },
     {
       "id": "pmid-42568357",
@@ -1947,8 +1959,9 @@
       "status": "New publication",
       "references": "Frontiers in cellular and infection microbiology · 2026 08 08 · PMID: 42568357 · DOI: 10.3389/fcimb.2026.1878923",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42568357/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-09T05:17:40.409Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-09T05:17:40.409Z",
+      "reviewedAt": "2026-08-09T17:51:17.378Z"
     }
   ]
 }
