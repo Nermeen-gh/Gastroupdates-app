@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-12",
+  "lastChecked": "2026-08-13",
   "items": [
     {
       "id": "pmid-42486794",
@@ -2083,6 +2083,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42578777/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-08-12T05:45:31.797Z"
+    },
+    {
+      "id": "pmid-42585216",
+      "pmid": "42585216",
+      "doi": "10.1002/vms3.71167",
+      "title": "Prevalence, Genetic Diversity, and Zoonotic Transmission Potential of Cryptosporidium spp. in Snakes: A Systematic Review and Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Veterinary medicine and science",
+      "summary": "Cryptosporidium spp. are important protozoan parasites infecting a wide range of vertebrate hosts, including reptiles. In snakes, this parasite is primarily associated with chronic gastrointestinal disease and substantial genetic diversity, including potentially zoonotic species. However, epidemiological data remain fragmented and heterogeneous. Therefore, this systematic review and meta-analysis aimed to evaluate…",
+      "fullDetails": "Cryptosporidium spp. are important protozoan parasites infecting a wide range of vertebrate hosts, including reptiles. In snakes, this parasite is primarily associated with chronic gastrointestinal disease and substantial genetic diversity, including potentially zoonotic species. However, epidemiological data remain fragmented and heterogeneous. Therefore, this systematic review and meta-analysis aimed to evaluate the prevalence, genetic diversity, and zoonotic potential of Cryptosporidium spp. in snakes. A systematic search was conducted in PubMed, Scopus and Web of Science from database inception to 5 May 2026. Additional studies were identified through Google Scholar and reference screening. Eligible studies reporting Cryptosporidium spp. prevalence in snakes were included. Pooled prevalence estimates and 95% confidence intervals (CIs) were calculated using a random-effects model. Subgroup analyses, sensitivity analysis, meta-regression and publication bias assessment were also performed. A total of 35 studies comprising 36 datasets were included. The pooled prevalence of Cryptosporidium spp. in snakes was 12.6% (95% CI: 9.2%-17.0%), with substantial heterogeneity (I 2 = 92.1%). Captive-associated snakes showed higher pooled prevalence (12.7%) than wild/free-ranging snakes (8.7%). Molecular methods yielded higher prevalence estimates than microscopic techniques. Sensitivity analysis demonstrated stable pooled estimates (11.7%-13.6%). Meta-regression showed a significant association between sample size and prevalence, whereas publication year was not significant. Egger's test indicated significant publication bias (p = 0.02). Eight Cryptosporidium species were identified in snakes, including Cryptosporidium serpentis, Cryptosporidium tyzzeri, Cryptosporidium varanii, Cryptosporidium muris, Cryptosporidium parvum, Cryptosporidium baileyi, Cryptosporidium andersoni and Cryptosporidium hominis. The most frequently reported species were C. serpentis, C. tyzzeri, C. varanii, and C. muris. Several zoonotic species, including C. muris, C. parvum, C. tyzzeri, C. baileyi, C. andersoni and C. hominis were detected mostly in captive-associated snakes. The present study demonstrates that Cryptosporidium infection is relatively common in snakes and exhibits considerable genetic diversity. The detection of zoonotic species highlights the potential epidemiological importance of snakes within a One Health context, particularly in captive-associated environments. However, substantial heterogeneity, limited data from wild populations and incomplete molecular characterization warrant cautious interpretation of the findings. Further large-scale molecular epidemiological studies are needed to better clarify the ecology and zoonotic significance of Cryptosporidium spp. in snakes.",
+      "practicalTakeaways": [],
+      "date": "2026 08 12",
+      "status": "Evidence review",
+      "references": "Veterinary medicine and science · 2026 08 12 · PMID: 42585216 · DOI: 10.1002/vms3.71167",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585216/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-13T05:48:23.494Z"
+    },
+    {
+      "id": "pmid-42586727",
+      "pmid": "42586727",
+      "doi": "10.1136/bmjopen-2025-115620",
+      "title": "Optimizing liver disease screening and surveillance in remote Indigenous Australian communities: the SSOLID study protocol for multi-methodology research.",
+      "category": "Hepatology",
+      "source": "BMJ open",
+      "summary": "Recognising and acting on the connection to Country as a determinant of Indigenous peoples' well-being is necessary to improve health inequities. Indigenous Australians experience a greater burden of chronic liver disease and poorer outcomes due to ongoing impacts of colonisation across determinants of health. This is exacerbated by a gradient in health outcomes based on remoteness, lack of specialist healthcare s…",
+      "fullDetails": "Recognising and acting on the connection to Country as a determinant of Indigenous peoples' well-being is necessary to improve health inequities. Indigenous Australians experience a greater burden of chronic liver disease and poorer outcomes due to ongoing impacts of colonisation across determinants of health. This is exacerbated by a gradient in health outcomes based on remoteness, lack of specialist healthcare services and barriers to access. Our research aims to explore better ways to provide chronic liver disease screening and surveillance for very remote Indigenous Australian communities using non-invasive technologies On-Country. Using an innovative combination of Indigenous and Quantitative research methodologies, this project involves 11 communities across four very remote sites in South Australia and Western Australia. The study comprises three parts: (1) site engagement with Aboriginal health services and remote communities; (2) a 12-month liver check (screening) phase and (3) a 24-month liver monitoring (surveillance) phase. The liver monitoring phase will use a stepped-wedge randomised controlled trial design where sites will have usual hepatocellular carcinoma (HCC) monitoring for a period of between 6 and 18 months and then On-Country monitoring for a period of between 6 and 18 months depending on treatment-sequence allocation. Recommended HCC monitoring involves 6 monthly liver ultrasounds and serum alpha-fetoprotein as per the site's usual care processes, where participants travel to regional centres for liver ultrasound. On-Country monitoring will involve liver ultrasound and serum tumour markers provided On-Country every 6 months. The primary outcome is the difference in adherence to surveillance On-Country compared with usual care. In addition to statistical and health economic methods, yarning circles have been incorporated to explore participant experiences, their knowledge of liver disease and views about the On-Country monitoring. This study was granted ethics approval from the relevant national and state Aboriginal Health Research Ethics Committees. Findings will be reported to all participants and will be disseminated to the broader community and local health services. Translation of outcomes will be supported by key Indigenous Australian and healthcare stakeholders, including peak health bodies and consumer groups. Dissemination with the academic community will be through peer-reviewed publications and presentations at relevant conferences. ACTRN12625000256471.",
+      "practicalTakeaways": [],
+      "date": "2026 08 12",
+      "status": "Clinical trial",
+      "references": "BMJ open · 2026 08 12 · PMID: 42586727 · DOI: 10.1136/bmjopen-2025-115620",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586727/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-13T05:48:23.494Z"
+    },
+    {
+      "id": "pmid-42585492",
+      "pmid": "42585492",
+      "doi": "10.1590/S0004-2803.24612026-042",
+      "title": "NUTRITION MANAGEMENT OF INFLAMMATORY BOWEL DISEASES: A CONSENSUS OF THE BRAZILIAN ORGANIZATION FOR CROHN'S AND COLITIS (GEDIIB).",
+      "category": "Gastroenterology",
+      "source": "Arquivos de gastroenterologia",
+      "summary": "Inflammatory bowel diseases (IBD), specifically Crohn's disease and ulcerative colitis, are multifactorial conditions. Genetic and behavioral factors are associated with disease development and influence its progression. It is known that diet plays a role in this pathogenic process. to position nutritional and dietary factors in the management of IBD. This consensus was developed by nutritionists, gastroenterologi…",
+      "fullDetails": "Inflammatory bowel diseases (IBD), specifically Crohn's disease and ulcerative colitis, are multifactorial conditions. Genetic and behavioral factors are associated with disease development and influence its progression. It is known that diet plays a role in this pathogenic process. to position nutritional and dietary factors in the management of IBD. This consensus was developed by nutritionists, gastroenterologists, and colorectal surgeons, members of GEDIIB (Brazilian Organization for Crohn's disease and colitis). A systematic review of the most recent evidence was conducted to support the recommendations/statements. All recommendations and statements were endorsed by stakeholders and IBD experts in a modified Delphi panel, achieving a consensus rate of at least 80%. the recommendations were directed according to disease activity and severity. Nutritional screening and diagnosis, nutritional therapy in the active and remission phases of the disease, dietary management and exclusion diets, and supplementation were addressed. The consensus is targeted at nutritionists, general practitioners, gastroenterologists, and surgeons interested in managing adults with IBD. It supports decision-making by health insurance companies, regulatory agencies, and health institutional managers.",
+      "practicalTakeaways": [],
+      "date": "2026 08 12",
+      "status": "Guideline candidate",
+      "references": "Arquivos de gastroenterologia · 2026 08 12 · PMID: 42585492 · DOI: 10.1590/S0004-2803.24612026-042",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42585492/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-13T05:48:23.495Z"
+    },
+    {
+      "id": "pmid-42583819",
+      "pmid": "42583819",
+      "doi": "10.1002/gcc.70162",
+      "title": "The Contribution of CD133 Gene Polymorphisms to Cancer Risk: Integrating Case-Control Evidence With Meta-Analysis.",
+      "category": "Hepatology",
+      "source": "Genes, chromosomes & cancer",
+      "summary": "Previous studies have extensively examined the associations between CD133 gene polymorphisms (rs10022537, rs2286455, rs2240688, and rs3130) and cancer risk, but have yielded inconsistent results. This study aimed to investigate the potential contributions of these polymorphisms to the susceptibility of liver, lung, and gastric cancers through a replicated case-control study and a subsequent systematic meta-analysi…",
+      "fullDetails": "Previous studies have extensively examined the associations between CD133 gene polymorphisms (rs10022537, rs2286455, rs2240688, and rs3130) and cancer risk, but have yielded inconsistent results. This study aimed to investigate the potential contributions of these polymorphisms to the susceptibility of liver, lung, and gastric cancers through a replicated case-control study and a subsequent systematic meta-analysis. A total of 480 patients with liver cancer, 550 patients with lung cancer, 460 patients with gastric cancer, and 800 healthy controls from the Hubei population were enrolled. Sanger sequencing assay was applied to genotype the four target CD133 gene polymorphisms. The case-control study revealed that rs10022537 was significantly associated with the risk of liver cancer but not with the risk of lung or gastric cancer. In contrast, rs3130 was significantly associated with both lung and liver cancer risk, whereas no association was observed with gastric cancer risk. rs2240688 exhibited a significant association exclusively with lung cancer risk, and rs2286455 showed no significant association with any of the three cancer types. The meta-analysis further demonstrated that rs3130 was significantly associated with lung cancer risk in the Chinese population, and rs2240688 was significantly associated with gastric cancer risk. No significant association was found for rs10022537 or rs2286455 with liver, lung, or gastric cancer risk. Collectively, these findings suggested that rs3130 and rs2240688 in the CD133 gene may serve as susceptibility factors for risk of lung cancer and gastric cancer, respectively. Further validation studies in larger and more diverse populations are warranted.",
+      "practicalTakeaways": [],
+      "date": "2026 08 12",
+      "status": "Evidence review",
+      "references": "Genes, chromosomes & cancer · 2026 08 12 · PMID: 42583819 · DOI: 10.1002/gcc.70162",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42583819/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-13T05:48:23.495Z"
     }
   ]
 }
