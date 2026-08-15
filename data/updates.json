@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-14",
+  "lastChecked": "2026-08-15",
   "items": [
     {
       "id": "pmid-42486794",
@@ -2338,6 +2338,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42588089/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-08-14T05:45:07.864Z"
+    },
+    {
+      "id": "pmid-42599985",
+      "pmid": "42599985",
+      "doi": "10.1371/journal.pone.0356009",
+      "title": "Risk prediction models for inadequate bowel preparation before colonoscopy: A systematic review and meta-analysis.",
+      "category": "Endoscopy",
+      "source": "PloS one",
+      "summary": "Inadequate bowel preparation (IBP) can impair the safety, efficiency, and diagnostic accuracy of colonoscopy. Numerous multivariable prediction models have been developed to identify patients at high risk of IBP, yet their reported performance varies substantially. To systematically evaluate the predictive performance and methodological quality of existing risk prediction models for IBP before colonoscopy. PubMed,…",
+      "fullDetails": "Inadequate bowel preparation (IBP) can impair the safety, efficiency, and diagnostic accuracy of colonoscopy. Numerous multivariable prediction models have been developed to identify patients at high risk of IBP, yet their reported performance varies substantially. To systematically evaluate the predictive performance and methodological quality of existing risk prediction models for IBP before colonoscopy. PubMed, Embase, Web of Science, the Cochrane Library, CINAHL, CNKI, Wanfang, and VIP were systematically searched from inception to December 16, 2024, and updated on December 16, 2025. Data extraction was guided by the Checklist for Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies (CHARMS). Areas under the receiver operating characteristic curves (AUCs) with 95% confidence intervals from internal and external validations were pooled separately using random-effects models (Stata 18). Risk of bias and applicability were evaluated with PROBAST. The protocol was registered in PROSPERO (CRD42024627756). Thirty-one studies reporting 46 prediction models were included, with sample sizes ranging from 152 to 23,456 participants and IBP event incidence rates of 6.3%-50.0%. Frequently used predictors included constipation, diabetes, age, body mass index (BMI), and history of colorectal surgery. Pooled AUCs were 0.76 (95% CI: 0.73-0.79) for internal validation and 0.72 (95% CI: 0.68-0.76) for external validation, both with substantial heterogeneity (I² > 90%). External validation was reported in ten studies, comprising 15 external validation cohorts, including four independent external validation studies of previously published models. Calibration was infrequently reported. Most studies were at high risk of bias, mainly in the analysis domain, while applicability concerns were generally low. Existing IBP prediction models show moderate to good discrimination on average, but pooled estimates are accompanied by substantial heterogeneity and widespread risk of bias, and robust external validation remains limited. Future studies should standardize outcome definitions and reporting and conduct large, multicenter, independent external validations to improve clinical utility.",
+      "practicalTakeaways": [],
+      "date": "2026 08 14",
+      "status": "Evidence review",
+      "references": "PloS one · 2026 08 14 · PMID: 42599985 · DOI: 10.1371/journal.pone.0356009",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599985/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-15T04:46:10.769Z"
+    },
+    {
+      "id": "pmid-42599597",
+      "pmid": "42599597",
+      "doi": "10.1007/s12029-026-01569-w",
+      "title": "Radiomics for Prediction of Microsatellite Instability Status in Gastric Cancer: A Systematic Review and Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Journal of gastrointestinal cancer",
+      "summary": "Microsatellite instability (MSI) is a key biomarker for immunotherapy in gastric cancer (GC), but preoperative non-invasive prediction remains challenging. Radiomics is promising; however, a systematic evaluation of its diagnostic performance with explicit consideration of overfitting and model comparison is lacking. We systematically searched PubMed, Embase, Web of Science, and Cochrane Library up to March 25, 20…",
+      "fullDetails": "Microsatellite instability (MSI) is a key biomarker for immunotherapy in gastric cancer (GC), but preoperative non-invasive prediction remains challenging. Radiomics is promising; however, a systematic evaluation of its diagnostic performance with explicit consideration of overfitting and model comparison is lacking. We systematically searched PubMed, Embase, Web of Science, and Cochrane Library up to March 25, 2026, for studies on radiomics for preoperative MSI prediction in GC. A bivariate random-effects model pooled sensitivity, specificity, and diagnostic odds ratio (DOR). Subgroup analyses were performed by model type, data source, validation type, and algorithm. Thirteen studies (2,447 patients) were included. In validation sets (17 data points), the pooled AUC was 0.82 (95% CI: 0.79-0.85), sensitivity 0.79 (95% CI: 0.73-0.84), and specificity 0.72 (95% CI: 0.67-0.76). Performance was higher in training sets (AUC 0.88). Combined models (radiomics plus clinical features) achieved higher specificity than radiomics models (0.75 vs. 0.68) in validation sets. Externally and internally validated models had comparable AUC (0.82 vs. 0.83). Machine learning did not outperform logistic regression. radiomics demonstrates moderate diagnostic accuracy for preoperative MSI prediction in GC. Combined models improve specificity, aiding patient selection. Differences between training and validation performance underscore the need for rigorous external validation. Prospective, multicenter studies are warranted. This research was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and was prospectively registered with the PROSPERO database under registration number CRD420251148467. The protocol is available at: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251148467 .",
+      "practicalTakeaways": [],
+      "date": "2026 08 14",
+      "status": "Guideline candidate",
+      "references": "Journal of gastrointestinal cancer · 2026 08 14 · PMID: 42599597 · DOI: 10.1007/s12029-026-01569-w",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42599597/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-15T04:46:10.769Z"
+    },
+    {
+      "id": "pmid-42597387",
+      "pmid": "42597387",
+      "doi": "10.3389/fphar.2026.1849397",
+      "title": "The impact of ustekinumab and tumor necrosis factor antagonists on extraintestinal manifestations of Crohn's disease: a systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Frontiers in pharmacology",
+      "summary": "Extraintestinal manifestations (EIMs) are commonly observed in patients with Crohn's disease (CD). Although Tumor Necrosis Factor (TNF) antagonists are commonly recommended for the management of several EIMs, their efficacy remains limited. Ustekinumab (UST), an alternative option after TNF antagonists failure, has shown potential efficacy for various EIMs. However, evidence regarding its effectiveness remains inc…",
+      "fullDetails": "Extraintestinal manifestations (EIMs) are commonly observed in patients with Crohn's disease (CD). Although Tumor Necrosis Factor (TNF) antagonists are commonly recommended for the management of several EIMs, their efficacy remains limited. Ustekinumab (UST), an alternative option after TNF antagonists failure, has shown potential efficacy for various EIMs. However, evidence regarding its effectiveness remains inconsistent. This study aimed to evaluate the efficacy and safety of UST and TNF antagonists for CD-related EIMs through a systematic review and meta-analysis. PubMed, Embase, and Cochrane Library were searched on 2 August 2025, to identify phase II and III randomized controlled trials (RCTs) evaluating UST or TNF antagonists in adults aged ≥18 years with moderate-to-severe active CD. The primary outcomes were EIMs and EIM-related symptoms. Two investigators, adhering to the PRISMA guidelines, independently screened the literature and extracted data. The risk of bias was assessed using the Cochrane Risk-of-Bias Tool 2.0. Random-effects and fixed-effect models were used to estimate pooled treatment effects. Results were presented using risk ratios (RRs), incidence rate ratios (IRRs) and 95% confidence intervals (CIs). A total of 23 RCTs, involving 7,810 patients, were included, with EIMs such as fatigue, joint pain, and skin manifestations being considered. The meta-analysis revealed that UST significantly reduced the risk of fatigue in CD patients (IRR 0.53, 95% CI 0.33-0.84, P = 0.008). During maintenance therapy, UST treatment was significantly associated with a reduction in the risk of arthritis/arthralgia (IRR 0.56, 95% CI 0.36-0.86, P = 0.008). Weekly adalimumab (ADA) treatment was significantly associated with an increased risk of fatigue (IRR 2.79, 95% CI 1.12-6.94, P = 0.028). UST showed potential advantages in the management of fatigue and arthritis/arthralgia. ADA and infliximab (IFX) were not associated with statistically significant benefits for most analyzed EIM outcomes. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251111502, identifier CRD420251111502.",
+      "practicalTakeaways": [],
+      "date": "2026 08 14",
+      "status": "Guideline candidate",
+      "references": "Frontiers in pharmacology · 2026 08 14 · PMID: 42597387 · DOI: 10.3389/fphar.2026.1849397",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42597387/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-15T04:46:10.770Z"
     }
   ]
 }
