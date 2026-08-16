@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-15",
+  "lastChecked": "2026-08-16",
   "items": [
     {
       "id": "pmid-42486794",
@@ -2412,6 +2412,23 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-15T04:46:10.770Z",
       "reviewedAt": "2026-08-15T07:12:47.635Z"
+    },
+    {
+      "id": "pmid-42603192",
+      "pmid": "42603192",
+      "doi": "10.1007/s12029-026-01528-5",
+      "title": "Effect of Tumor-Associated Sarcopenia on Swallowing Function in Patients with Cancer: a Systematic Review and Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Journal of gastrointestinal cancer",
+      "summary": "To explore whether the association between tumor-associated sarcopenia and dysphagia generalizes across tumor types and differs between head and neck cancer (HNC) and other cancers. Eligible studies published before December 31, 2024 were retrieved from PubMed, EMBASE, Web of Science, Cochrane Library, CNKI and Wanfang Data. Heterogeneity was evaluated by the I 2 statistic, with subgroup and meta-regression explor…",
+      "fullDetails": "To explore whether the association between tumor-associated sarcopenia and dysphagia generalizes across tumor types and differs between head and neck cancer (HNC) and other cancers. Eligible studies published before December 31, 2024 were retrieved from PubMed, EMBASE, Web of Science, Cochrane Library, CNKI and Wanfang Data. Heterogeneity was evaluated by the I 2 statistic, with subgroup and meta-regression exploring heterogeneity sources. Leave-one-out sensitivity analysis, Harbord's test and trim-and-fill analysis assessed result robustness and publication bias. Twelve studies (n = 2,889) were included. Sarcopenia was significantly associated with dysphagia (OR = 2.82, 95% CI 1.94 to 4.29, P < 0.001) with moderate heterogeneity (I 2 = 52.4%, P = 0.0172). Effect sizes were similar between HNC and other tumors (P = 0.9479). Sarcopenia assessment methods (P = 0.022) and dysphagia assessment tools (P = 0.018) independently explained heterogeneity. Sensitivity analysis confirmed stable results; trim-and-fill analysis showed reliable findings despite minor publication bias (P = 0.55). Sarcopenia is a universal independent associated factor for dysphagia across cancers, with no difference between HNC and other cancers. Routine screening and targeted interventions may reduce dysphagia risk and improve patient quality of life.",
+      "practicalTakeaways": [],
+      "date": "2026 08 15",
+      "status": "Evidence review",
+      "references": "Journal of gastrointestinal cancer · 2026 08 15 · PMID: 42603192 · DOI: 10.1007/s12029-026-01528-5",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603192/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-16T04:49:31.349Z"
     }
   ]
 }
