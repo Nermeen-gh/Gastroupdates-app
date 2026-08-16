@@ -2427,8 +2427,9 @@
       "status": "Evidence review",
       "references": "Journal of gastrointestinal cancer · 2026 08 15 · PMID: 42603192 · DOI: 10.1007/s12029-026-01528-5",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42603192/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-16T04:49:31.349Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-16T04:49:31.349Z",
+      "reviewedAt": "2026-08-16T08:00:37.151Z"
     }
   ]
 }
