@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-16",
+  "lastChecked": "2026-08-17",
   "items": [
     {
       "id": "pmid-42486794",
@@ -2430,6 +2430,40 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-16T04:49:31.349Z",
       "reviewedAt": "2026-08-16T08:00:37.151Z"
+    },
+    {
+      "id": "pmid-42604374",
+      "pmid": "42604374",
+      "doi": "10.11604/pamj.2026.53.159.49740",
+      "title": "A systematic review on health systems integrated approach towards elimination of HIV, syphilis and viral hepatitis as public health threats in sub-Saharan Africa.",
+      "category": "Hepatology",
+      "source": "The Pan African medical journal",
+      "summary": "Health systems (HSs) in sub-Saharan Africa (SSA) face significant challenges. Integrated HSs approach has been considered a feasible option for eliminating HIV, syphilis and hepatitis B (triple elimination). We performed a systematic review to determine the extent of utilisation of the integrated HSs approach towards triple elimination in SSA countries. We registered the systematic review protocol on PROSPERO (ID:…",
+      "fullDetails": "Health systems (HSs) in sub-Saharan Africa (SSA) face significant challenges. Integrated HSs approach has been considered a feasible option for eliminating HIV, syphilis and hepatitis B (triple elimination). We performed a systematic review to determine the extent of utilisation of the integrated HSs approach towards triple elimination in SSA countries. We registered the systematic review protocol on PROSPERO (ID: CRD420251011221). We adopted Arksey and O'Malley's review methodology framework for article searching on databases: Medline (using PubMed interface), EMBASE and EBSCOHOST. Studies published from March 2015 to March 2025 were assessed by two reviewers independently. Joanna Briggs' checklist was used to assess the quality of included studies. Thematic analysis was performed, and results were reported according to the Enhancing Transparency in Reporting the Synthesis of Qualitative Research (ENTREQ) statement. A total of 533 studies were identified from databases. Eighteen studies were fully reviewed. Five themes were developed: Effectiveness of HSs integration, Barriers to HSs integration, Facilitators for HSs integrated approach on triple elimination, Improved case detection, and Recommendations to HSs integration. All themes but one were developed from sub-themes that were built around six blocks of the health systems, according to the World Health Organization. Progress in the integrated approach exists. A fully integrated HSs approach for triple elimination remains unmet in SSA. Facilitators and barriers within the WHO's HSs building blocks can work for or against an integrated approach towards triple elimination, offering a roadmap for future efforts to strengthen HSs. Further enquiry into HSs integrated approach needs to be considered towards triple elimination.",
+      "practicalTakeaways": [],
+      "date": "2026 08 16",
+      "status": "Guideline candidate",
+      "references": "The Pan African medical journal · 2026 08 16 · PMID: 42604374 · DOI: 10.11604/pamj.2026.53.159.49740",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604374/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-17T04:57:22.694Z"
+    },
+    {
+      "id": "pmid-42604816",
+      "pmid": "42604816",
+      "doi": "10.1111/ases.70366",
+      "title": "Comparison of Short-Term Outcomes of Intracorporeal Anastomosis in Robot-Assisted colon Resection and Laparoscopic colon Resection: A Single-Center Study and Systematic Review and meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Asian journal of endoscopic surgery",
+      "summary": "This study evaluates short-term outcomes of robot-assisted (Rt) and laparoscopic (Lap) intracorporeal anastomosis (IA) in colon resection using an exploratory single-center retrospective cohort and a systematic review and meta-analysis conducted in accordance with PRISMA guidelines. Patients with colon cancer who underwent laparoscopic or robotic surgery at our institution from 2015 to 2024 were retrospectively en…",
+      "fullDetails": "This study evaluates short-term outcomes of robot-assisted (Rt) and laparoscopic (Lap) intracorporeal anastomosis (IA) in colon resection using an exploratory single-center retrospective cohort and a systematic review and meta-analysis conducted in accordance with PRISMA guidelines. Patients with colon cancer who underwent laparoscopic or robotic surgery at our institution from 2015 to 2024 were retrospectively enrolled. Additionally, a meta-analysis was conducted using PubMed, Web of Science, Scopus, and the Cochrane Library to identify studies comparing Rt-IA and Lap-IA. Short-term outcomes were statistically compared between the two groups. A total of 77 patients were included (Rt-IA 26, Lap-IA 51). Intraoperative blood loss was significantly lower in the Rt-IA group (median, 5 mL vs. 10 mL; p = 0.001). No statistically significant differences were detected in major postoperative complications or most recovery-related outcomes. For the meta-analysis, 11 studies (1 prospective and 10 retrospective) met the inclusion criteria. After adding our institutional data, the pooled analysis showed that operative time was significantly longer in the Rt-IA group (MD, 54.02 min; 95% CI, 34.18-73.86; I 2 = 95.4%), whereas the Rt-IA group demonstrated significantly less blood loss (MD, -14.33 mL; 95% CI: -27.04 to -1.63; I 2 = 19.3%). The results of our institutional analysis together with meta-analysis suggest that Rt-IA may be associated with longer operative time but slightly lower blood loss than Lap-IA. These findings suggest that Rt-IA may be a feasible alternative to Lap-IA; however, the results should be interpreted with caution given the limitations of the available evidence.",
+      "practicalTakeaways": [],
+      "date": "2026 08 16",
+      "status": "Guideline candidate",
+      "references": "Asian journal of endoscopic surgery · 2026 08 16 · PMID: 42604816 · DOI: 10.1111/ases.70366",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604816/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-17T04:57:22.695Z"
     }
   ]
 }
