@@ -2445,8 +2445,9 @@
       "status": "Guideline candidate",
       "references": "The Pan African medical journal · 2026 08 16 · PMID: 42604374 · DOI: 10.11604/pamj.2026.53.159.49740",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604374/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-17T04:57:22.694Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-17T04:57:22.694Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     },
     {
       "id": "pmid-42604816",
@@ -2462,8 +2463,9 @@
       "status": "Guideline candidate",
       "references": "Asian journal of endoscopic surgery · 2026 08 16 · PMID: 42604816 · DOI: 10.1111/ases.70366",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604816/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-17T04:57:22.695Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-17T04:57:22.695Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     },
     {
       "id": "pmid-42605247",
@@ -2479,8 +2481,9 @@
       "status": "Evidence review",
       "references": "Journal of viral hepatitis · 2026 08 17 · PMID: 42605247 · DOI: 10.1111/jvh.70222",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605247/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-18T04:51:11.137Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-18T04:51:11.137Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     },
     {
       "id": "pmid-42606588",
@@ -2496,8 +2499,9 @@
       "status": "Guideline candidate",
       "references": "Pediatric surgery international · 2026 08 17 · PMID: 42606588 · DOI: 10.1007/s00383-026-06577-2",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42606588/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-18T04:51:11.137Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-18T04:51:11.137Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     },
     {
       "id": "pmid-42605860",
@@ -2513,8 +2517,9 @@
       "status": "New publication",
       "references": "The Cochrane database of systematic reviews · 2026 08 17 · PMID: 42605860 · DOI: 10.1002/14651858.CD016126",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605860/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-18T04:51:11.137Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-18T04:51:11.137Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     },
     {
       "id": "pmid-42604879",
@@ -2530,8 +2535,9 @@
       "status": "Clinical trial",
       "references": "Cancer chemotherapy and pharmacology · 2026 08 16 · PMID: 42604879 · DOI: 10.1007/s00280-026-04939-0",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42604879/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-18T04:51:11.137Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-18T04:51:11.137Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     },
     {
       "id": "pmid-42605211",
@@ -2547,8 +2553,9 @@
       "status": "Evidence review",
       "references": "The Turkish journal of gastroenterology : the official journal of Turkish Society of Gastroenterology · 2026 08 17 · PMID: 42605211 · DOI: 10.5152/tjg.2026.25594",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42605211/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-18T04:51:11.137Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-18T04:51:11.137Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     },
     {
       "id": "pmid-42608031",
@@ -2564,8 +2571,9 @@
       "status": "Clinical trial",
       "references": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society · 2026 08 17 · PMID: 42608031 · DOI: 10.1111/den.70262",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608031/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-18T04:51:11.137Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-18T04:51:11.137Z",
+      "reviewedAt": "2026-08-18T06:01:12.438Z"
     }
   ]
 }
