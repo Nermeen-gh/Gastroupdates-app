@@ -79,7 +79,12 @@ async function render(prompt) {
     contents: [{ role: "user", parts: [{ text: prompt }] }],
     generationConfig: {
       responseModalities: ["TEXT", "IMAGE"],
-      responseFormat: { image: { aspectRatio: "3:4", imageSize: "2K" } },
+    responseFormat: {
+  image: {
+    aspectRatio: "ASPECT_RATIO_THREE_BY_FOUR",
+    imageSize: "IMAGE_SIZE_TWO_K",
+  },
+},
     },
   });
   const image = parts(response).find((part) => part.inlineData?.data && /^image\//.test(part.inlineData.mimeType || ""));
