@@ -48,12 +48,27 @@ jobs:
           DRY_RUN: ${{ inputs.dry_run }}
         run: node scripts/generate-approved-infographics.mjs
 
-      - name: Create the downloadable ZIP
+      - name: Identify files created in this run
         if: ${{ !inputs.dry_run }}
         shell: bash
         run: |
+          mapfile -t article_dirs < <(
+            git status --porcelain -- infographics |
+            cut -c4- |
+            awk -F/ 'NF >= 4 {print $1"/"$2"/"$3"/"$4}' |
+            sort -u
+          )
+
+          if [ "${#article_dirs[@]}" -eq 0 ]; then
+            echo "No new infographic directories were created."
+            exit 1
+          fi
+
+          printf '%s\n' "${article_dirs[@]}" > infographic-directories.txt
+
           filename="gastro-infographic-${{ inputs.pmid || github.run_number }}-${{ github.run_id }}.zip"
-          zip -r "$filename" infographics/
+          zip -r "$filename" "${article_dirs[@]}"
+
           echo "GDRIVE_ZIP=$filename" >> "$GITHUB_ENV"
 
       - name: Keep ZIP available in GitHub
@@ -65,30 +80,51 @@ jobs:
           if-no-files-found: error
           retention-days: 30
 
-      - name: Upload ZIP automatically to Google Drive
+      - name: Upload individual files to Google Drive
         if: ${{ !inputs.dry_run }}
         shell: bash
         env:
           GDRIVE_UPLOAD_URL: ${{ secrets.GDRIVE_UPLOAD_URL }}
           GDRIVE_UPLOAD_TOKEN: ${{ secrets.GDRIVE_UPLOAD_TOKEN }}
         run: |
-          base64 -w 0 "$GDRIVE_ZIP" > upload.b64
+          while IFS= read -r article_dir; do
+            folder_name="$(basename "$article_dir")"
 
-          jq -n \
-            --arg filename "$GDRIVE_ZIP" \
-            --rawfile data upload.b64 \
-            '{filename: $filename, data: $data}' > upload.json
+            while IFS= read -r -d '' file_path; do
+              filename="$(basename "$file_path")"
+              mime_type="$(file --brief --mime-type "$file_path")"
 
-          response="$(curl --fail-with-body --silent --show-error \
-            -X POST "${GDRIVE_UPLOAD_URL}?token=${GDRIVE_UPLOAD_TOKEN}" \
-            -H "Content-Type: application/json" \
-            --data-binary @upload.json)"
+              base64 -w 0 "$file_path" > upload.b64
 
-          echo "$response"
-          echo "$response" | jq -e '.ok == true' > /dev/null
+              jq -n \
+                --arg folderName "$folder_name" \
+                --arg filename "$filename" \
+                --arg mimeType "$mime_type" \
+                --rawfile data upload.b64 \
+                '{
+                  folderName: $folderName,
+                  filename: $filename,
+                  mimeType: $mimeType,
+                  data: $data
+                }' > upload.json
+
+              response="$(curl \
+                --location \
+                --fail-with-body \
+                --silent \
+                --show-error \
+                -X POST \
+                "${GDRIVE_UPLOAD_URL}?token=${GDRIVE_UPLOAD_TOKEN}" \
+                -H "Content-Type: application/json" \
+                --data-binary @upload.json)"
+
+              echo "$response"
+              echo "$response" | jq -e '.ok == true' > /dev/null
+            done < <(find "$article_dir" -type f -print0)
+          done < infographic-directories.txt
 
       - name: Save generated files in the repository
-        if: ${{ !inputs.dry_run }}
+        if: ${{ !inputs.dry_run && always() }}
         shell: bash
         run: |
           if ! git diff --quiet -- data/infographic-manifest.json infographics; then
