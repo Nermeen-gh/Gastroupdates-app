@@ -50,9 +50,9 @@ function lockedEvidence(item) {
 
 function infographicPrompt(evidence, variant) {
   const styles = ["medical sketchnote notebook", "clinical whiteboard doodle", "hand-drawn visual abstract"];
-  return `Create a polished portrait 3:4 GastroUpdates medical infographic in a ${styles[variant % styles.length]} style.
+  return `Create a polished landscape 16:9 GastroUpdates medical infographic in a ${styles[variant % styles.length]} style.
 
-The image will later be manually separated for animation. Use 8–12 clearly separated zones, generous whitespace, discrete doodles, minimal overlap, dark navy ink, teal and one warm accent on an off-white background. Use clean highly legible type for medical facts and references. No element may cross into an adjacent zone.
+The image will later be manually separated for animation. Use 8–12 clearly separated zones arranged across a widescreen canvas, generous whitespace, discrete doodles, minimal overlap, dark navy ink, teal and one warm accent on an off-white background. Use Comic Sans MS for all visible text, with large highly legible lettering for medical facts and references. Do not imitate another handwriting font. No element may cross into an adjacent zone.
 
 Use ONLY this locked JSON evidence:
 ${JSON.stringify(evidence, null, 2)}
@@ -81,7 +81,7 @@ async function render(prompt) {
       responseModalities: ["TEXT", "IMAGE"],
     responseFormat: {
   image: {
-    aspectRatio: "ASPECT_RATIO_THREE_BY_FOUR",
+    aspectRatio: "ASPECT_RATIO_SIXTEEN_BY_NINE",
     imageSize: "IMAGE_SIZE_TWO_K",
   },
 },
