@@ -4,15 +4,19 @@ on:
   push:
     paths:
       - data/updates.json
+
   workflow_dispatch:
     inputs:
       pmid:
-        description: Optional PMID for a controlled test
+        description: Approved PMID to generate
         required: false
+        type: string
+
       dry_run:
-        description: Validate selection without calling Gemini
+        description: Test only — do not call Gemini or create images
+        required: true
         type: boolean
-        default: true
+        default: false
 
 permissions:
   contents: write
@@ -24,12 +28,17 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Prepare Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Generate and verify newly approved infographics
+
+      - name: Generate and verify approved infographics
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_IMAGE_MODEL: ${{ vars.GEMINI_IMAGE_MODEL }}
@@ -38,8 +47,18 @@ jobs:
           TEST_PMID: ${{ inputs.pmid }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: node scripts/generate-approved-infographics.mjs
-      - name: Commit passing outputs and QA records
-        if: ${{ inputs.dry_run != true }}
+
+      - name: Package infographic previews for download
+        if: ${{ !inputs.dry_run }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: gastro-infographic-variants-${{ inputs.pmid || github.run_number }}
+          path: infographics/
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Save generated files in the repository
+        if: ${{ !inputs.dry_run }}
         shell: bash
         run: |
           if ! git diff --quiet -- data/infographic-manifest.json infographics; then
