@@ -13,7 +13,7 @@ on:
         type: string
 
       dry_run:
-        description: Test only — do not call Gemini or create images
+        description: Test only — do not generate images
         required: true
         type: boolean
         default: false
@@ -48,14 +48,44 @@ jobs:
           DRY_RUN: ${{ inputs.dry_run }}
         run: node scripts/generate-approved-infographics.mjs
 
-      - name: Package infographic previews for download
+      - name: Create the downloadable ZIP
+        if: ${{ !inputs.dry_run }}
+        shell: bash
+        run: |
+          filename="gastro-infographic-${{ inputs.pmid || github.run_number }}-${{ github.run_id }}.zip"
+          zip -r "$filename" infographics/
+          echo "GDRIVE_ZIP=$filename" >> "$GITHUB_ENV"
+
+      - name: Keep ZIP available in GitHub
         if: ${{ !inputs.dry_run }}
         uses: actions/upload-artifact@v4
         with:
           name: gastro-infographic-variants-${{ inputs.pmid || github.run_number }}
-          path: infographics/
+          path: ${{ env.GDRIVE_ZIP }}
           if-no-files-found: error
           retention-days: 30
+
+      - name: Upload ZIP automatically to Google Drive
+        if: ${{ !inputs.dry_run }}
+        shell: bash
+        env:
+          GDRIVE_UPLOAD_URL: ${{ secrets.GDRIVE_UPLOAD_URL }}
+          GDRIVE_UPLOAD_TOKEN: ${{ secrets.GDRIVE_UPLOAD_TOKEN }}
+        run: |
+          base64 -w 0 "$GDRIVE_ZIP" > upload.b64
+
+          jq -n \
+            --arg filename "$GDRIVE_ZIP" \
+            --rawfile data upload.b64 \
+            '{filename: $filename, data: $data}' > upload.json
+
+          response="$(curl --fail-with-body --silent --show-error \
+            -X POST "${GDRIVE_UPLOAD_URL}?token=${GDRIVE_UPLOAD_TOKEN}" \
+            -H "Content-Type: application/json" \
+            --data-binary @upload.json)"
+
+          echo "$response"
+          echo "$response" | jq -e '.ok == true' > /dev/null
 
       - name: Save generated files in the repository
         if: ${{ !inputs.dry_run }}
