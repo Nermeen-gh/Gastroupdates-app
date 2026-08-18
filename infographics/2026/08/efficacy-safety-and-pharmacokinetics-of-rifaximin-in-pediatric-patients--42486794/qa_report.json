@@ -2,37 +2,40 @@
   "reports": [
     {
       "variant": 1,
-      "publishable": true,
-      "critical_errors": [],
+      "publishable": false,
+      "critical_errors": [
+        "The brain graphic under 'Findings: Clinical & Neurocognitive' indicates 'MENTAL STATE UP' with an upward arrow, contradicting the evidence which explicitly states 'significant reductions from baseline in the mental state associated with HE'.",
+        "The 'Cautious Interpretation' section adds an ungrounded claim ('Need to consider potential differences with adults') not present in the locked evidence, which actually highlights that safety and pharmacokinetics were similar to adult patients."
+      ],
       "omissions": [
-        "18 of 21 patients completed the study (median treatment duration 84.0 days).",
-        "Congenital portosystemic shunt was the most common underlying disease.",
-        "Changes in NCT-A results were also assessed as secondary endpoints."
+        "Omitted interquartile age range Q1-Q3 (8.0-14.0 years).",
+        "Omitted patient breakdown at baseline (13 suspected of HE, 8 diagnosed with coma grade I).",
+        "Omitted details on study completion (18 of 21 completed) and median treatment duration (84.0 days).",
+        "Omitted most common underlying disease (congenital portosystemic shunt)."
       ],
       "legibility": 5,
       "extractability": 5
     },
     {
       "variant": 2,
-      "publishable": true,
-      "critical_errors": [],
-      "omissions": [
-        "Does not specify that 18 out of 21 patients completed the study.",
-        "Omitted interquartile range (Q1-Q3) for median age and median treatment duration."
+      "publishable": false,
+      "critical_errors": [
+        "In 'Finding 4', the text incorrectly states that efficacy signals were driven 'measures on biochemical (ammonia) changes' instead of 'measures rather than biochemical (ammonia) changes', altering the meaning of the medical finding."
       ],
+      "omissions": [],
       "legibility": 5,
       "extractability": 5
     },
     {
       "variant": 3,
-      "publishable": true,
-      "critical_errors": [],
-      "omissions": [
-        "Sample size and completion details (21 enrolled, median age 11.0 years, 18 completed) are omitted.",
-        "Breakdown of initial HE diagnosis (13 suspected HE, 8 diagnosed with coma grade I) is omitted."
+      "publishable": false,
+      "critical_errors": [
+        "The title frame omits 'HEPATIC', listing 'PEDIATRIC ENCEPHALOPATHY' instead of 'PEDIATRIC HEPATIC ENCEPHALOPATHY', altering the specific disease entity.",
+        "The PK finding box contains garbled/corrupted text ('HYEtINI' inserted between 'ADULT' and 'PATIENTS')."
       ],
-      "legibility": 5,
-      "extractability": 5
+      "omissions": [],
+      "legibility": 4,
+      "extractability": 4
     }
   ]
 }
