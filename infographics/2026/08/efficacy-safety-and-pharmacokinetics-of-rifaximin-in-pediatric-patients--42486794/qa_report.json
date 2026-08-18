@@ -2,12 +2,14 @@
   "reports": [
     {
       "variant": 1,
-      "publishable": false,
-      "critical_errors": [
-        "Garbled text in Finding 3: 'Difference ~noe not statistically significant.' contains typographical corruption ('~noe')."
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "18 of 21 patients completed the study (median treatment duration 84.0 days).",
+        "Congenital portosystemic shunt was the most common underlying disease.",
+        "Changes in NCT-A results were also assessed as secondary endpoints."
       ],
-      "omissions": [],
-      "legibility": 4,
+      "legibility": 5,
       "extractability": 5
     },
     {
@@ -15,7 +17,8 @@
       "publishable": true,
       "critical_errors": [],
       "omissions": [
-        "Specific dosing regimen (400 mg 3 times daily) and treatment duration (12 weeks / median 84.0 days) are omitted."
+        "Does not specify that 18 out of 21 patients completed the study.",
+        "Omitted interquartile range (Q1-Q3) for median age and median treatment duration."
       ],
       "legibility": 5,
       "extractability": 5
@@ -24,7 +27,10 @@
       "variant": 3,
       "publishable": true,
       "critical_errors": [],
-      "omissions": [],
+      "omissions": [
+        "Sample size and completion details (21 enrolled, median age 11.0 years, 18 completed) are omitted.",
+        "Breakdown of initial HE diagnosis (13 suspected HE, 8 diagnosed with coma grade I) is omitted."
+      ],
       "legibility": 5,
       "extractability": 5
     }
