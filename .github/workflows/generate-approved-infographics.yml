@@ -113,7 +113,6 @@ jobs:
                 --fail-with-body \
                 --silent \
                 --show-error \
-                -X POST \
                 "${GDRIVE_UPLOAD_URL}?token=${GDRIVE_UPLOAD_TOKEN}" \
                 -H "Content-Type: application/json" \
                 --data-binary @upload.json)"
