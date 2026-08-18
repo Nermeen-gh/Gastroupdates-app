@@ -3,9 +3,10 @@
   "items": {
     "pmid-42486794": {
       "sourceHash": "d22790d4b2909fdaba7b3a8ede27375d0d3e507d54baecc244fc39d4b28428e4",
-      "status": "qa_failed",
-      "attemptedAt": "2026-08-18T11:50:52.323Z",
-      "directory": "2026/08/efficacy-safety-and-pharmacokinetics-of-rifaximin-in-pediatric-patients--42486794"
+      "status": "published",
+      "generatedAt": "2026-08-18T12:57:51.110Z",
+      "directory": "2026/08/efficacy-safety-and-pharmacokinetics-of-rifaximin-in-pediatric-patients--42486794",
+      "selectedVariant": 2
     }
   }
 }

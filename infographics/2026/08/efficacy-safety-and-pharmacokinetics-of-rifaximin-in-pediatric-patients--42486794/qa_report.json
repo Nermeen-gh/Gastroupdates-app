@@ -4,31 +4,29 @@
       "variant": 1,
       "publishable": false,
       "critical_errors": [
-        "Gemini gemini-3.1-flash-image failed (400): {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'generation_config.response_format.image.aspect_ratio' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.AspectRatio), \\\"3:4\\\"\\nInvalid value at 'generation_config.response_format.image.image_size' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.ImageSize), \\\"2K\\\"\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config.response_format.image.aspect_ratio\",\n            \"description\": \"Invalid value at 'generation_config.response_format.image.aspect_ratio' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.AspectRatio), \\\"3:4\\\"\"\n          },\n          {\n            \"field\": \"generation_config.response_format.image.image_size\",\n            \"description\": \"Invalid value at 'generation_config.response_format.image.image_size' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.ImageSize), \\\"2K\\\"\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+        "Garbled text in Finding 3: 'Difference ~noe not statistically significant.' contains typographical corruption ('~noe')."
       ],
       "omissions": [],
-      "legibility": 1,
-      "extractability": 1
+      "legibility": 4,
+      "extractability": 5
     },
     {
       "variant": 2,
-      "publishable": false,
-      "critical_errors": [
-        "Gemini gemini-3.1-flash-image failed (400): {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'generation_config.response_format.image.aspect_ratio' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.AspectRatio), \\\"3:4\\\"\\nInvalid value at 'generation_config.response_format.image.image_size' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.ImageSize), \\\"2K\\\"\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config.response_format.image.aspect_ratio\",\n            \"description\": \"Invalid value at 'generation_config.response_format.image.aspect_ratio' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.AspectRatio), \\\"3:4\\\"\"\n          },\n          {\n            \"field\": \"generation_config.response_format.image.image_size\",\n            \"description\": \"Invalid value at 'generation_config.response_format.image.image_size' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.ImageSize), \\\"2K\\\"\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Specific dosing regimen (400 mg 3 times daily) and treatment duration (12 weeks / median 84.0 days) are omitted."
       ],
-      "omissions": [],
-      "legibility": 1,
-      "extractability": 1
+      "legibility": 5,
+      "extractability": 5
     },
     {
       "variant": 3,
-      "publishable": false,
-      "critical_errors": [
-        "Gemini gemini-3.1-flash-image failed (400): {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid value at 'generation_config.response_format.image.aspect_ratio' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.AspectRatio), \\\"3:4\\\"\\nInvalid value at 'generation_config.response_format.image.image_size' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.ImageSize), \\\"2K\\\"\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config.response_format.image.aspect_ratio\",\n            \"description\": \"Invalid value at 'generation_config.response_format.image.aspect_ratio' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.AspectRatio), \\\"3:4\\\"\"\n          },\n          {\n            \"field\": \"generation_config.response_format.image.image_size\",\n            \"description\": \"Invalid value at 'generation_config.response_format.image.image_size' (type.googleapis.com/google.ai.generativelanguage.v1beta.ImageResponseFormat.ImageSize), \\\"2K\\\"\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
-      ],
+      "publishable": true,
+      "critical_errors": [],
       "omissions": [],
-      "legibility": 1,
-      "extractability": 1
+      "legibility": 5,
+      "extractability": 5
     }
   ]
 }
