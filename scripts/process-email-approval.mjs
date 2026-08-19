@@ -27,6 +27,7 @@ if (/^ALL$/i.test(commandLine) || /^APPROVE\s*:\s*ALL$/i.test(commandLine)) {
 if (rejectMatch) reject = numbersFrom(rejectMatch[1]);
 
 const approvedTitles = [];
+const approvedPmids = [];
 const rejectedTitles = [];
 for (const number of approve) {
   const item = items[number - 1];
@@ -34,6 +35,7 @@ for (const number of approve) {
     item.reviewStatus = "approved";
     item.reviewedAt = new Date().toISOString();
     approvedTitles.push(`${number}. ${item.title}`);
+    if (item.pmid) approvedPmids.push(String(item.pmid));
   }
 }
 for (const number of reject) {
@@ -59,5 +61,7 @@ await fs.writeFile("approval-summary.md", `${summary}\n`);
 
 if (process.env.GITHUB_OUTPUT) {
   await fs.appendFile(process.env.GITHUB_OUTPUT, `changed=${changed}\n`);
+  await fs.appendFile(process.env.GITHUB_OUTPUT, `approved_pmids=${approvedPmids.join(",")}\n`);
+  await fs.appendFile(process.env.GITHUB_OUTPUT, `approved_count=${approvedPmids.length}\n`);
   await fs.appendFile(process.env.GITHUB_OUTPUT, `pending=${items.filter((item) => item.reviewStatus === "pending").length}\n`);
 }
