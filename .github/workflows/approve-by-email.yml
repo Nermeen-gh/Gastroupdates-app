@@ -13,6 +13,8 @@ jobs:
   approve:
     if: github.event.issue.title == 'Review pending gastroenterology updates' && github.actor == github.repository_owner
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.process.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -55,7 +57,7 @@ jobs:
 
   generate_infographics:
     needs: approve
-    if: needs.approve.result == 'success'
+    if: needs.approve.outputs.changed == 'true'
     uses: ./.github/workflows/generate-approved-infographics.yml
     with:
       dry_run: false
