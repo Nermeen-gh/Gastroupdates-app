@@ -2589,8 +2589,9 @@
       "status": "Clinical trial",
       "references": "Digestive diseases (Basel, Switzerland) · 2026 08 18 · PMID: 42611799 · DOI: 10.1159/000553479",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611799/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-19T04:51:18.772Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-19T04:51:18.772Z",
+      "reviewedAt": "2026-08-19T04:56:26.590Z"
     },
     {
       "id": "pmid-42611596",
@@ -2606,8 +2607,9 @@
       "status": "Evidence review",
       "references": "Journal of visualized experiments : JoVE · 2026 08 18 · PMID: 42611596 · DOI: 10.3791/71441",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42611596/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-19T04:51:18.772Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-19T04:51:18.772Z",
+      "reviewedAt": "2026-08-19T04:56:26.590Z"
     },
     {
       "id": "pmid-42609137",
@@ -2623,8 +2625,9 @@
       "status": "Guideline candidate",
       "references": "Journal of Crohn's & colitis · 2026 08 18 · PMID: 42609137 · DOI: 10.1093/ecco-jcc/jjag082",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42609137/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-19T04:51:18.772Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-19T04:51:18.772Z",
+      "reviewedAt": "2026-08-19T04:56:26.590Z"
     },
     {
       "id": "pmid-42608885",
@@ -2640,8 +2643,9 @@
       "status": "Evidence review",
       "references": "Cancer medicine · 2026 08 18 · PMID: 42608885 · DOI: 10.1002/cam4.72176",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42608885/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-19T04:51:18.772Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-19T04:51:18.772Z",
+      "reviewedAt": "2026-08-19T04:56:26.590Z"
     }
   ]
 }
