@@ -15,6 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.process.outputs.changed }}
+      approved_pmids: ${{ steps.process.outputs.approved_pmids }}
+      approved_count: ${{ steps.process.outputs.approved_count }}
     steps:
       - uses: actions/checkout@v4
 
@@ -57,8 +59,9 @@ jobs:
 
   generate_infographics:
     needs: approve
-    if: needs.approve.outputs.changed == 'true'
+    if: needs.approve.outputs.approved_count != '0'
     uses: ./.github/workflows/generate-approved-infographics.yml
     with:
+      pmid: ${{ needs.approve.outputs.approved_pmids }}
       dry_run: false
     secrets: inherit
