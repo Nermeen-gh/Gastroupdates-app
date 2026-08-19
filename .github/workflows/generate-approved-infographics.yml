@@ -1,9 +1,24 @@
 name: Generate approved infographics
 
 on:
-  push:
-    paths:
-      - data/updates.json
+  workflow_call:
+    inputs:
+      pmid:
+        required: false
+        type: string
+
+      dry_run:
+        required: false
+        type: boolean
+        default: false
+
+    secrets:
+      GEMINI_API_KEY:
+        required: true
+      GDRIVE_UPLOAD_URL:
+        required: true
+      GDRIVE_UPLOAD_TOKEN:
+        required: true
 
   workflow_dispatch:
     inputs:
