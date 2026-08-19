@@ -52,3 +52,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh issue close "${{ github.event.issue.number }}" --comment "All pending articles have been reviewed."
+
+  generate_infographics:
+    needs: approve
+    if: needs.approve.result == 'success'
+    uses: ./.github/workflows/generate-approved-infographics.yml
+    with:
+      dry_run: false
+    secrets: inherit
