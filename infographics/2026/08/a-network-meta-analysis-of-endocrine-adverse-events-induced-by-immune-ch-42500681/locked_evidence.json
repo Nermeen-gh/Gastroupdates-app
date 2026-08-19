@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42500681",
+  "pmid": "42500681",
+  "doi": "10.3389/fimmu.2026.1798732",
+  "title": "A network meta-analysis of endocrine adverse events induced by immune checkpoint inhibitors in colorectal cancer.",
+  "category": "Gastroenterology",
+  "article_type": "Clinical trial",
+  "journal": "Frontiers in immunology",
+  "date": "2026 07 25",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42500681/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Immune checkpoint inhibitor (ICI) therapy for colorectal cancer (CRC) can be accompanied by endocrine adverse events, yet the comparative risk across commonly used regimens remains unclear. We therefore conducted a network meta-analysis of randomized controlled trials in CRC published up to November 22, 2025, estimating risk ratios (RRs) with 95% confidence intervals (CIs) and assessing risk of bias. Six RCTs were…",
+  "approved_details": "Immune checkpoint inhibitor (ICI) therapy for colorectal cancer (CRC) can be accompanied by endocrine adverse events, yet the comparative risk across commonly used regimens remains unclear. We therefore conducted a network meta-analysis of randomized controlled trials in CRC published up to November 22, 2025, estimating risk ratios (RRs) with 95% confidence intervals (CIs) and assessing risk of bias. Six RCTs were included. Relative to conventional therapy, ICI-based regimens were associated with a higher thyroid-related toxicity burden. Pembrolizumab and ICI+tyrosine kinase inhibitor (TKI) significantly increased the risk of hypothyroidism, whereas hyperthyroidism was significantly higher with ICI+TKI and ICI plus chemotherapy plus an anti-angiogenic antibody (ICI+Chem+Antiangio-Ab). Grade 1-2 adverse events were consistently increased across ICI-based treatments. For thyroiditis, diabetes mellitus, adrenal insufficiency, and grade 3-4 adverse events, effect estimates were imprecise with wide 95% CIs; nevertheless, SUCRA rankings tended to place ICI+TKI toward the higher-risk end for thyroiditis and diabetes. These findings indicate that ICI-containing strategies in CRC increase risks of endocrine adverse events-particularly for thyroid dysfunction-supporting the need for proactive endocrine monitoring and standardized management, while highlighting the limited precision of current evidence for rarer endpoints and severe toxicity. https://www.crd.york.ac.uk/PROSPERO/view/CRD42023469312, identifier CRD42023469312.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in immunology · 2026 07 25 · PMID: 42500681 · DOI: 10.3389/fimmu.2026.1798732",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42479941",
+  "pmid": "42479941",
+  "doi": "10.1002/jmv.71070",
+  "title": "Risk of Virological Failure After Switch to a Tenofovir-Sparing Dual Therapy in Virologically Suppressed People With HIV and Past HBV Infection.",
+  "category": "Hepatology",
+  "article_type": "New publication",
+  "journal": "Journal of medical virology",
+  "date": "2026 07 21",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42479941/",
+  "source_scope": "abstract_only",
+  "approved_summary": "We compared the effectiveness of tenofovir (TFV)-based triple regimens (TT) to TFV-sparing dual therapies (DT) in virologically suppressed, HBsAg-/HBcAb+ people living with HIV (PLWH). We emulated a target trial including adults PLWH from five University Hospitals, with HBsAg-/HBcAb+ serostatus, starting a TT with unsuppressed serum HIV-RNA and reaching HIV-RNA < 50 cp/mL (baseline). PLWH starting a DT (3TC + bPI…",
+  "approved_details": "We compared the effectiveness of tenofovir (TFV)-based triple regimens (TT) to TFV-sparing dual therapies (DT) in virologically suppressed, HBsAg-/HBcAb+ people living with HIV (PLWH). We emulated a target trial including adults PLWH from five University Hospitals, with HBsAg-/HBcAb+ serostatus, starting a TT with unsuppressed serum HIV-RNA and reaching HIV-RNA < 50 cp/mL (baseline). PLWH starting a DT (3TC + bPI or DTG, DTG + RPV, DOR + DTG or long-acting CAB + RPV) were considered in the \"treatment\"-group only if they switched within a 1-year grace period; all other PLWH were considered \"control\"-group. To emulate randomization, participants were cloned at baseline and assigned the opposite strategy, then censored at the time of strategy-deviation and assigned a weight based on the inverse-probability of being uncensored. Probabilities of 5-year virological failure (VF; two consecutive HIV-RNA > 50 cp/mL or a single HIV-RNA ≥ 200 cp/mL) were estimated through a weighted Kaplan-Meier estimator. Overall, 415 PLWH were eligible for study analysis: 71 (17.1%) started a DT (3TC-based: 78.9%) during follow-up. They were mainly men (329, 79.3%), with a median age of 48 years. In the weighted analysis, the estimated probabilities of VF were: 29.3% for DT and 29.9% for TT at 5 years (difference: 0.5%; 95% CI: -28.7, +21.6). A higher VF risk was seen in the subset of PLWH with undetectable HBsAb at the longest follow-up available (4 years), independently of treatment group: 15.5% and 36.8% with DT and TT, respectively (difference: -21.3%; 95% CI: -30.3, -13.8). Switch to a TFV-sparing DT, compared with continuing a TT, was not associated with an increased risk of VF in PLWH and prior HBV infection.",
+  "approved_practical_takeaways": [],
+  "reference": "Journal of medical virology · 2026 07 21 · PMID: 42479941 · DOI: 10.1002/jmv.71070",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

@@ -1,0 +1,32 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 2,
+      "publishable": false,
+      "critical_errors": [
+        "Gemini gemini-3.6-flash failed (503): {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      ],
+      "omissions": [],
+      "legibility": 1,
+      "extractability": 1
+    },
+    {
+      "variant": 3,
+      "publishable": false,
+      "critical_errors": [
+        "Garbled text in left panel: 'MAY AAOT S TECHNICALLY DEMANDING' distorts the source sentence ('remains technically demanding')."
+      ],
+      "omissions": [],
+      "legibility": 4,
+      "extractability": 5
+    }
+  ]
+}

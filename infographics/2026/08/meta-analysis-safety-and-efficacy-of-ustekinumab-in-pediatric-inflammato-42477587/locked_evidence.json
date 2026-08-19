@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42477587",
+  "pmid": "42477587",
+  "doi": "10.1186/s12876-026-05078-9",
+  "title": "Meta-analysis: safety and efficacy of ustekinumab in pediatric inflammatory bowel disease patients with anti-TNF failure.",
+  "category": "Endoscopy",
+  "article_type": "Evidence review",
+  "journal": "BMC gastroenterology",
+  "date": "2026 07 20",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42477587/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Evidence for ustekinumab (UST) in pediatric inflammatory bowel disease (IBD) is limited, particularly in patients who do not respond to anti-tumor necrosis factor (anti-TNF) therapy. We conducted a meta-analysis to evaluate the efficacy and safety of UST in pediatric IBD after anti-TNF failure. PubMed, Cochrane Library, Embase, and Web of Science were searched from inception through August 2025. We included studie…",
+  "approved_details": "Evidence for ustekinumab (UST) in pediatric inflammatory bowel disease (IBD) is limited, particularly in patients who do not respond to anti-tumor necrosis factor (anti-TNF) therapy. We conducted a meta-analysis to evaluate the efficacy and safety of UST in pediatric IBD after anti-TNF failure. PubMed, Cochrane Library, Embase, and Web of Science were searched from inception through August 2025. We included studies reporting outcomes of UST in pediatric IBD patients with prior anti-TNF failure. Pooled estimates were calculated using fixed- or random-effects models according to heterogeneity (I 2 ). Fifteen studies including 653 pediatric patients were analyzed. Pooled clinical remission rates were 57% (95% CI, 28%-86%) at 8-16 weeks and 68% (95% CI, 58%-79%) at week 52. Steroid-free clinical remission was 44% (95% CI, 38%-49%) at 8-16 weeks and 58% (95% CI, 45%-70%) at week 52. The pooled endoscopic remission rate was 42% (95% CI, 35%-49%) and a biochemical remission rate of 63% (95% CI, 40%-87%). Adverse events occurred in 20% of patients (95% CI, 9%-30%), and serious adverse events occurred in 1% (95% CI, 0%-2%). At week 52, clinical remission rates were 69% in Crohn's disease (CD) and 65% in ulcerative colitis (UC). In pediatric IBD patients with prior anti-TNF failure, UST was associated with favorable pooled remission rates and an acceptable safety profile, although substantial inter-study heterogeneity warrants cautious interpretation. These findings support UST as a feasible therapeutic option in this refractory pediatric setting; while highly generalizable to pediatric CD, the findings for the UC subgroup offer important preliminary evidence that warrants cautious interpretation due to limited precision.",
+  "approved_practical_takeaways": [],
+  "reference": "BMC gastroenterology · 2026 07 20 · PMID: 42477587 · DOI: 10.1186/s12876-026-05078-9",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42604879",
+  "pmid": "42604879",
+  "doi": "10.1007/s00280-026-04939-0",
+  "title": "Pharmacokinetic and pharmacodynamic sub-study of trans-arterial vs. intravenous gemcitabine in the TIGeR-PaC phase 3 clinical trial.",
+  "category": "Hepatology",
+  "article_type": "Clinical trial",
+  "journal": "Cancer chemotherapy and pharmacology",
+  "date": "2026 08 16",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42604879/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Localized intra-arterial delivery of gemcitabine (IAG) may provide advantages in terms of increased tissue concentration and decreased systemic dosing. We hypothesized IAG may result in decreased systemic gemcitabine concentration and associated side effects due to intracellular delivery prior to conversion to gemcitabine's inactive metabolite, difluorodeoxyuridine (dFdU). Here we report the results of a pharmacok…",
+  "approved_details": "Localized intra-arterial delivery of gemcitabine (IAG) may provide advantages in terms of increased tissue concentration and decreased systemic dosing. We hypothesized IAG may result in decreased systemic gemcitabine concentration and associated side effects due to intracellular delivery prior to conversion to gemcitabine's inactive metabolite, difluorodeoxyuridine (dFdU). Here we report the results of a pharmacokinetics and pharmacodynamics sub-study within the TIGeR-PaC phase 3 clinical trial (NCT03257033). Analyses were performed for 16 participants across 6 TIGeR-PaC study sites; 11 participants received localized IAG and 5 participants received systemic intravenous gemcitabine (IVG). Gemcitabine and dFdU assays were performed on blood samples collected immediately before, during, and after infusion. CA 19 - 9 levels were measured prior to and 2 weeks after IAG treatment. Maximum plasma drug concentration (C max ) and the area under the drug plasma concentration curve (AUC 0-t ) were compared between treatment groups. Pearson's correlation for AUC 0-t and the percent change in CA 19 - 9 levels was calculated for the IAG group. IAG resulted in lower gemcitabine C max and AUC 0-t and higher dFdU C max and AUC 0-t compared to IVG, consistent with a more rapid conversion of gemcitabine to dFdU with IAG versus IVG. With IAG, there was a significant correlation between increased dFdU levels and a pre- to post-treatment reduction in CA 19 - 9 levels (Pearson's r = -0.75; P = 0.034). In addition to providing increased local potency, localized IAG, in which gemcitabine is rapidly converted to its inactive metabolite dFdU, may also be beneficial in decreasing gemcitabine-related systemic side effects.",
+  "approved_practical_takeaways": [],
+  "reference": "Cancer chemotherapy and pharmacology · 2026 08 16 · PMID: 42604879 · DOI: 10.1007/s00280-026-04939-0",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

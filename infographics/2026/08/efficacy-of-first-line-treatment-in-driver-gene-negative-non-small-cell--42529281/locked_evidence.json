@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42529281",
+  "pmid": "42529281",
+  "doi": "10.3389/fimmu.2026.1791664",
+  "title": "Efficacy of first-line treatment in driver gene-negative non-small cell lung cancer with liver metastases: a Bayesian network meta-analysis.",
+  "category": "Hepatology",
+  "article_type": "Clinical trial",
+  "journal": "Frontiers in immunology",
+  "date": "2026 07 30",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42529281/",
+  "source_scope": "abstract_only",
+  "approved_summary": "This study aimed to evaluate the first-line treatment patterns and prognostic factors associated with survival in patients with driver gene-negative non-small cell lung cancer (NSCLC) and liver metastases, in order to identify the optimal treatment strategy. A Bayesian network meta-analysis was performed using R software (version 4.2.3) and RevMan (version 5.4) to systematically compare the efficacy of various fir…",
+  "approved_details": "This study aimed to evaluate the first-line treatment patterns and prognostic factors associated with survival in patients with driver gene-negative non-small cell lung cancer (NSCLC) and liver metastases, in order to identify the optimal treatment strategy. A Bayesian network meta-analysis was performed using R software (version 4.2.3) and RevMan (version 5.4) to systematically compare the efficacy of various first-line treatment regimens, including chemotherapy, immunotherapy, and combination therapy, in patients with driver gene-negative NSCLC with liver metastases. A total of 20 randomized controlled trials were included. Among patients with driver gene-negative NSCLC and liver metastases: (1) PD-1 inhibitor plus chemotherapy significantly improved progression-free survival (PFS) (HR = 0.572, 95% CI: 0.435-0.754) and overall survival (OS) (HR = 0.681, 95% CI: 0.559-0.830) compared with chemotherapy alone. (2) In the patients with non-squamous NSCLC, PD-1/PD-L1 inhibitor plus chemotherapy resulted in a greater PFS benefit than chemotherapy alone. (3) A similar PFS advantage was observed in patients with squamous NSCLC receiving PD-1 inhibitor plus chemotherapy versus chemotherapy alone (HR = 0.583, 95% CI: 0.386-0.882). (4) Camrelizumab plus chemotherapy (CAM+CT) ranked highest in the network meta-analysis, with the top SUCRA values for both PFS (84.18%) and OS (96.38%). In treatment-naive driver gene-negative NSCLC with liver metastases: PD-1 inhibitor plus chemotherapy conferred more significant PFS and OS benefits than chemotherapy alone. CAM+CT appeared to rank favorably among the evaluated regimens, particularly in patients with squamous NSCLC and liver metastases, suggesting it may represent a candidate treatment strategy. However, given that these findings were derived from a network meta-analysis based on indirect comparisons, they should be interpreted with caution. https://www.crd.york.ac.uk/PROSPERO/view/CRD42025632364, identifier CRD42025632364.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in immunology · 2026 07 30 · PMID: 42529281 · DOI: 10.3389/fimmu.2026.1791664",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

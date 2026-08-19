@@ -1,0 +1,32 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": false,
+      "critical_errors": [
+        "The infographic includes invented exclusion criteria in the 'Population or Scope' section ('Excluded inflammatory bowel disease and gastric varices'), which is not present in the locked evidence."
+      ],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 2,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 3,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Safety findings regarding adverse events and biopsy of stabilised bleeding ulcers were omitted."
+      ],
+      "legibility": 5,
+      "extractability": 5
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42599597",
+  "pmid": "42599597",
+  "doi": "10.1007/s12029-026-01569-w",
+  "title": "Radiomics for Prediction of Microsatellite Instability Status in Gastric Cancer: A Systematic Review and Meta-Analysis.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Journal of gastrointestinal cancer",
+  "date": "2026 08 14",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42599597/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Microsatellite instability (MSI) is a key biomarker for immunotherapy in gastric cancer (GC), but preoperative non-invasive prediction remains challenging. Radiomics is promising; however, a systematic evaluation of its diagnostic performance with explicit consideration of overfitting and model comparison is lacking. We systematically searched PubMed, Embase, Web of Science, and Cochrane Library up to March 25, 20…",
+  "approved_details": "Microsatellite instability (MSI) is a key biomarker for immunotherapy in gastric cancer (GC), but preoperative non-invasive prediction remains challenging. Radiomics is promising; however, a systematic evaluation of its diagnostic performance with explicit consideration of overfitting and model comparison is lacking. We systematically searched PubMed, Embase, Web of Science, and Cochrane Library up to March 25, 2026, for studies on radiomics for preoperative MSI prediction in GC. A bivariate random-effects model pooled sensitivity, specificity, and diagnostic odds ratio (DOR). Subgroup analyses were performed by model type, data source, validation type, and algorithm. Thirteen studies (2,447 patients) were included. In validation sets (17 data points), the pooled AUC was 0.82 (95% CI: 0.79-0.85), sensitivity 0.79 (95% CI: 0.73-0.84), and specificity 0.72 (95% CI: 0.67-0.76). Performance was higher in training sets (AUC 0.88). Combined models (radiomics plus clinical features) achieved higher specificity than radiomics models (0.75 vs. 0.68) in validation sets. Externally and internally validated models had comparable AUC (0.82 vs. 0.83). Machine learning did not outperform logistic regression. radiomics demonstrates moderate diagnostic accuracy for preoperative MSI prediction in GC. Combined models improve specificity, aiding patient selection. Differences between training and validation performance underscore the need for rigorous external validation. Prospective, multicenter studies are warranted. This research was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and was prospectively registered with the PROSPERO database under registration number CRD420251148467. The protocol is available at: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251148467 .",
+  "approved_practical_takeaways": [],
+  "reference": "Journal of gastrointestinal cancer · 2026 08 14 · PMID: 42599597 · DOI: 10.1007/s12029-026-01569-w",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

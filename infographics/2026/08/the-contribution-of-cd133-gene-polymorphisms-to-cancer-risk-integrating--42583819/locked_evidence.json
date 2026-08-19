@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42583819",
+  "pmid": "42583819",
+  "doi": "10.1002/gcc.70162",
+  "title": "The Contribution of CD133 Gene Polymorphisms to Cancer Risk: Integrating Case-Control Evidence With Meta-Analysis.",
+  "category": "Hepatology",
+  "article_type": "Evidence review",
+  "journal": "Genes, chromosomes & cancer",
+  "date": "2026 08 12",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42583819/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Previous studies have extensively examined the associations between CD133 gene polymorphisms (rs10022537, rs2286455, rs2240688, and rs3130) and cancer risk, but have yielded inconsistent results. This study aimed to investigate the potential contributions of these polymorphisms to the susceptibility of liver, lung, and gastric cancers through a replicated case-control study and a subsequent systematic meta-analysi…",
+  "approved_details": "Previous studies have extensively examined the associations between CD133 gene polymorphisms (rs10022537, rs2286455, rs2240688, and rs3130) and cancer risk, but have yielded inconsistent results. This study aimed to investigate the potential contributions of these polymorphisms to the susceptibility of liver, lung, and gastric cancers through a replicated case-control study and a subsequent systematic meta-analysis. A total of 480 patients with liver cancer, 550 patients with lung cancer, 460 patients with gastric cancer, and 800 healthy controls from the Hubei population were enrolled. Sanger sequencing assay was applied to genotype the four target CD133 gene polymorphisms. The case-control study revealed that rs10022537 was significantly associated with the risk of liver cancer but not with the risk of lung or gastric cancer. In contrast, rs3130 was significantly associated with both lung and liver cancer risk, whereas no association was observed with gastric cancer risk. rs2240688 exhibited a significant association exclusively with lung cancer risk, and rs2286455 showed no significant association with any of the three cancer types. The meta-analysis further demonstrated that rs3130 was significantly associated with lung cancer risk in the Chinese population, and rs2240688 was significantly associated with gastric cancer risk. No significant association was found for rs10022537 or rs2286455 with liver, lung, or gastric cancer risk. Collectively, these findings suggested that rs3130 and rs2240688 in the CD133 gene may serve as susceptibility factors for risk of lung cancer and gastric cancer, respectively. Further validation studies in larger and more diverse populations are warranted.",
+  "approved_practical_takeaways": [],
+  "reference": "Genes, chromosomes & cancer · 2026 08 12 · PMID: 42583819 · DOI: 10.1002/gcc.70162",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

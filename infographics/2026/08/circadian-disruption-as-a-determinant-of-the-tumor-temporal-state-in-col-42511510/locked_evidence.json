@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42511510",
+  "pmid": "42511510",
+  "doi": "10.3390/ijms27146164",
+  "title": "Circadian Disruption as a Determinant of the Tumor Temporal State in Colorectal Cancer: A PRISMA-Based Systematic Review Integrating Metabolism, Immunity, and Metastasis.",
+  "category": "Gastroenterology",
+  "article_type": "Evidence review",
+  "journal": "International journal of molecular sciences",
+  "date": "2026 07 29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42511510/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Circadian rhythms synchronize physiological processes with the light-dark cycle and regulate biological functions relevant to cancer, including cell-cycle control, metabolism, DNA repair, immunity, and tissue homeostasis. Growing evidence indicates that disruption of these temporal mechanisms contributes to tumor initiation, progression, metastasis, and treatment response. In colorectal cancer (CRC), circadian clo…",
+  "approved_details": "Circadian rhythms synchronize physiological processes with the light-dark cycle and regulate biological functions relevant to cancer, including cell-cycle control, metabolism, DNA repair, immunity, and tissue homeostasis. Growing evidence indicates that disruption of these temporal mechanisms contributes to tumor initiation, progression, metastasis, and treatment response. In colorectal cancer (CRC), circadian clock dysregulation has emerged as an important component of tumor biology. A systematic search identified 1338 records, of which 43 studies met the eligibility criteria (20 human, 19 experimental, and 4 chronotherapy studies). Across the included studies, statistically significant associations were consistently reported between dysregulation of clock genes such as PER1 , PER3 , CLOCK , BMAL1 , CRY1 , TIMELESS , and ARNTL2 and alterations in proliferation, metabolism, epithelial plasticity, immune regulation, metastatic potential, and treatment responsiveness. Experimental evidence also supported interactions with Wnt signaling, ferroptosis, oxidative-stress adaptation, epithelial-mesenchymal remodeling, and a proposed clock-microbiota-immune axis. Overall, the available evidence indicates that circadian dysregulation represents a systems-level disturbance that gives rise to a multidimensional biological condition, here referred to as the Tumor Temporal State, integrating the metabolic, immune, invasive, and therapeutic dimensions of colorectal cancer biology.",
+  "approved_practical_takeaways": [],
+  "reference": "International journal of molecular sciences · 2026 07 29 · PMID: 42511510 · DOI: 10.3390/ijms27146164",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

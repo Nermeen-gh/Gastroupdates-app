@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42536534",
+  "pmid": "42536534",
+  "doi": "10.1097/MD.0000000000049951",
+  "title": "A systematic review and meta-analysis of acupuncture for intestinal protection and underlying mechanisms in animal models of ulcerative colitis.",
+  "category": "Gastroenterology",
+  "article_type": "Evidence review",
+  "journal": "Medicine",
+  "date": "2026 07 31",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42536534/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Although acupuncture has exhibited potential in the therapy of ulcerative colitis (UC), its particular protective mechanisms remain controversial, and meta-analyses examining these mechanisms are lacking. Accordingly, this investigation endeavors to systematically appraise the intestinal protective effectiveness of acupuncture using animal models and to explore its potential mechanisms of action in depth. We searc…",
+  "approved_details": "Although acupuncture has exhibited potential in the therapy of ulcerative colitis (UC), its particular protective mechanisms remain controversial, and meta-analyses examining these mechanisms are lacking. Accordingly, this investigation endeavors to systematically appraise the intestinal protective effectiveness of acupuncture using animal models and to explore its potential mechanisms of action in depth. We searched PubMed, Web of Science, Embase, Cochrane Library, China National Knowledge Infrastructure, Chinese Biomedical Literature Database, Wanfang, and Chinese Science and Technology Journal Database. The time frame was from the establishment of the databases to June 2025. An assessment of the included studies' quality was conducted using the 10 criteria specified by the Systematic Review Centre for Laboratory Animal Experimentation bias risk assessment tool. After extracting the complete data, statistical analysis was conducted using Stata 12 software (StataCorp LP). Additionally, results were validated through subgroup analysis, sensitivity analysis, and assessment of publication bias. A total of 31 studies were included, involving 597 animals. Meta-analysis results revealed that acupuncture intervention substantially decreased the disease activity index score and expression levels of tumor necrosis factor-α, interleukin-1β, and interleukin-6 in UC animal models, concurrently enhancing the protein expression of Zonula occludens-1 and Occludin. The subgroup analysis indicated that the research heterogeneity might be attributed to various factors: the differences in modeling methods might be related to the heterogeneity of disease activity index and interleukin-6; while the variations in acupuncture retention time might be associated with the heterogeneity of tumor necrosis factor-α and interleukin-1β. The findings indicate that in animal models of UC, acupuncture may confer protection through the inhibition of inflammatory responses and the restoration of the intestinal mucosal barrier.",
+  "approved_practical_takeaways": [],
+  "reference": "Medicine · 2026 07 31 · PMID: 42536534 · DOI: 10.1097/MD.0000000000049951",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

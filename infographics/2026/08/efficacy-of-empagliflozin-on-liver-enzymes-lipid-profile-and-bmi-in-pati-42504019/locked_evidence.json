@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42504019",
+  "pmid": "42504019",
+  "doi": "10.1002/edm2.70294",
+  "title": "Efficacy of Empagliflozin on Liver Enzymes, Lipid Profile and BMI in Patients With Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD): A Systematic Review and Meta-Analysis.",
+  "category": "Hepatology",
+  "article_type": "Clinical trial",
+  "journal": "Endocrinology, diabetes & metabolism",
+  "date": "2026 07 27",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42504019/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly prevalent and associated with obesity and dyslipidemia, yet effective pharmacological interventions remain limited. Empagliflozin has shown potential benefits in MASLD, although evidence remains limited. This systematic review and meta-analysis assesses the efficacy of empagliflozin in patients with MASLD, both diabetic and non-diabet…",
+  "approved_details": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly prevalent and associated with obesity and dyslipidemia, yet effective pharmacological interventions remain limited. Empagliflozin has shown potential benefits in MASLD, although evidence remains limited. This systematic review and meta-analysis assesses the efficacy of empagliflozin in patients with MASLD, both diabetic and non-diabetic. An advanced database search was conducted up to June 1st, 2026, to identify eligible randomized controlled trials (RCTs). The relevant data were extracted from selected studies. Pooled effect sizes were calculated as weighted mean differences (WMDs) with 95% confidence intervals (CIs) using a random-effects model. Seven RCTs comprising 591 participants were included. Empagliflozin significantly improved liver enzyme profiles. Specifically, it reduced alanine aminotransferase (ALT) (WMD: -12.24 IU/L; p = 0.037), aspartate aminotransferase (AST) (WMD: -9.51 IU/L; p = 0.048), and gamma-glutamyl transferase (GGT) (WMD: -14.92 IU/L; p = 0.023). Reductions in alkaline phosphatase (ALP) were observed but did not reach statistical significance (WMD: -26.28 IU/L; p = 0.292). Although substantial heterogeneity was observed for several liver enzyme outcomes. Empagliflozin had no significant effect on lipid parameters, including triglycerides (TG), total cholesterol (TC), low-density and high-density lipoprotein cholesterols (LDL-C, HDL-C). Empagliflozin also produced a statistically significant but modest reduction in body mass index (BMI) (WMD: -0.71 kg/m 2 ; p < 0.001). Empagliflozin also produced a statistically significant but clinically modest reduction in BMI (WMD: -0.71 kg/m 2 ; 95% CI: -1.00 to -0.43; p < 0.001). Empagliflozin appears to improve liver enzymes and modestly reduce BMI in patients with MASLD, while having a neutral effect on lipid parameters. These findings may confer a statistically significant but clinically modest benefit, particularly in patients with coexisting metabolic risk factors. However, the evidence is limited by small sample sizes, short follow-up periods, and potential publication bias; therefore, the conclusions should be considered preliminary and hypothesis-generating.",
+  "approved_practical_takeaways": [],
+  "reference": "Endocrinology, diabetes & metabolism · 2026 07 27 · PMID: 42504019 · DOI: 10.1002/edm2.70294",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

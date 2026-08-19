@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42606588",
+  "pmid": "42606588",
+  "doi": "10.1007/s00383-026-06577-2",
+  "title": "Does laparoscopic-assisted transanal endorectal pull-through improve outcomes compared with transanal endorectal pull-through in Hirschsprung disease? A systematic review and meta-analysis.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Pediatric surgery international",
+  "date": "2026 08 17",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42606588/",
+  "source_scope": "abstract_only",
+  "approved_summary": "TERPT and LA-TERPT are widely used minimally invasive procedures for HD treatment. However, the comparative superiority of either technique in terms of postoperative complications and long-term functional outcomes remains uncertain. An SRMA was conducted in accordance with PRISMA 2020 guidelines and prospectively registered in PROSPERO (CRD420261378340). PubMed/MEDLINE, Embase, Scopus, Web of Science, Google Schol…",
+  "approved_details": "TERPT and LA-TERPT are widely used minimally invasive procedures for HD treatment. However, the comparative superiority of either technique in terms of postoperative complications and long-term functional outcomes remains uncertain. An SRMA was conducted in accordance with PRISMA 2020 guidelines and prospectively registered in PROSPERO (CRD420261378340). PubMed/MEDLINE, Embase, Scopus, Web of Science, Google Scholar, and trial registries were searched from inception to May 3, 2026. Comparative studies evaluating TERPT and LA-TERPT in children with HD were included. The primary outcomes were constipation, soiling, fecal incontinence, BFS, HAEC, anastomotic stricture, and anastomotic leak. Secondary outcomes included operative time and hospital stay. A random-effects meta-analysis was performed using log risk ratios (RRs) or mean differences (MDs) with 95% confidence intervals (CIs). Twenty-three studies involving 1,668 children with HD were included, comprising 980 TERPT and 688 LA-TERPT procedures. No significant differences were observed between TERPT and LA-TERPT for constipation (log RR = 0.11), soiling (log RR = 0.05), fecal incontinence (log RR = 0.05), HAEC (log RR = 0.09), BFS > 17 (log RR = - 0.08), anastomotic stricture (log RR = 0.28), or anastomotic leak (log RR = 0.06). TERPT was associated with a significantly shorter operative time (MD = -43.25 min). Post-op hospital stay was comparable between groups (MD = 0.20 days). Most outcomes showed low heterogeneity, whereas operative time and hospital stay showed substantial heterogeneity. This SRMA found no clear evidence that either TERPT or LA-TERPT yields superior postoperative or functional outcomes in children with RSHD. However, the available evidence is largely observational and has low to moderate certainty, so it should be interpreted cautiously. Until higher-quality evidence becomes available, the choice of surgical approach should be guided by disease characteristics, technical considerations, and surgeon expertise.",
+  "approved_practical_takeaways": [],
+  "reference": "Pediatric surgery international · 2026 08 17 · PMID: 42606588 · DOI: 10.1007/s00383-026-06577-2",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

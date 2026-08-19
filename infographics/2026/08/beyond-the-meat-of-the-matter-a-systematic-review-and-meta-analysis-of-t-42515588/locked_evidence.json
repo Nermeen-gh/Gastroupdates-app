@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42515588",
+  "pmid": "42515588",
+  "doi": "10.3390/v18070736",
+  "title": "Beyond the Meat of the Matter: A Systematic Review and Meta-Analysis of the Hepatitis E Seroprevalence and Food-Borne Transmission Potential in the Balkans.",
+  "category": "Hepatology",
+  "article_type": "Guideline candidate",
+  "journal": "Viruses",
+  "date": "2026 07 29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42515588/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Hepatitis E virus (HEV) is an emerging zoonotic pathogen in Europe, mainly transmitted via consumption of naturally contaminated food or contact with infected animals. People living in the Balkans have diverse dietary habits, with high pork consumption in some countries, making this region a relevant setting for investigating HEV seroprevalence and its possible determinants. The current study aimed to estimate poo…",
+  "approved_details": "Hepatitis E virus (HEV) is an emerging zoonotic pathogen in Europe, mainly transmitted via consumption of naturally contaminated food or contact with infected animals. People living in the Balkans have diverse dietary habits, with high pork consumption in some countries, making this region a relevant setting for investigating HEV seroprevalence and its possible determinants. The current study aimed to estimate pooled HEV seroprevalence among adults in the general population and blood donors and to assess factors associated with regional variation. Twenty-eight eligible studies were identified from PubMed, Scopus, and Web of Science following the PRISMA guidelines. Pooled prevalence estimates were calculated using a random-effects meta-analysis of proportions implemented via a generalized linear mixed model (GLMM) with logit transformation. Potential factors associated with HEV seroprevalence, including national pork consumption, serological assay type, population group, year of publication, sex, and country, were evaluated. The pooled anti-HEV seroprevalence was estimated to be 5.68% (95% CI: 3.48-9.12%), with substantial heterogeneity. Country-specific estimates ranged from 1.01% in Greece to 26.66% in Bulgaria. Subgroup analyses showed significant variation according to national pork consumption category, serological assay type, year of publication, and country. However, meta-regression indicated that methodological and temporal factors, particularly serological assay type and year of publication, were the main significant moderators, whereas national pork consumption was not independently associated with seropositivity. Therefore, pork consumption should be interpreted as an exploratory ecological indicator rather than as evidence of a direct association. The methodological differences contribute substantially to the variability in HEV seroprevalence across the Balkans, emphasizing the need for standardized diagnostic approaches within a One Health framework.",
+  "approved_practical_takeaways": [],
+  "reference": "Viruses · 2026 07 29 · PMID: 42515588 · DOI: 10.3390/v18070736",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

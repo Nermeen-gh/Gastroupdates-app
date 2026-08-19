@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42523995",
+  "pmid": "42523995",
+  "doi": "10.3389/fimmu.2026.1746990",
+  "title": "Combination therapy with anti-PD-1 antibody, radiotherapy, and tyrosine kinase inhibitor for unresectable primary ectopic hepatocellular carcinoma: a case report with genomic profiling and literature review.",
+  "category": "Hepatology",
+  "article_type": "Guideline candidate",
+  "journal": "Frontiers in immunology",
+  "date": "2026 07 29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42523995/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Ectopic hepatocellular carcinoma (EHCC) is an exceedingly rare malignancy characterized by its occurrence outside the liver without a detectable intrahepatic primary tumor. Owing to its rarity and the absence of standardized management guidelines, the diagnosis and treatment of EHCC pose significant challenges. We report a case of unresectable, multifocal EHCC managed by a multidisciplinary team (MDT). Comprehensi…",
+  "approved_details": "Ectopic hepatocellular carcinoma (EHCC) is an exceedingly rare malignancy characterized by its occurrence outside the liver without a detectable intrahepatic primary tumor. Owing to its rarity and the absence of standardized management guidelines, the diagnosis and treatment of EHCC pose significant challenges. We report a case of unresectable, multifocal EHCC managed by a multidisciplinary team (MDT). Comprehensive molecular profiling, including whole-exome sequencing (WES) and RNA sequencing (RNA-seq), was performed to characterize the tumor's genetic and transcriptomic landscape. A systematic literature review of EHCC case reports in the PubMed database was also conducted. A patient in his sixties was diagnosed with unresectable, multifocal EHCC localized within the abdominal cavity. The diagnosis was confirmed by laparoscopic biopsy and histopathological examination, which revealed hepatocellular carcinoma with fatty metaplasia, corroborated by positive immunohistochemical staining. Comprehensive genomic analysis using RNA-seq and WES identified key molecular features potentially involved in EHCC pathogenesis. Guided by the MDT, the patient received a multimodal regimen comprising lenvatinib (8 mg once daily), camrelizumab (200 mg every two weeks; an anti-PD-1 antibody), and stereotactic body radiotherapy (SBRT) targeting residual abdominal lesions. The patient achieved a progression-free survival (PFS) of 27 months and an overall survival (OS) of 30 months. A systematic review of 55 reported EHCC cases provided a comprehensive overview of the disease's demographic, clinical, management, and prognostic characteristics. This study provides the molecular profiling of an EHCC case, offering descriptive insights into its genomic and transcriptomic landscape. Furthermore, the favorable clinical outcome associated with the combination therapy of lenvatinib, camrelizumab, and SBRT suggests the potential value of this multimodal strategy, indicating a potential therapeutic approach for future cases.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in immunology · 2026 07 29 · PMID: 42523995 · DOI: 10.3389/fimmu.2026.1746990",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

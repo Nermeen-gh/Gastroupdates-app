@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42504139",
+  "pmid": "42504139",
+  "doi": "10.1080/07853890.2026.2704998",
+  "title": "High-flow nasal cannula oxygenation in sedated endoscopy for high-risk obstructive sleep apnea patients: study protocol for a multicentre randomised controlled trial.",
+  "category": "Endoscopy",
+  "article_type": "Guideline candidate",
+  "journal": "Annals of medicine",
+  "date": "2026 07 27",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42504139/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Hypoxemia is the most common adverse event during sedated gastrointestinal endoscopy. Patients with high obstructive sleep apnea (OSA) risk (STOP-Bang ≥5) are susceptible due to sedation-induced loss of upper airway tone exacerbating airway collapsibility. Although high-flow nasal cannula (HFNC) benefits general at-risk populations, its efficacy in this specific cohort remains uncertain, as its mild positive press…",
+  "approved_details": "Hypoxemia is the most common adverse event during sedated gastrointestinal endoscopy. Patients with high obstructive sleep apnea (OSA) risk (STOP-Bang ≥5) are susceptible due to sedation-induced loss of upper airway tone exacerbating airway collapsibility. Although high-flow nasal cannula (HFNC) benefits general at-risk populations, its efficacy in this specific cohort remains uncertain, as its mild positive pressure falls far below therapeutic continuous positive airway pressure levels for moderate-to-severe OSA, questioning its ability to stent the collapsible airway. Our prior proof-of-concept study in this cohort observed a 5% incidence of hypoxemia with HFNC, confirming feasibility and safety and justifying this confirmatory trial. This prospective, multicenter, randomized controlled single-blind trial will enroll 600 adults (STOP-Bang score ≥5) undergoing elective sedated gastroenteroscopy across three centers. Participants will be 1:1 randomized (stratified by center) to HFNC (30 L/min pre-oxygenation, 60 L/min post-induction) or conventional nasal cannula (6 L/min). Both groups receive standardized propofol-alfentanil sedation. The primary outcome is the proportion of patients with at least one episode of hypoxemia (SpO 2 75%-90% <60 s). Secondary outcomes include the proportion of patients with at least one episode of severe hypoxemia (SpO 2 <75% or 75%≤SpO 2 <90% ≥60 s), the proportion with subclinical respiratory depression (90%≤SpO 2 <95%), and the frequency of other adverse events. This trial will provide definitive evidence on HFNC's efficacy in high-risk OSA patients, addressing whether it can overcome pressure limitations to prevent hypoxemia. Results are expected to inform sedation management guidelines, establish a new standard of care for this subgroup, and enhance procedural safety. The trial was registered at the ClinicalTrials.gov on 14 December 2025 (NCT07307560).",
+  "approved_practical_takeaways": [],
+  "reference": "Annals of medicine · 2026 07 27 · PMID: 42504139 · DOI: 10.1080/07853890.2026.2704998",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42595456",
+  "pmid": "42595456",
+  "doi": "10.1080/02656736.2026.2713200",
+  "title": "Cryoablation versus radiofrequency ablation for hepatocellular carcinoma: a systematic review and meta-analysis.",
+  "category": "Hepatology",
+  "article_type": "Evidence review",
+  "journal": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+  "date": "2026 08 13",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42595456/",
+  "source_scope": "abstract_only",
+  "approved_summary": "This systematic review and meta-analysis was conducted to comprehensively examine the clinical effectiveness and safety of cryoablation (CA) versus radiofrequency ablation (RFA) in the treatment of hepatocellular carcinoma (HCC). Relevant studies published up to September 2025 were identified in PubMed, Wanfang, Embase, Cochrane Library, and Web of Science. Eligible data were extracted and quantitatively synthesiz…",
+  "approved_details": "This systematic review and meta-analysis was conducted to comprehensively examine the clinical effectiveness and safety of cryoablation (CA) versus radiofrequency ablation (RFA) in the treatment of hepatocellular carcinoma (HCC). Relevant studies published up to September 2025 were identified in PubMed, Wanfang, Embase, Cochrane Library, and Web of Science. Eligible data were extracted and quantitatively synthesized. A total of 7 studies were analyzed. In these, 544 individuals underwent CA, while 925 individuals received RFA. Compared with RFA, CA was associated with a significantly higher pooled initial complete ablation rate ( p = 0.04) and a significantly lower incidence of intraoperative pain ( p = 0.02). The CA and RFA groups were comparable in terms of progression-free survival (PFS) duration ( p = 0.37), 1-year PFS ( p = 0.11), 5-year PFS ( p = 0.12), overall survival (OS) duration ( p = 0.24), 1-year OS ( p = 0.90), 5-year OS ( p = 0.58), overall complications ( p = 0.94), or major complications ( p = 0.59). Substantial heterogeneity was detected for PFS duration (I 2 = 92%), 5-year PFS (I 2 = 59%), OS duration (I 2 = 89%), and intraoperative pain (I 2 = 58%). Funnel plot analyses indicated an absence of publication bias in terms of outcomes. Compared with RFA, CA may offer advantages in achieving higher initial complete tumor ablation and improved intraoperative patient comfort in HCC treatment. However, CA did not increase the PFS and OS when compared to RFA. The safety profiles appear comparable between the two techniques.",
+  "approved_practical_takeaways": [],
+  "reference": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group · 2026 08 13 · PMID: 42595456 · DOI: 10.1080/02656736.2026.2713200",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

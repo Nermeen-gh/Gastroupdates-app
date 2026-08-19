@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42535748",
+  "pmid": "42535748",
+  "doi": "10.26355/eurrev_202607_37883",
+  "title": "Spleen stiffness measurement by transient elastography for detecting esophagogastric varices: a systematic review of diagnostic accuracy studies.",
+  "category": "Hepatology",
+  "article_type": "Evidence review",
+  "journal": "European review for medical and pharmacological sciences",
+  "date": "2026 07 31",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42535748/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Clinically significant portal hypertension drives the development of esophagogastric varices. Endoscopy remains the gold standard, but it is invasive and resource demanding. The aim of the study is to evaluate the diagnostic accuracy of spleen stiffness measurement (SSM) by transient elastography in predicting esophagogastric varices. We systematically reviewed 20 studies. Techniques included standard 50 Hz TE and…",
+  "approved_details": "Clinically significant portal hypertension drives the development of esophagogastric varices. Endoscopy remains the gold standard, but it is invasive and resource demanding. The aim of the study is to evaluate the diagnostic accuracy of spleen stiffness measurement (SSM) by transient elastography in predicting esophagogastric varices. We systematically reviewed 20 studies. Techniques included standard 50 Hz TE and spleen-dedicated 100 Hz probes. Outcomes included AUROC, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), feasibility, and varices prevalence. SSM accuracy was high across studies (AUROC 0.75-0.97). 100 Hz SSM showed superior diagnostic performance and feasibility, even though the sample size was small, leading to important variability in evidence. SSM demonstrated excellent rule-out ability, with NPV consistently >90% in HRV-focused studies. Etiology influenced performance. SSM is a robust, non-invasive tool for detecting varices and may help triage patients to reduce unnecessary endoscopy. Integration into assessment algorithms for clinically significant portal hypertension is strongly supported.",
+  "approved_practical_takeaways": [],
+  "reference": "European review for medical and pharmacological sciences · 2026 07 31 · PMID: 42535748 · DOI: 10.26355/eurrev_202607_37883",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

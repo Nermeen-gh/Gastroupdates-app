@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42499107",
+  "pmid": "42499107",
+  "doi": "10.1097/MD.0000000000049877",
+  "title": "Comparative safety and effectiveness of stents in drainage of pancreatic fluid collections guided by endoscopic ultrasonography: A systematic review and network meta-analysis.",
+  "category": "Endoscopy",
+  "article_type": "Evidence review",
+  "journal": "Medicine",
+  "date": "2026 07 25",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42499107/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Endoscopic ultrasonography-guided drainage is an effective treatment for pancreatic fluid collections (PFCs). However, the optimal stent strategy for endoscopic ultrasonography-guided drainage of PFCs is still unclear. This study aims to compare the clinical outcomes of different stent types to identify the best option. Databases including PubMed, EMBASE, and Cochrane were searched up to August 2024. The analysis…",
+  "approved_details": "Endoscopic ultrasonography-guided drainage is an effective treatment for pancreatic fluid collections (PFCs). However, the optimal stent strategy for endoscopic ultrasonography-guided drainage of PFCs is still unclear. This study aims to compare the clinical outcomes of different stent types to identify the best option. Databases including PubMed, EMBASE, and Cochrane were searched up to August 2024. The analysis focused on comparisons between bi-flanged metal stents (BFMS), double-pigtail plastic stents (DPPS), fully covered self-expanding metal stents (FCSEMS), lumen-apposing metal stents (LAMS), and the combination of LAMS and DPPS (LAMS + DPPS). A total of 38 studies, involving 4265 patients with PFCs, were analyzed. In all of these patients, LAMS (risk ratio [RR]: 1.07, 95% confidence interval [CI]: 1.02-1.13) and BFMS (RR: 1.08, 95% CI: 1.01-1.15) showed higher clinical success rates compared with DPPS. LAMS + DPPS reduced infection rates compared with BFMS (RR: 0.32, 95% CI: 0.10-0.99), DPPS (RR: 0.19, 95% CI: 0.06-0.62), and FCSEMS (RR: 0.23, 95% CI: 0.07-0.76). Within the pancreatic pseudocysts subgroup, LAMS (RR: 1.08, 95% CI: 1.01-1.16) and LAMS + DPPS (RR: 1.24, 95% CI: 1.03-1.48) demonstrated higher clinical success rates compared with DPPS. Similarly, in the walled-off necrosis subgroup, LAMS (RR: 1.10, 95% CI: 1.02-1.17), LAMS + DPPS (RR: 1.19, 95% CI: 1.01-1.41), FCSEMS (RR: 1.14, 95% CI: 1.03-1.26), and BFMS (RR: 1.11, 95% CI: 1.03-1.20) all showed higher success rates compared with DPPS, with BFMS exhibiting a lower bleeding rate than DPPS (RR: 0.32, 95% CI: 0.18-0.99). Newer metal stents, including BFMS, LAMS, and LAMS + DPPS, offer advantages over plastic stents like DPPS alone. BFMS is preferable when bleeding risk is a concern, while LAMS + DPPS is more effective in reducing infection rates in PFCs.",
+  "approved_practical_takeaways": [],
+  "reference": "Medicine · 2026 07 25 · PMID: 42499107 · DOI: 10.1097/MD.0000000000049877",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

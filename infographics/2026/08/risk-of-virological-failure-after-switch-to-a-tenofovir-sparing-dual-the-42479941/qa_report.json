@@ -1,0 +1,35 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": false,
+      "critical_errors": [
+        "The metadata line under the main title incorrectly lists the journal name as 'Reference of medical virology' instead of 'Journal of medical virology'.",
+        "The text labels underneath the 5-year results bar chart are garbled and fragmented ('29.3% for' under DT and 'for TT' under TT)."
+      ],
+      "omissions": [],
+      "legibility": 4,
+      "extractability": 5
+    },
+    {
+      "variant": 2,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Omitted participant demographic details (79.3% men, median age 48 years)."
+      ],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 3,
+      "publishable": false,
+      "critical_errors": [
+        "In Section 8 (Subset Analysis), the 5-year virological failure rate for the Triple Therapy (TT) group (36.8%) is missing next to the 'WITH TT' label, leaving the primary subset comparison figure incomplete."
+      ],
+      "omissions": [],
+      "legibility": 4,
+      "extractability": 5
+    }
+  ]
+}

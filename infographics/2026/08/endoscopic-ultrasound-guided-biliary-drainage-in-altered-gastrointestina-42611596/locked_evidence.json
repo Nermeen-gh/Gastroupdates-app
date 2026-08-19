@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42611596",
+  "pmid": "42611596",
+  "doi": "10.3791/71441",
+  "title": "Endoscopic Ultrasound-Guided Biliary Drainage in Altered Gastrointestinal Anatomy: A Systematic Review and Meta-Analysis.",
+  "category": "Hepatology",
+  "article_type": "Evidence review",
+  "journal": "Journal of visualized experiments : JoVE",
+  "date": "2026 08 18",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42611596/",
+  "source_scope": "abstract_only",
+  "approved_summary": "ERCP intubation is often difficult in patients with biliary obstruction and changes in gastrointestinal structure, such as after Roux-en-Y or Billroth II surgery. EUS-BD is an alternative method. This meta-analysis should systematically compare the efficacy and safety of EUS-BD and ERCP in these patients. Studies were retrieved from PubMed, Embase, Web of Science, and the Cochrane Library from 2011 to 2026. Origin…",
+  "approved_details": "ERCP intubation is often difficult in patients with biliary obstruction and changes in gastrointestinal structure, such as after Roux-en-Y or Billroth II surgery. EUS-BD is an alternative method. This meta-analysis should systematically compare the efficacy and safety of EUS-BD and ERCP in these patients. Studies were retrieved from PubMed, Embase, Web of Science, and the Cochrane Library from 2011 to 2026. Original studies comparing EUS-BD and ERCP in patients with biliary obstruction and a history of gastrointestinal reconstruction surgery were included. Two researchers independently carried out literature screening, data extraction, and quality evaluation. A meta-analysis was conducted using Review Manager. The main outcome measures are technical success rate, clinical success rate, adverse events, and procedure time. A total of 6 studies involving 572 patients (201 in the EUS-BD group and 371 in the ERCP group) were included in the technical success analysis. The meta-analysis demonstrated that the pooled technical success rate was 90.5% (182/201) for the EUS-BD group and 70.4% (261/371) for the ERCP group, yielding an odds ratio (OR) of 3.60 (95% CI: 2.12-6.13; p < 0.00001). For clinical success, the pooled odds ratio was 3.52 (95% CI: 2.07-5.98; p < 0.00001), demonstrating a statistically significant advantage over ERCP. In terms of safety, there was no difference in the overall incidence of adverse events between the two groups (25.9% vs. 20.5%; OR: 1.54, 95% CI: 0.97-2.44). In patients with biliary obstruction and surgically altered gastrointestinal anatomy, EUS-BD was associated with higher pooled technical and clinical success rates in available observational studies, along with shorter procedure time than ERCP. However, current evidence remains insufficient to establish a definitive difference in overall adverse events. EUS-BD represents a viable and highly effective alternative drainage modality for this challenging population, particularly when standard ERCP is anticipated to be technically demanding.",
+  "approved_practical_takeaways": [],
+  "reference": "Journal of visualized experiments : JoVE · 2026 08 18 · PMID: 42611596 · DOI: 10.3791/71441",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

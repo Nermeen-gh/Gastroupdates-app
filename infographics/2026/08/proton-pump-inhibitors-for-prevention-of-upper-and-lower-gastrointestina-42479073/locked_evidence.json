@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42479073",
+  "pmid": "42479073",
+  "doi": "10.1007/s00228-026-04135-2",
+  "title": "Proton pump inhibitors for prevention of upper and lower gastrointestinal bleeding in patients taking aspirin: a systematic review and meta-analysis.",
+  "category": "Gastroenterology",
+  "article_type": "Clinical trial",
+  "journal": "European journal of clinical pharmacology",
+  "date": "2026 07 21",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42479073/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Proton pump inhibitors (PPIs) are recommended for the prevention of aspirin-associated gastrointestinal mucosal injury, but emerging evidence indicates that PPIs may increase the risk of lower gastrointestinal bleeding (LGIB). This meta-analysis aimed to comprehensively evaluate the effects of PPIs on gastrointestinal bleeding (GIB). Major electronic databases were searched to identify the studies evaluating the d…",
+  "approved_details": "Proton pump inhibitors (PPIs) are recommended for the prevention of aspirin-associated gastrointestinal mucosal injury, but emerging evidence indicates that PPIs may increase the risk of lower gastrointestinal bleeding (LGIB). This meta-analysis aimed to comprehensively evaluate the effects of PPIs on gastrointestinal bleeding (GIB). Major electronic databases were searched to identify the studies evaluating the differences between PPIs versus placebo/blank, no-PPI, histamine-2 receptor antagonists (H 2 RAs), mucosal protective agents (MPAs), and potassium-competitive acid blockers (P-CABs) in preventing aspirin-associated GIB. Risk ratios (RRs) with their 95% confidence intervals (CIs) were calculated. Sixteen randomized controlled trials (RCTs) and 14 non-RCTs were included. PPIs group had significantly lower risk of upper gastrointestinal bleeding (UGIB) than placebo/blank group (7 RCTs, RR = 0.30, 95%CI = 0.19-0.46; 2 non-RCTs, RR = 0.05, 95%CI = 0.01-0.42), no-PPI group (7 non-RCTs, RR = 0.50, 95%CI = 0.38-0.66), H 2 RAs group (5 RCTs, RR = 0.21, 95%CI = 0.09-0.53; 4 non-RCTs, RR = 0.12, 95%CI = 0.03-0.52), and MPAs group (4 RCTs, RR = 0.24, 95%CI = 0.10-0.58), but statistically similar (2 non-RCTs, RR = 1.18, 95%CI = 0.77-1.79) or significantly higher (1 RCT, log-rank P = 0.018 and 0.019) risk of UGIB than P-CABs group. PPIs group had significantly higher risk of lower gastrointestinal bleeding (LGIB) than no-PPI group (3 non-RCTs, RR = 2.85, 95%CI = 1.85-4.38), but statistically similar risk of LGIB to H 2 RAs group (2 RCTs, RR = 1.88, 95%CI = 0.30-11.82). The evidence from RCTs and non-RCTs suggests the advantages of PPIs over placebo/blank, no-PPI, H 2 RAs, and MPAs for the prevention of UGIB in aspirin users. The evidence regarding PPIs and LGIB in aspirin users is from non-RCTs alone, and suggests their potential harms.",
+  "approved_practical_takeaways": [],
+  "reference": "European journal of clinical pharmacology · 2026 07 21 · PMID: 42479073 · DOI: 10.1007/s00228-026-04135-2",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

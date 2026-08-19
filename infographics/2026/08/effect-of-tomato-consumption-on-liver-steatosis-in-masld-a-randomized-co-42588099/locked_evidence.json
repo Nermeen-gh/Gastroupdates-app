@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42588099",
+  "pmid": "42588099",
+  "doi": "10.3390/nu18152476",
+  "title": "Effect of Tomato Consumption on Liver Steatosis in MASLD: A Randomized Controlled Trial (POMOSANO Study).",
+  "category": "Hepatology",
+  "article_type": "Clinical trial",
+  "journal": "Nutrients",
+  "date": "2026 08 13",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42588099/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Background : Metabolic dysfunction-associated steatotic liver disease (MASLD) is a common chronic liver disease for which lifestyle modification remains the main treatment. However, the role of specific dietary components is not fully understood. We investigated whether daily tomato consumption, a source of Mediterranean diet bioactive compounds, improves hepatic steatosis in adults with MASLD. Methods : In the ra…",
+  "approved_details": "Background : Metabolic dysfunction-associated steatotic liver disease (MASLD) is a common chronic liver disease for which lifestyle modification remains the main treatment. However, the role of specific dietary components is not fully understood. We investigated whether daily tomato consumption, a source of Mediterranean diet bioactive compounds, improves hepatic steatosis in adults with MASLD. Methods : In the randomized controlled POMOSANO trial, 79 adults with MASLD (BMI ≤ 30 kg/m 2 ) were assigned to a tomato intervention group ( n = 42), consuming 200 g/day of raw tomatoes and 50 g/day of tomato sauce, or to a control group ( n = 37) following a tomato-free diet. The intervention lasted 6 weeks. Hepatic steatosis was assessed by the FibroScan ® controlled attenuation parameter (CAP). Secondary outcomes included anthropometric measures, body composition, liver stiffness, and metabolic and biochemical markers. Linear mixed-effects models were used to evaluate changes over time. Results : CAP decreased in both groups, with a greater reduction in the intervention group (median change: -35.00 vs. -18.00 dB/m). The adjusted linear mixed-effects model confirmed that the change in CAP in the control group was β = -12.81 (95% CI -25.55 to -0.08; p = 0.0490). Crucially, the treatment-by-time interaction was significant (β = -26.63, 95% CI -44.00 to -9.25; p = 0.0030), demonstrating a significantly greater reduction in hepatic steatosis in the tomato intervention group compared to the control group. CAP values were also significantly lower in the intervention group at follow-up ( p = 0.0433). The adjusted linear mixed-effects model confirmed a significant reduction in CAP over time (β = -12.81, 95% CI -25.55 to -0.08; p = 0.0490) and a significant treatment-by-time interaction (β = -26.63, 95% CI -44.00 to -9.25; p = 0.0030), indicating a greater reduction in hepatic steatosis in the intervention group. No significant between-group differences were observed for liver stiffness, FIB-4 index, body weight, body composition, or most metabolic and biochemical markers. Conclusions : Daily consumption of raw tomatoes and tomato sauce reduced hepatic steatosis in adults with MASLD, supporting tomato-rich dietary strategies as a potential nutritional approach for MASLD management.",
+  "approved_practical_takeaways": [],
+  "reference": "Nutrients · 2026 08 13 · PMID: 42588099 · DOI: 10.3390/nu18152476",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

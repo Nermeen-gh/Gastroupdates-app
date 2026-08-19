@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42541325",
+  "pmid": "42541325",
+  "doi": "10.6002/ect.2026.0042",
+  "title": "Prevalence and Clinical Impact of Multidrug-Resistant Bacterial Colonization and Infection in Liver Transplant Recipients: A Systematic Review and Meta-Analysis of Observational Studies.",
+  "category": "Hepatology",
+  "article_type": "Guideline candidate",
+  "journal": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation",
+  "date": "2026 08 01",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42541325/",
+  "source_scope": "abstract_only",
+  "approved_summary": "To our knowledge, a systematic review that has comprehensively evaluated the prevalence and clinical impact of multidrug -resistant bacteria in adult liver transplant recipients is not available. This review assessed the prevalence and clinical impact of multidrug -resistant bacteria among liver transplant recipients. In accordance with PRISMA guidelines, we searched Web of Science, PubMed, and Google Scholar thro…",
+  "approved_details": "To our knowledge, a systematic review that has comprehensively evaluated the prevalence and clinical impact of multidrug -resistant bacteria in adult liver transplant recipients is not available. This review assessed the prevalence and clinical impact of multidrug -resistant bacteria among liver transplant recipients. In accordance with PRISMA guidelines, we searched Web of Science, PubMed, and Google Scholar through August 2025. The study protocol was registered in PROSPERO (CRD420251181202 ). We included cohort and case -control studies that reported on adult first liver transplant recipients harboring and not harboring multidrug -resistant bacteria. Two reviewers assessed eligibility and conducted a risk of bias evaluation using the Newcastle -Ottawa Scale. We synthesized data using the web -based Review Manager for a meta -analysis, with a random -effects model to compute the pooled odds ratio and 95 % CI. Statistical heterogeneity was determined using the I2 statistic. In the 13 included studies (12 cohort studies, 1 case -control study ), multidrug -resistant bacteria were identified in 507 of 28 599 liver transplant recipients. Multidrug -resistant bacteria colonization significantly increased posttransplant infection (odds ratio 5.98; 95 % CI, 2.24 -15.94 ), and their presence significantly increased mortality (odds ratio 5.32; 95 % CI, 2.36 -11.97 ). Subgroup analyses suggested a regional variation in mortality risk with a higher association in China and Japan (odds ratio, 22.26; 95 % CI, 6.83 -72.6 ). Exposure to these bacteria was also associated with prolonged hospital and intensive care unit stay and showed a borderline association with acute kidney injury but not with graft rejection. Colonization with multidrug -resistant bacteria is associated with increased infection, and both colonization and infection raise the risk of mortality. Despite the variations across studies in geography, follow -up duration, and screening methods, actions to prevent colonization in transplant candidates are warranted.",
+  "approved_practical_takeaways": [],
+  "reference": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation · 2026 08 01 · PMID: 42541325 · DOI: 10.6002/ect.2026.0042",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

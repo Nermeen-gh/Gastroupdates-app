@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42577326",
+  "pmid": "42577326",
+  "doi": "10.3389/fimmu.2026.1878780",
+  "title": "Exploratory genomic stratification of benefit from first-line immunotherapy-based combination in advanced biliary tract cancer: a biomarker analysis of a randomized phase 2 trial.",
+  "category": "Hepatology",
+  "article_type": "Clinical trial",
+  "journal": "Frontiers in immunology",
+  "date": "2026 08 11",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42577326/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Benefit from first-line immunotherapy-based treatment in advanced biliary tract cancer (BTC) is heterogeneous, and selection biomarkers are lacking. We investigated whether genomic features could stratify benefit from intensified immunotherapy-based treatment versus chemotherapy. This exploratory biomarker analysis included 58 patients from a randomized phase 2 trial of sintilimab, anlotinib, gemcitabine, and cisp…",
+  "approved_details": "Benefit from first-line immunotherapy-based treatment in advanced biliary tract cancer (BTC) is heterogeneous, and selection biomarkers are lacking. We investigated whether genomic features could stratify benefit from intensified immunotherapy-based treatment versus chemotherapy. This exploratory biomarker analysis included 58 patients from a randomized phase 2 trial of sintilimab, anlotinib, gemcitabine, and cisplatin (SAGC) versus gemcitabine plus cisplatin (GC) with baseline tumor tissue available for 425-gene targeted next-generation sequencing. Treatment-by-biomarker interactions for progression-free survival (PFS) were evaluated using Cox models. A genomic classifier was developed, and its feature selection robustness and internal stability were assessed by leave-one-out cross-validation (LOOCV) and bootstrap resampling. Among 58 biomarker-evaluable patients, SAGC improved overall PFS versus GC (median 7.7 vs 6.3 months; HR 0.48, 95% CI 0.27-0.86; P = 0.011), with no overall survival (OS) difference (HR 0.98; P = 0.946). Evaluating these interactions identified DNA damage response (DDR) alteration and high tumor mutation burden (TMB-H) as the most robust predictors. Applied to both endpoints, the classifier stratified patients into SAGC-predominant (SP; either feature, n=40) and GC-predominant (GP; neither feature, n=18) subgroups, revealing diametrically opposed clinical trajectories (interaction P = 0.001 for PFS; P = 0.004 for OS). In SP, SAGC markedly prolonged PFS (10.7 vs 4.5 months; HR 0.26, 95% CI 0.12-0.55; P = 0.0002) and showed a favorable OS trend (16.9 vs 10.3 months; HR 0.55; P = 0.113). Conversely, in GP, SAGC yielded shorter PFS (5.8 vs 8.0 months; HR 2.70; P = 0.078) and significantly shorter OS (8.2 vs 13.9 months; HR 3.73, 95% CI 1.18-11.77; P = 0.017) compared to GC. LOOCV supported the reproducibility of feature prioritization and the internal stability of the final classifier, while bootstrap resampling supported the robustness of subgroup-specific treatment effects. An exploratory genomic classifier based on DDR alteration and TMB-H may help identify patients with advanced BTC more likely to benefit from the intensified first-line SAGC regimen, pending external validation.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in immunology · 2026 08 11 · PMID: 42577326 · DOI: 10.3389/fimmu.2026.1878780",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

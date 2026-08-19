@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42522800",
+  "pmid": "42522800",
+  "doi": "10.31557/APJCP.2026.27.7.2393",
+  "title": "Thymoquinone Modulates Gene Expression Associated with Apoptosis in Colorectal Cancer: A Preclinical Systematic Review and Meta-Analysis of BAX, BCL2, and CASP3.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Asian Pacific journal of cancer prevention : APJCP",
+  "date": "2026 07 29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42522800/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Colorectal cancer (CRC) continues to be a significant global health issue. Thymoquinone (TQ), a bioactive component of Nigella sativa, has shown anticancer capabilities by inducing apoptosis. This systematic review and meta-analysis aim to assess the impact of TQ on the levels of pro-apoptotic (BAX, CASP3) and anti-apoptotic (BCL2) markers in colorectal cancer cells. An extensive literature search was performed in…",
+  "approved_details": "Colorectal cancer (CRC) continues to be a significant global health issue. Thymoquinone (TQ), a bioactive component of Nigella sativa, has shown anticancer capabilities by inducing apoptosis. This systematic review and meta-analysis aim to assess the impact of TQ on the levels of pro-apoptotic (BAX, CASP3) and anti-apoptotic (BCL2) markers in colorectal cancer cells. An extensive literature search was performed in Scopus, BASE, PubMed, and Web of Science for articles published from 2004 to 2025, adhering to PRISMA guidelines. Eligible in vitro and in vivo studies provided numerical data on gene or protein expression levels for BAX, BCL2, and CASP3, along with standard deviations. Effect sizes (g) were computed using a random-effects model, and heterogeneity and publication bias were evaluated. A total of ten qualifying studies were incorporated. The meta-analysis indicated that TQ significantly (p < 0.001) increased BAX mRNA (g = 3.901) and protein levels (g = 4.232), decreased BCL2 mRNA (g = -3.680) and protein levels (g = -3.328), and markedly upregulated CASP3 mRNA (g = 5.669) and protein levels (g = 6.336). Subgroup analyses revealed consistent effects across CRC cell lines (HT29, SW480, SW620, HCT-15, and HCT116). Heterogeneity varied from low to moderate, and publication bias was low or not significant. The findings demonstrate that TQ exerts pro-apoptotic effects in colorectal cancer (CRC) models through the upregulation of BAX and CASP3 and the downregulation of BCL2. This suggests its potential therapeutic relevance rather than definitive biomarker utility. Nevertheless, further in vivo studies and early-phase clinical investigations are required to clarify its translational significance and to explore its possible implications for treatment responsiveness.",
+  "approved_practical_takeaways": [],
+  "reference": "Asian Pacific journal of cancer prevention : APJCP · 2026 07 29 · PMID: 42522800 · DOI: 10.31557/APJCP.2026.27.7.2393",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42533341",
+  "pmid": "42533341",
+  "doi": "10.1186/s12957-025-03898-9",
+  "title": "Diagnostic accuracy of computer-aided detection for colorectal polyps of any size, ≤ 5 mm, and 6-9 mm: a meta-analysis.",
+  "category": "Endoscopy",
+  "article_type": "Evidence review",
+  "journal": "World journal of surgical oncology",
+  "date": "2026 07 31",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42533341/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Although computer-aided detection (CAD) is often used for medical diagnostic purposes, its diagnostic effectiveness in colorectal polyps (CPs) remains uncertain. To summarize the diagnostic accuracy of CAD in diagnosing CPs, and provide a specific theoretical basis for clinical practice. From database creation to August 1st 2024, we conducted a comprehensive search of PubMed, Embase, Web of Science (WoS), Scopus,…",
+  "approved_details": "Although computer-aided detection (CAD) is often used for medical diagnostic purposes, its diagnostic effectiveness in colorectal polyps (CPs) remains uncertain. To summarize the diagnostic accuracy of CAD in diagnosing CPs, and provide a specific theoretical basis for clinical practice. From database creation to August 1st 2024, we conducted a comprehensive search of PubMed, Embase, Web of Science (WoS), Scopus, Wanfang, Cochrane Library, and the China National Knowledge Infrastructure (CNKI). The pooled sensitivity, specificity, area under the curve (AUC), diagnostic odds ratio (DOR), positive likelihood ratio (PLR), negative likelihood ratio (NLR), and Fagan plot analysis were employed to evaluate the overall performance of CAD tests. Furthermore, we assessed publication bias using Deeks' funnel plot asymmetry test. The aggregated diagnostic data from 19 studies (any size), 12 studies (≤ 5 mm polyps) and 2 studies (6-9 mm polyps) were as follows: The sensitivity for polyps of any size, ≤ 5 mm, and 6-9 mm was 0.94 (95% CI, 0.92-0.96), 0.93 (95% CI, 0.89-0.95) and 0.95 (95% CI, 0.92-0.97), respectively. The specificity was 0.91 (95% CI, 0.86-0.95), 0.90 (95% CI, 0.87-0.93) and 0.90 (95% CI, 0.88-0.92), respectively. The AUC was 0.97 (95% CI, 0.96-0.99), 0.96 (95% CI, 0.94-0.98), and 0.92 (95% CI, 0.89-0.94), respectively. Deeks' funnel plot showed that publication bias was not statistically significant in the diagnosis of polyps of any size and ≤ 5 mm CPs (P > 0.05). In summary, CAD is accurate for all types of CPs. Specifically, for polyps of any size and those ≤ 5 mm, CAD was more sensitive and specific for CPs of any size.",
+  "approved_practical_takeaways": [],
+  "reference": "World journal of surgical oncology · 2026 07 31 · PMID: 42533341 · DOI: 10.1186/s12957-025-03898-9",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

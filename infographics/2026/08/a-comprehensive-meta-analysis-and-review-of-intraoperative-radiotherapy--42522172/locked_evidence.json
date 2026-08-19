@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42522172",
+  "pmid": "42522172",
+  "doi": "10.1002/cam4.72137",
+  "title": "A Comprehensive Meta-Analysis and Review of Intraoperative Radiotherapy in Colorectal Cancer: Examining Radiation Dosage, Long-Term Prognosis, and Treatment-Related Complications.",
+  "category": "Hepatology",
+  "article_type": "Evidence review",
+  "journal": "Cancer medicine",
+  "date": "2026 07 29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42522172/",
+  "source_scope": "abstract_only",
+  "approved_summary": "The effect of device type and radiation dose in intraoperative radiotherapy (IORT) for colorectal cancer is not well established. To explore this, we reviewed studies reporting postoperative complications, disease-free survival, local control, and long-term survival in patients treated with non-implantable IORT techniques-IOERT, KV-IORT, and HDR-IORT. Most of the available evidence relates to IOERT or HDR-IORT, wh…",
+  "approved_details": "The effect of device type and radiation dose in intraoperative radiotherapy (IORT) for colorectal cancer is not well established. To explore this, we reviewed studies reporting postoperative complications, disease-free survival, local control, and long-term survival in patients treated with non-implantable IORT techniques-IOERT, KV-IORT, and HDR-IORT. Most of the available evidence relates to IOERT or HDR-IORT, which is usually delivered at 15 Gy (range 10-20 Gy). The median dose for KV-IORT is typically 12.5 Gy. We conducted a systematic search of literature through November 2023 to identify studies that compared non-implantable IORT with surgery alone or other treatment approaches (PROSPERO registration: CRD42024508349). Twenty-five studies involving 2664 patients met the inclusion criteria. Patients treated with non-implantable IORT tended to achieve better 5-year overall survival than those managed without it, with IOERT contributing most clearly to this difference. A similar pattern emerged for long-term local control, where IORT showed an advantage [OR 2.08, 95% CI 1.19-3.64]; studies of IOERT reported an even stronger effect [OR 2.23, 95% CI 1.07-4.65]. Importantly, the use of IORT did not correspond with higher rates of key postoperative complications, including anastomotic leakage, pelvic collections, wound problems, or bowel obstruction. Our results suggest that IORT may improve survival and local control for patients with advanced or recurrent colorectal cancer, despite the heterogeneity among studies. Device-related and dose-related factors may also play a role and merit closer study, thus warranting closer examination in future work.",
+  "approved_practical_takeaways": [],
+  "reference": "Cancer medicine · 2026 07 29 · PMID: 42522172 · DOI: 10.1002/cam4.72137",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

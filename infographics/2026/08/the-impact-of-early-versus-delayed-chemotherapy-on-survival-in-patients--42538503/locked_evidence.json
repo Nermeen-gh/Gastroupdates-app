@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42538503",
+  "pmid": "42538503",
+  "doi": "10.1007/s12029-026-01555-2",
+  "title": "The Impact of Early Versus Delayed Chemotherapy on Survival in Patients with Colorectal Cancer after Surgery: A Systematic Review and Meta-Analysis.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Journal of gastrointestinal cancer",
+  "date": "2026 07 31",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42538503/",
+  "source_scope": "abstract_only",
+  "approved_summary": "This study systematically evaluates the impact of the initiation time of postoperative chemotherapy on overall survival (OS) in patients with colorectal cancer, providing evidence to guide clinical decisions on chemotherapy timing. Following PRISMA and MOOSE guidelines, PubMed, Embase, Web of Science, and the Cochrane Library were systematically searched up to February 2025. Cohort studies comparing early versus d…",
+  "approved_details": "This study systematically evaluates the impact of the initiation time of postoperative chemotherapy on overall survival (OS) in patients with colorectal cancer, providing evidence to guide clinical decisions on chemotherapy timing. Following PRISMA and MOOSE guidelines, PubMed, Embase, Web of Science, and the Cochrane Library were systematically searched up to February 2025. Cohort studies comparing early versus delayed postoperative chemotherapy were included. Two researchers independently performed literature screening, data extraction, and quality assessment. Review Manager 5.3 was used, with hazard ratios (HRs) and 95% confidence intervals (CIs) as effect measures. Random- or fixed-effects models were applied based on heterogeneity, and subgroup and sensitivity analyses were conducted. Eleven studies involving 72,873 patients were included. Pooled results showed that delayed chemotherapy significantly increased the risk of death (HR = 1.32, 95% CI: 1.20-1.45, P < 0.00001). Heterogeneity was high (I² = 88%), and sensitivity analyses confirmed the robustness of the findings. Subgroup analysis, using an 8-week cutoff, revealed that patients who initiated chemotherapy within ≤ 8 weeks had significantly better survival than those who started > 8 weeks (HR = 1.47, 95% CI: 1.14-1.91, P = 0.003). Delayed postoperative chemotherapy markedly increases mortality risk. Initiating adjuvant chemotherapy within 8 weeks after surgery is recommended to achieve optimal survival benefits.",
+  "approved_practical_takeaways": [],
+  "reference": "Journal of gastrointestinal cancer · 2026 07 31 · PMID: 42538503 · DOI: 10.1007/s12029-026-01555-2",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

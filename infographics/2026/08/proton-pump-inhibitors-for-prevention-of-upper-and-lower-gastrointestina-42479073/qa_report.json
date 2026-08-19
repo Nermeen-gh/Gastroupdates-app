@@ -1,0 +1,40 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": false,
+      "critical_errors": [
+        "Gemini gemini-3.6-flash failed (503): {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      ],
+      "omissions": [],
+      "legibility": 1,
+      "extractability": 1
+    },
+    {
+      "variant": 2,
+      "publishable": false,
+      "critical_errors": [
+        "Panel 6 incorrectly labels the Placebo/blank comparison data (7 RCTs RR = 0.30; 2 non-RCTs RR = 0.05) under the header 'Finding: PPIs vs No-PPI for UGIB'.",
+        "Panel 7 incorrectly labels the no-PPI comparison data (7 non-RCTs RR = 0.50) under the header 'Finding: PPIs vs H2RAs and MPAs for UGIB'.",
+        "Panel 8 incorrectly labels H2RAs and MPAs comparison data under the header 'Finding: PPIs vs No-PPI Blank for UGIB'.",
+        "In Panel 8, the relative risk for H2RAs non-RCTs is misstated as '< 0.12' instead of 'RR = 0.12'."
+      ],
+      "omissions": [
+        "Omitted LGIB outcome comparing PPIs to H2RAs (2 RCTs, RR = 1.88, 95% CI = 0.30-11.82).",
+        "Omitted specific statistical values for P-CABs comparison (2 non-RCTs RR = 1.18; 1 RCT log-rank P = 0.018 and 0.019)."
+      ],
+      "legibility": 4,
+      "extractability": 4
+    },
+    {
+      "variant": 3,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Specific statistical metrics for P-CABs UGIB comparison (2 non-RCTs, RR = 1.18, 95%CI = 0.77-1.79; 1 RCT, log-rank P = 0.018 and 0.019) were summarized textually rather than including full numerical details."
+      ],
+      "legibility": 5,
+      "extractability": 5
+    }
+  ]
+}

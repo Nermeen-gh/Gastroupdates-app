@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42524912",
+  "pmid": "42524912",
+  "doi": "10.1590/S0004-2803.24612025-145",
+  "title": "MANAGEMENT OF CLOSTRIDIOIDES DIFFICILE INFECTION IN INFLAMMATORY BOWEL DISEASE: A SYSTEMATIC REVIEW AND META-ANALYSIS OF ANTIBIOTIC EFFICACY.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Arquivos de gastroenterologia",
+  "date": "2026 07 29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42524912/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Clostridioides difficile infection (CDI) is a significant complication in patients with inflammatory bowel disease (IBD), often associated with higher recurrence rates, increased morbidity, and complex therapeutic decision-making. The optimal antibiotic regimen for CDI in IBD remains uncertain. To evaluate the efficacy of different antibiotic therapies for CDI in patients with IBD. A systematic review and meta-ana…",
+  "approved_details": "Clostridioides difficile infection (CDI) is a significant complication in patients with inflammatory bowel disease (IBD), often associated with higher recurrence rates, increased morbidity, and complex therapeutic decision-making. The optimal antibiotic regimen for CDI in IBD remains uncertain. To evaluate the efficacy of different antibiotic therapies for CDI in patients with IBD. A systematic review and meta-analysis were conducted according to PRISMA 2020 guidelines. Searches were performed in MEDLINE, EMBASE, PubMed, Epistemonikos, and the Cochrane Library through October 2024. Observational studies and clinical trials comparing antibiotic regimens in adult IBD patients with CDI were included. Data on recurrence, clinical outcomes, colectomy, and mortality were extracted. Random-effects meta-analysis was performed when appropriate. Nine studies involving 643 patients met inclusion criteria. Recurrence occurred in 17.4% of patients treated with metronidazole and 8.2% of those treated with vancomycin. In the meta-analysis of four studies (n=214), vancomycin showed a trend toward lower recurrence, although not statistically significant (OR 0.55; 95%CI 0.15-1.99; P=0.36; I2=66%). Mortality was low and similar between groups, and colectomy occurred exclusively in patients with ulcerative colitis. Data on clinical success and adverse events were heterogeneously reported and summarized narratively. Vancomycin may be associated with lower recurrence in higher-risk IBD patients; however, available evidence remains limited and heterogeneous. Treatment decisions should be individualized, and further prospective, IBD-specific studies are needed to clarify optimal management strategies.",
+  "approved_practical_takeaways": [],
+  "reference": "Arquivos de gastroenterologia · 2026 07 29 · PMID: 42524912 · DOI: 10.1590/S0004-2803.24612025-145",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

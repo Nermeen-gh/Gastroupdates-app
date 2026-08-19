@@ -1,0 +1,34 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": false,
+      "critical_errors": [
+        "Corrupted and unreadable text block in the middle vertical section."
+      ],
+      "omissions": [],
+      "legibility": 3,
+      "extractability": 3
+    },
+    {
+      "variant": 2,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Specific resistance mechanisms (heterogeneity, endocytic barriers, drug efflux, target mutations) mentioned in the source are omitted."
+      ],
+      "legibility": 4,
+      "extractability": 4
+    },
+    {
+      "variant": 3,
+      "publishable": false,
+      "critical_errors": [
+        "Garbled and corrupted text ('ïdre itenciom', 'improvements a:') within the key findings text block."
+      ],
+      "omissions": [],
+      "legibility": 3,
+      "extractability": 3
+    }
+  ]
+}

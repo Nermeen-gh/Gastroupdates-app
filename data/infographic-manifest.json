@@ -4,8 +4,895 @@
     "pmid-42486794": {
       "sourceHash": "d22790d4b2909fdaba7b3a8ede27375d0d3e507d54baecc244fc39d4b28428e4",
       "status": "qa_failed",
-      "attemptedAt": "2026-08-18T14:45:47.488Z",
+      "attemptedAt": "2026-08-19T10:51:45.749Z",
       "directory": "2026/08/efficacy-safety-and-pharmacokinetics-of-rifaximin-in-pediatric-patients--42486794"
+    },
+    "pmid-42479941": {
+      "sourceHash": "895cadb320c17e7c352d52edf5f657abbb3d17285d6a9b1bb72b3e2f9bb4e9ed",
+      "status": "published",
+      "generatedAt": "2026-08-19T10:54:04.736Z",
+      "directory": "2026/08/risk-of-virological-failure-after-switch-to-a-tenofovir-sparing-dual-the-42479941",
+      "selectedVariant": 2
+    },
+    "pmid-42489929": {
+      "sourceHash": "da5843a774748f37ff21c8a6b85ff10f52eb642d9e83f970161aea883cc85860",
+      "status": "published",
+      "generatedAt": "2026-08-19T10:55:40.033Z",
+      "directory": "2026/08/rethinking-congenital-anal-stenosis-a-systematic-review-with-histologica-42489929",
+      "selectedVariant": 2
+    },
+    "pmid-42484946": {
+      "sourceHash": "af4d35f02927c08baf77c588db115f0a7377266e32b229fb78bd65434947f95d",
+      "status": "published",
+      "generatedAt": "2026-08-19T10:57:32.386Z",
+      "directory": "2026/08/efficacy-and-safety-of-antibody-drug-conjugates-in-her2-positive-and-her-42484946",
+      "selectedVariant": 2
+    },
+    "pmid-42484711": {
+      "sourceHash": "78c42ffe3229a2987c166f3ba17a28c9084e8d81be212d5f9ff639613db93a9c",
+      "status": "published",
+      "generatedAt": "2026-08-19T10:59:33.609Z",
+      "directory": "2026/08/perioperative-outcomes-of-a-novel-laparoscopic-like-3-arm-2-port-model-i-42484711",
+      "selectedVariant": 1
+    },
+    "pmid-42484707": {
+      "sourceHash": "f107bced1b201854677498d7178ed238c9419deed6644f71de5a3f276951dbfa",
+      "status": "published",
+      "generatedAt": "2026-08-19T11:01:58.670Z",
+      "directory": "2026/08/robotic-hepatectomy-for-benign-liver-disease-single-centre-consecutive-s-42484707",
+      "selectedVariant": 1
+    },
+    "pmid-42481975": {
+      "sourceHash": "9f43fc5d28c3395788e5624b6c1f48c61df048e5bd6ce78554a708fb325be6b3",
+      "status": "published",
+      "generatedAt": "2026-08-19T11:03:55.459Z",
+      "directory": "2026/08/association-between-the-pnpla3-i148m-rs738409-polymorphism-and-risk-of-m-42481975",
+      "selectedVariant": 1
+    },
+    "pmid-42479073": {
+      "sourceHash": "92441d82712cf82fddb19688b9a6ab0db05dbbb574779bda1c2bb973b92a104c",
+      "status": "published",
+      "generatedAt": "2026-08-19T11:05:55.602Z",
+      "directory": "2026/08/proton-pump-inhibitors-for-prevention-of-upper-and-lower-gastrointestina-42479073",
+      "selectedVariant": 3
+    },
+    "pmid-42477587": {
+      "sourceHash": "46ef21a2e3e73ec8d0a0067fcee5bc7848e385a37c3783b67aa9703f53ae0f87",
+      "status": "published",
+      "generatedAt": "2026-08-19T11:07:45.936Z",
+      "directory": "2026/08/meta-analysis-safety-and-efficacy-of-ustekinumab-in-pediatric-inflammato-42477587",
+      "selectedVariant": 1
+    },
+    "pmid-42477564": {
+      "sourceHash": "320efe0ce7f77722a6f85ef4a580c073fa75a10606058ffa4b44587998c285f7",
+      "status": "published",
+      "generatedAt": "2026-08-19T11:09:53.102Z",
+      "directory": "2026/08/the-role-of-machine-perfusion-in-preventing-recurrence-after-liver-trans-42477564",
+      "selectedVariant": 3
+    },
+    "pmid-42476738": {
+      "sourceHash": "1bc4d966e7654a5a6483107f6fb36782bc642c6112ef4f87dfb4b75322e395c1",
+      "status": "published",
+      "generatedAt": "2026-08-19T11:12:18.429Z",
+      "directory": "2026/08/endoscopic-biopsy-strategies-for-gastric-ulcers-an-updated-systematic-re-42476738",
+      "selectedVariant": 2
+    },
+    "pmid-42488668": {
+      "sourceHash": "6d0e1578ed5917e29e4b38af96d1eda740d93a4a2ab9a9bdab4e0c53cf09c460",
+      "status": "published",
+      "generatedAt": "2026-08-19T11:14:19.937Z",
+      "directory": "2026/08/effect-of-budesonide-oral-suspension-on-dysphagia-and-esophageal-inflamm-42488668",
+      "selectedVariant": 1
+    },
+    "pmid-42482993": {
+      "sourceHash": "34b62e40b5376b38129fc1774cf8df63d48a6dc6592498fbd3d503fb5ec08694",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:49.799Z",
+      "directory": "2026/08/del-immune-v-and-microbiome-restructuring-in-colorectal-cancer-surgery-a-42482993"
+    },
+    "pmid-42482900": {
+      "sourceHash": "ad434a157e07f4b2e89307230dd69fcb8e8e69dce61dadd7c0e129b8b099a561",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:50.237Z",
+      "directory": "2026/08/efficacy-and-safety-of-linaclotide-plus-polyethylene-glycol-for-bowel-pr-42482900"
+    },
+    "pmid-42479626": {
+      "sourceHash": "7de6138e3dc2e5c93a6ed41038fdfe372494f537415273f1dd63558e21a7085f",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:50.680Z",
+      "directory": "2026/08/corticosteroid-sparing-effects-of-risankizumab-versus-ustekinumab-in-pat-42479626"
+    },
+    "pmid-42478214": {
+      "sourceHash": "ca409781a62eaad269a2d0a05af4c085db263e14ddd206ed63ac486b4d3e2562",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:51.035Z",
+      "directory": "2026/08/intestinal-ultrasound-for-the-detection-of-postoperative-recurrence-in-c-42478214"
+    },
+    "pmid-42478987": {
+      "sourceHash": "bd39b8db427402beeab94a598ce094f54282a21fc754e521b373c9a57b12a46e",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:51.424Z",
+      "directory": "2026/08/surgical-options-in-the-treatment-of-rectal-cancer-a-systematic-review-a-42478987"
+    },
+    "pmid-42492091": {
+      "sourceHash": "735323bbf9eeecc77991f3bcab1d3cd49d6e956944e9540217e65db75b33f677",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:51.793Z",
+      "directory": "2026/08/the-wish-2-0-intervention-for-irritable-bowel-syndrome-protocol-for-a-pi-42492091"
+    },
+    "pmid-42491667": {
+      "sourceHash": "5b157793ffcaa328797c73a27ceefecf8d4bbe5990d29fe12827e3f695adb4dd",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:52.180Z",
+      "directory": "2026/08/effect-of-continuity-of-patient-care-on-quality-of-life-and-psychologica-42491667"
+    },
+    "pmid-42494152": {
+      "sourceHash": "c69c8ccf5b3ab0cae8ad5304d867a80e83b50803ed1c556dad51b4dded471a87",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:52.611Z",
+      "directory": "2026/08/diverticulitis-associated-mesenteric-venous-thrombophlebitis-a-case-repo-42494152"
+    },
+    "pmid-42496873": {
+      "sourceHash": "890e9a955a6b1d6938b69cb020e9994114e1f5b7c7b4263d6edd4da170634ebb",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:52.977Z",
+      "directory": "2026/08/efficacy-and-mechanisms-of-combined-central-peripheral-magnetic-stimulat-42496873"
+    },
+    "pmid-42496750": {
+      "sourceHash": "1601c9c470a07a8fefd892859c91f58e1963a1fa7a68fd991e01a287add0c2b9",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:53.338Z",
+      "directory": "2026/08/lap-defined-hepatic-steatosis-and-cardiometabolic-risk-in-rheumatoid-art-42496750"
+    },
+    "pmid-42495710": {
+      "sourceHash": "797fbd999dd9d3c2f54c8929bbdd78cbb168b5ca1414fb86ea45c8f5de9e3ef4",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:53.709Z",
+      "directory": "2026/08/short-course-radiotherapy-based-total-neoadjuvant-therapy-plus-tislelizu-42495710"
+    },
+    "pmid-42495613": {
+      "sourceHash": "d64dcbd713f2674cfa25c5a9f7176080cd61f9d8fc3ef770c6da5b25ac45991c",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:54.064Z",
+      "directory": "2026/08/efficacy-and-safety-of-neoadjuvant-chemotherapy-with-immunotherapy-versu-42495613"
+    },
+    "pmid-42494170": {
+      "sourceHash": "f23be1a39df72811724cac6d1308bba9448acf07cad7b239bf388cdd034165e1",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:54.430Z",
+      "directory": "2026/08/are-gastrointestinal-gynecological-and-urogenital-chronic-overlapping-pa-42494170"
+    },
+    "pmid-42499192": {
+      "sourceHash": "c4439132ad56405ad291a2d1f3531c8e2e694068245a57e2314ba19299c30e97",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:54.805Z",
+      "directory": "2026/08/gastrointestinal-symptoms-associated-with-sodium-bicarbonate-supplementa-42499192"
+    },
+    "pmid-42501213": {
+      "sourceHash": "f37b315566749c77b5a95f8f0fea45da8a0ff1ac75bfb6ebdc66e62a3d310355",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:55.173Z",
+      "directory": "2026/08/prioritizing-chemotherapy-in-total-neoadjuvant-therapy-improves-pcr-rate-42501213"
+    },
+    "pmid-42501209": {
+      "sourceHash": "0b061bb5778a2c0efa4d3fe101c3ccafb19d339ee0e56c23178da08cd4cbb007",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:16:55.539Z",
+      "directory": "2026/08/minimally-invasive-vs-open-pancreaticoduodenectomy-for-distal-cholangioc-42501209"
+    },
+    "pmid-42499107": {
+      "sourceHash": "6ae98b048f1837dd45fe3c7c08b54ad4bb1f1d6fc3623deb70be7dea21abf206",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:10.605Z",
+      "directory": "2026/08/comparative-safety-and-effectiveness-of-stents-in-drainage-of-pancreatic-42499107"
+    },
+    "pmid-42499082": {
+      "sourceHash": "525f488de357ea4c6925034515e31d08176acb70ee3c6d45a0c5013b2382d71a",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:10.953Z",
+      "directory": "2026/08/therapeutic-role-of-semaglutide-in-metabolic-dysfunction-associated-stea-42499082"
+    },
+    "pmid-42500681": {
+      "sourceHash": "5354739a44cee438443fb6c0a909b94da51ec6cdf15858168022113d0f7dd159",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:11.316Z",
+      "directory": "2026/08/a-network-meta-analysis-of-endocrine-adverse-events-induced-by-immune-ch-42500681"
+    },
+    "pmid-42500667": {
+      "sourceHash": "ced6f4982fe1603ccd13526fcea11b12524376ae7964877868de217ebbc47de5",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:11.672Z",
+      "directory": "2026/08/advancing-precision-immunotherapy-in-advanced-pancreatic-cancer-a-system-42500667"
+    },
+    "pmid-42499495": {
+      "sourceHash": "e151f1fc8250bb0acee809306feda9ebfc8f8d305935eca545da22f4b156ecbe",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:12.020Z",
+      "directory": "2026/08/infliximab-linked-gut-microbiome-signatures-as-candidate-treatment-respo-42499495"
+    },
+    "pmid-42502002": {
+      "sourceHash": "57e6ebd7a31a6885163f440a6faeaa2bfa8bbda8b70eec5a29516537b9634ec7",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:12.360Z",
+      "directory": "2026/08/pancco-clinical-practice-guideline-update-for-the-treatment-of-ulcerativ-42502002"
+    },
+    "pmid-42504139": {
+      "sourceHash": "71d23cfca8794393e3b78b4bd41264eb39e29513e5dcc4b651a6b7f6feffdf19",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:12.717Z",
+      "directory": "2026/08/high-flow-nasal-cannula-oxygenation-in-sedated-endoscopy-for-high-risk-o-42504139"
+    },
+    "pmid-42503925": {
+      "sourceHash": "4257282a381e5313bd6b653ecaa65aa58acc82d56c6e749b97e5070e6524e9d2",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:13.069Z",
+      "directory": "2026/08/effects-of-a-structured-language-intervention-based-on-predictive-coding-42503925"
+    },
+    "pmid-42509537": {
+      "sourceHash": "4d713fe3f67d452038ef7aaee5f0cf4cf244e370a6c79148e18b2848f9fd1033",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:13.412Z",
+      "directory": "2026/08/the-role-of-red-cell-distribution-width-in-inflammatory-bowel-disease-ev-42509537"
+    },
+    "pmid-42504203": {
+      "sourceHash": "a283564d1fbac3047cb63ab5c69acb7f813642a108e88b4dc69f0d82177889a1",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:13.758Z",
+      "directory": "2026/08/tegileridine-versus-sufentanil-patient-controlled-intravenous-analgesia--42504203"
+    },
+    "pmid-42503908": {
+      "sourceHash": "d6d879488195858c6dc0db0b7b7b28deba1d03a3ff2b987e2e9c8e31cfba8bfb",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:14.089Z",
+      "directory": "2026/08/apasl-clinical-practice-guidelines-on-the-management-of-chronic-hepatiti-42503908"
+    },
+    "pmid-42506349": {
+      "sourceHash": "db9e5d3180b385c645b1e113fb1a94afebebe5adaa7dccf24316d0b2836a9e59",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:14.407Z",
+      "directory": "2026/08/periductal-fibrosis-and-cholangiocarcinoma-related-outcomes-in-liver-flu-42506349"
+    },
+    "pmid-42507446": {
+      "sourceHash": "0291c40d77eaae92be608c48e5fecb63663f030d772824641a8292280898a52c",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:14.729Z",
+      "directory": "2026/08/surveillance-vs-standard-surgery-and-cost-effectiveness-after-neoadjuvan-42507446"
+    },
+    "pmid-42504019": {
+      "sourceHash": "5ea23a7cc4ac068afbfd06217a41a49bd033e5629295ed19a84cc23d36065b8a",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:15.065Z",
+      "directory": "2026/08/efficacy-of-empagliflozin-on-liver-enzymes-lipid-profile-and-bmi-in-pati-42504019"
+    },
+    "pmid-42522172": {
+      "sourceHash": "1361183d74c29a324402c5461c7d34b5b5a63deae847f437cf577bc69f3f1cbe",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:15.387Z",
+      "directory": "2026/08/a-comprehensive-meta-analysis-and-review-of-intraoperative-radiotherapy--42522172"
+    },
+    "pmid-42521230": {
+      "sourceHash": "83633356c337f9f450e7bc5edabb94f2c7d82b316bfff0d1517f38bb9e5aac04",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:15.698Z",
+      "directory": "2026/08/impact-of-oral-nutritional-supplements-on-chemotherapy-tolerance-and-ove-42521230"
+    },
+    "pmid-42519837": {
+      "sourceHash": "bfa9e23ccc8632de3c53a22f4fc30239d4c5a11b6c78674ae783665e7ee7ab17",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:16.003Z",
+      "directory": "2026/08/clinical-outcomes-of-underwater-endoscopic-submucosal-dissection-for-duo-42519837"
+    },
+    "pmid-42508427": {
+      "sourceHash": "a11b62d73e2be3d348e3b4915e13449c1135e01f09906dd704f2ae3d2aaa319c",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:16.332Z",
+      "directory": "2026/08/addition-of-irinotecan-to-chemoradiotherapy-as-preoperative-treatment-fo-42508427"
+    },
+    "pmid-42522175": {
+      "sourceHash": "4cafb01c248cd5c6a010587602b588ef4d940ec9faf20a9fa400ae4f943d43a8",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:16.561Z",
+      "directory": "2026/08/impact-of-a-staged-enteral-nutrition-nursing-pathway-based-on-dynamic-as-42522175"
+    },
+    "pmid-42517322": {
+      "sourceHash": "ffe8d8b2f72b8e1f73440f1980146b08fa05c60d2a3afb68862d22a625de1ec7",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:16.755Z",
+      "directory": "2026/08/albumin-for-people-with-liver-cirrhosis-and-bacterial-infections-42517322"
+    },
+    "pmid-42522011": {
+      "sourceHash": "3d86e4aee886d3dd0f64c93849ba9a689e2fc22f531320bd1653310933bfd414",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:16.939Z",
+      "directory": "2026/08/the-diagnostic-yield-of-endoscopic-ultrasound-guided-fine-needle-biopsy--42522011"
+    },
+    "pmid-42524914": {
+      "sourceHash": "ace3e069cacde41f742da62df0482572e7051cef72dba00e42170284fc85f6f3",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:17.209Z",
+      "directory": "2026/08/gut-microbiota-alterations-in-rodent-models-of-cholestasis-induced-by-bi-42524914"
+    },
+    "pmid-42524912": {
+      "sourceHash": "d2bbd89b7efac3c52e78075fbf5bf0881356063bcde67ef93ebe23a7ba4d8230",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:17.477Z",
+      "directory": "2026/08/management-of-clostridioides-difficile-infection-in-inflammatory-bowel-d-42524912"
+    },
+    "pmid-42517053": {
+      "sourceHash": "f85d7490f67a7821fcb4df8a0c5266342465151d44c1a8ea5666fdc28fdf998f",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:17.756Z",
+      "directory": "2026/08/ciprofol-versus-propofol-combined-with-alfentanil-for-respiratory-advers-42517053"
+    },
+    "pmid-42514469": {
+      "sourceHash": "d27ef40b00f1cb875bd155919e935c3c276017aea454b4bd9b06b3b2920fe070",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:18.022Z",
+      "directory": "2026/08/physical-activity-in-patients-with-celiac-disease-a-systematic-review-42514469"
+    },
+    "pmid-42511850": {
+      "sourceHash": "fa198c78adb1e6522a1bd99ec539f896b583683bc0955872553b1b7309aa10bb",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:18.333Z",
+      "directory": "2026/08/circulating-adipokines-in-alcohol-related-liver-disease-and-metald-a-sys-42511850"
+    },
+    "pmid-42514440": {
+      "sourceHash": "4c00d04fbdba07e37c97a7a9fc3459de5a1db73ff26dda1c43b8d050532720b1",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:18.626Z",
+      "directory": "2026/08/the-effect-of-a-low-fodmap-diet-on-quality-of-life-severity-of-symptoms--42514440"
+    },
+    "pmid-42512941": {
+      "sourceHash": "ddcb25f53495b6f114feb5996e93f331ad66a827d1d4799e8f78d14e9b71534d",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:18.896Z",
+      "directory": "2026/08/comparison-of-two-antibiotic-combinations-for-conservative-treatment-of--42512941"
+    },
+    "pmid-42512924": {
+      "sourceHash": "a81f353b1855b92374624c39b3979267f7c5243b5f318029ac4b4fc84419d1fc",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:19.207Z",
+      "directory": "2026/08/endoscopic-ultrasound-guided-radiofrequency-ablation-eus-rfa-are-we-gett-42512924"
+    },
+    "pmid-42511628": {
+      "sourceHash": "0cc993d63f9fc59789298ecfc17841a5d0d79743cf03a359823956d047c42179",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:19.518Z",
+      "directory": "2026/08/resistance-of-colorectal-cancer-stem-cells-to-modern-therapies-a-systema-42511628"
+    },
+    "pmid-42523995": {
+      "sourceHash": "d6b1fdb640e1c30986b0be558f7153a5e7bbc3118033ca6c77b4a993b7191036",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:19.833Z",
+      "directory": "2026/08/combination-therapy-with-anti-pd-1-antibody-radiotherapy-and-tyrosine-ki-42523995"
+    },
+    "pmid-42514326": {
+      "sourceHash": "c0d7020085b54e6add7a0fb6959bdfa15eab1a4ce71e3f06cd0ef8cbc94b54e3",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:20.101Z",
+      "directory": "2026/08/vsl-3-may-reduce-abdominal-pain-and-bloating-in-ulcerative-colitis-remis-42514326"
+    },
+    "pmid-42511510": {
+      "sourceHash": "cc4859b439b8911750cf1d07ab90dcdbcfebfe5c1f7c97d2b8931cc442979de7",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:20.389Z",
+      "directory": "2026/08/circadian-disruption-as-a-determinant-of-the-tumor-temporal-state-in-col-42511510"
+    },
+    "pmid-42514290": {
+      "sourceHash": "7573bfd78618c638b806613de140ea2b43c348bde2b9ae178a2b72456f1335c8",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:20.704Z",
+      "directory": "2026/08/therapeutic-effects-of-dihydromyricetin-on-wholly-alcohol-attributed-con-42514290"
+    },
+    "pmid-42515588": {
+      "sourceHash": "ca537d479b727ee58c54e622c5a6b27a5157e140eff681e06299ef4681776402",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:20.929Z",
+      "directory": "2026/08/beyond-the-meat-of-the-matter-a-systematic-review-and-meta-analysis-of-t-42515588"
+    },
+    "pmid-42522800": {
+      "sourceHash": "ea770ec1da30570b6dcdaa53cd3cf12d1e907a5ec8752a340261435eb16f0464",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:21.207Z",
+      "directory": "2026/08/thymoquinone-modulates-gene-expression-associated-with-apoptosis-in-colo-42522800"
+    },
+    "pmid-42517739": {
+      "sourceHash": "4d9c14853e6884cc5a3c9b1fec57fbcf8195a5167d597966423271a516efb5dd",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:21.525Z",
+      "directory": "2026/08/pillcam-colon-2-for-investigation-of-the-colon-through-direct-visualisat-42517739"
+    },
+    "pmid-42517457": {
+      "sourceHash": "9e22e5d7615bbd1794bb8a64cb35d0fbd4269e89e1a4fa03d8e3b0c848a5402b",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:21.845Z",
+      "directory": "2026/08/recruiting-rural-patients-for-clinical-research-lessons-from-a-colorecta-42517457"
+    },
+    "pmid-42528332": {
+      "sourceHash": "b558f2cbac8a4438fa94fd21655635b137259d6cb74bdadef172ab14b339eec7",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:22.168Z",
+      "directory": "2026/08/artificially-intelligent-simulated-patients-in-undergraduate-surgical-te-42528332"
+    },
+    "pmid-42532557": {
+      "sourceHash": "528e8464da8009e5dc627e0118d3c5ee421487d4e91c70b42f08f5521e642012",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:22.488Z",
+      "directory": "2026/08/clinical-efficacy-of-mepilex-lite-dressings-combined-with-indomethacin-s-42532557"
+    },
+    "pmid-42530361": {
+      "sourceHash": "2dc11a936be8e0722ba855fc5343414eb697ba4e1a1224097511850e1bfa4ecc",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:22.678Z",
+      "directory": "2026/08/analgesic-agents-versus-placebo-no-intervention-or-alternative-analgesic-42530361"
+    },
+    "pmid-42529281": {
+      "sourceHash": "47595b8de54ec46d75026e4bd2d1d8cbd61bb04bf9371aea73225d30d1c5b94e",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:22.903Z",
+      "directory": "2026/08/efficacy-of-first-line-treatment-in-driver-gene-negative-non-small-cell--42529281"
+    },
+    "pmid-42538503": {
+      "sourceHash": "c902a0788214361c20e97948211f615799a7305aff21cc34d9df00d4fed4e08d",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:23.212Z",
+      "directory": "2026/08/the-impact-of-early-versus-delayed-chemotherapy-on-survival-in-patients--42538503"
+    },
+    "pmid-42536573": {
+      "sourceHash": "238f243334d9d2f00689b7da1a34033fc7edff414ecdec39bd7a7fc33b03dee0",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:23.533Z",
+      "directory": "2026/08/association-between-inflammatory-bowel-disease-and-ankylosing-spondyliti-42536573"
+    },
+    "pmid-42536549": {
+      "sourceHash": "46fe741ee24b05ada24c521ed97ede286fc61bea3e962ea23326dfe267c7ddf1",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:23.842Z",
+      "directory": "2026/08/application-of-gastric-tube-removal-strategy-based-on-the-combination-of-42536549"
+    },
+    "pmid-42536534": {
+      "sourceHash": "951a3f9c875556f7c087861a6fa23b4364826a1324d1fa8ee1a068a6fdeaa347",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:24.142Z",
+      "directory": "2026/08/a-systematic-review-and-meta-analysis-of-acupuncture-for-intestinal-prot-42536534"
+    },
+    "pmid-42536183": {
+      "sourceHash": "b83e32e1a4f198d0b3fc4c08990ffcab19d943d6111612c919a183839ef77f98",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:24.438Z",
+      "directory": "2026/08/ultrasound-guided-hydrostatic-enema-reduction-for-intussusception-in-chi-42536183"
+    },
+    "pmid-42533341": {
+      "sourceHash": "c9aa59e43039e3c5b15d3490282c67f8aae9f6fe1cd7b7ef5637594aff8e2e13",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:24.822Z",
+      "directory": "2026/08/diagnostic-accuracy-of-computer-aided-detection-for-colorectal-polyps-of-42533341"
+    },
+    "pmid-42534935": {
+      "sourceHash": "9b4c9dccd0ccdd6b7a9f1f330303149918f41037de01938019946994071fd4c2",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:25.128Z",
+      "directory": "2026/08/zolbetuximab-in-the-treatment-of-advanced-gastric-and-gastroesophageal-j-42534935"
+    },
+    "pmid-42535748": {
+      "sourceHash": "a7ca64189e4bf8b4fa8911868af0c39421f29ffc94e90a7a8ac4f477173887e7",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:25.447Z",
+      "directory": "2026/08/spleen-stiffness-measurement-by-transient-elastography-for-detecting-eso-42535748"
+    },
+    "pmid-42533755": {
+      "sourceHash": "9e0917e706562fa08ffc889b3c897f4b4cacb27a1d011c63145529fb2934293c",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:25.748Z",
+      "directory": "2026/08/evaluating-the-effect-of-cigarettes-smoking-on-oesophageal-cancer-risk-a-42533755"
+    },
+    "pmid-42538791": {
+      "sourceHash": "14aafbf5e25d710354e0973f2ab9d01edfeb157b4d41ade01702f6c3e1b351b3",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:26.072Z",
+      "directory": "2026/08/prevalence-and-impact-of-pelvic-floor-symptoms-in-performing-artists-and-42538791"
+    },
+    "pmid-42540637": {
+      "sourceHash": "44adb6afbb16c245718a22922caca8334283c2ae35bb22f8517cb43cfb98fb5d",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:26.381Z",
+      "directory": "2026/08/safety-and-efficacy-of-oliceridine-combined-with-propofol-for-painless-g-42540637"
+    },
+    "pmid-42539635": {
+      "sourceHash": "d03a0cdbd68f3017bc837daa96e154867484b5903453c8371969c8cdbe5bf02f",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:26.706Z",
+      "directory": "2026/08/efficacy-and-safety-of-endoscopy-specific-dual-channel-supraglottic-airw-42539635"
+    },
+    "pmid-42541325": {
+      "sourceHash": "4a636c794aab9b8b5f47a1b62d4ba9021d089c6e90d032fcd3a1c1141a383745",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:27.016Z",
+      "directory": "2026/08/prevalence-and-clinical-impact-of-multidrug-resistant-bacterial-coloniza-42541325"
+    },
+    "pmid-42545514": {
+      "sourceHash": "3586c358cfa19ac43cd23c0a9a86d75fc4e0b809e371bc2fc81b269cd8634ea8",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:27.350Z",
+      "directory": "2026/08/possible-underestimation-of-non-operative-management-success-in-perforat-42545514"
+    },
+    "pmid-42544486": {
+      "sourceHash": "fe317c1000d535fd1fa49c74d0efdea17d31acc1b52e7ad63f0fa41cba90762d",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:27.671Z",
+      "directory": "2026/08/oligometastatic-esophageal-squamous-cell-carcinoma-a-systematic-review-o-42544486"
+    },
+    "pmid-42548801": {
+      "sourceHash": "474eb75a66f785aac65ab0916b18745a65d9756d9c612e84109e564769c71922",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:28.004Z",
+      "directory": "2026/08/the-efficacy-of-traditional-chinese-medicine-on-immune-function-in-patie-42548801"
+    },
+    "pmid-42551038": {
+      "sourceHash": "aed536b5f3c765f59cae593a55fc0b2ab1cb454ac23c95a870258011a945f3e3",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:28.177Z",
+      "directory": "2026/08/influence-of-kras-mutation-subtypes-on-response-to-neoadjuvant-chemoradi-42551038"
+    },
+    "pmid-42551037": {
+      "sourceHash": "e01a6f63c45fd09b40435c4ea11b1a09548d5a10cb94b41bbd9823a5a277c645",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:28.358Z",
+      "directory": "2026/08/quality-of-life-bowel-dysfunction-and-long-term-oncological-outcomes-aft-42551037"
+    },
+    "pmid-42554292": {
+      "sourceHash": "cd68fefb99d34c1a881bf6d459ba439c0294a6c1d5461fb9b80d2084e8f5ba37",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:28.528Z",
+      "directory": "2026/08/prevalence-of-hepatitis-b-virus-infection-in-cameroon-a-systematic-revie-42554292"
+    },
+    "pmid-42552646": {
+      "sourceHash": "dbab4e88a0ff8c00fcd85dce16e59125d21f6924d81fb20960bed706d96b3ab1",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:28.697Z",
+      "directory": "2026/08/letter-to-the-editor-re-sathya-a-nguyen-tn-klein-p-et-al-endovascular-vs-42552646"
+    },
+    "pmid-42556905": {
+      "sourceHash": "a8eb45e79ba3006499d6a4dbfcd452f3a8619ff23569f2b8caa0106b4a4e4de7",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:28.864Z",
+      "directory": "2026/08/association-between-gastroesophageal-reflux-disease-and-peptic-ulcer-in--42556905"
+    },
+    "pmid-42560411": {
+      "sourceHash": "c7b3a56b0badfbd3c84dfb6b9ffb1b77b150aea391965fc4b6e31fa503ad2080",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:29.052Z",
+      "directory": "2026/08/unimodal-to-multimodal-prehabilitation-in-gastric-cancer-surgery-systema-42560411"
+    },
+    "pmid-42560396": {
+      "sourceHash": "38f1e9f8408a9e0856df26e325aea88d6239ac58c66ed97116eed68031a273a1",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:29.236Z",
+      "directory": "2026/08/gastrointestinal-symptoms-and-disorders-in-multiple-sclerosis-a-systemat-42560396"
+    },
+    "pmid-42557451": {
+      "sourceHash": "b9944055ea9930041891149cc62677b08e90428f2bdccdd5c2818a2e570a5123",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:29.435Z",
+      "directory": "2026/08/improving-self-efficacy-through-nurse-navigation-in-patients-during-trea-42557451"
+    },
+    "pmid-42557857": {
+      "sourceHash": "849b22bc2c8a67b2428875c655d7e4da209d033755cb117857f74d3b5cc0f11f",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:29.608Z",
+      "directory": "2026/08/anti-tnf-withdrawal-or-long-term-treatment-in-ulcerative-colitis-biostop-42557857"
+    },
+    "pmid-42561334": {
+      "sourceHash": "c922eb1f049cce77dec8040366d2ef34c2ab27e87ac9994df9db1e50e10e0c19",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:29.790Z",
+      "directory": "2026/08/operative-versus-nonoperative-management-of-penetrating-liver-injuries-a-42561334"
+    },
+    "pmid-42567152": {
+      "sourceHash": "436a292c4b877fdaf6970173d3e64b035b7da5e6499fc04ab65d45e4b6b829d8",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:29.961Z",
+      "directory": "2026/08/guidelines-2025-perioperative-management-of-adult-patients-undergoing-li-42567152"
+    },
+    "pmid-42566454": {
+      "sourceHash": "0b940f85282f7cb23702c2f5aa12bd049784bc6b2e1e854a1b7be9942b80d783",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:30.133Z",
+      "directory": "2026/08/the-progain-trial-a-randomized-controlled-trial-of-high-protein-peripher-42566454"
+    },
+    "pmid-42562921": {
+      "sourceHash": "6135c12d5dbdbee0c6032ca31b89fb128f2bfc1a1a4a96029c3ccedd97779bdb",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:30.298Z",
+      "directory": "2026/08/delayed-secondary-repair-of-third-and-fourth-degree-obstetric-anal-sphin-42562921"
+    },
+    "pmid-42564169": {
+      "sourceHash": "86fd4ffbdc9998125226c8cdcac6b83d3a46d29a96544902ba88c9cc9129b7e8",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:30.470Z",
+      "directory": "2026/08/hepatic-granulomas-as-a-manifestation-of-anca-associated-vasculitis-a-sy-42564169"
+    },
+    "pmid-42565372": {
+      "sourceHash": "aaecfcd3c6ef17f05d569e827200b344e4473c6e8c1426477f7013ace3cf3e97",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:30.627Z",
+      "directory": "2026/08/laparoscopic-versus-open-surgery-for-rectal-cancer-individual-patient-da-42565372"
+    },
+    "pmid-42570330": {
+      "sourceHash": "df4bac09ce4a28364928b8cd3febea8a977be750f7cf8493cb6dfb472e4cfaad",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:30.796Z",
+      "directory": "2026/08/comparative-risk-of-postoperative-complications-in-ulcerative-colitis-pa-42570330"
+    },
+    "pmid-42568293": {
+      "sourceHash": "7b0bfb983334feffd248d42562effc69fe229aea390d9e5618957aa35f642087",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:30.964Z",
+      "directory": "2026/08/effects-of-prehabilitation-by-physical-activity-on-fatigue-after-surgery-42568293"
+    },
+    "pmid-42568201": {
+      "sourceHash": "e2e3bf1981b132db06971549fddeb9642e90ee57114db6582280b4604f4076aa",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:31.151Z",
+      "directory": "2026/08/effects-of-a-psycho-behavioural-intervention-on-cancer-related-fatigue-a-42568201"
+    },
+    "pmid-42568174": {
+      "sourceHash": "08649fab45d49d8e579e656b582d6002b0c12289f832094105f3b45293365275",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:31.320Z",
+      "directory": "2026/08/living-donor-liver-transplantation-in-pediatric-situs-inversus-a-case-se-42568174"
+    },
+    "pmid-42568838": {
+      "sourceHash": "babac12f322a0b37835dd64938d9347916fed4c559783b507039e157843b5a1b",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:31.511Z",
+      "directory": "2026/08/hepatoprotective-effects-of-empagliflozin-in-metabolic-dysfunction-assoc-42568838"
+    },
+    "pmid-42568705": {
+      "sourceHash": "954cbff79da900872b87b81d091651ca52a8be24bd013cb456afd9d2fc0fa3ae",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:31.676Z",
+      "directory": "2026/08/protective-effects-and-possible-mechanisms-of-matrine-type-alkaloids-mat-42568705"
+    },
+    "pmid-42568405": {
+      "sourceHash": "61d7b1b361a6efa5ce2b066626da2a1d1347b913ce1794893bdf1886f2b85c11",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:31.842Z",
+      "directory": "2026/08/dietary-lifestyle-and-environmental-factors-associated-with-ulcerative-c-42568405"
+    },
+    "pmid-42568357": {
+      "sourceHash": "f16ee7e54b6b121de2bd911e0eeec31f7abd5d06f42090a0b86db43e65cde9a3",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:32.011Z",
+      "directory": "2026/08/global-landscape-and-knowledge-structure-of-research-on-pancreatitis-and-42568357"
+    },
+    "pmid-42574740": {
+      "sourceHash": "9e3737dd54bcee31c6b9af75e20fca46ba8f2544773097e24aef88aa76517d7d",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:32.187Z",
+      "directory": "2026/08/attrition-in-digital-self-management-interventions-for-patients-with-met-42574740"
+    },
+    "pmid-42573047": {
+      "sourceHash": "67e64c870e33e7b689d4ca4258240dcc32b913a1d06ace0e425df9de6500485b",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:32.371Z",
+      "directory": "2026/08/swallowing-therapy-for-dysphagia-in-acute-and-subacute-stroke-42573047"
+    },
+    "pmid-42576670": {
+      "sourceHash": "9343b2b79c8b3a7f0e72b64ebdc5ce9809e0bb25340257823766a469361cf415",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:32.544Z",
+      "directory": "2026/08/liver-fat-changes-in-patients-with-type-2-diabetes-by-presence-of-geneti-42576670"
+    },
+    "pmid-42579032": {
+      "sourceHash": "8f4bb51bee9b5f1c0e1b0776962228bdca7cb2618371ca5f802a8dc5f800a7aa",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:32.710Z",
+      "directory": "2026/08/totally-robotic-low-anterior-resection-versus-conventional-laparoscopic--42579032"
+    },
+    "pmid-42577326": {
+      "sourceHash": "3151d8a854138d4af91ef73cfe81c8bc5ad86cd489eb810c74d08670981bad54",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:32.879Z",
+      "directory": "2026/08/exploratory-genomic-stratification-of-benefit-from-first-line-immunother-42577326"
+    },
+    "pmid-42580677": {
+      "sourceHash": "ce482439c51f50ec108848fc3e1023132fcc7477d63c34d1d6eb278f4082ebcb",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:33.050Z",
+      "directory": "2026/08/endoscopic-resection-versus-esophagectomy-for-t1bn0m0-esophageal-cancer--42580677"
+    },
+    "pmid-42578777": {
+      "sourceHash": "6288b569fbebae4efd97dd5c03ee81c4a9956a218f43cd10f9ed001c60695e70",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:33.234Z",
+      "directory": "2026/08/prevalence-and-risk-factors-of-low-anterior-resection-syndrome-meta-anal-42578777"
+    },
+    "pmid-42585216": {
+      "sourceHash": "97f6c2ac1934202731c348222c41b09fad9e7547184efc39cb326e58b917bd88",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:33.405Z",
+      "directory": "2026/08/prevalence-genetic-diversity-and-zoonotic-transmission-potential-of-cryp-42585216"
+    },
+    "pmid-42586727": {
+      "sourceHash": "9177ef42d13a4fbfe86c161c474a5aa3572efcbcb9530e195b72e9094f568492",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:33.574Z",
+      "directory": "2026/08/optimizing-liver-disease-screening-and-surveillance-in-remote-indigenous-42586727"
+    },
+    "pmid-42585492": {
+      "sourceHash": "75d83c699eb4720726eb9bec0031f11031ca7dbcddef12b8ecee67cdfaeb4b3e",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:33.756Z",
+      "directory": "2026/08/nutrition-management-of-inflammatory-bowel-diseases-a-consensus-of-the-b-42585492"
+    },
+    "pmid-42583819": {
+      "sourceHash": "7adf6796087d5deed258c2fdf4f81d2970d11f270cef6afa69d9ab2514777d3b",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:33.922Z",
+      "directory": "2026/08/the-contribution-of-cd133-gene-polymorphisms-to-cancer-risk-integrating--42583819"
+    },
+    "pmid-42595456": {
+      "sourceHash": "b635f165faf799605d7843c018570c6a6401d84a42a3c0598166847392a08faa",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:34.088Z",
+      "directory": "2026/08/cryoablation-versus-radiofrequency-ablation-for-hepatocellular-carcinoma-42595456"
+    },
+    "pmid-42594084": {
+      "sourceHash": "e099ca045cbd4a7c332be4f7be9f450ef81fa7eeb1b5a567f229471d6a6f5d6f",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:34.254Z",
+      "directory": "2026/08/gastroparesis-induced-by-glucagon-like-peptide-1-receptor-agonists-a-sys-42594084"
+    },
+    "pmid-42594065": {
+      "sourceHash": "5213e930640ff1aeb5974155b9a301078d6983c71cd0b096a58a67417ca460d6",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:34.451Z",
+      "directory": "2026/08/the-impact-of-short-term-reduction-in-hepatic-triglycerides-on-vascular--42594065"
+    },
+    "pmid-42593689": {
+      "sourceHash": "404612ca8769f40c27adfcfeab0b1156c92ffe98759f2b2b0a61af138e247c98",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:34.638Z",
+      "directory": "2026/08/early-total-enteral-feeding-versus-conventional-incremental-feeding-in-p-42593689"
+    },
+    "pmid-42587287": {
+      "sourceHash": "8e23b89ce00b3b108eaba64e337b009ca233c733fdeb33d3c48ba1d6a1302ca2",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:34.815Z",
+      "directory": "2026/08/effect-of-high-dose-n-acetyl-cysteine-supplementation-on-markers-of-oxid-42587287"
+    },
+    "pmid-42595536": {
+      "sourceHash": "97b5d45fe18dd5f578fe0fe8f65dd4d9a1774435c0c9b2132f000b4e826c9b28",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:34.985Z",
+      "directory": "2026/08/comparison-of-antibody-persistence-after-two-dose-and-three-dose-hepatit-42595536"
+    },
+    "pmid-42588099": {
+      "sourceHash": "27b872efe0ef7330c9e7d5631dadf0ab3f265cc3923c030d02ab329700fd41ae",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:35.162Z",
+      "directory": "2026/08/effect-of-tomato-consumption-on-liver-steatosis-in-masld-a-randomized-co-42588099"
+    },
+    "pmid-42591401": {
+      "sourceHash": "e682b8972bbaea06a2e9423ea9cd3c6c945fe3886e12fa2c4225f8466ac30088",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:35.334Z",
+      "directory": "2026/08/exercise-based-and-mind-body-movement-interventions-for-depressive-sympt-42591401"
+    },
+    "pmid-42591170": {
+      "sourceHash": "46344f9633d70dcc4b096345797f1fb7dd6dc5e794103eb6b8a19d06cd4fe427",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:35.515Z",
+      "directory": "2026/08/upper-gastrointestinal-endoscopic-screening-uptake-and-associated-factor-42591170"
+    },
+    "pmid-42591090": {
+      "sourceHash": "2cb0d54db247a3f82026559b9d5d11a1deeb0e4d5a1e6f262b404a6a2953cd2c",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:35.685Z",
+      "directory": "2026/08/the-impact-of-exercise-on-improving-sarcopenia-in-patients-with-liver-ci-42591090"
+    },
+    "pmid-42588089": {
+      "sourceHash": "c746cdd4f3bab1d3a8d17bd17da5d50a9b5343384e4ab30dba87cb33ad3c4ea7",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:35.870Z",
+      "directory": "2026/08/heyndrickxia-coagulans-idcc-1201-alters-gut-microbiome-and-metabolome-in-42588089"
+    },
+    "pmid-42599985": {
+      "sourceHash": "2056139821562a5820beab62ecdf611fbebc274c4aa04ac7a548c9b8f4ab5150",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:36.046Z",
+      "directory": "2026/08/risk-prediction-models-for-inadequate-bowel-preparation-before-colonosco-42599985"
+    },
+    "pmid-42599597": {
+      "sourceHash": "a64701d877a589e847113cd7456a177e1080c51ae2f9cf233f7afd8dcb9ab515",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:36.207Z",
+      "directory": "2026/08/radiomics-for-prediction-of-microsatellite-instability-status-in-gastric-42599597"
+    },
+    "pmid-42597387": {
+      "sourceHash": "db9745aa31b8a4559841862be2deec09448bf99c7964017c306a835be6c9168d",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:36.388Z",
+      "directory": "2026/08/the-impact-of-ustekinumab-and-tumor-necrosis-factor-antagonists-on-extra-42597387"
+    },
+    "pmid-42603192": {
+      "sourceHash": "7c9e4484eb0203731dc0e6bfcb01d0402abc9ded6474902b61c080a1bf78cbd9",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:36.556Z",
+      "directory": "2026/08/effect-of-tumor-associated-sarcopenia-on-swallowing-function-in-patients-42603192"
+    },
+    "pmid-42604374": {
+      "sourceHash": "392b9671a45e5b12c77b2f4a9284f0d16995b2f486306ecce92ab63ac15a9116",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:36.724Z",
+      "directory": "2026/08/a-systematic-review-on-health-systems-integrated-approach-towards-elimin-42604374"
+    },
+    "pmid-42604816": {
+      "sourceHash": "d3ae14c553d4a648a412fb1911df1ee54adfa8579fdbbaa8d9724220496b3a22",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:36.912Z",
+      "directory": "2026/08/comparison-of-short-term-outcomes-of-intracorporeal-anastomosis-in-robot-42604816"
+    },
+    "pmid-42605247": {
+      "sourceHash": "e472b5611a4d9e0a17853d83661b364b9cde011087fc0b8cbf6f5b4a81ab3b1c",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:37.080Z",
+      "directory": "2026/08/risk-of-liver-cancer-from-major-causes-compared-to-smoking-and-lung-canc-42605247"
+    },
+    "pmid-42606588": {
+      "sourceHash": "7abaad1c9b8716772cbf7296637c12a091366104cf68375a494df7b2d0dcb785",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:37.262Z",
+      "directory": "2026/08/does-laparoscopic-assisted-transanal-endorectal-pull-through-improve-out-42606588"
+    },
+    "pmid-42605860": {
+      "sourceHash": "20ce8ede5873b23da3e6bd2c7d54cddeffc022df8573fe0c5b19f631875f529d",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:37.424Z",
+      "directory": "2026/08/gemcitabine-based-chemotherapy-for-advanced-biliary-tract-carcinomas-42605860"
+    },
+    "pmid-42604879": {
+      "sourceHash": "05e98dc475f38204c2783d8e7ea895d2f8236d47c8ea712d022b18750b341234",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:37.593Z",
+      "directory": "2026/08/pharmacokinetic-and-pharmacodynamic-sub-study-of-trans-arterial-vs-intra-42604879"
+    },
+    "pmid-42605211": {
+      "sourceHash": "3c3e1d7a138dbe134573fe190fc1fbaba34923d23e1a086d7bb207d31c93f1c4",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:37.764Z",
+      "directory": "2026/08/risk-factors-for-pouchitis-after-ileal-pouch-anal-anastomosis-in-ulcerat-42605211"
+    },
+    "pmid-42608031": {
+      "sourceHash": "f6d960254bbdcd4791a9f727c235d45ff869b26c06b2e2a943b035014e23125f",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:37.930Z",
+      "directory": "2026/08/comparative-performance-of-image-enhanced-endoscopy-for-adenoma-and-sess-42608031"
+    },
+    "pmid-42611799": {
+      "sourceHash": "5d2664d087c25c7e6f56804526020756b73e35834432f117fb2f0111bc4d12e2",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:38.105Z",
+      "directory": "2026/08/using-glp-1-receptor-agonists-in-patients-with-inflammatory-bowel-diseas-42611799"
+    },
+    "pmid-42611596": {
+      "sourceHash": "c0912f4e1849224f5b5320d82d7a737fb5c80b4f1b8dbbc04caedff1e52aea79",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:38.285Z",
+      "directory": "2026/08/endoscopic-ultrasound-guided-biliary-drainage-in-altered-gastrointestina-42611596"
+    },
+    "pmid-42609137": {
+      "sourceHash": "6481d2e5dc550d1d03300c52be0f8ec4f883463b7ae0147cd2b5f8cc04479b3c",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:38.468Z",
+      "directory": "2026/08/efficacy-safety-and-outcomes-of-endoscopic-submucosal-dissection-for-inf-42609137"
+    },
+    "pmid-42608885": {
+      "sourceHash": "54742977031dc670fcbe9207a9f086a0f6b8abcc96034cfdad2d3e1bf710e4fa",
+      "status": "qa_failed",
+      "attemptedAt": "2026-08-19T11:17:38.644Z",
+      "directory": "2026/08/mediterranean-diet-and-risk-of-pancreatic-cancer-is-it-worth-investigati-42608885"
     }
   }
 }

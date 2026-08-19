@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42536573",
+  "pmid": "42536573",
+  "doi": "10.1097/MD.0000000000050015",
+  "title": "Association between inflammatory bowel disease and ankylosing spondylitis: Mendelian randomization of a different database and meta-analysis.",
+  "category": "Gastroenterology",
+  "article_type": "Evidence review",
+  "journal": "Medicine",
+  "date": "2026 07 31",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42536573/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Inflammatory bowel disease (IBD) and ankylosing spondylitis (AS) are common autoimmune disorders that have a serious impact on the physical and mental health of patients. Some patients with AS also suffer from IBD, and some studies have shown that there is a link between the 2. However, the causal relationship between the 2 is not clear. This study aimed to infer a causal relationship between IBD and AS using Mend…",
+  "approved_details": "Inflammatory bowel disease (IBD) and ankylosing spondylitis (AS) are common autoimmune disorders that have a serious impact on the physical and mental health of patients. Some patients with AS also suffer from IBD, and some studies have shown that there is a link between the 2. However, the causal relationship between the 2 is not clear. This study aimed to infer a causal relationship between IBD and AS using Mendelian randomization (MR) analysis. We obtained genome-wide association study data related to IBD and AS from the Integrative Epidemiology Unit database and the Finnish database to infer the causal relationship between IBD and AS. MR analyses were performed using 3 methods, mainly inverse-variance weighting (IVW). The robustness of causal effects was ensured by multiple methods (instrumental variables were assessed using F-values, heterogeneity was detected by Cochran's Q, horizontal pleiotropy was assessed by MR-Egger regression, and outliers were detected by Mendelian Randomization Pleiotropy RESidual Sum and Outlier and leave-one-out methods). Subsequently, we selected genome-wide association studies data from 3 different databases for an independent two-sample MR analysis and a meta-analysis based on 3 independent MR estimates to assess the causal relationship between IBD and AS. There was a positive causal relationship between Crohn disease (CD) and AS with IVW results (odds ratio = 1.19, 95% confidence interval = 1.12-1.27; P <.01). There was a positive causal relationship between ulcerative colitis (UC) and AS with IVW results (odds ratio = 1.60, 95% confidence interval = 1.28-2.00; P <.01). Neither CD nor UC had an inverse causal relationship with AS. In order to verify the accuracy of the results, we performed a meta-analysis of the results obtained from the 3 MR analyses, and the results were consistent with the results we had previously obtained. CD and UC may increase the risk of AS.",
+  "approved_practical_takeaways": [],
+  "reference": "Medicine · 2026 07 31 · PMID: 42536573 · DOI: 10.1097/MD.0000000000050015",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

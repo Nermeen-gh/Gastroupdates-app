@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42588089",
+  "pmid": "42588089",
+  "doi": "10.3390/nu18152466",
+  "title": "Heyndrickxia coagulans IDCC 1201 Alters Gut Microbiome and Metabolome in Patients with Functional Bowel Disorders.",
+  "category": "Gastroenterology",
+  "article_type": "Clinical trial",
+  "journal": "Nutrients",
+  "date": "2026 08 13",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42588089/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Background/Objectives: Functional bowel disorders (FBDs) are chronic gastrointestinal conditions that substantially impair quality of life. This randomized, double-blind, placebo-controlled trial investigated the effects of Heyndrickxia coagulans IDCC 1201 (COA 1201) in adults with FBD. Methods: Participants received COA 1201 or a placebo for 8 weeks, with outcomes assessed using the irritable bowel syndrome (IBS)…",
+  "approved_details": "Background/Objectives: Functional bowel disorders (FBDs) are chronic gastrointestinal conditions that substantially impair quality of life. This randomized, double-blind, placebo-controlled trial investigated the effects of Heyndrickxia coagulans IDCC 1201 (COA 1201) in adults with FBD. Methods: Participants received COA 1201 or a placebo for 8 weeks, with outcomes assessed using the irritable bowel syndrome (IBS) Symptom Severity Score (IBS-SSS), IBS Quality of Life (IBS-QOL), and bowel activity measures. And Fecal microbiome and metabolomics were measured by 16S rRNA gene sequencing gas chromatography-mass spectrometry, respectively. Results: Both groups showed improvement from baseline, but COA 1201 produced greater symptom relief, particularly in abdominal bloating, post-defecation discomfort, and the body image domain of IBS-QOL. Fecal microbiome profiling revealed modest changes in global diversity, yet taxa linked to saccharolytic activity and short-chain fatty acid production-including Ruminococcus bromii , Agathobacter rectalis , and Bifidobacterium -were enriched in participants receiving COA 1201, whereas Clostridium leptum increased in those receiving a placebo. Untargeted metabolomics demonstrated distinct metabolic signatures between groups, confirmed by supervised partial least squares discriminant analysis. Exploratory metabolites were identified using variable importance in projection scores (>1.5), statistical significance ( p < 0.05), and absolute log 2 fold change (>1). Alanine and proline emerged as time-dependent metabolites, while tryptophan, lactic acid, and phytosphingosine were specifically associated with COA 1201 treatment. Conclusions: Collectively, these findings suggest that COA 1201 alleviates FBD symptoms by modulating the gut microbiome and metabolome.",
+  "approved_practical_takeaways": [],
+  "reference": "Nutrients · 2026 08 13 · PMID: 42588089 · DOI: 10.3390/nu18152466",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

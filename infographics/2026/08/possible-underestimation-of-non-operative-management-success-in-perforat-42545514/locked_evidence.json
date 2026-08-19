@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42545514",
+  "pmid": "42545514",
+  "doi": "10.1007/s00423-026-04165-5",
+  "title": "Possible underestimation of non-operative management success in perforated diverticulitis with distant free air : Re: Cirocchi R, Matteucci M, Mari GM et al. (2026) The role of non-operative management (NOM) in perforated diverticulitis: a systematic review. Langenbecks Arch Surg 411:79.",
+  "category": "Gastroenterology",
+  "article_type": "Evidence review",
+  "journal": "Langenbeck's archives of surgery",
+  "date": "2026 08 03",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42545514/",
+  "source_scope": "abstract_only",
+  "approved_summary": "The review reported a 27.8% success rate for non-operative management in patients with distant free air and, on that basis, suggested that early surgery should be strongly considered. When we examined the published data, we were unable to reproduce this estimate. Recalculating from the information given in the review, the numerator appeared to include only studies that reported this outcome, whereas the denominato…",
+  "approved_details": "The review reported a 27.8% success rate for non-operative management in patients with distant free air and, on that basis, suggested that early surgery should be strongly considered. When we examined the published data, we were unable to reproduce this estimate. Recalculating from the information given in the review, the numerator appeared to include only studies that reported this outcome, whereas the denominator also included patients from studies in which it was not reported; on a like-for-like basis the success rate is closer to 73% than to the reported 27.8%. Several values in the distant-free-air column of Table 5 of the review also correspond exactly to the complementary failure rates, which is compatible with a labelling or reporting error. These observations concern the distant-air subgroup specifically and require verification against the original data rather than establishing that the pooled analysis is incorrect. Given the clinical weight carried by this subgroup, clarification from the authors, and a correction if the discrepancies are confirmed, would be valuable.",
+  "approved_practical_takeaways": [],
+  "reference": "Langenbeck's archives of surgery · 2026 08 03 · PMID: 42545514 · DOI: 10.1007/s00423-026-04165-5",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42536183",
+  "pmid": "42536183",
+  "doi": "10.1007/s00383-026-06546-9",
+  "title": "Ultrasound-guided hydrostatic enema reduction for intussusception in children younger than 12 months: a systematic review and meta-analysis.",
+  "category": "Gastroenterology",
+  "article_type": "Evidence review",
+  "journal": "Pediatric surgery international",
+  "date": "2026 07 31",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42536183/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Intussusception is the most common cause of bowel obstruction in infancy and may lead to substantial morbidity. This systematic review and meta-analysis evaluated success, recurrence, and perforation rates of ultrasound-guided hydrostatic enema reduction (UGHR) in infants younger than 12 months. A systematic search was performed from database inception through January 2026. A random-effects model was applied to ge…",
+  "approved_details": "Intussusception is the most common cause of bowel obstruction in infancy and may lead to substantial morbidity. This systematic review and meta-analysis evaluated success, recurrence, and perforation rates of ultrasound-guided hydrostatic enema reduction (UGHR) in infants younger than 12 months. A systematic search was performed from database inception through January 2026. A random-effects model was applied to generate pooled estimates. Analyses, including subgroup analyses by sedation status, study design, and country income level, were conducted in R, and certainty of evidence was appraised. Twenty-two studies, including 2656 infants, met the inclusion criteria. The pooled success rate was 80%, the recurrence rate was 8%, and the perforation rate was 2%. Subgroup analysis demonstrated no significant effect of sedation status or study design on outcomes, whereas income level was significantly associated with perforation risk. Substantial heterogeneity was observed across outcomes. Overall certainty of evidence was low. UGHR demonstrates a clinically meaningful success rate with an acceptable safety profile in infants under 12 months, supporting its role as a safe and effective non-surgical treatment in hemodynamically stable patients. Standardized global protocols and high-quality prospective multicenter studies are needed to optimize outcomes and strengthen the evidence base.",
+  "approved_practical_takeaways": [],
+  "reference": "Pediatric surgery international · 2026 07 31 · PMID: 42536183 · DOI: 10.1007/s00383-026-06546-9",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

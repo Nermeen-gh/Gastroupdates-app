@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42533755",
+  "pmid": "42533755",
+  "doi": "10.1093/eurpub/ckag123",
+  "title": "Evaluating the effect of cigarettes smoking on oesophageal cancer risk: a systematic review and meta-analysis with dose-response relationships.",
+  "category": "Gastroenterology",
+  "article_type": "Evidence review",
+  "journal": "European journal of public health",
+  "date": "2026 07 31",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42533755/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Oesophageal cancer (OC) affects over 600 000 people annually, with tobacco smoking and alcohol consumption as primary risk factors. We aimed to synthesize existing evidence to quantify the dose-response relationship between smoking and OC risk. A systematic review and meta-analysis was conducted, examining case-control and cohort studies published up to April 2026. Pooled relative risks (RR) were estimated using r…",
+  "approved_details": "Oesophageal cancer (OC) affects over 600 000 people annually, with tobacco smoking and alcohol consumption as primary risk factors. We aimed to synthesize existing evidence to quantify the dose-response relationship between smoking and OC risk. A systematic review and meta-analysis was conducted, examining case-control and cohort studies published up to April 2026. Pooled relative risks (RR) were estimated using random-effects models. Dose-response relationships by intensity, duration, and time since quitting of smoking were modelled using log-linear models, with linear or spline terms based on model fit. Of 221 eligible articles, 178 original studies were included. Compared with never smokers, the pooled RR of OC was 2.68 (95% confidence interval; CI: 2.37-3.03; n = 66) for current smokers, 1.71 (95% CI: 1.54-1.90; n = 61) for former smokers, and 2.15 (95% CI: 1.98-2.34; n = 144) for ever smokers. For current smokers compared with never smokers, the risk was 3.03 (95% CI: 2.42-3.79; n = 35) for squamous cell carcinoma (OSCC) and 2.25 (95% CI: 1.80-2.82; n = 14) for adenocarcinoma (OAC). OC risk increased non-linearly with smoking intensity, linearly with smoking duration, and decreased linearly with time since quitting. This meta-analysis reinforces the strong association between smoking and OC, with higher risk for OSCC than OAC. The observed non-linear dose-response relationship indicates that the risk of OC increases sharply even at low levels of smoking intensity, doubling below nine cigarettes and tripling below 17 cigarettes per day. These findings support complete smoking avoidance as the most effective prevention strategy of OC.",
+  "approved_practical_takeaways": [],
+  "reference": "European journal of public health · 2026 07 31 · PMID: 42533755 · DOI: 10.1093/eurpub/ckag123",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42500667",
+  "pmid": "42500667",
+  "doi": "10.3389/fimmu.2026.1855859",
+  "title": "Advancing precision immunotherapy in advanced pancreatic cancer: a systematic review and meta-analysis of first-line ICI-based combinations.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Frontiers in immunology",
+  "date": "2026 07 25",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42500667/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Pancreatic ductal adenocarcinoma (PDAC) has an extremely poor prognosis. Immune checkpoint inhibitor (ICI) monotherapy has shown limited efficacy in PDAC, whereas the potential clinical value of first-line ICI-based combination regimens remains unclear. Through a systematic review and meta-analysis, this study aimed to evaluate the efficacy and safety of first-line ICI-based combination regimens in advanced PDAC.…",
+  "approved_details": "Pancreatic ductal adenocarcinoma (PDAC) has an extremely poor prognosis. Immune checkpoint inhibitor (ICI) monotherapy has shown limited efficacy in PDAC, whereas the potential clinical value of first-line ICI-based combination regimens remains unclear. Through a systematic review and meta-analysis, this study aimed to evaluate the efficacy and safety of first-line ICI-based combination regimens in advanced PDAC. PubMed, Embase, The Cochrane Library, Scopus, Web of Science, CNKI, Wanfang Data, VIP, and CBM were searched up to April 4, 2026, to identify clinical studies evaluating first-line ICI-based combination therapy for advanced PDAC. Study screening and data extraction were performed in accordance with PRISMA guidelines. Eight clinical trials involving 379 patients were included. In RCT-only analyses, ICI-based combination regimens showed favorable but statistically non-definitive trends for OS (HR = 0.83, 95% CI: 0.65-1.06) and PFS (HR = 0.75, 95% CI: 0.53-1.05), while ORR was improved (OR = 2.19, 95% CI: 1.32-3.64). Single-arm pooled analysis showed a median PFS of 6.2 months and an ORR of 38.0%. In terms of safety, combination therapy increased the risk of specific Grade 3 or higher adverse events, but the overall incidence was clinically manageable. First-line ICI-based combination regimens showed encouraging antitumor activity in advanced PDAC, particularly for radiological response. However, definitive survival benefits were not established in RCT-only analyses, and further large-scale randomized trials are needed. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261440306, identifier CRD420261440306.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in immunology · 2026 07 25 · PMID: 42500667 · DOI: 10.3389/fimmu.2026.1855859",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

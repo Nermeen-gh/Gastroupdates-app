@@ -1,0 +1,33 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Omitted CC genotype protective association (OR = 0.51, 95% CI: 0.44-0.59)",
+        "Omitted CG genotype association (OR = 1.22, 95% CI: 1.08-1.38)"
+      ],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 2,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 3,
+      "publishable": false,
+      "critical_errors": [
+        "Gemini gemini-3.6-flash failed (503): {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      ],
+      "omissions": [],
+      "legibility": 1,
+      "extractability": 1
+    }
+  ]
+}

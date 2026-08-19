@@ -1,0 +1,28 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 2,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 3,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    }
+  ]
+}

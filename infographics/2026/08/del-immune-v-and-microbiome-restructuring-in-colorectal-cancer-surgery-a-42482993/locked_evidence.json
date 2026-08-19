@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42482993",
+  "pmid": "42482993",
+  "doi": "10.3389/fcimb.2026.1853373",
+  "title": "Del immune V and microbiome restructuring in colorectal cancer surgery: a randomized double blind placebo controlled trial.",
+  "category": "Gastroenterology",
+  "article_type": "Clinical trial",
+  "journal": "Frontiers in cellular and infection microbiology",
+  "date": "2026 07 22",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42482993/",
+  "source_scope": "abstract_only",
+  "approved_summary": "The gut microbiome is increasingly recognized as a central factor in carcinogenesis. Dietary components and therapeutic interventions, including probiotics, may influence microbial composition and function, thereby modulating cancer risk. Del-Immune V, a metabiotic supplement derived from Lactobacillus rhamnosus, has demonstrated immunomodulatory properties. This study investigates its role in microbiome restructu…",
+  "approved_details": "The gut microbiome is increasingly recognized as a central factor in carcinogenesis. Dietary components and therapeutic interventions, including probiotics, may influence microbial composition and function, thereby modulating cancer risk. Del-Immune V, a metabiotic supplement derived from Lactobacillus rhamnosus, has demonstrated immunomodulatory properties. This study investigates its role in microbiome restructuring and patient-reported outcomes in colorectal cancer patients during the perioperative period. A randomized, controlled, double-blind Phase I trial was conducted in 39 colorectal cancer patients undergoing elective resection, assigned to Del-Immune V (n=22) or placebo (n=17). Participants received two capsules daily (100 mg each), starting 7-15 days before surgery and continuing until 15 days postoperatively. Blood and fecal samples were collected at baseline and day 60 to assess IL-6, CRP, CEA, and microbiome composition. Patient-reported outcomes were measured using the EORTC QLQ-C30 questionnaire. Microbiome profiling was performed using 16S rRNA gene sequencing with PICRUSt-based functional inference. Del-Immune V significantly reduced IL-6 (p=0.012) and supported CRP decline, while quality-of-life scores improved across multiple domains. Microbiome analyses revealed enrichment of short-chain fatty acid-producing genera ( Bifidobacterium, Agathobacter, Gemmiger, Phocaeicola ) and decline of CRC-associated taxa ( Fusobacterium ), with a significant improvement in the dysbiosis index (p=0.024). Del-Immune V demonstrated immunomodulatory activity, evidenced by reductions in IL-6 and CRP, alongside improvements in patient-reported quality of life. These effects were accompanied by restructuring of the gut microbiome, characterized by enrichment of protective commensals and reduction of CRC-associated taxa. Collectively, findings support Del-Immune V as a safe adjunctive therapy in colorectal cancer surgery, with potential to enhance recovery and long-term outcomes.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in cellular and infection microbiology · 2026 07 22 · PMID: 42482993 · DOI: 10.3389/fcimb.2026.1853373",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

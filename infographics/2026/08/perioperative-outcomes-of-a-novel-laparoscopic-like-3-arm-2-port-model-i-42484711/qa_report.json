@@ -1,0 +1,33 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Sample size of 195 patients (98 in the 3+2 group and 97 in the 4+1 group) was omitted from the infographic."
+      ],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 2,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 3,
+      "publishable": false,
+      "critical_errors": [
+        "Garbled text in Box 5 ('Significant reductions in regional significant reductions in and non-operative times').",
+        "Unreadable and corrupted text labels in the chart graphic ('Ontrenma', 'Costivity', 'fi noperative time')."
+      ],
+      "omissions": [],
+      "legibility": 3,
+      "extractability": 4
+    }
+  ]
+}

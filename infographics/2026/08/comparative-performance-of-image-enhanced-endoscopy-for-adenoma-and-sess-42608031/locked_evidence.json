@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42608031",
+  "pmid": "42608031",
+  "doi": "10.1111/den.70262",
+  "title": "Comparative Performance of Image-Enhanced Endoscopy for Adenoma and Sessile Serrated Lesion Detection: A Network Meta-Analysis.",
+  "category": "Endoscopy",
+  "article_type": "Clinical trial",
+  "journal": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society",
+  "date": "2026 08 17",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42608031/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Image-enhanced endoscopy (IEE) technologies have been developed to improve colorectal polyp detection, but their comparative efficacy remains uncertain. We performed a network meta-analysis to compare the efficacy of major IEE modalities on colorectal polyp detection. We searched MEDLINE, Embase, and CENTRAL for randomized controlled trials comparing seven IEE modalities (autofluorescence imaging, blue-light imagi…",
+  "approved_details": "Image-enhanced endoscopy (IEE) technologies have been developed to improve colorectal polyp detection, but their comparative efficacy remains uncertain. We performed a network meta-analysis to compare the efficacy of major IEE modalities on colorectal polyp detection. We searched MEDLINE, Embase, and CENTRAL for randomized controlled trials comparing seven IEE modalities (autofluorescence imaging, blue-light imaging, flexible spectral imaging color enhancement, i-scan, linked color imaging [LCI], narrow band imaging [NBI], and texture and color enhancement imaging [TXI]) with white-light imaging (WLI). The primary outcome was the comparison of performance of IEE systems in adenoma detection rate (ADR); the secondary outcome was sessile serrated lesion detection rate (SSLDR). We estimated the number needed to screen (NNS) with 95% credible intervals (CrIs). Study credibility was assessed using the Confidence in Network Meta-analysis (CINeMA) framework. Fifty-three randomized controlled trials encompassing 34,364 patients were included. Compared with WLI, moderate-confidence evidence supported improvements in ADR with TXI (NNS 13, 95% CrIs 7-32), LCI (NNS 17, 95% CrIs 11-31), and NBI (NNS 35, 95% CrIs 18-139), whereas low-confidence evidence supported benefits for i-scan (NNS 7, 95% CrIs 3-18). Direct comparison across IEEs demonstrated little-to-no clinically meaningful differences in ADR. For SSLDR, moderate-confidence evidence supported improvements with LCI (NNS 29, 95% CrIs 15-96) and NBI (NNS 38, 95% CrIs 19-143) compared with WLI. LCI demonstrated the most robust and reproducible performance across multiple analyses with moderate-confidence evidence, although differences among IEE modalities were generally modest.",
+  "approved_practical_takeaways": [],
+  "reference": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society · 2026 08 17 · PMID: 42608031 · DOI: 10.1111/den.70262",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

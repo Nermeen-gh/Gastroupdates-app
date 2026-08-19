@@ -1,0 +1,41 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [
+        "Clinical remission at 8-16 weeks (57%, 95% CI: 28%-86%) is omitted.",
+        "Steroid-free clinical remission at 8-16 weeks (44%, 95% CI: 38%-49%) is omitted.",
+        "Biochemical remission rate (63%, 95% CI: 40%-87%) is omitted.",
+        "95% confidence intervals for adverse events (9%-30%) and serious adverse events (0%-2%) are omitted."
+      ],
+      "legibility": 5,
+      "extractability": 5
+    },
+    {
+      "variant": 2,
+      "publishable": false,
+      "critical_errors": [
+        "Garbled text and typos in the lower 'POPULATION ANALYZED' section: 'Fifteen Iking 653 pediatric patients with prior ani-TNF failure were analyzed' ('Iking' instead of 'including', 'ani-TNF' instead of 'anti-TNF')."
+      ],
+      "omissions": [
+        "Omitted week 52 subgroup clinical remission rates for Crohn's disease (69%) and ulcerative colitis (65%)."
+      ],
+      "legibility": 4,
+      "extractability": 4
+    },
+    {
+      "variant": 3,
+      "publishable": false,
+      "critical_errors": [
+        "Corrupted text artifact in the Safety Profile section: 'SERIOUS ADVERSE EVFACT ADVERSE EVENTS' instead of 'SERIOUS ADVERSE EVENTS'."
+      ],
+      "omissions": [
+        "Subgroup clinical remission rates at week 52 for Crohn's disease (69%) and ulcerative colitis (65%) are omitted."
+      ],
+      "legibility": 4,
+      "extractability": 5
+    }
+  ]
+}

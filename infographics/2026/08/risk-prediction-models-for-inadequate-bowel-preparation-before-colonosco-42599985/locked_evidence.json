@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42599985",
+  "pmid": "42599985",
+  "doi": "10.1371/journal.pone.0356009",
+  "title": "Risk prediction models for inadequate bowel preparation before colonoscopy: A systematic review and meta-analysis.",
+  "category": "Endoscopy",
+  "article_type": "Evidence review",
+  "journal": "PloS one",
+  "date": "2026 08 14",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42599985/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Inadequate bowel preparation (IBP) can impair the safety, efficiency, and diagnostic accuracy of colonoscopy. Numerous multivariable prediction models have been developed to identify patients at high risk of IBP, yet their reported performance varies substantially. To systematically evaluate the predictive performance and methodological quality of existing risk prediction models for IBP before colonoscopy. PubMed,…",
+  "approved_details": "Inadequate bowel preparation (IBP) can impair the safety, efficiency, and diagnostic accuracy of colonoscopy. Numerous multivariable prediction models have been developed to identify patients at high risk of IBP, yet their reported performance varies substantially. To systematically evaluate the predictive performance and methodological quality of existing risk prediction models for IBP before colonoscopy. PubMed, Embase, Web of Science, the Cochrane Library, CINAHL, CNKI, Wanfang, and VIP were systematically searched from inception to December 16, 2024, and updated on December 16, 2025. Data extraction was guided by the Checklist for Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies (CHARMS). Areas under the receiver operating characteristic curves (AUCs) with 95% confidence intervals from internal and external validations were pooled separately using random-effects models (Stata 18). Risk of bias and applicability were evaluated with PROBAST. The protocol was registered in PROSPERO (CRD42024627756). Thirty-one studies reporting 46 prediction models were included, with sample sizes ranging from 152 to 23,456 participants and IBP event incidence rates of 6.3%-50.0%. Frequently used predictors included constipation, diabetes, age, body mass index (BMI), and history of colorectal surgery. Pooled AUCs were 0.76 (95% CI: 0.73-0.79) for internal validation and 0.72 (95% CI: 0.68-0.76) for external validation, both with substantial heterogeneity (I² > 90%). External validation was reported in ten studies, comprising 15 external validation cohorts, including four independent external validation studies of previously published models. Calibration was infrequently reported. Most studies were at high risk of bias, mainly in the analysis domain, while applicability concerns were generally low. Existing IBP prediction models show moderate to good discrimination on average, but pooled estimates are accompanied by substantial heterogeneity and widespread risk of bias, and robust external validation remains limited. Future studies should standardize outcome definitions and reporting and conduct large, multicenter, independent external validations to improve clinical utility.",
+  "approved_practical_takeaways": [],
+  "reference": "PloS one · 2026 08 14 · PMID: 42599985 · DOI: 10.1371/journal.pone.0356009",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

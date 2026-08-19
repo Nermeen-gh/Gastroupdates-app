@@ -1,0 +1,35 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": false,
+      "critical_errors": [
+        "Severe text corruption and overlapping garbled text in the 'WHY IT MATTERS' section (e.g., 'GUT MICROBIOMCANCER PATIENTS UNDERGOING RECOGNIZED AS CENTRAL FACTOR & ELECTIVE RESECTION', 'REFIRRC INTERVENTIONS', 'INCLUDINICS', 'MODULATNE V').",
+        "Duplicate and incomplete panel for 'FINDING 3' in the top right box, where text and icons are cut off."
+      ],
+      "omissions": [],
+      "legibility": 2,
+      "extractability": 3
+    },
+    {
+      "variant": 2,
+      "publishable": false,
+      "critical_errors": [
+        "Gemini gemini-3.6-flash failed (503): {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      ],
+      "omissions": [],
+      "legibility": 1,
+      "extractability": 1
+    },
+    {
+      "variant": 3,
+      "publishable": false,
+      "critical_errors": [
+        "Gemini gemini-3.6-flash failed (429): {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      ],
+      "omissions": [],
+      "legibility": 1,
+      "extractability": 1
+    }
+  ]
+}

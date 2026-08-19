@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42496873",
+  "pmid": "42496873",
+  "doi": "10.1007/s12975-026-01482-1",
+  "title": "Efficacy and Mechanisms of Combined Central-Peripheral Magnetic Stimulation on Prefrontal-Sensorimotor Cortex Connectivity in Post-Stroke Dysphagia after Supratentorial Stroke: A Randomized, Single-Blind, Parallel-Controlled Trial.",
+  "category": "Gastroenterology",
+  "article_type": "Clinical trial",
+  "journal": "Translational stroke research",
+  "date": "2026 07 24",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42496873/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Combined central-peripheral magnetic stimulation shows promise for post-stroke dysphagia (PSD), but its neural mechanisms remain unclear. We evaluated the its efficacy and cortical mechanisms in PSD patients. In this single-blind, parallel-controlled trial, 44 PSD patients were randomized to four groups: active-rTMS + active-rPMS, active-rTMS + sham-rPMS, sham-rTMS + active-rPMS, or sham-rTMS + sham-rPMS. Clinical…",
+  "approved_details": "Combined central-peripheral magnetic stimulation shows promise for post-stroke dysphagia (PSD), but its neural mechanisms remain unclear. We evaluated the its efficacy and cortical mechanisms in PSD patients. In this single-blind, parallel-controlled trial, 44 PSD patients were randomized to four groups: active-rTMS + active-rPMS, active-rTMS + sham-rPMS, sham-rTMS + active-rPMS, or sham-rTMS + sham-rPMS. Clinical scales, such as functional oral intake scale (FOIS) and Penetration-Aspiration Scale (PAS), and Videofluoroscopic Swallowing Study (VFSS) were accessed before, after intervention. Cortical activation during rest and swallowing task was measured by functional near-infrared spectroscopy (fNIRS). Significant interaction effects (time × intervention) were found for FOIS (Wald χ 2 = 39.816, p < 0.001) and PAS scores (Wald χ 2 = 45.433, p < 0.001), with the active-rTMS + active-rPMS group showing the most pronounced therapeutic gains. Concurrently, this group displayed significant improvements of laryngeal vestibular closure duration (LCD, MD = -3.598, 95% CI -4.177 to -3.019, adjusted p < 0.001) and superior hyoid excursion (SHE, MD = -3.708, 95% CI -4.213 to -3.18, adjusted p < 0.001). Neurophysiologically, increased functional connectivity (FC) within the ipsilesional prefrontal-sensorimotor network was observed and the changes of FC in ipsilesional M1 and S1 is significantly correlated with the change magnitude of LCD (r s = 0.78, p = 0.004) and SHE (r s = 0.67, P = 0.023). The combined central-peripheral magnetic stimulation robustly improved swallowing function, temporal and kinematic sequence of swallowing, and sensori-motor connectivity in PSD patients, representing a promising neuromodulatory therapy for PSD.",
+  "approved_practical_takeaways": [],
+  "reference": "Translational stroke research · 2026 07 24 · PMID: 42496873 · DOI: 10.1007/s12975-026-01482-1",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

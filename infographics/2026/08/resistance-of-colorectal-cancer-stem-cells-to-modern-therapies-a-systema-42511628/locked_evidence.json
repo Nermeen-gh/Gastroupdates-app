@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42511628",
+  "pmid": "42511628",
+  "doi": "10.3390/ijms27146285",
+  "title": "Resistance of Colorectal Cancer Stem Cells to Modern Therapies: A Systematic Review.",
+  "category": "Gastroenterology",
+  "article_type": "Evidence review",
+  "journal": "International journal of molecular sciences",
+  "date": "2026 07 29",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42511628/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Colorectal cancer stem cells (CRC-SCs) contribute to treatment resistance, tumor recurrence and disease progression. Despite therapeutic advances, CRC-SCs frequently evade eradication and sustain tumor propagation. Although multiple molecular pathways have been implicated in this resistance, current preclinical evidence remains fragmented. This systematic review aims to synthesize preclinical evidence on the molec…",
+  "approved_details": "Colorectal cancer stem cells (CRC-SCs) contribute to treatment resistance, tumor recurrence and disease progression. Despite therapeutic advances, CRC-SCs frequently evade eradication and sustain tumor propagation. Although multiple molecular pathways have been implicated in this resistance, current preclinical evidence remains fragmented. This systematic review aims to synthesize preclinical evidence on the molecular mechanisms underlying CRC-SC resistance to modern anticancer therapies. A systematic search of PubMed, Scopus, Web of Science, and Cochrane Central Register of Controlled Trials was conducted to identify peer-reviewed original studies published between 2015 and 2025. Eligible studies investigated molecular mechanisms of CRC-SC resistance to chemotherapy, targeted therapy, immunotherapy, and other therapeutic modalities. Risk of bias was assessed using QUIN for in vitro studies and SYRCLE for in vivo studies. A total of 26 studies met the inclusion criteria. Synthesis of findings showed that CRC-SC resistance is driven by interconnected mechanisms, including adaptive signaling pathways, epigenetic reprogramming, enhanced DNA damage response, and protective interactions within the tumor microenvironment. Several studies reported that combination treatments targeting these mechanisms attenuated stemness characteristics and restored therapeutic sensitivity. Overall, CRC-SC resistance arises from multiple intrinsic and extrinsic mechanisms, supporting further preclinical and translational evaluation of combination strategies.",
+  "approved_practical_takeaways": [],
+  "reference": "International journal of molecular sciences · 2026 07 29 · PMID: 42511628 · DOI: 10.3390/ijms27146285",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

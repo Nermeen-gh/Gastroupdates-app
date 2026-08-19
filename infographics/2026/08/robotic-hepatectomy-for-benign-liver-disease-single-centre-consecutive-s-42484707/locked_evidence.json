@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42484707",
+  "pmid": "42484707",
+  "doi": "10.1007/s11701-026-03692-z",
+  "title": "Robotic hepatectomy for benign liver disease: single-centre consecutive series and meta-analysis comparing minimally invasive and open approaches.",
+  "category": "Hepatology",
+  "article_type": "Clinical trial",
+  "journal": "Journal of robotic surgery",
+  "date": "2026 07 22",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42484707/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Benign hepatic disease carries a distinctive ethical imperative to minimize perioperative morbidity in patients who might otherwise live asymptomatic lives. Minimally invasive approaches reduce pain, hospitalization, and recovery time, but laparoscopic resection of anatomically challenging posterosuperior segments remains technically demanding. Robotic hepatectomy may overcome these limitations. This study evaluat…",
+  "approved_details": "Benign hepatic disease carries a distinctive ethical imperative to minimize perioperative morbidity in patients who might otherwise live asymptomatic lives. Minimally invasive approaches reduce pain, hospitalization, and recovery time, but laparoscopic resection of anatomically challenging posterosuperior segments remains technically demanding. Robotic hepatectomy may overcome these limitations. This study evaluates the safety, feasibility, learning curve, and comparative effectiveness of robotic hepatectomy in benign disease. We retrospectively analyzed a consecutive single-surgeon series of 62 robotic hepatectomies for benign disease, including a learning-curve analysis, and performed a parallel meta-analysis of 7 comparative studies stratified by surgical approach and lesion complexity. Robotic resection demonstrated excellent safety (1.6% major complication rate, 0% 90-day mortality, 0% readmissions) and reproducibility. The IWATE score reliably stratified cases and predicted operative duration. In the literature, robotic and laparoscopic resection showed comparable operative time, blood loss, and length of stay, with only a modestly longer robotic operative time in isolated resections (SMD + 0.52, p = 0.0046). Compared with open surgery, the robotic approach achieved significantly lower intraoperative blood loss (SMD - 0.94, p < 0.0001) and a shorter hospital stay (SMD - 1.32, p = 0.0253), with comparable operative time. The blood-loss advantage over open surgery was confirmed in strictly isolated benign resections (SMD - 0.71, p = 0.0004; I² = 0%). Robotic hepatectomy is safe, reproducible, and demonstrates clear learning curve plateau in benign disease and a stepping-stone strategy for malignant liver diseases. Robotic resection reliably accesses posterosuperior segments with low conversion rates, making it an attractive minimally invasive alternative that extends laparoscopic reach. In benign disease, where morbidity minimization and rapid recovery are paramount, robotic surgery offers a compelling new option. Future prospective, multicenter, randomized studies are needed for cost-effectiveness and quality-of-life analysis.",
+  "approved_practical_takeaways": [],
+  "reference": "Journal of robotic surgery · 2026 07 22 · PMID: 42484707 · DOI: 10.1007/s11701-026-03692-z",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

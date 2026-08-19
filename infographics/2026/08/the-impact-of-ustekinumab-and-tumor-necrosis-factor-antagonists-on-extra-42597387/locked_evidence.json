@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42597387",
+  "pmid": "42597387",
+  "doi": "10.3389/fphar.2026.1849397",
+  "title": "The impact of ustekinumab and tumor necrosis factor antagonists on extraintestinal manifestations of Crohn's disease: a systematic review and meta-analysis.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Frontiers in pharmacology",
+  "date": "2026 08 14",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42597387/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Extraintestinal manifestations (EIMs) are commonly observed in patients with Crohn's disease (CD). Although Tumor Necrosis Factor (TNF) antagonists are commonly recommended for the management of several EIMs, their efficacy remains limited. Ustekinumab (UST), an alternative option after TNF antagonists failure, has shown potential efficacy for various EIMs. However, evidence regarding its effectiveness remains inc…",
+  "approved_details": "Extraintestinal manifestations (EIMs) are commonly observed in patients with Crohn's disease (CD). Although Tumor Necrosis Factor (TNF) antagonists are commonly recommended for the management of several EIMs, their efficacy remains limited. Ustekinumab (UST), an alternative option after TNF antagonists failure, has shown potential efficacy for various EIMs. However, evidence regarding its effectiveness remains inconsistent. This study aimed to evaluate the efficacy and safety of UST and TNF antagonists for CD-related EIMs through a systematic review and meta-analysis. PubMed, Embase, and Cochrane Library were searched on 2 August 2025, to identify phase II and III randomized controlled trials (RCTs) evaluating UST or TNF antagonists in adults aged ≥18 years with moderate-to-severe active CD. The primary outcomes were EIMs and EIM-related symptoms. Two investigators, adhering to the PRISMA guidelines, independently screened the literature and extracted data. The risk of bias was assessed using the Cochrane Risk-of-Bias Tool 2.0. Random-effects and fixed-effect models were used to estimate pooled treatment effects. Results were presented using risk ratios (RRs), incidence rate ratios (IRRs) and 95% confidence intervals (CIs). A total of 23 RCTs, involving 7,810 patients, were included, with EIMs such as fatigue, joint pain, and skin manifestations being considered. The meta-analysis revealed that UST significantly reduced the risk of fatigue in CD patients (IRR 0.53, 95% CI 0.33-0.84, P = 0.008). During maintenance therapy, UST treatment was significantly associated with a reduction in the risk of arthritis/arthralgia (IRR 0.56, 95% CI 0.36-0.86, P = 0.008). Weekly adalimumab (ADA) treatment was significantly associated with an increased risk of fatigue (IRR 2.79, 95% CI 1.12-6.94, P = 0.028). UST showed potential advantages in the management of fatigue and arthritis/arthralgia. ADA and infliximab (IFX) were not associated with statistically significant benefits for most analyzed EIM outcomes. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251111502, identifier CRD420251111502.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in pharmacology · 2026 08 14 · PMID: 42597387 · DOI: 10.3389/fphar.2026.1849397",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}

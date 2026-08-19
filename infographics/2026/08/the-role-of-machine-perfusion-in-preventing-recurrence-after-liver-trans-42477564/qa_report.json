@@ -1,0 +1,34 @@
+{
+  "reports": [
+    {
+      "variant": 1,
+      "publishable": false,
+      "critical_errors": [
+        "Section 2 ('Why It Matters') contains severely corrupted and garbled text: 'ISCHEMIA- ENIA-REPERFUSION INJURY (IRI)' and 'COMPARED HCC RECURRENCE AFTER LT IMPLICATED IN TUMOR RECURRENCE.'"
+      ],
+      "omissions": [],
+      "legibility": 3,
+      "extractability": 4
+    },
+    {
+      "variant": 2,
+      "publishable": false,
+      "critical_errors": [
+        "Corrupted text/gibberish in the 'WHY IT MATTERS' section: 'ISCHEMIA-REPERFUSION INJURY (IRI) s FUKOR? HAS BEEN IMPLICATED IN TUMOR RECURRENCE.'"
+      ],
+      "omissions": [
+        "Sensitivity analysis results (OR 2.26, 95% CI 1.48-3.45; p = 0.0002; I²=22%) were omitted."
+      ],
+      "legibility": 4,
+      "extractability": 5
+    },
+    {
+      "variant": 3,
+      "publishable": true,
+      "critical_errors": [],
+      "omissions": [],
+      "legibility": 5,
+      "extractability": 5
+    }
+  ]
+}

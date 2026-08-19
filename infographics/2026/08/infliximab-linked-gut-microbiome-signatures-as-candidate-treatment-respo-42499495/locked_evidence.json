@@ -1,0 +1,17 @@
+{
+  "id": "pmid-42499495",
+  "pmid": "42499495",
+  "doi": "10.3389/fphar.2026.1877033",
+  "title": "Infliximab-linked gut microbiome signatures as candidate treatment response biomarkers in pediatric inflammatory bowel disease: a systematic review.",
+  "category": "Gastroenterology",
+  "article_type": "Guideline candidate",
+  "journal": "Frontiers in pharmacology",
+  "date": "2026 07 25",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/42499495/",
+  "source_scope": "abstract_only",
+  "approved_summary": "Infliximab (IFX) is a chimeric monoclonal antibody against tumor necrosis factor-alpha (TNF-α) that is widely used for induction and maintenance therapy in pediatric inflammatory bowel disease (IBD), yet its effects on the developing intestinal microbiome and treatment response remain unclear. To systematically synthesize evidence on IFX-associated microbiome changes in pediatric IBD and evaluate microbiome featur…",
+  "approved_details": "Infliximab (IFX) is a chimeric monoclonal antibody against tumor necrosis factor-alpha (TNF-α) that is widely used for induction and maintenance therapy in pediatric inflammatory bowel disease (IBD), yet its effects on the developing intestinal microbiome and treatment response remain unclear. To systematically synthesize evidence on IFX-associated microbiome changes in pediatric IBD and evaluate microbiome features linked to treatment response. A systematic review was conducted following the PRISMA 2020 guidelines. PubMed, Scopus, Embase, and CENTRAL were searched from database inception until March 2026, and our results were synthesized narratively. Of the 945 records identified, 13 studies met the inclusion criteria, comprising 242 pediatric patients. Findings for alpha diversity were variable across studies. In contrast, beta-diversity patterns, taxonomic profiles, and functional analyses more consistently showed positive IFX-associated microbial changes. Responders to treatment more frequently showed enrichment of beneficial taxa, including Faecalibacterium, Subdoligranulum, and Bifidobacterium , while non-responders exhibited a tendency towards dysbiotic microbial signatures, evidenced by increased levels of Gammaproteobacteria and Candida . Functional and metabolomic studies suggested beneficial shifts in bile-acid metabolism, short-chain fatty acid-related pathways, and inflammatory signaling post IFX treatment. Clinical and biochemical improvements with IFX were consistently reported; however, these improvements were not always accompanied by uniform recovery of overall microbial diversity. In pediatric IBD, IFX is more consistently associated with shifts in microbial composition and function than with broad increases in overall microbial diversity. Further large, standardized studies are warranted to refine the role of microbiome features in biologic treatment stratification. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251133625, identifier CRD420251133625.",
+  "approved_practical_takeaways": [],
+  "reference": "Frontiers in pharmacology · 2026 07 25 · PMID: 42499495 · DOI: 10.3389/fphar.2026.1877033",
+  "safety_note": "Use only these fields. Do not infer recommendations, doses, thresholds, effect sizes, or certainty grades. Preserve numbers exactly."
+}
