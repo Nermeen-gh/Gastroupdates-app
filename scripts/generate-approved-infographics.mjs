@@ -8,9 +8,13 @@ const OUTPUT_ROOT = path.resolve("infographics");
 const API_KEY = process.env.GEMINI_API_KEY;
 const IMAGE_MODEL = process.env.GEMINI_IMAGE_MODEL || "gemini-3.1-flash-image";
 const QA_MODEL = process.env.GEMINI_QA_MODEL || "gemini-3.6-flash";
-const VARIANTS = Math.max(1, Math.min(3, Number(process.env.INFOGRAPHIC_VARIANTS || 3)));
+const VARIANTS = Math.max(1, Math.min(3, Number(process.env.INFOGRAPHIC_VARIANTS || 1)));
 const DRY_RUN = /^(1|true|yes)$/i.test(process.env.DRY_RUN || "");
-const TEST_PMID = (process.env.TEST_PMID || "").replace(/^pmid-/, "");
+const REQUESTED_PMIDS = (process.env.TEST_PMID || "")
+  .split(",")
+  .map((value) => value.trim().replace(/^pmid-/, ""))
+  .filter(Boolean);
+const REQUESTED_PMID_SET = new Set(REQUESTED_PMIDS);
 
 function stable(value) {
   if (Array.isArray(value)) return value.map(stable);
@@ -50,14 +54,7 @@ function lockedEvidence(item) {
 
 function infographicPrompt(evidence, variant) {
   const styles = ["medical sketchnote notebook", "clinical whiteboard doodle", "hand-drawn visual abstract"];
-  return `Create a polished landscape 16:9 GastroUpdates medical infographic in a ${styles[variant % styles.length]} style.
-
-The image will later be manually separated for animation. Use 8–12 clearly separated zones arranged across a widescreen canvas, generous whitespace, discrete doodles, minimal overlap, dark navy ink, teal and one warm accent on an off-white background. Use Comic Sans MS for all visible text, with large highly legible lettering for medical facts and references. Do not imitate another handwriting font. No element may cross into an adjacent zone.
-
-Use ONLY this locked JSON evidence:
-${JSON.stringify(evidence, null, 2)}
-
-Required hierarchy: title; why it matters; study/article type; population or scope when explicitly available; 3–5 supported findings; cautious clinical implication only if supplied; limitations/source-scope warning; reference. If a field is unavailable, omit it. Do not invent or alter any number, dose, endpoint, sample size, confidence interval, recommendation strength, PMID, or DOI. Do not add a logo. Output the finished infographic only.`;
+  return `Create a polished landscape 16:9 GastroUpdates medical infographic in a ${styles[variant % styles.length]} style.\n\nThe image will later be manually separated for animation. Use 8–12 clearly separated zones arranged across a widescreen canvas, generous whitespace, discrete doodles, minimal overlap, dark navy ink, teal and one warm accent on an off-white background. Use Comic Sans MS for all visible text, with large highly legible lettering for medical facts and references. Do not imitate another handwriting font. No element may cross into an adjacent zone.\n\nUse ONLY this locked JSON evidence:\n${JSON.stringify(evidence, null, 2)}\n\nRequired hierarchy: title; why it matters; study/article type; population or scope when explicitly available; 3–5 supported findings; cautious clinical implication only if supplied; limitations/source-scope warning; reference. If a field is unavailable, omit it. Do not invent or alter any number, dose, endpoint, sample size, confidence interval, recommendation strength, PMID, or DOI. Do not add a logo. Output the finished infographic only.`;
 }
 
 async function gemini(model, body) {
@@ -77,15 +74,8 @@ function parts(response) {
 async function render(prompt) {
   const response = await gemini(IMAGE_MODEL, {
     contents: [{ role: "user", parts: [{ text: prompt }] }],
-    generationConfig: {
-      responseModalities: ["TEXT", "IMAGE"],
-    responseFormat: {
-  image: {
-    aspectRatio: "ASPECT_RATIO_SIXTEEN_BY_NINE",
-    imageSize: "IMAGE_SIZE_TWO_K",
-  },
-},
-    },
+    generationConfig: { responseModalities: ["TEXT", "IMAGE"] },
+    responseFormat: { image: { aspectRatio: "ASPECT_RATIO_SIXTEEN_BY_NINE", imageSize: "IMAGE_SIZE_TWO_K" } },
   });
   const image = parts(response).find((part) => part.inlineData?.data && /^image\//.test(part.inlineData.mimeType || ""));
   if (!image) throw new Error("Image model returned no image.");
@@ -111,13 +101,18 @@ async function readJson(file, fallback) {
 async function main() {
   const updates = await readJson(UPDATES, { items: [] });
   const manifest = await readJson(MANIFEST, { version: 1, items: {} });
-  const approved = (updates.items || []).filter((item) => item.reviewStatus === "approved" && (!TEST_PMID || item.pmid === TEST_PMID));
+  if (!DRY_RUN && REQUESTED_PMIDS.length === 0) {
+    throw new Error("Safety stop: no PMID was supplied. Automatic generation will not scan the full approved archive. Supply one or more comma-separated PMIDs.");
+  }
+  const approved = (updates.items || []).filter((item) =>
+    item.reviewStatus === "approved" && (REQUESTED_PMID_SET.size === 0 || REQUESTED_PMID_SET.has(String(item.pmid)))
+  );
   let processed = 0;
 
   for (const item of approved) {
     const evidence = lockedEvidence(item);
     const sourceHash = hash(evidence);
-    if (!TEST_PMID && manifest.items[item.id]?.sourceHash === sourceHash && manifest.items[item.id]?.status === "published") continue;
+    if (manifest.items[item.id]?.sourceHash === sourceHash && manifest.items[item.id]?.status === "published") continue;
     const dated = new Date().toISOString().slice(0, 7).replace("-", "/");
     const relative = path.join(dated, `${slug(item.title)}-${item.pmid || slug(item.id)}`);
     const directory = path.join(OUTPUT_ROOT, relative);
@@ -155,7 +150,7 @@ async function main() {
     await fs.writeFile(MANIFEST, `${JSON.stringify(manifest, null, 2)}\n`);
     processed += 1;
   }
-  console.log(`${DRY_RUN ? "Planned" : "Processed"} ${processed || approved.length} approved article(s).`);
+  console.log(`${DRY_RUN ? "Planned" : "Processed"} ${processed} approved article(s).`);
 }
 
 main().catch((error) => { console.error(error); process.exitCode = 1; });
