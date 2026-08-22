@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-21",
+  "lastChecked": "2026-08-22",
   "items": [
     {
       "id": "pmid-42486794",
@@ -2935,6 +2935,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618885/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-08-21T04:53:22.255Z"
+    },
+    {
+      "id": "pmid-42626936",
+      "pmid": "42626936",
+      "doi": "10.1002/14651858.CD015930.pub2",
+      "title": "Alpha 1 antitrypsin augmentation therapy for alpha 1 antitrypsin deficiency-associated lung disease.",
+      "category": "Hepatology",
+      "source": "The Cochrane database of systematic reviews",
+      "summary": "Alpha-1 antitrypsin (AAT) is a protein produced by the liver that stops certain enzymes from harming body tissues, especially in the lungs. AAT deficiency (AATD) is a genetic condition that can manifest clinically as chronic obstructive pulmonary disease (COPD), causing cough and breathlessness. AAT augmentation therapy could help prevent or slow the progression of COPD in people with AATD. Whilst correcting the p…",
+      "fullDetails": "Alpha-1 antitrypsin (AAT) is a protein produced by the liver that stops certain enzymes from harming body tissues, especially in the lungs. AAT deficiency (AATD) is a genetic condition that can manifest clinically as chronic obstructive pulmonary disease (COPD), causing cough and breathlessness. AAT augmentation therapy could help prevent or slow the progression of COPD in people with AATD. Whilst correcting the protein deficit seems a logical approach to treating a condition caused by a protein deficiency, this intervention is only worthwhile if it leads to improvements in clinically important outcomes. The evidence synthesised in a previous Cochrane review (last updated in 2016) was insufficient to conclude whether AAT augmentation therapy influenced any clinical outcomes. However, no inhaled AAT augmentation therapy studies were available for inclusion in that review, only studies on intravenous AAT augmentation therapy. To assess the effects of alpha 1 antitrypsin (AAT) augmentation therapy on respiratory disease in people with alpha 1 antitrypsin deficiency (AATD). We searched CENTRAL, MEDLINE, Embase, and two trials registries to August 2025. We checked the reference lists of included articles and other related papers for any additional studies. We included randomised controlled trials (RCTs). Cluster-RCTs were also eligible if the data had been, or could be, adjusted for clustering. We included studies comparing AAT augmentation by any route (inhaled, intravenous, or subcutaneous) with AAT augmentation by a different route, placebo, or no treatment. We excluded studies that compared different doses of AAT via the same route, without a placebo or no treatment group. Our critical outcomes were annual airway disease exacerbation rate, all-cause mortality, and participants experiencing one or more serious adverse events. We used the Cochrane risk of bias tool (RoB 2). Two review authors independently extracted data and assessed the risk of bias. We conducted meta-analyses to calculate odds ratios (ORs) for dichotomous outcomes, and mean differences (MDs) or standardised mean differences (SMDs) for continuous outcomes, all with corresponding 95% confidence intervals (CIs). We used GRADE to assess the certainty of evidence for our critical outcomes. Six multicentre studies randomised a total of 526 people with AATD and analysed the results for 524 participants. The studies were conducted in Europe, North America, and Australia and were published between 1997 and 2025. The route of AAT administration was intravenous in four studies and inhaled in two studies. This review has three new studies compared to the 2016 Cochrane review. Intravenous AAT augmentation therapy versus placebo Intravenous AAT augmentation therapy may increase the annual airway disease exacerbation rate slightly compared with placebo (MD 0.29 exacerbations, 95% CI 0.04 to 0.54; P = 0.02, I 2 = 0%; 2 studies, 257 participants; low-certainty evidence, downgraded for serious imprecision and indirectness). It may make little or no difference to all-cause mortality (OR 0.30, 95% CI 0.03 to 2.98; P = 0.31; 2 studies, 187 participants; low-certainty evidence, downgraded for very serious imprecision). We are uncertain whether intravenous AAT augmentation therapy has an impact on the risk of experiencing one or more serious adverse events (OR 0.67, 95% CI 0.32 to 1.41; P = 0.29, I 2 = 43%; 2 studies, 257 participants; very low-certainty evidence, downgraded for serious inconsistency and indirectness and very serious imprecision). Inhaled AAT augmentation therapy versus placebo We are uncertain if inhaled AAT augmentation therapy has an impact on the annual airway disease exacerbation rate compared with placebo (MD 0.45 exacerbations, 95% CI -0.42 to 1.32; P = 0.31; 1 study, 168 participants; very low-certainty evidence, downgraded for serious indirectness and very serious imprecision). It may make little or no difference to the risk of experiencing one or more serious adverse events (OR 5.33, 95% CI 0.61 to 46.54; P = 0.13, I 2 = 0%; 2 studies, 204 participants; low-certainty evidence, downgraded for very serious imprecision). No studies reported all-cause mortality. Compared with placebo, intravenous AAT augmentation therapy may have little or no effect on all-cause mortality but may increase the annual airway disease exacerbation rate slightly. We are uncertain if intravenous AAT augmentation therapy has any effect on the risk of serious adverse events. Inhaled AAT augmentation therapy may have little or no effect on the annual airway disease exacerbation rate or the risk of serious adverse events. This Cochrane review had no dedicated funding. Protocol (2024) DOI: 10.1002/14651858.CD015930.",
+      "practicalTakeaways": [],
+      "date": "2026 08 21",
+      "status": "Clinical trial",
+      "references": "The Cochrane database of systematic reviews · 2026 08 21 · PMID: 42626936 · DOI: 10.1002/14651858.CD015930.pub2",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626936/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-22T04:48:39.412Z"
+    },
+    {
+      "id": "pmid-42625160",
+      "pmid": "42625160",
+      "doi": "10.1186/s12885-026-16373-9",
+      "title": "Human endogenous retroviruses as immune-related prognostic biomarkers in pancreatic cancer.",
+      "category": "Gastroenterology",
+      "source": "BMC cancer",
+      "summary": "Human endogenous retroviruses (HERVs) may modulate antitumor immunity and prognosis in pancreatic cancer (PC), but reported findings remain heterogeneous. A systematic review was conducted according to PRISMA guidelines. PubMed/MEDLINE and grey literature were searched for studies reporting HERV expression in PC. Extracted data included HERV family and genomic region, detection methods, biological specimens, immun…",
+      "fullDetails": "Human endogenous retroviruses (HERVs) may modulate antitumor immunity and prognosis in pancreatic cancer (PC), but reported findings remain heterogeneous. A systematic review was conducted according to PRISMA guidelines. PubMed/MEDLINE and grey literature were searched for studies reporting HERV expression in PC. Extracted data included HERV family and genomic region, detection methods, biological specimens, immune correlations, clinicopathologic associations, and survival outcomes. Eleven studies were included, reporting 1,085 PC cases among 9,241 cancer patients. HERV-H was evaluated in 6 studies, HERV-K in 3, and 2 studies did not specify family. Elements included env sequences (3 studies), envelope proteins (2), LTR sequences (6), and LTR-derived proteins (HHLA2 (5). Detection methods comprised RNA-seq (n = 7 studies), PCR/qPCR (n = 7), immunohistochemistry (n = 6), western blot (n = 4), and ELISA (n = 4). HERV detection ranged from 16.7% to ~ 80%, varying with the sequence and laboratory method. Immune correlations were described in 7 studies, including associations with CD8⁺ T-cell infiltration, cytokines (IL-2, TNF-α, IFN-γ), PD-1/PD-L1, and anti-HERV antibodies. Overall survival was reported in 6 studies, with both adverse (HR 1.26-2.24) and favourable (HR 0.47-0.66) associations reported, particularly for HERV-H derived LTR products (HHLA2). HERVs exhibit frequent, target-dependent expression patterns that trigger proinflammatory activation. Within these families, HERV-H derived LTR elements, specifically HHLA2, demonstrate the most consistent correlation with increased T-cell infiltration and favorable survival, supporting their potential as prognostic biomarkers.",
+      "practicalTakeaways": [],
+      "date": "2026 08 21",
+      "status": "Guideline candidate",
+      "references": "BMC cancer · 2026 08 21 · PMID: 42625160 · DOI: 10.1186/s12885-026-16373-9",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625160/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-22T04:48:39.412Z"
+    },
+    {
+      "id": "pmid-42625189",
+      "pmid": "42625189",
+      "doi": "10.1186/s12957-026-04517-x",
+      "title": "Prognostic utility of the Charlson comorbidity index in pancreatic cancer: a systematic review and meta‑analysis.",
+      "category": "Gastroenterology",
+      "source": "World journal of surgical oncology",
+      "summary": "The prognosis of pancreatic cancer is extremely poor, and patients frequently present with multiple comorbidities. The Charlson Comorbidity Index (CCI) and its age-adjusted version (CACI) are widely used to quantify the burden of comorbidity. This systematic review and meta-analysis aimed to evaluate the association between CCI/CACI and survival outcomes in patients with pancreatic cancer. We systematically search…",
+      "fullDetails": "The prognosis of pancreatic cancer is extremely poor, and patients frequently present with multiple comorbidities. The Charlson Comorbidity Index (CCI) and its age-adjusted version (CACI) are widely used to quantify the burden of comorbidity. This systematic review and meta-analysis aimed to evaluate the association between CCI/CACI and survival outcomes in patients with pancreatic cancer. We systematically searched the Cochrane Library, Embase, PubMed, and Web of Science for relevant literature up to May 2025. Observational studies primarily investigating the association between CCI/CACI and overall survival (OS) in patients with pancreatic cancer were included. Two reviewers independently screened the literature, extracted data, and evaluated the quality of eligible studies using the Newcastle-Ottawa Scale. A random-effects model was employed to pool adjusted hazard ratios (HRs) and 95% confidence intervals (CIs). Heterogeneity was assessed using the I² statistic. Subgroup analysis, sensitivity analysis, and regression analysis were also conducted. This analysis incorporated 28 studies comprising 548,660 participants. Most of the studies were of high quality. The meta-analysis demonstrated that a higher CCI was associated with an inferior OS (pooled HR = 1.26, 95% CI: 1.09-1.47, P = 0.002). A similar association was observed for CACI (pooled HR = 1.40, 95% CI: 1.17-1.67, P < 0.001). Subgroup analyses confirmed that this association was generally consistent across different geographical regions, study designs, sample sizes, treatment modalities, and cut-off values of CCI. However, the assessment of heterogeneity revealed substantial heterogeneity in the analyses involving the CCI (I² = 63.6%, P = 0.005). Due to the limited number of eligible studies, quantitative synthesis could not be conducted for secondary endpoints, including progression-free survival and recurrence-free survival. The current meta-analysis provides quantitative evidence from observational studies to support the CCI and CACI as factors associated with survival in patients with pancreatic cancer. However, given the substantial heterogeneity and observational design of the included studies, these indices should be interpreted as prognostic association markers rather than standalone clinical decision tools. The findings should be cautiously interpreted. Future prospective studies are required for validation. Integrated prediction models combining these indices with molecular markers should be explored.",
+      "practicalTakeaways": [],
+      "date": "2026 08 21",
+      "status": "Evidence review",
+      "references": "World journal of surgical oncology · 2026 08 21 · PMID: 42625189 · DOI: 10.1186/s12957-026-04517-x",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625189/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-22T04:48:39.413Z"
     }
   ]
 }
