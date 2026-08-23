@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-22",
+  "lastChecked": "2026-08-23",
   "items": [
     {
       "id": "pmid-42486794",
@@ -2986,6 +2986,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625189/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-08-22T04:48:39.413Z"
+    },
+    {
+      "id": "pmid-42629946",
+      "pmid": "42629946",
+      "doi": "10.1111/den.70268",
+      "title": "The Impact of Artificial Intelligence-Assisted Endoscopy on the Detection of Upper Gastrointestinal Neoplasms: A Systematic Review and Meta-Analyses.",
+      "category": "Endoscopy",
+      "source": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society",
+      "summary": "Early detection of upper gastrointestinal (UGI) neoplasms is challenging because of their subtle endoscopic features. Artificial intelligence (AI) has improved endoscopic imaging and lesion recognition. This meta-analysis aimed to assess the effectiveness of AI-assisted real-time esophagogastroduodenoscopy (EGD) for detecting UGI neoplasms based on evidence from randomized controlled trials (RCTs). PubMed, EMBASE,…",
+      "fullDetails": "Early detection of upper gastrointestinal (UGI) neoplasms is challenging because of their subtle endoscopic features. Artificial intelligence (AI) has improved endoscopic imaging and lesion recognition. This meta-analysis aimed to assess the effectiveness of AI-assisted real-time esophagogastroduodenoscopy (EGD) for detecting UGI neoplasms based on evidence from randomized controlled trials (RCTs). PubMed, EMBASE, and Cochrane Library were searched for RCTs comparing AI-assisted EGD with conventional EGD up to April 11, 2026. Risk ratios (RRs) were calculated for the neoplasm detection rate (DR), and incidence rate ratios (IRRs) were pooled for lesions per endoscopy (LPE). Subgroup analyses were conducted according to AI system and pathological types. Random-effects models with Hartung-Knapp adjustment were applied. Ten RCTs involving 87,721 participants were included. Compared with conventional EGD, AI-assisted EGD significantly improved neoplasm DRs in the esophagus (RR = 1.47, 95% confidence interval [CI] 1.13-1.90, p = 0.012) and stomach (RR = 1.47, 95% CI 1.02-2.13, p = 0.043). In subgroup analyses, computer-assisted detection (CADe) was associated with increased LPE of esophageal neoplasms (IRR = 1.62, 95% CI 1.08-2.45, p = 0.033). AI-assisted EGD also increased the LPEs of gastric cancer (IRR = 1.45, 95% CI 1.09-1.92, p = 0.022) and low-grade intraepithelial neoplasia (IRR = 1.39, 95% CI 1.13-1.70, p = 0.012). AI-assisted real-time EGD was associated with improved detection of UGI neoplasms and may support endoscopists in routine clinical practice. Further studies are required to evaluate the effectiveness of different AI systems across pathological subtypes. PROSPERO; CRD420251158943.",
+      "practicalTakeaways": [],
+      "date": "2026 08 22",
+      "status": "Clinical trial",
+      "references": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society · 2026 08 22 · PMID: 42629946 · DOI: 10.1111/den.70268",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629946/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-23T04:51:30.506Z"
     }
   ]
 }
