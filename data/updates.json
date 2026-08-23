@@ -2661,8 +2661,9 @@
       "status": "Clinical trial",
       "references": "Liver international : official journal of the International Association for the Study of the Liver · 2026 08 19 · PMID: 42615276 · DOI: 10.1111/liv.70845",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615276/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-20T04:52:20.627Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-20T04:52:20.627Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42614039",
@@ -2678,8 +2679,9 @@
       "status": "Clinical trial",
       "references": "Endocrinology, diabetes & metabolism · 2026 08 19 · PMID: 42614039 · DOI: 10.1002/edm2.70319",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42614039/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-20T04:52:20.628Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-20T04:52:20.628Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42613632",
@@ -2695,8 +2697,9 @@
       "status": "Guideline candidate",
       "references": "Liver international : official journal of the International Association for the Study of the Liver · 2026 08 19 · PMID: 42613632 · DOI: 10.1111/liv.70844",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42613632/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-20T04:52:20.628Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-20T04:52:20.628Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42613928",
@@ -2712,8 +2715,9 @@
       "status": "Guideline candidate",
       "references": "Journal of medical Internet research · 2026 08 19 · PMID: 42613928 · DOI: 10.2196/87866",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42613928/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-20T04:52:20.628Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-20T04:52:20.628Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42615769",
@@ -2729,8 +2733,9 @@
       "status": "Guideline candidate",
       "references": "Arquivos brasileiros de cirurgia digestiva : ABCD = Brazilian archives of digestive surgery · 2026 08 19 · PMID: 42615769 · DOI: 10.1590/0102-672020260000018e1947",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615769/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-20T04:52:20.628Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-20T04:52:20.628Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42615657",
@@ -2746,8 +2751,9 @@
       "status": "Clinical trial",
       "references": "Khirurgiia · 2026 08 19 · PMID: 42615657 · DOI: 10.17116/hirurgia202608164",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42615657/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-20T04:52:20.630Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-20T04:52:20.630Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42623122",
@@ -2763,8 +2769,9 @@
       "status": "Clinical trial",
       "references": "Gut microbes · 2026 08 20 · PMID: 42623122 · DOI: 10.1080/19490976.2026.2719125",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623122/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.252Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.252Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42623526",
@@ -2780,8 +2787,9 @@
       "status": "Clinical trial",
       "references": "Hepatology communications · 2026 08 20 · PMID: 42623526 · DOI: 10.1097/HC9.0000000000001025",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623526/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.252Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.252Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42623525",
@@ -2797,8 +2805,9 @@
       "status": "Evidence review",
       "references": "Hepatology communications · 2026 08 20 · PMID: 42623525 · DOI: 10.1097/HC9.0000000000001029",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42623525/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.252Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.252Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42621717",
@@ -2814,8 +2823,9 @@
       "status": "New publication",
       "references": "Zhen ci yan jiu = Acupuncture research · 2026 08 20 · PMID: 42621717 · DOI: 10.13702/j.1000-0607.20250739",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42621717/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.253Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.253Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42624156",
@@ -2831,8 +2841,9 @@
       "status": "Clinical trial",
       "references": "Lancet (London, England) · 2026 08 20 · PMID: 42624156 · DOI: 10.1016/S0140-6736(26)01252-3",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624156/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.253Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.253Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42624598",
@@ -2848,8 +2859,9 @@
       "status": "Guideline candidate",
       "references": "BMJ open · 2026 08 20 · PMID: 42624598 · DOI: 10.1136/bmjopen-2025-111047",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42624598/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.253Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.253Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42618855",
@@ -2865,8 +2877,9 @@
       "status": "Clinical trial",
       "references": "Journal of general internal medicine · 2026 08 20 · PMID: 42618855 · DOI: 10.1007/s11606-026-10706-x",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618855/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.254Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.254Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42620803",
@@ -2882,8 +2895,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in pharmacology · 2026 08 20 · PMID: 42620803 · DOI: 10.3389/fphar.2026.1920788",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620803/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.255Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.255Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42620506",
@@ -2899,8 +2913,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in immunology · 2026 08 20 · PMID: 42620506 · DOI: 10.3389/fimmu.2026.1907830",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620506/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.255Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.255Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42620324",
@@ -2916,8 +2931,9 @@
       "status": "Clinical trial",
       "references": "Frontiers in medicine · 2026 08 20 · PMID: 42620324 · DOI: 10.3389/fmed.2026.1868648",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42620324/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.255Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.255Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42618885",
@@ -2933,8 +2949,9 @@
       "status": "Guideline candidate",
       "references": "Journal of Crohn's & colitis · 2026 08 20 · PMID: 42618885 · DOI: 10.1093/ecco-jcc/jjag084",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42618885/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-21T04:53:22.255Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-21T04:53:22.255Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42626936",
@@ -2950,8 +2967,9 @@
       "status": "Clinical trial",
       "references": "The Cochrane database of systematic reviews · 2026 08 21 · PMID: 42626936 · DOI: 10.1002/14651858.CD015930.pub2",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42626936/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-22T04:48:39.412Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-22T04:48:39.412Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42625160",
@@ -2967,8 +2985,9 @@
       "status": "Guideline candidate",
       "references": "BMC cancer · 2026 08 21 · PMID: 42625160 · DOI: 10.1186/s12885-026-16373-9",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625160/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-22T04:48:39.412Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-22T04:48:39.412Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42625189",
@@ -2984,8 +3003,9 @@
       "status": "Evidence review",
       "references": "World journal of surgical oncology · 2026 08 21 · PMID: 42625189 · DOI: 10.1186/s12957-026-04517-x",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42625189/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-22T04:48:39.413Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-22T04:48:39.413Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     },
     {
       "id": "pmid-42629946",
@@ -3001,8 +3021,9 @@
       "status": "Clinical trial",
       "references": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society · 2026 08 22 · PMID: 42629946 · DOI: 10.1111/den.70268",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42629946/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-23T04:51:30.506Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-23T04:51:30.506Z",
+      "reviewedAt": "2026-08-23T05:38:15.939Z"
     }
   ]
 }
