@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-23",
+  "lastChecked": "2026-08-24",
   "items": [
     {
       "id": "pmid-42486794",
@@ -3024,6 +3024,23 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-23T04:51:30.506Z",
       "reviewedAt": "2026-08-23T05:38:15.939Z"
+    },
+    {
+      "id": "pmid-42632935",
+      "pmid": "42632935",
+      "doi": "10.36721/PJPS.2026.39.11.317.1",
+      "title": "A clinical study on the efficacy of rectal administration of Tongfu Qinghua decoction combined with external application of Ruyi Jinhuang powder in treating acute pancreatitis .",
+      "category": "Gastroenterology",
+      "source": "Pakistan journal of pharmaceutical sciences",
+      "summary": "Acute pancreatitis (AP) is a common acute abdominal disease with high mortality in moderate and severe cases. Integrated Chinese and Western medicine therapy has promising clinical application prospects. This study investigated the efficacy and safety of Tongfu Qinghua decoction enema combined with Ruyi Jinhuang powder external application for AP and its therapeutic effects across different age groups. A total of…",
+      "fullDetails": "Acute pancreatitis (AP) is a common acute abdominal disease with high mortality in moderate and severe cases. Integrated Chinese and Western medicine therapy has promising clinical application prospects. This study investigated the efficacy and safety of Tongfu Qinghua decoction enema combined with Ruyi Jinhuang powder external application for AP and its therapeutic effects across different age groups. A total of 100 AP patients from October 2023 to August 2025 were randomly divided into observation and control groups (50 cases each). The control group received conventional Western medicine and the observation group received additional combined Chinese medicine therapy. Outcomes including hospital stay, symptom relief, inflammatory and pancreatic injury markers, clinical efficacy and adverse reactions were compared, with subgroup analysis of patients aged 18-40, 41-60 and 61-75 years. The observation group had significantly shorter hospital stay, faster symptom relief and gastrointestinal recovery (P<0.05). Post-treatment inflammatory and pancreatic markers improved significantly and the total effective rate was higher (P<0.05), with no significant difference in adverse reactions (P>0.05). Benefits were consistent across all age subgroups, with younger patients recovering faster and elderly patients still achieving significant improvement. This combined therapy is effective and safe for AP patients aged 18-75 years, significantly improving clinical outcomes and worthy of clinical promotion.",
+      "practicalTakeaways": [],
+      "date": "2026 08 23",
+      "status": "New publication",
+      "references": "Pakistan journal of pharmaceutical sciences · 2026 08 23 · PMID: 42632935 · DOI: 10.36721/PJPS.2026.39.11.317.1",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632935/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-24T05:00:41.943Z"
     }
   ]
 }
