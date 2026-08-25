@@ -3039,8 +3039,9 @@
       "status": "New publication",
       "references": "Pakistan journal of pharmaceutical sciences · 2026 08 23 · PMID: 42632935 · DOI: 10.36721/PJPS.2026.39.11.317.1",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42632935/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-24T05:00:41.943Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-24T05:00:41.943Z",
+      "reviewedAt": "2026-08-25T14:17:42.486Z"
     },
     {
       "id": "pmid-42636835",
@@ -3056,8 +3057,9 @@
       "status": "Clinical trial",
       "references": "The Lancet. Oncology · 2026 08 24 · PMID: 42636835 · DOI: 10.1016/S1470-2045(26)00175-0",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636835/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-25T04:53:00.980Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-25T04:53:00.980Z",
+      "reviewedAt": "2026-08-25T14:17:42.486Z"
     },
     {
       "id": "pmid-42636832",
@@ -3073,8 +3075,9 @@
       "status": "Clinical trial",
       "references": "The Lancet. Oncology · 2026 08 24 · PMID: 42636832 · DOI: 10.1016/S1470-2045(26)00278-0",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42636832/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-25T04:53:00.980Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-25T04:53:00.980Z",
+      "reviewedAt": "2026-08-25T14:17:42.486Z"
     },
     {
       "id": "pmid-42633754",
@@ -3090,8 +3093,9 @@
       "status": "Clinical trial",
       "references": "The Lancet. Oncology · 2026 08 24 · PMID: 42633754 · DOI: 10.1016/S1470-2045(26)00228-7",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42633754/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-25T04:53:00.981Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-25T04:53:00.981Z",
+      "reviewedAt": "2026-08-25T14:17:42.486Z"
     },
     {
       "id": "pmid-42635807",
@@ -3107,8 +3111,9 @@
       "status": "Guideline candidate",
       "references": "Pediatric surgery international · 2026 08 24 · PMID: 42635807 · DOI: 10.1007/s00383-026-06592-3",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635807/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-25T04:53:00.981Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-25T04:53:00.981Z",
+      "reviewedAt": "2026-08-25T14:17:42.486Z"
     },
     {
       "id": "pmid-42635794",
@@ -3124,8 +3129,9 @@
       "status": "Guideline candidate",
       "references": "Pediatric surgery international · 2026 08 24 · PMID: 42635794 · DOI: 10.1007/s00383-026-06600-6",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635794/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-25T04:53:00.981Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-25T04:53:00.981Z",
+      "reviewedAt": "2026-08-25T14:17:42.486Z"
     },
     {
       "id": "pmid-42635599",
@@ -3141,8 +3147,9 @@
       "status": "Clinical trial",
       "references": "Journal of Crohn's & colitis · 2026 08 24 · PMID: 42635599 · DOI: 10.1093/ecco-jcc/jjag120",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42635599/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-25T04:53:00.981Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-25T04:53:00.981Z",
+      "reviewedAt": "2026-08-25T14:17:42.486Z"
     }
   ]
 }
