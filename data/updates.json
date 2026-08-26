@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-25",
+  "lastChecked": "2026-08-26",
   "items": [
     {
       "id": "pmid-42486794",
@@ -3150,6 +3150,74 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-25T04:53:00.981Z",
       "reviewedAt": "2026-08-25T14:17:42.486Z"
+    },
+    {
+      "id": "pmid-42640715",
+      "pmid": "42640715",
+      "doi": "10.1002/ueg2.70281",
+      "title": "Acetate- Versus Lactate-Buffered Crystalloids for Prevention of Post-ERCP Pancreatitis in Patients Without Access to Rectal NSAIDs: A Multicentre Double-Blind Randomized Trial.",
+      "category": "Endoscopy",
+      "source": "United European gastroenterology journal",
+      "summary": "Aggressive peri-procedural intravenous fluid (IVF) therapy with lactated Ringer's solution (LR) reduces the risk of post-ERCP pancreatitis (PEP), but the standard 8-h protocol is impractical in outpatient settings and the optimal fluid type remains uncertain. We compared LR with an acetate-buffered balanced crystalloid (AC) using a symptom-guided 4-h aggressive IVF protocol. This multicentre, double-blind, randomi…",
+      "fullDetails": "Aggressive peri-procedural intravenous fluid (IVF) therapy with lactated Ringer's solution (LR) reduces the risk of post-ERCP pancreatitis (PEP), but the standard 8-h protocol is impractical in outpatient settings and the optimal fluid type remains uncertain. We compared LR with an acetate-buffered balanced crystalloid (AC) using a symptom-guided 4-h aggressive IVF protocol. This multicentre, double-blind, randomized superiority trial was conducted at three academic hospitals in Korea where rectal NSAIDs are unavailable. Adults with native papillae and moderate-to-high PEP risk were randomized to receive LR or AC. The IVF protocol comprised 10 mL/kg boluses before and after ERCP, followed by 3 mL/kg/h for 4 hours and extended to 8 hours if abdominal pain developed or worsened. The primary outcome was PEP incidence; secondary outcomes included early post-ERCP pain and adverse events. Of 813 patients (404 LR, 409 AC), PEP occurred in 12.4% of the LR group and 11.5% of the AC group (relative risk [RR] 0.93; 95% CI, 0.64-1.35; P = 0.70). Rates of mild (7.9% vs. 7.1%) and moderate (4.5% vs. 4.4%) PEP were similar, and no severe PEP or fluid overload occurred. Among the 68.3% of patients who remained asymptomatic at 4 hours and required only 4-h IVF, PEP occurred in 7.4%, with no cases of severe PEP. In this superiority trial, acetate-buffered crystalloid did not reduce PEP compared with lactated Ringer's solution, and no significant safety differences were observed between the two agents. Lactated Ringer's remains the recommended first-line crystalloid for aggressive hydration when rectal NSAIDs are unavailable. ClinicalTrials.gov (NCT05832047).",
+      "practicalTakeaways": [],
+      "date": "2026 08 25",
+      "status": "Clinical trial",
+      "references": "United European gastroenterology journal · 2026 08 25 · PMID: 42640715 · DOI: 10.1002/ueg2.70281",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640715/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-26T04:54:55.288Z"
+    },
+    {
+      "id": "pmid-42638560",
+      "pmid": "42638560",
+      "doi": "10.1111/jvh.70224",
+      "title": "ALG-020572, an Antisense Oligonucleotide for the Treatment of Chronic Hepatitis B Virus Infection Discontinued for Drug-Induced Liver Injury.",
+      "category": "Hepatology",
+      "source": "Journal of viral hepatitis",
+      "summary": "Current treatment options for chronic HBV infection are suboptimal in that they fail to suppress HBsAg levels. ALG-020572 is an antisense oligonucleotide designed to reduce viral protein synthesis through degradation of HBV mRNA. ALG-020572-401 was a double-blind, randomized, placebo-controlled trial consisting of two parts. Part 1 (single-ascending doses) evaluated the pharmacokinetics, safety and tolerability of…",
+      "fullDetails": "Current treatment options for chronic HBV infection are suboptimal in that they fail to suppress HBsAg levels. ALG-020572 is an antisense oligonucleotide designed to reduce viral protein synthesis through degradation of HBV mRNA. ALG-020572-401 was a double-blind, randomized, placebo-controlled trial consisting of two parts. Part 1 (single-ascending doses) evaluated the pharmacokinetics, safety and tolerability of single doses of ALG-020572 or placebo in healthy participants. In Part 2 (multiple dosing), participants with non-cirrhotic HBeAg-negative, virologically suppressed chronic HBV infection were administered up to 7 doses of ALG-020572 to evaluate safety, pharmacokinetics and antiviral activity. In Part 1, 32 participants were randomized to ALG 020572 or placebo. Single doses of ALG-020572 up to 480 mg were well tolerated. The most common treatment-emergent adverse event reported was injection site reaction. ALG-020572 was rapidly absorbed and plasma exposures increased with dose. In Part 2, 8 participants with non-cirrhotic HBeAg-negative virologically suppressed chronic hepatitis B infection were enrolled and received up to 7 doses of ALG-020572. The study was prematurely discontinued after 4 participants experienced significant alanine aminotransferase elevations that were subsequently attributed to drug-induced liver injury. Single doses of ALG-020572 demonstrated a favourable pharmacokinetic and safety profile in healthy participants. Unexpectedly, ALG-020572 was poorly tolerated in participants with chronic HBV infection, resulting in the early termination of the study and further development of ALG-020572 due to idiosyncratic drug-induced liver injury, suggesting caution is required in the development of this class of drugs. Trial Registration: Registered at clinicaltrials.gov: NCT0500102.",
+      "practicalTakeaways": [],
+      "date": "2026 08 25",
+      "status": "Clinical trial",
+      "references": "Journal of viral hepatitis · 2026 08 25 · PMID: 42638560 · DOI: 10.1111/jvh.70224",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638560/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-26T04:54:55.289Z"
+    },
+    {
+      "id": "pmid-42640321",
+      "pmid": "42640321",
+      "doi": "10.1007/s00296-026-06276-0",
+      "title": "Pulmonary amyloidosis, gastric MALT lymphoma, and multiple sclerosis in a patient with Sjögren's disease: a case report and review of the literature.",
+      "category": "Gastroenterology",
+      "source": "Rheumatology international",
+      "summary": "Sjögren's disease (SjD) is a systemic autoimmune disorder associated with lymphocytic gland infiltration and an increased risk of B-cell lymphomas, particularly mucosa-associated lymphoid tissue (MALT) lymphoma. Neurological involvement may mimic multiple sclerosis (MS), while true coexistence, especially with amyloidosis, is exceptionally rare. We performed a systematic review and present a representative clinica…",
+      "fullDetails": "Sjögren's disease (SjD) is a systemic autoimmune disorder associated with lymphocytic gland infiltration and an increased risk of B-cell lymphomas, particularly mucosa-associated lymphoid tissue (MALT) lymphoma. Neurological involvement may mimic multiple sclerosis (MS), while true coexistence, especially with amyloidosis, is exceptionally rare. We performed a systematic review and present a representative clinical case. A registered systematic literature review (PROSPERO CRD4201332325) was conducted according to PRISMA 2020. PubMed/MEDLINE, Scopus, the Cochrane Library, and DOAJ were searched for all records available up to July 2026. As no eligible cases were identified, additional targeted searches were performed to identify reports describing each possible combination of three of the four conditions. We also present a case report prepared according to the CARE guidelines. Among the 2,966 records identified, no studies describing the coexistence of Sjögren's disease, amyloidosis, MALT lymphoma, and MS in the same patient were found. Additional targeted searches identified 14 case reports and one case series describing Sjögren's disease with amyloidosis and MALT lymphoma, whereas no reports of Sjögren's disease with amyloidosis and MS or with MALT lymphoma and MS were identified. We therefore report the first case of Sjögren's disease complicated by pulmonary amyloidosis, gastric MALT lymphoma, and MS, highlighting the diagnostic and therapeutic challenges of this rare clinical presentation. The coexistence of Sjögren's disease, pulmonary amyloidosis, gastric MALT lymphoma, and MS is likely to be rare. Although partial associations have been reported, our literature review did not identify any previous case describing all four conditions in the same patient. This case underscores the importance of a multidisciplinary approach and suggests that possible shared immunopathogenic mechanisms warrant further investigation. Registration PROSPERO CRD4201332325.",
+      "practicalTakeaways": [],
+      "date": "2026 08 25",
+      "status": "Guideline candidate",
+      "references": "Rheumatology international · 2026 08 25 · PMID: 42640321 · DOI: 10.1007/s00296-026-06276-0",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640321/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-26T04:54:55.290Z"
+    },
+    {
+      "id": "pmid-42641178",
+      "pmid": "42641178",
+      "doi": "10.24875/CIRU.24000432",
+      "title": "Surgical resection of the primary tumor improves survival in patients with pancreatic neuroendocrine tumors associated with liver metastases: a meta-analysis.",
+      "category": "Hepatology",
+      "source": "Cirugia y cirujanos",
+      "summary": "The role of palliative pancreatic neuroendocrine tumor resection (pPanNEN-R) is controversial. The aim of this study was to conduct a meta-analysis of relevant studies to compare pPanNEN-R and non-surgical management (PanNEN-nR). All studies published until May 31, 2024, comparing pPanNEN-R and PanNEN-nR were reviewed. The primary outcome was overall survival (OS). Meta-analysis was performed after the data extrac…",
+      "fullDetails": "The role of palliative pancreatic neuroendocrine tumor resection (pPanNEN-R) is controversial. The aim of this study was to conduct a meta-analysis of relevant studies to compare pPanNEN-R and non-surgical management (PanNEN-nR). All studies published until May 31, 2024, comparing pPanNEN-R and PanNEN-nR were reviewed. The primary outcome was overall survival (OS). Meta-analysis was performed after the data extraction process. A total of 10 studies and 1152 patients were included, of whom 373 (32.38%) received pPanNEN-R, and 779 (67.62%) received PanNEN-nR. The overall quality of the included studies was fair. Patients receiving pPanNEN-R had a significantly lower risk of death compared with those receiving PanNEN-nR (odds ratio = 0.32, 95% confidence interval [0.24-0.43], p < 0.00001). The use of pPanNEN-R in patients with unresectable liver metastases seems to be associated with a better OS compared to non-surgical treatments, but due to the limitations of the included studies, no firm conclusions can be drawn. El papel de la resección paliativa de tumores neuroendocrinos pancreáticos (pPanNEN-R) es controvertido. El objetivo de este estudio fue realizar un metaanálisis de los estudios pertinentes para comparar la resección neuroendocrina pancreática paliativa y el tratamiento no quirúrgico (resección neuroendocrina pancreática no paliativa [PanNEN-nR]). Se revisaron todos los estudios publicados hasta el 31 de mayo de 2024 que comparaban pPanNEN-R y PanNEN-nR. El resultado primario fue la supervivencia global. Se realizó un metaanálisis tras el proceso de extracción de datos. Se incluyeron 10 estudios con 1152 pacientes, de los cuales 373 (32.38%) recibieron pPanNEN-R y 779 (67.62%) recibieron PanNEN-nR. La calidad general de los estudios incluidos fue regular. Los pacientes con pPanNEN-R tuvieron un riesgo significativamente menor de muerte en comparación con los tratados con PanNEN-nR (odds ratio: 0.32; intervalo de confianza del 95%: 0.24-0.43; p < 0.00001). El uso de pPanNEN-R en pacientes con metástasis hepáticas irresecables parece asociarse a una mejor supervivencia global en comparación con el tratamiento no quirúrgico, pero debido a las limitaciones de los estudios incluidos no se pueden extraer conclusiones firmes.",
+      "practicalTakeaways": [],
+      "date": "2026 08 25",
+      "status": "Evidence review",
+      "references": "Cirugia y cirujanos · 2026 08 25 · PMID: 42641178 · DOI: 10.24875/CIRU.24000432",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641178/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-26T04:54:55.290Z"
     }
   ]
 }
