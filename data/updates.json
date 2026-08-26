@@ -3165,8 +3165,9 @@
       "status": "Clinical trial",
       "references": "United European gastroenterology journal · 2026 08 25 · PMID: 42640715 · DOI: 10.1002/ueg2.70281",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640715/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-26T04:54:55.288Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-26T04:54:55.288Z",
+      "reviewedAt": "2026-08-26T17:43:55.466Z"
     },
     {
       "id": "pmid-42638560",
@@ -3182,8 +3183,9 @@
       "status": "Clinical trial",
       "references": "Journal of viral hepatitis · 2026 08 25 · PMID: 42638560 · DOI: 10.1111/jvh.70224",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42638560/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-26T04:54:55.289Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-26T04:54:55.289Z",
+      "reviewedAt": "2026-08-26T17:43:55.466Z"
     },
     {
       "id": "pmid-42640321",
@@ -3199,8 +3201,9 @@
       "status": "Guideline candidate",
       "references": "Rheumatology international · 2026 08 25 · PMID: 42640321 · DOI: 10.1007/s00296-026-06276-0",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42640321/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-26T04:54:55.290Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-26T04:54:55.290Z",
+      "reviewedAt": "2026-08-26T17:43:55.466Z"
     },
     {
       "id": "pmid-42641178",
@@ -3216,8 +3219,9 @@
       "status": "Evidence review",
       "references": "Cirugia y cirujanos · 2026 08 25 · PMID: 42641178 · DOI: 10.24875/CIRU.24000432",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42641178/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-08-26T04:54:55.290Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-08-26T04:54:55.290Z",
+      "reviewedAt": "2026-08-26T17:43:55.466Z"
     }
   ]
 }
