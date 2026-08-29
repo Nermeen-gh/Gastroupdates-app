@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-28",
+  "lastChecked": "2026-08-29",
   "items": [
     {
       "id": "pmid-42486794",
@@ -3630,6 +3630,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42663187/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-08-28T16:37:46.967Z"
+    },
+    {
+      "id": "pmid-42666074",
+      "pmid": "42666074",
+      "doi": "10.1111/den.70272",
+      "title": "Submucosal Lidocaine Injection in Colonic Endoscopic Submucosal Dissection: A Single-Center, Double-Blind, Randomized Controlled Trial.",
+      "category": "Endoscopy",
+      "source": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society",
+      "summary": "Colonic spasm is one of the major technical challenges encountered during colonic endoscopic submucosal dissection (ESD), impairing visualization of the dissection plane and scope maneuverability. Submucosal lidocaine injection may help to overcome this challenge. This study aimed to evaluate the efficacy and safety of submucosal lidocaine injection during colonic ESD. In this single-center, double-blind, randomiz…",
+      "fullDetails": "Colonic spasm is one of the major technical challenges encountered during colonic endoscopic submucosal dissection (ESD), impairing visualization of the dissection plane and scope maneuverability. Submucosal lidocaine injection may help to overcome this challenge. This study aimed to evaluate the efficacy and safety of submucosal lidocaine injection during colonic ESD. In this single-center, double-blind, randomized controlled trial, 110 patients scheduled for colonic ESD were randomly assigned to the lidocaine or control group. In the lidocaine group, 1% lidocaine with 0.6% sodium alginate was used for submucosal injection; in the control group, saline with 0.6% sodium alginate was used. The primary outcome was procedure time. Secondary outcomes included en bloc and R0 resection rates, incidence of severe spasms, number of antispasmodic administrations, operator satisfaction, and adverse events. The median procedure time was numerically shorter in the lidocaine group but did not reach statistical significance (67.5 vs. 78.0 min, p = 0.114). The en bloc and R0 resection rates were 100% and 84.6% in the lidocaine group, and 96.3% and 81.5% in the control group, respectively. Severe spasms occurred less frequently in the lidocaine group (34.6% vs. 74.1%), with fewer antispasmodic administrations (median, 1 vs. 2) and higher operator satisfaction scores (median, 4.0 vs. 2.5). No increase in adverse events was observed. Submucosal lidocaine injection did not significantly shorten procedure time, although it may serve as a useful adjunct for preventing colonic spasms during ESD. The study was registered in the Japan Registry of Clinical Trials (jRCT1051230189).",
+      "practicalTakeaways": [],
+      "date": "2026 08 29",
+      "status": "Clinical trial",
+      "references": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society · 2026 08 29 · PMID: 42666074 · DOI: 10.1111/den.70272",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42666074/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-29T11:04:37.506Z"
+    },
+    {
+      "id": "pmid-42665960",
+      "pmid": "42665960",
+      "doi": "10.1111/codi.70599",
+      "title": "Sexual dysfunction outcomes and reporting disparities after multimodal treatment for rectal cancer: A systematic review and narrative synthesis.",
+      "category": "Gastroenterology",
+      "source": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland",
+      "summary": "Sexual dysfunction is a recognised adverse outcome after rectal cancer treatments, yet reporting is predominantly male-focused, with female sexual dysfunction less consistently assessed or reported. This systematic review aimed to assess sexual health domains studied, examine sex-based reporting disparities, and identify limitations in the current evidence. A systematic review and narrative synthesis were conducte…",
+      "fullDetails": "Sexual dysfunction is a recognised adverse outcome after rectal cancer treatments, yet reporting is predominantly male-focused, with female sexual dysfunction less consistently assessed or reported. This systematic review aimed to assess sexual health domains studied, examine sex-based reporting disparities, and identify limitations in the current evidence. A systematic review and narrative synthesis were conducted in accordance with PRISMA and registered with PROSPERO (CRD420251178502). PubMed/MEDLINE, EMBASE, Scopus, CINAHL Plus, PsycINFO, and Cochrane Library were searched from March 1995 to March 2025, with an updated search to March 2026. Eligible studies included adults treated for rectal cancer in whom sexual function outcomes were assessed using International Index of Erectile Function (IIEF) and/or Female Sexual Function Index (FSFI), with additional related patient-reported outcome measures (PROMs) accepted where relevant. Risk of bias was assessed using RoB 2 and MINORS. Twenty-five studies involving 4,071 patients were included. Participants were predominantly male (65.8%), while women comprised 34.2%. PROM reporting was inconsistent; only eight studies reported both total and domain-level results. Sexual outcomes were most consistently reported for men, particularly erectile and ejaculatory function, whereas female outcomes were often reduced to overall scores. Five studies restricted sexual outcome assessment and analysis to men. Only six reported response rates, and missing PROM data handling was not described. Key contextual variables, including sexual activity, sexual orientation, sexual practices, and menopausal status, were rarely captured. Sexual function outcomes after rectal cancer treatment are inconsistently reported, with low certainty. Female sexual dysfunction remains under-represented. Standardised, inclusive sex-specific reporting and development of a core outcome set are needed.",
+      "practicalTakeaways": [],
+      "date": "2026 08 29",
+      "status": "Evidence review",
+      "references": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland · 2026 08 29 · PMID: 42665960 · DOI: 10.1111/codi.70599",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665960/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-29T11:04:37.507Z"
     }
   ]
 }
