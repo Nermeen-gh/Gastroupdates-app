@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-29",
+  "lastChecked": "2026-08-30",
   "items": [
     {
       "id": "pmid-42486794",
@@ -3664,6 +3664,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42665960/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-08-29T11:04:37.507Z"
+    },
+    {
+      "id": "pmid-42667407",
+      "pmid": "42667407",
+      "doi": "10.1007/s00383-026-06576-3",
+      "title": "Advancing hirschsprung disease diagnosis: a systematic review of the development and application of artificial intelligence in histopathological analysis.",
+      "category": "Gastroenterology",
+      "source": "Pediatric surgery international",
+      "summary": "Hirschsprung's disease (HD) is characterised by absence of ganglion cells in the distal large intestine, requiring accurate histopathological diagnosis. Conventional diagnostic methods are time-consuming, subjective, and demand specialised expertise. While artificial intelligence (AI) shows promise for improving diagnostic capacity, its clinical utility requires rigorous evaluation. Following PRISMA 2020 guideline…",
+      "fullDetails": "Hirschsprung's disease (HD) is characterised by absence of ganglion cells in the distal large intestine, requiring accurate histopathological diagnosis. Conventional diagnostic methods are time-consuming, subjective, and demand specialised expertise. While artificial intelligence (AI) shows promise for improving diagnostic capacity, its clinical utility requires rigorous evaluation. Following PRISMA 2020 guidelines, this systematic review evaluated machine and deep learning techniques for HD diagnosis from histopathological images. A search of seven databases identified thirteen eligible studies (2016-2025). Studies were analysed for model architecture, computational workflows and diagnostic performances. Methodological quality and risk of bias were assessed using QUADAS-AI and PROBAST frameworks. HD image analysis has progressed from traditional processing to convolutional neural networks and transformer models. Deep learning outperformed conventional approaches with > 90% in ganglion cell detection and reducing diagnostic time by 50-95%. However, nine studies (69%) exhibited a high risk of bias due to small sample sizes, patch-level data partitioning, and lacking external test sets, raising concerns regarding overfitting and data leakage. AI methods demonstrated strong potential to support HD diagnosis by increasing accuracy, reducing variability and accelerating clinical decision-making. Future research should prioritise large multi-centre datasets, diverse staining techniques, external validation, and transparent reporting to facilitate reliable clinical integration.",
+      "practicalTakeaways": [],
+      "date": "2026 08 29",
+      "status": "Guideline candidate",
+      "references": "Pediatric surgery international · 2026 08 29 · PMID: 42667407 · DOI: 10.1007/s00383-026-06576-3",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667407/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-30T09:56:22.747Z"
+    },
+    {
+      "id": "pmid-42667281",
+      "pmid": "42667281",
+      "doi": "10.1016/j.gie.2026.06.046",
+      "title": "American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in acute lower gastrointestinal bleeding.",
+      "category": "Endoscopy",
+      "source": "Gastrointestinal endoscopy",
+      "summary": "This clinical practice guideline from the American Society for Gastrointestinal Endoscopy provides evidence-based recommendations regarding the role of endoscopy in the diagnosis and management of acute lower GI bleeding (LGIB). This document was developed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework. In the broad context of acute LGIB, this guideline addresses the…",
+      "fullDetails": "This clinical practice guideline from the American Society for Gastrointestinal Endoscopy provides evidence-based recommendations regarding the role of endoscopy in the diagnosis and management of acute lower GI bleeding (LGIB). This document was developed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework. In the broad context of acute LGIB, this guideline addresses the use of colonoscopy versus CT +/- angiography as the first modality, urgent versus nonurgent colonoscopy, and prepped versus unprepped colonoscopy. For diverticular bleeding in particular, this guideline assesses endoscopic band ligation versus clipping and direct clipping of the bleeding site or vessel versus indirect clip closure of the diverticulum. All of these clinical questions were answered using the GRADE framework. The guideline also discusses the roles of upper endoscopy and surgery in the setting of acute LGIB and outlines the absolute and relative contraindications of colonoscopy. Finally, the guideline provides an overview of available endoscopic modalities to treat LGIB, with special attention to the evidence supporting the use of specific modalities according to lesion type. A summary of recommendations is provided in Table 1.",
+      "practicalTakeaways": [],
+      "date": "2026 08 29",
+      "status": "Guideline candidate",
+      "references": "Gastrointestinal endoscopy · 2026 08 29 · PMID: 42667281 · DOI: 10.1016/j.gie.2026.06.046",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42667281/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-08-30T09:56:22.747Z"
     }
   ]
 }
