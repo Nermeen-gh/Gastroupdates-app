@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-31",
+  "lastChecked": "2026-09-01",
   "items": [
     {
       "id": "pmid-42486794",
@@ -3726,6 +3726,40 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-08-30T09:56:22.747Z",
       "reviewedAt": "2026-08-30T16:00:25.540Z"
+    },
+    {
+      "id": "pmid-42670816",
+      "pmid": "42670816",
+      "doi": "10.23736/S2724-5985.26.04128-8",
+      "title": "The use of digital health tools in the management of inflammatory bowel disease: a systematic review.",
+      "category": "Gastroenterology",
+      "source": "Minerva gastroenterology",
+      "summary": "Inflammatory bowel diseases (IBD), including Crohn's disease and ulcerative colitis, are chronic immune-mediated disorders characterized by a relapsing-remitting course and progressive intestinal damage with a significant impact on patients' quality of life and healthcare system. Traditional care models, based on periodic outpatient checkups, are often insufficient to ensure continuous disease monitoring and timel…",
+      "fullDetails": "Inflammatory bowel diseases (IBD), including Crohn's disease and ulcerative colitis, are chronic immune-mediated disorders characterized by a relapsing-remitting course and progressive intestinal damage with a significant impact on patients' quality of life and healthcare system. Traditional care models, based on periodic outpatient checkups, are often insufficient to ensure continuous disease monitoring and timely intervention in the event of a flare-up. In this context, the use of digital health tools represents a potentially innovative strategy to improve clinical and self-management of the disease. The aim of this systematic review is to investigate which digital health tools are currently used to support the management of patients with inflammatory bowel disease (IBD), including Crohn's disease and ulcerative colitis. This systematic review was conducted and reported in accordance with the PRISMA 2020 guidelines. Searches of PubMed, CINAHL, Web of Science, Scopus, and the Cochrane Library were made covering literature from 2006 to 2025. Fifteen articles were analyzed, paying attention to the themes of general characteristics, methodological quality, digital health tools utilized, topics of interest of the studies and acceptability and usability. DHTs are promising tools for managing chronic conditions such as IBD, but require further refinement and adaptation to population-specific needs.",
+      "practicalTakeaways": [],
+      "date": "2026 08 31",
+      "status": "Guideline candidate",
+      "references": "Minerva gastroenterology · 2026 08 31 · PMID: 42670816 · DOI: 10.23736/S2724-5985.26.04128-8",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42670816/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-01T09:23:59.500Z"
+    },
+    {
+      "id": "pmid-42671725",
+      "pmid": "42671725",
+      "doi": "10.1007/s11701-026-03703-z",
+      "title": "Robotic-assisted endoscopic submucosal dissection for superficial gastrointestinal neoplasms: a bayesian meta-analysis & systematic review.",
+      "category": "Endoscopy",
+      "source": "Journal of robotic surgery",
+      "summary": "Superficial gastrointestinal (GI) neoplasms pose a significant global health burden, with endoscopic submucosal dissection (ESD) as the gold standard for curative resection. However, conventional ESD (C-ESD) is technically challenging, with prolonged procedure times and higher complication risks. Robotic-assisted ESD (R-ESD) offers enhanced precision and safety, but evidence is limited. To evaluate the efficacy an…",
+      "fullDetails": "Superficial gastrointestinal (GI) neoplasms pose a significant global health burden, with endoscopic submucosal dissection (ESD) as the gold standard for curative resection. However, conventional ESD (C-ESD) is technically challenging, with prolonged procedure times and higher complication risks. Robotic-assisted ESD (R-ESD) offers enhanced precision and safety, but evidence is limited. To evaluate the efficacy and safety of R-ESD using a Bayesian single-arm Meta-analysis. Systematic review and Bayesian single-arm meta-analysis. Following PRISMA guidelines and PROSPERO registration (CRD420251273787), we conducted a systematic review and Bayesian single-arm meta-analysis of randomized/nonrandomized comparative and single-arm studies on R-ESD for superficial GI neoplasms. Searches spanned MEDLINE, Embase, Scopus, and others through December 2025. Primary outcomes: en-bloc and R0 resection rates. Secondary outcomes: procedure time, perforation, bleeding. Bayesian random-effects models used non-informative priors; analyses in R with the brms package. Risk of bias was assessed via RoB 2 and NOS; certainty via GRADE. Five studies (183 lesions) were included. Frequentist pooled en-bloc resection rate: 98.2% (95% CI: 0.916-0.996, I2 = 0%); R0: 96.8% (95% CI: 0.759-0.997, I2 = 47.8%). Bayesian medians: en-bloc 93.4% (95% CrI: 0.856-0.971); R0 90.0% (95% CrI: 0.798-0.957). 77.6 min (95% CI: 45.0-110.3, I2 = 99%); perforation: 1.2% (95% CI: 0.002-0.077, I2 = 0%); bleeding: 10.6% (95% CI: 0.019-0.416, I2 = 30.8%). Evidence certainty:low. R-ESD demonstrates promising efficacy and safety, but current evidence is limited to small, mostly non-comparative studies. Larger comparative trials are required before definitive conclusions can be made. Established knowledge on this subject: GI Neoplasms’ Global Burden: Superficial gastrointestinal cancers cause millions of cases/deaths annually, projected to double by 2050, demanding precise, organ5 preserving treatments like ESD. ESD as Gold Standard: Conventional ESD enables en-bloc resection with > 90% success in experts, but suffers from long procedures, 5–15% complication risks, and a steep learning curve limiting access. Robotic Assistance Emerges: R-ESD enhances precision via tremor control and traction, potentially cutting times and risks, yet adoption is hindered by fragmented, small-scale evidence. Evidence Gaps Persist: Prior studies show promise in safety/efficiency, but lack comprehensive synthesis, especially for sparse data across platforms and anatomies. Significant and/or new findings of this study: Top-Tier Resection Success: Bayesian meta-analysis of 5 studies (183 lesions) yields 93.4% en-bloc and 90.0% R0 rates—rivaling or beating conventional ESD benchmarks. Efficiency and Safety Boost: Procedure time averages 60.3 min; perforation at 18 3.1%, bleeding at 13.8%—lower risks than traditional ESD, with no heterogeneity in key metrics. Bayesian Innovation: First-ever Bayesian single-arm synthesis provides probabilistic insights into sparse data, revealing robust performance amid uncertainty. Call for Action: Low-certainty evidence supports R-ESD’s role in democratizing endoscopy, but urges larger RCTs to confirm superiority and address biases.",
+      "practicalTakeaways": [],
+      "date": "2026 08 31",
+      "status": "Guideline candidate",
+      "references": "Journal of robotic surgery · 2026 08 31 · PMID: 42671725 · DOI: 10.1007/s11701-026-03703-z",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42671725/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-01T09:23:59.501Z"
     }
   ]
 }
