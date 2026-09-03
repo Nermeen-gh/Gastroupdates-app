@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-02",
+  "lastChecked": "2026-09-03",
   "items": [
     {
       "id": "pmid-42486794",
@@ -3964,6 +3964,91 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42676348/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-02T08:46:16.587Z"
+    },
+    {
+      "id": "pmid-42684532",
+      "pmid": "42684532",
+      "doi": "10.1007/s00520-026-11134-7",
+      "title": "Exploring disparities in adherence to colorectal cancer clinical practice guidelines and associated survival outcomes: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "summary": "Colorectal cancer (CRC) remains a major global health burden, where adherence to evidence-based guidelines is critical for improving patient outcomes. This systematic review aimed at synthesising the effects of structural and systemic barriers on CRC clinical practice guidelines (CPGs) recommendations, adherence, and treatment outcomes, drawing on real-world evidence. This systematic review followed Preferred Repo…",
+      "fullDetails": "Colorectal cancer (CRC) remains a major global health burden, where adherence to evidence-based guidelines is critical for improving patient outcomes. This systematic review aimed at synthesising the effects of structural and systemic barriers on CRC clinical practice guidelines (CPGs) recommendations, adherence, and treatment outcomes, drawing on real-world evidence. This systematic review followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses and was registered with PROSPERO (CRD42024621251). Literature was searched in Scopus, Web of Science, MEDLINE, CINAHL, and Cochrane from inception to 26 May 2026. Eligible studies included cohort and observational studies comparing CRC patients managed according to CPG adherence versus non-adherence recommendations. Primary outcomes were adherence rates and overall survival. Pooled analyses were conducted using a random-effects model. Of 4,262 initially identified citations, 95 met the inclusion criteria, and 30 were included in the meta-analysis. Adherence shows heterogeneous, tumour-stage-specific associations with survival, though effects varied by tumour site, disease stage, and treatment modality. Non-adherence was more common among patients of advancing age and those facing structural disadvantage, including socioeconomic strata, non-white ethnicity, and treatment in non-accredited facilities. Across all tumour sites, adherence to CPGs was associated with a non-significant survival benefit [Risk Ratio (RR) = 0.90; 95% confidence interval (CI = 0.67-1.20; heterogeneity I 2 = 99.78%]. Subgroup analysis by tumour-stage recommendation demonstrated significant survival advantages for Stage II (RR = 0.58; 95% CI 0.34-0.99; I2 = 97.59%) and Stage III colon cancer (RR = 0.58; 95% CI 0.41-0.80; I2 = 97.11%). In contrast, adherence to Stage II-III rectal cancer recommendations showed only a non-significant trend toward improved survival (RR = 0.59; 95% CI 0.34-1.03; I2 = 35.53%). Disparities in guideline adherence reflect structural and systemic disparities in cancer care delivery. These findings underscore the need to address barriers that contribute to non-adherence, particularly among identified high-risk populations and within the health-care system, to support more equitable guideline-adherent care.",
+      "practicalTakeaways": [],
+      "date": "2026 09 02",
+      "status": "Guideline candidate",
+      "references": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer · 2026 09 02 · PMID: 42684532 · DOI: 10.1007/s00520-026-11134-7",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42684532/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-03T08:55:43.877Z"
+    },
+    {
+      "id": "pmid-42683908",
+      "pmid": "42683908",
+      "doi": "10.3791/70912",
+      "title": "Effect of Post-Discharge Oral Nutritional Supplements on Nutritional Status in Patients after Gastrectomy: A Systematic Review and Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Journal of visualized experiments : JoVE",
+      "summary": "Nutritional intervention after gastrectomy is central to postoperative recovery, but the optimal outpatient supplementation strategy remains uncertain. This systematic review assessed the efficacy and safety of oral nutritional supplementation (ONS) after hospital discharge in patients undergoing gastrectomy for gastric cancer. Eligible randomized controlled trials (RCTs) were identified from five databases throug…",
+      "fullDetails": "Nutritional intervention after gastrectomy is central to postoperative recovery, but the optimal outpatient supplementation strategy remains uncertain. This systematic review assessed the efficacy and safety of oral nutritional supplementation (ONS) after hospital discharge in patients undergoing gastrectomy for gastric cancer. Eligible randomized controlled trials (RCTs) were identified from five databases through September 2025. Extracted outcomes included adverse events, laboratory indices, body composition, handgrip strength, and body-weight change. Seven RCTs involving 1,736 participants met the review criteria, although the number of trials contributing to each pooled outcome varied. ONS significantly attenuated absolute body-weight loss (WMD: 0.75 kg; 95% CI: 0.11 to 1.40) and percentage body-weight loss (WMD: 1.42; 95% CI: 0.78 to 2.07) compared with control care. Risk-of-bias assessment identified generally adequate randomization and allocation reporting in most trials, but certainty remains limited by the small number of trials, substantial heterogeneity in the primary weight outcome, and the absence of a formal GRADE assessment. No significant inter-group differences were found for body composition, handgrip strength, or laboratory markers. Adverse-event incidence was not significantly different between groups when analyzed with the fixed-effect model selected for minimal heterogeneity (RR: 1.17; 95% CI: 0.92 to 1.49). These findings suggest that post-discharge ONS may help reduce early to intermediate postoperative weight loss after gastrectomy without a clear safety penalty. Because most endpoints were assessed between 8 weeks and 3 months, the durability of benefit beyond this period remains unclear.",
+      "practicalTakeaways": [],
+      "date": "2026 09 02",
+      "status": "Clinical trial",
+      "references": "Journal of visualized experiments : JoVE · 2026 09 02 · PMID: 42683908 · DOI: 10.3791/70912",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683908/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-03T08:55:43.878Z"
+    },
+    {
+      "id": "pmid-42683623",
+      "pmid": "42683623",
+      "doi": "10.14309/ajg.0000000000004105",
+      "title": "ACG Clinical Guideline: Diagnosis and Management of Adenomatous Colorectal Polyposis Syndromes.",
+      "category": "Endoscopy",
+      "source": "The American journal of gastroenterology",
+      "summary": "The hereditary adenomatous colorectal polyposis syndromes are incurable, systemic, cancer risk predisposition syndromes with substantial morbidity and mortality. They differ in their mode of inheritance, age at disease onset, phenotypic expression, and cancer risk. The most common cancer risks involve the gastrointestinal tract including the colon, rectum, duodenum, ampulla, and stomach. Identifying these syndrome…",
+      "fullDetails": "The hereditary adenomatous colorectal polyposis syndromes are incurable, systemic, cancer risk predisposition syndromes with substantial morbidity and mortality. They differ in their mode of inheritance, age at disease onset, phenotypic expression, and cancer risk. The most common cancer risks involve the gastrointestinal tract including the colon, rectum, duodenum, ampulla, and stomach. Identifying these syndromes through personal and family history risk assessment and germline genetic testing, along with timely surgical and endoscopic management, can reduce cancer incidence and mortality. These guidelines use the Grading of Recommendations, Assessment, Development, and Evaluation methodology to provide clinical guidance on the selection of individuals who should undergo a risk assessment for a hereditary adenomatous colorectal polyposis syndrome, modality and timing of germline genetic testing, cancer risk mitigation through endoscopic and surgical interventions, and the role of chemoprevention. This document reviews the approach to genetic testing in patients with phenotypic colorectal polyposis and the impact of presymptomatic diagnosis in families with a known familial germline pathogenic variant or clinical features suggestive of a hereditary adenomatous polyposis syndrome. Management strategies for patients based on genetic test results or without genetic testing are provided. We also review colorectal and extracolonic phenotypic benign and malignant manifestations of the known hereditary syndromes with a focus on the 2 most common hereditary colorectal polyposis syndromes: familial adenomatous polyposis and MUTYH-associated polyposis. The document concludes with recommendations on polyposis and cancer risk mitigation strategies and highlights updates to management since the previous guideline was published.",
+      "practicalTakeaways": [],
+      "date": "2026 09 02",
+      "status": "Guideline candidate",
+      "references": "The American journal of gastroenterology · 2026 09 02 · PMID: 42683623 · DOI: 10.14309/ajg.0000000000004105",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42683623/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-03T08:55:43.878Z"
+    },
+    {
+      "id": "pmid-42682102",
+      "pmid": "42682102",
+      "doi": "10.1111/nmo.70224",
+      "title": "Ameliorating Effects and Autonomic Mechanisms of Transcutaneous Auricular Vagus Nerve Stimulation on Abdominal Pain in Patients With Functional Dyspepsia and Irritable Bowel Syndrome.",
+      "category": "Gastroenterology",
+      "source": "Neurogastroenterology and motility",
+      "summary": "Patients with functional dyspepsia (FD) and irritable bowel syndrome (IBS) often experience abdominal pain and reduced quality of life and need effective treatments. This exploratory study aimed to evaluate whether transcutaneous auricular vagus nerve stimulation (taVNS) could improve abdominal pain and quality of life in patients with FD and IBS, and whether the effects were mediated via the autonomic mechanisms.…",
+      "fullDetails": "Patients with functional dyspepsia (FD) and irritable bowel syndrome (IBS) often experience abdominal pain and reduced quality of life and need effective treatments. This exploratory study aimed to evaluate whether transcutaneous auricular vagus nerve stimulation (taVNS) could improve abdominal pain and quality of life in patients with FD and IBS, and whether the effects were mediated via the autonomic mechanisms. A total of 64 patients with abdominal pain (43 FD and 21 IBS) with a pain score of 3 out of 10 or higher were randomized to receive 2 weeks of taVNS or sham-taVNS treatment. The primary outcome was numeric rating scale (NRS) for abdominal pain. The dyspeptic symptom scales (DSS), IBS symptom severity scale score (IBS-SSS), anxiety and depression scores, and the SF36 quality of life scale were assessed before and after the treatment. The electrocardiogram was also recorded for the assessment of autonomic function at baseline and after the treatment. (1) taVNS reduced the abdominal pain score (p < 0.001 for both FD and IBS), the frequency of abdominal pain (p < 0.001 for both FD and IBS), and overall symptom scores in both FD patients and IBS patients (p < 0.001 for FD and IBS). There was no significant difference in the effect of taVNS on abdominal pain between FD and IBS patients. (2) taVNS improved quality of life compared with baseline in both FD and IBS patients. (3) taVNS decreased anxiety (p < 0.001) and depression (p < 0.001). (4) taVNS increased vagal activity. At the end of the taVNS treatment, the vagal activity was negatively correlated with the pain score (r = -0.491, p = 0.004). Non-invasive taVNS improves abdominal pain, quality of life, and anxiety and depression in patients with FD and patients with IBS, possibly attributed to the enhancement of vagal activity. Chinese Clinical Trial Registry: ChiCTR2400085697.",
+      "practicalTakeaways": [],
+      "date": "2026 09 02",
+      "status": "Clinical trial",
+      "references": "Neurogastroenterology and motility · 2026 09 02 · PMID: 42682102 · DOI: 10.1111/nmo.70224",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42682102/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-03T08:55:43.878Z"
+    },
+    {
+      "id": "pmid-42685302",
+      "pmid": "42685302",
+      "doi": "10.1093/bjs/znag109",
+      "title": "Surgical rectus sheath block versus laparoscopic bilateral dual transversus abdominis plane block after minimally invasive colorectal cancer surgery: randomized clinical trial of impact on recovery.",
+      "category": "Gastroenterology",
+      "source": "The British journal of surgery",
+      "summary": "Effective multimodal analgesia is essential after minimally invasive colorectal surgery. This randomized trial evaluated whether adding surgeon-performed surgical rectus sheath block (SRSB) or laparoscopic bilateral dual transversus abdominis plane (BD-TAP) block to intravenous patient-controlled analgesia (IV-PCA) improved postoperative quality of recovery. This single-centre, three-arm superiority trial randomiz…",
+      "fullDetails": "Effective multimodal analgesia is essential after minimally invasive colorectal surgery. This randomized trial evaluated whether adding surgeon-performed surgical rectus sheath block (SRSB) or laparoscopic bilateral dual transversus abdominis plane (BD-TAP) block to intravenous patient-controlled analgesia (IV-PCA) improved postoperative quality of recovery. This single-centre, three-arm superiority trial randomized adults undergoing minimally invasive colorectal resection (1 : 1 : 1) by stratified block allocation at a Japanese cancer centre. Patients and outcome assessors were blinded. The primary outcome was the Japanese version of the 15-item Quality of Recovery questionnaire (QoR-15) score 24 h after arrival in the postanaesthesia care unit. Missing postoperative QoR-15 item responses were handled using multiple imputation, and treatment effects were estimated using ANCOVA adjusted for the four randomization stratification factors. Each primary comparison used a Bonferroni-adjusted one-sided significance level of 0.025. Secondary outcomes included the 48-h QoR-15 score, postoperative pain scores, time to first rescue analgesia, and cumulative consumption of analgesics and antiemetics over 48 h. Between July 2024 and December 2025, 320 patients were randomized (control, 110; SRSB, 107; and BD-TAP block, 103); 309 were analysed (105, 103, and 101 respectively). Compared with control, BD-TAP block resulted in a higher 24-h QoR-15 score (adjusted mean difference 10.44 (95% c.i. 3.06 to 17.83) points; one-sided P = 0.003), whereas superiority of SRSB was not demonstrated (adjusted mean difference 5.50 (95% c.i. -1.88 to 12.89) points; one-sided P = 0.072). At 48 h, the adjusted mean difference for BD-TAP block versus control was 8.01 (95% c.i. 0.18 to 15.83) points (two-sided P = 0.045), an exploratory finding unadjusted for multiplicity. The median time to first rescue analgesia was longer with SRSB (27.8 h) and BD-TAP block (25.3 h) than control (3.3 h), but cumulative 48-h fentanyl consumption and length of hospital stay did not differ significantly. No block-related complications were observed. BD-TAP block resulted in better 24-h recovery than IV-PCA alone. Superiority of SRSB was not demonstrated. jRCT1031240153 (Japan Registry of Clinical Trials).",
+      "practicalTakeaways": [],
+      "date": "2026 09 02",
+      "status": "Clinical trial",
+      "references": "The British journal of surgery · 2026 09 02 · PMID: 42685302 · DOI: 10.1093/bjs/znag109",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42685302/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-03T08:55:43.879Z"
     }
   ]
 }
