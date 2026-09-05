@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-04",
+  "lastChecked": "2026-09-05",
   "items": [
     {
       "id": "pmid-42486794",
@@ -4204,6 +4204,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42688076/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-04T08:50:33.430Z"
+    },
+    {
+      "id": "pmid-42695907",
+      "pmid": "42695907",
+      "doi": "10.1021/acs.jproteome.6c00383",
+      "title": "Blood Bile Acids for Inflammatory Bowel Disease Diagnosis and Disease Activity Assessment: A Metabolomics Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Journal of proteome research",
+      "summary": "Alterations in circulating bile acids (BAs) have been reported in inflammatory bowel disease (IBD), but the consistency of these changes across clinically relevant comparisons remains unclear. Our goal was to investigate systemic BA alterations in IBD using a metabolomics meta-analysis with an exploratory analysis of BA-related gene expression as a supporting context. A systematic review and meta-analysis of 28 me…",
+      "fullDetails": "Alterations in circulating bile acids (BAs) have been reported in inflammatory bowel disease (IBD), but the consistency of these changes across clinically relevant comparisons remains unclear. Our goal was to investigate systemic BA alterations in IBD using a metabolomics meta-analysis with an exploratory analysis of BA-related gene expression as a supporting context. A systematic review and meta-analysis of 28 metabolomics studies examined blood BA profiles associated with IBD, IBD diagnosis, and disease activity assessment. Univariate analysis and logistic regression modeling of two independent IBD cohorts explored the blood BA-related genes and IBD. Across 28 studies that comprised 5056 IBD patients, 1721 healthy controls, and 314 non-IBD patients, 131 BAs were reported. Eight predefined clinical comparisons were eligible for the meta-analysis. Lower secondary BA levels were consistently observed in IBD patients compared with controls, between UC and CD, and in active versus remission patients. Deoxycholic acid, glycodeoxycholic acid, and taurodeoxycholic acid were frequently decreased, whereas glycocholic acid was increased in certain comparisons. Transcriptomics analyses revealed differential expression of several BA-related genes in blood, including SLC51A, ABCB4, and ACOT8, across the comparisons. Our findings identify consistent circulating BA alterations in IBD and highlight the relevance of blood BA for future biomarker research in the diagnosis and disease activity assessment.",
+      "practicalTakeaways": [],
+      "date": "2026 09 04",
+      "status": "Evidence review",
+      "references": "Journal of proteome research · 2026 09 04 · PMID: 42695907 · DOI: 10.1021/acs.jproteome.6c00383",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42695907/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-05T08:20:51.886Z"
+    },
+    {
+      "id": "pmid-42694812",
+      "pmid": "42694812",
+      "doi": "10.2147/DDDT.S625073",
+      "title": "An Oxycodone-Based Conscious Analgesia Strategy with Supplemental Low-Dose Propofol Improves Safety in Elderly Obese Patients Undergoing Gastroscopy: A Prospective Randomized Controlled Trial.",
+      "category": "Gastroenterology",
+      "source": "Drug design, development and therapy",
+      "summary": "During diagnostic gastroscopy, intolerance is usually manifested as retching, coughing, and involuntary movement. Conscious analgesia relieves discomfort while patients continue to breathe spontaneously and remain partly responsive. Oxycodone, a semi-synthetic opioid, may reduce the need for deep propofol sedation. We compared an oxycodone-based conscious analgesia strategy with supplemental low-dose propofol with…",
+      "fullDetails": "During diagnostic gastroscopy, intolerance is usually manifested as retching, coughing, and involuntary movement. Conscious analgesia relieves discomfort while patients continue to breathe spontaneously and remain partly responsive. Oxycodone, a semi-synthetic opioid, may reduce the need for deep propofol sedation. We compared an oxycodone-based conscious analgesia strategy with supplemental low-dose propofol with propofol-based deep sedation in elderly obese patients. In this prospective, single-center, open-label randomized controlled trial, 128 patients aged ≥65 years with a body mass index of 30-39.9 kg/m 2 undergoing elective gastroscopy were randomized 1:1 to propofol-based deep sedation (group P) or oxycodone-based conscious analgesia with supplemental low-dose propofol (group OP). The primary outcome was the incidence of hypoxemia, defined as any SpO 2 reading <90% during the procedure. Key secondary outcomes were airway interventions, hypotension, propofol consumption, and recovery time. All 128 randomized patients completed the study. Hypoxemia occurred less frequently in group OP than in group P (10.94% vs 37.50%; relative risk, 0.29; 95% CI, 0.14-0.63; P <0.001). Group OP also required fewer airway interventions (10.94% vs 37.50%; P <0.001), and mask-assisted ventilation was required less often (1.56% vs 32.81%; P <0.001). Hypotension was less frequent (9.38% vs 28.13%; P =0.012), total propofol consumption was lower (0.38±0.13 vs 1.70±0.25 mg/kg; P <0.001), and time to full wakefulness was shorter (3.89±0.73 vs 8.21±1.12 minutes; P< 0.001) in group OP. Compared with propofol-based deep sedation, the oxycodone-based conscious analgesia strategy was associated with a lower incidence of hypoxemia, fewer airway interventions, less hypotension, lower propofol exposure, and faster recovery. These findings reflect a comparison of two sedation strategies and do not establish improved respiratory function.",
+      "practicalTakeaways": [],
+      "date": "2026 09 04",
+      "status": "Clinical trial",
+      "references": "Drug design, development and therapy · 2026 09 04 · PMID: 42694812 · DOI: 10.2147/DDDT.S625073",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42694812/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-05T08:20:51.887Z"
+    },
+    {
+      "id": "pmid-42694603",
+      "pmid": "42694603",
+      "doi": "10.3389/fmed.2026.1921542",
+      "title": "From fibrosis regression to recompensation: bibliometric and clinical evidence mapping of disease modification in cirrhosis.",
+      "category": "Hepatology",
+      "source": "Frontiers in medicine",
+      "summary": "The Baveno VII consensus formally defined cirrhosis recompensation in 2022, marking an important milestone in the transition of cirrhosis management from complication control toward disease modification. This concept did not emerge abruptly but was built on decades of research concerning etiological control, fibrosis regression, portal hypertension control, liver function recovery, and reversal of decompensation.…",
+      "fullDetails": "The Baveno VII consensus formally defined cirrhosis recompensation in 2022, marking an important milestone in the transition of cirrhosis management from complication control toward disease modification. This concept did not emerge abruptly but was built on decades of research concerning etiological control, fibrosis regression, portal hypertension control, liver function recovery, and reversal of decompensation. However, the evolution of these knowledge domains, the key milestones shaping the field, and the clinical or mechanistic directions that should be prioritized remain unclear. This study used bibliometric analysis to map the development and trends of cirrhosis recompensation-related research, with emphasis on recent advances and future directions. Relevant publications (up to May 31, 2026) were retrieved from the Web of Science Core Collection (WoSCC) and PubMed. Bibliometric visualization and network analyses were performed using CiteSpace, VOSviewer, bibliometrix, R, and Python to examine publication trends, global collaborations, core journals, author networks, co-cited references, keyword evolution, citation bursts, and randomized controlled trial (RCT) evidence mapping. A total of 588 WoSCC publications and 168 PubMed RCT publications were included. The field showed a three-stage evolution: complication control and survival prolongation; etiology-directed therapy and fibrosis regression; and recompensation-centered disease modification after Baveno VII. The United States and China were leading contributors, while Journal of Hepatology and Hepatology were central journals. Co-citation and keyword analyses highlighted antiviral therapy, fibrosis regression, portal hypertension, and recompensation as major knowledge themes. Further within-WoSCC mapping of the 31-publication RCT subset showed that no publication evaluated formal Baveno VII recompensation as an explicit endpoint. Complementary analysis of the 168 PubMed RCT publications showed that recompensation was not evaluated as an endpoint even among publications reporting follow-up beyond 48 weeks, indicating that this gap could not be attributed solely to short follow-up. This bibliometric analysis delineates the evolving landscape of cirrhosis recompensation-related research, characterized by a transition from complication control to disease modification and an increasing focus on recompensation after Baveno VII. Persistent gaps in RCT evidence, especially regarding recompensation endpoints and long-term disease-modification outcomes, underscore the need for continued high-quality clinical and translational studies in this field.",
+      "practicalTakeaways": [],
+      "date": "2026 09 04",
+      "status": "Guideline candidate",
+      "references": "Frontiers in medicine · 2026 09 04 · PMID: 42694603 · DOI: 10.3389/fmed.2026.1921542",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42694603/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-05T08:20:51.888Z"
     }
   ]
 }
