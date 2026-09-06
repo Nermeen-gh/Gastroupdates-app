@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-05",
+  "lastChecked": "2026-09-06",
   "items": [
     {
       "id": "pmid-42486794",
@@ -4255,6 +4255,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42694603/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-05T08:20:51.888Z"
+    },
+    {
+      "id": "pmid-42700272",
+      "pmid": "42700272",
+      "doi": "10.1007/s10585-026-10428-8",
+      "title": "Cardiac metastases from colorectal cancer: a comprehensive systematic review of clinical presentation, cardiac involvement, and outcomes.",
+      "category": "Hepatology",
+      "source": "Clinical & experimental metastasis",
+      "summary": "Cardiac metastasis from colorectal cancer (CRC) is exceedingly rare and remains poorly defined in the literature. As survival improves and metastatic patterns evolve, recognizing the clinical and anatomical characteristics of cardiac involvement is increasingly important. This systematic review synthesizes published cases of CRC with cardiac metastases identified through a systematic search to clarify presentation…",
+      "fullDetails": "Cardiac metastasis from colorectal cancer (CRC) is exceedingly rare and remains poorly defined in the literature. As survival improves and metastatic patterns evolve, recognizing the clinical and anatomical characteristics of cardiac involvement is increasingly important. This systematic review synthesizes published cases of CRC with cardiac metastases identified through a systematic search to clarify presentation, metastatic pathways, management, and outcomes. Following PRISMA 2020 guidelines, we systematically searched PubMed, Scopus, and Web of Science from inception to October 2025 for case reports and case series describing CRC metastasis to the heart. Eligible reports were screened by two independent authors. Detailed clinical, pathological, imaging, management, and outcome data were extracted using a standardized template. Descriptive statistics were performed using Jamovi v2.7 without inferential analyses given the nature of the data. Fifty-three cases met inclusion. The mean age was 62.7 ± 11.75 years (median 66; IQR 55.5-71), with a slight male predominance (53.8%). Left-sided primaries were most common (50.9%), followed by rectal (26.4%) and right-sided tumors (15.1%). Most cardiac lesions were intracardiac (78%) and solitary (92.2%), with a marked predilection for the right ventricle (45.8%) and right atrium (35.4%). Dyspnea was the leading symptom (65.4%), while 19.2% were asymptomatic. Extra-cardiac metastases preceded cardiac involvement in 60.8%, mainly to the liver (46%) and lungs (32%). Curative-intent treatment was attempted in 52.8%; palliative care in 28.3%. Overall mortality was 64.2%. CRC cardiac metastasis typically manifests as a solitary right-sided intracavitary lesion in the context of systemic disease and carries a poor prognosis. Early multimodality imaging and individualized multidisciplinary management are essential. Collaborative registries are needed to establish evidence-based guidance.",
+      "practicalTakeaways": [],
+      "date": "2026 09 05",
+      "status": "Guideline candidate",
+      "references": "Clinical & experimental metastasis · 2026 09 05 · PMID: 42700272 · DOI: 10.1007/s10585-026-10428-8",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700272/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-06T08:39:19.299Z"
+    },
+    {
+      "id": "pmid-42700222",
+      "pmid": "42700222",
+      "doi": "10.1007/s00520-026-11149-0",
+      "title": "The effect of a smartphone-based educational intervention on the supportive care needs of family caregivers of patients with colorectal cancer: a randomized controlled trial.",
+      "category": "Gastroenterology",
+      "source": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "summary": "This study aimed to determine the effect of implementing a smartphone-based educational program on the supportive care needs of family caregivers of patients with colorectal cancer (CRC). This experimental study, designed as a randomized controlled trial (RCT), was conducted among family caregivers of patients with CRC in two teaching hospitals affiliated with Iran University of Medical Sciences in Tehran. A total…",
+      "fullDetails": "This study aimed to determine the effect of implementing a smartphone-based educational program on the supportive care needs of family caregivers of patients with colorectal cancer (CRC). This experimental study, designed as a randomized controlled trial (RCT), was conducted among family caregivers of patients with CRC in two teaching hospitals affiliated with Iran University of Medical Sciences in Tehran. A total of 80 caregivers were randomly assigned to either the intervention or control group. The intervention group received a smartphone-based educational program designed to meet their supportive care needs, while the control group received routine care. The Supportive Care Needs Survey-Partners and Caregivers (SCNS-P&C) was completed by both groups before and 4 weeks after the intervention. The total score of the SCNS-P&C ranged from 39 to 195. Higher scores on the overall scale and on each of its dimensions indicated greater supportive care needs in the corresponding domain. Data were analyzed using descriptive statistics, t-tests, and repeated-measures ANCOVA (p < 0.05) in SPSS version 16. Findings indicated a reduction in total supportive care needs, and its four dimensions-health care service needs, psychological and emotional needs, work and social needs, and information needs-was significantly greater in the intervention group compared to the control group (p < 0.001). This study found that family caregivers of patients with colorectal cancer who participated in a smartphone-based educational program reported greater reductions in supportive care needs over 1 month than those in the control group. These findings suggest that smartphone-based educational interventions may be a promising approach to supporting family caregivers.",
+      "practicalTakeaways": [],
+      "date": "2026 09 05",
+      "status": "Clinical trial",
+      "references": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer · 2026 09 05 · PMID: 42700222 · DOI: 10.1007/s00520-026-11149-0",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42700222/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-06T08:39:19.299Z"
+    },
+    {
+      "id": "pmid-42699348",
+      "pmid": "42699348",
+      "doi": "10.2147/DDDT.S624515",
+      "title": "Effect of Lidocaine Spray on the Sedative Dose of Remimazolam During Gastroscopy in Adults: A Prospective, Randomized Dose-Response Trial Using an Up-Down Sequential Allocation Method.",
+      "category": "Gastroenterology",
+      "source": "Drug design, development and therapy",
+      "summary": "To investigate the effect of oropharyngeal topical lidocaine spray on the sedative dose of remimazolam required for gastroscopy in adults. Patients undergoing painless gastroscopy at our hospital were selected and randomly divided into a lidocaine spray group (Group L) and a control group (Group C) using a random number table method, with 25 patients enrolled in Group L and 24 patients enrolled in Group C. Patient…",
+      "fullDetails": "To investigate the effect of oropharyngeal topical lidocaine spray on the sedative dose of remimazolam required for gastroscopy in adults. Patients undergoing painless gastroscopy at our hospital were selected and randomly divided into a lidocaine spray group (Group L) and a control group (Group C) using a random number table method, with 25 patients enrolled in Group L and 24 patients enrolled in Group C. Patients in Group L received oropharyngeal spray containing lidocaine aerosol (approximately 16 mg of lidocaine per spray), with two sprays administered. Patients in Group C received oropharyngeal spray containing normal saline aerosol. At the start of sedation, alfentanil was intravenously injected at a dose of 3 μg/kg, followed by remimazolam administration using a sequential method. The initial intravenous dose of remimazolam was 0.2 mg/kg, with a dose adjustment gradient of 0.02 mg/kg. The median effective dose (ED50) of remimazolam for successful first-dose sedation during gastroscopy was calculated using probit regression analysis. The ED50 (95% confidence interval) of remimazolam in Group L was 0.149 (0.125-0.167) mg/kg, while that in Group C was 0.191 (0.147-0.217) mg/kg. The relative median potency between the two groups was 0.783 (95% CI: 0.381-0.959). In addition, no statistically significant differences were observed in hemodynamic changes or related adverse events between the two groups (P > 0.05). Lidocaine spray can be used in combination with remimazolam for gastroscopic examination to reduce the sedative dose of remimazolam during gastroscopy in adults.",
+      "practicalTakeaways": [],
+      "date": "2026 09 05",
+      "status": "Clinical trial",
+      "references": "Drug design, development and therapy · 2026 09 05 · PMID: 42699348 · DOI: 10.2147/DDDT.S624515",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42699348/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-06T08:39:19.300Z"
+    },
+    {
+      "id": "pmid-42698463",
+      "pmid": "42698463",
+      "doi": "10.3389/fnut.2026.1930581",
+      "title": "Tea and liver fibrosis: a bibliometric analysis of mechanisms, translational challenges, and emerging trends.",
+      "category": "Hepatology",
+      "source": "Frontiers in nutrition",
+      "summary": "Although tea and its bioactive constituents, particularly epigallocatechin gallate (EGCG), demonstrate promising anti-liver fibrotic potential, the global research landscape has yet to be systematically characterized through quantitative visualization, leaving research priorities and clinical translational barriers unclear. This bibliometric analysis aims to delineate the current status, emerging hotspots, and dev…",
+      "fullDetails": "Although tea and its bioactive constituents, particularly epigallocatechin gallate (EGCG), demonstrate promising anti-liver fibrotic potential, the global research landscape has yet to be systematically characterized through quantitative visualization, leaving research priorities and clinical translational barriers unclear. This bibliometric analysis aims to delineate the current status, emerging hotspots, and developmental trends in tea-related liver fibrosis research, providing strategic insights for future studies. A dual-database search with reciprocal verification was conducted in the Web of Science Core Collection (WoSCC) and Scopus using refined search strategies. Bibliometric analyses and visualizations were performed using R (v4.5.1), VOSviewer (v1.6.19), and CiteSpace (v6.4.R1). Annual publication output in this field has increased steadily. China led in publications ( n = 120), with Nutrients and Frontiers in Pharmacology as the leading journals. Tea bioactives exert anti-fibrotic effects through: (1) molecular mechanisms, including inhibition of hepatic stellate cell activation via TGF-β/Smad, Nrf2, NF-κB, AMPK, and MAPK pathways; (2) gut-liver axis modulation, such as intestinal microbiota remodeling, bile acid homeostasis restoration, and barrier integrity enhancement; (3) synergistic effects with other natural products; and (4) epidemiological evidence showing that regular tea/caffeine intake reduces fibrosis progression, cirrhosis, and hepatocellular carcinoma risk. However, EGCG clinical translation is limited by poor solubility, environmental instability, rapid clearance, low oral bioavailability, and dose-dependent hepatotoxicity. Nano-delivery systems and structural modifications have been developed to enhance its bioavailability. This study elucidates the therapeutic potential of tea and its bioactive constituents against liver fibrosis, encompassing their pharmacological mechanisms, emerging molecular targets, and bioavailability enhancement strategies. With advances in nanomedicine and pharmaceutical technologies, coupled with rigorously designed multicenter randomized controlled trials, tea-derived bioactives are anticipated to overcome current limitations and establish clinical value in liver fibrosis prevention and adjuvant therapy.",
+      "practicalTakeaways": [],
+      "date": "2026 09 05",
+      "status": "Clinical trial",
+      "references": "Frontiers in nutrition · 2026 09 05 · PMID: 42698463 · DOI: 10.3389/fnut.2026.1930581",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42698463/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-06T08:39:19.300Z"
     }
   ]
 }
