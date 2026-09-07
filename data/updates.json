@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-06",
+  "lastChecked": "2026-09-07",
   "items": [
     {
       "id": "pmid-42486794",
@@ -4338,6 +4338,23 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-09-06T08:39:19.300Z",
       "reviewedAt": "2026-09-06T08:53:11.626Z"
+    },
+    {
+      "id": "pmid-42702585",
+      "pmid": "42702585",
+      "doi": "10.5056/jnm25167",
+      "title": "Gut-Brain Axis-mediated Neurological Manifestations in Inflammatory Bowel Disease: Mechanisms and Disease Spectrum.",
+      "category": "Gastroenterology",
+      "source": "Journal of neurogastroenterology and motility",
+      "summary": "Inflammatory bowel disease (IBD) is a chronic immune-mediated disorder of the gastrointestinal tract that is frequently associated with neuropsychiatric comorbidities, such as anxiety, depression, and other neurological disorders. Accumulating evidence suggests that these neuropsychiatric disorders are secondary conditions caused by impaired gut-brain communication. The gut-brain axis connects the gut and the brai…",
+      "fullDetails": "Inflammatory bowel disease (IBD) is a chronic immune-mediated disorder of the gastrointestinal tract that is frequently associated with neuropsychiatric comorbidities, such as anxiety, depression, and other neurological disorders. Accumulating evidence suggests that these neuropsychiatric disorders are secondary conditions caused by impaired gut-brain communication. The gut-brain axis connects the gut and the brain via neural, endocrine, and immune signaling pathways, disruption of which is usually caused by intestinal microbiota imbalance, intestinal barrier damage, neuroinflammation and immune activation, and neuroendocrine pathway abnormalities. These pathways constitute the pathological basis of the disease spectrum of neuropsychiatric comorbidities in IBD patients. This article comprehensively reviews the core mechanisms and disease spectrum of gut-brain axis-mediated neurological and mental complications in IBD, and discusses potential therapeutic strategies and challenges.",
+      "practicalTakeaways": [],
+      "date": "2026 09 06",
+      "status": "New publication",
+      "references": "Journal of neurogastroenterology and motility · 2026 09 06 · PMID: 42702585 · DOI: 10.5056/jnm25167",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702585/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-07T09:19:51.465Z"
     }
   ]
 }
