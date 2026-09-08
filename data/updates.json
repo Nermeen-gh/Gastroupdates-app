@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-07",
+  "lastChecked": "2026-09-08",
   "items": [
     {
       "id": "pmid-42486794",
@@ -4355,6 +4355,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702585/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-07T09:19:51.465Z"
+    },
+    {
+      "id": "pmid-42704578",
+      "pmid": "42704578",
+      "doi": "10.1007/s12029-026-01580-1",
+      "title": "Evidence Gap in Managing Lateral Pelvic Lymph Nodes in Rectal Cancer: a Systematic Review of Radiation Boost Strategies.",
+      "category": "Gastroenterology",
+      "source": "Journal of gastrointestinal cancer",
+      "summary": "Lateral pelvic lymph node (LPLN) involvement is a significant predictor of local recurrence in patients with locally advanced rectal cancer (LARC). While lateral pelvic lymph node dissection (LPLND) is routinely used in some countries to manage suspicious nodes, it is associated with increased morbidity and is not widely adopted in Western practice. Radiation boost (dose escalation) to involved LPLNs during neoadj…",
+      "fullDetails": "Lateral pelvic lymph node (LPLN) involvement is a significant predictor of local recurrence in patients with locally advanced rectal cancer (LARC). While lateral pelvic lymph node dissection (LPLND) is routinely used in some countries to manage suspicious nodes, it is associated with increased morbidity and is not widely adopted in Western practice. Radiation boost (dose escalation) to involved LPLNs during neoadjuvant chemoradiotherapy (nCRT) has emerged as a potential non-surgical alternative. Despite increasing adoption of radiation boost to clinically involved LPLNs, there remains limited evidence defining its safety, oncologic benefit, and role relative to LPLND. A systematic search of MEDLINE, EMBASE, ClinicalTrials.gov, and Cochrane databases was conducted following PRISMA guidelines. Studies were included if they reported outcomes of radiation dose escalation specifically targeting radiologically suspicious LPLNs in the context of nCRT. Ten retrospective cohort studies encompassing 482 radiation boosted patients were included. Boost doses ranged from 35.0 to 60.2 Gy. Rates of Grade 2-3 toxicity ranged from 28.0% to 39.3% across individual studies, with only one study reporting a single Grade 4 adverse event. Across individual studies, reported nodal response rates ranged from 62.3% to 100%. Comparative studies suggest that radiation boost may improve local control and reduce LPLN recurrence. Current retrospective evidence suggests that radiation dose escalation to involved LPLNs is a promising treatment strategy; however, the available data are limited by retrospective study designs and substantial clinical heterogeneity. Given the absence of prospective evidence and lack of consensus in current guidelines, an important evidence gap remains. Well-designed prospective trials are warranted to define the role of LPLN boost relative to LPLND.",
+      "practicalTakeaways": [],
+      "date": "2026 09 07",
+      "status": "Guideline candidate",
+      "references": "Journal of gastrointestinal cancer · 2026 09 07 · PMID: 42704578 · DOI: 10.1007/s12029-026-01580-1",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704578/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-08T08:51:19.942Z"
+    },
+    {
+      "id": "pmid-42704036",
+      "pmid": "42704036",
+      "doi": "10.2478/raon-2026-0036",
+      "title": "The role of particle therapy in the treatment of locally recurrent rectal cancer: a systematic review.",
+      "category": "Gastroenterology",
+      "source": "Radiology and oncology",
+      "summary": "Colorectal cancer is a common malignancy. Advancements in multimodality treatment have improved outcomes. About 2-10% of patients will have a local recurrence even after optimal treatment. Salvage surgical treatment is the treatment of choice, however, in posterior and lateral recurrences, surgery is linked to a high rate of treatment-related morbidity. Some recurrences remain unresectable even after neoadjuvant t…",
+      "fullDetails": "Colorectal cancer is a common malignancy. Advancements in multimodality treatment have improved outcomes. About 2-10% of patients will have a local recurrence even after optimal treatment. Salvage surgical treatment is the treatment of choice, however, in posterior and lateral recurrences, surgery is linked to a high rate of treatment-related morbidity. Some recurrences remain unresectable even after neoadjuvant treatment. A systematic literature review was performed to search for studies on curative-intent radiation therapy (RT) with photons, stereotactic body radiation therapy (SBRT) and particle beam therapy. The aim of the literature search was to define the role of particle therapy in the treatment of patients with unresectable or inoperable local recurrences of rectal cancer where neoadjuvant treatment is unlikely to result in downstaging, leaving patients with RT as the only curative treatment option. 32 studies which fulfil the criteria were identified. In general, SBRT and particle beam therapy permitted the application of significantly higher doses to the target without a concomitant increase in treatment-related toxicities. For unresectable and inoperable locally recurrent rectal cancer ablative radiotherapy techniques such as SBRT and particle beam therapy offer a curative treatment approach as an alternative to surgery. SBRT can be offered for small local and nodal recurrences, while particle beam therapy can be offered for larger recurrences and complex shapes spanning several anatomical compartments as well. Further research is needed to stratify patients according to their need and eligibility for the different possible modalities of curative-intent RT.",
+      "practicalTakeaways": [],
+      "date": "2026 09 07",
+      "status": "Evidence review",
+      "references": "Radiology and oncology · 2026 09 07 · PMID: 42704036 · DOI: 10.2478/raon-2026-0036",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42704036/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-08T08:51:19.942Z"
+    },
+    {
+      "id": "pmid-42702772",
+      "pmid": "42702772",
+      "doi": "10.1002/cnr2.70660",
+      "title": "First-Line PD-1 Inhibitor-Based Therapy for Advanced or Metastatic Esophageal Squamous Cell Carcinoma: A Revised Systematic Review and Meta-Analysis of Phase III Trials.",
+      "category": "Gastroenterology",
+      "source": "Cancer reports (Hoboken, N.J.)",
+      "summary": "Immune checkpoint blockade has changed the first-line treatment landscape for advanced esophageal squamous cell carcinoma (ESCC), but the magnitude and consistency of benefit across phase III trials require careful synthesis. We conducted a PRISMA 2020-guided systematic review of PubMed, Embase, CENTRAL, and Web of Science (January 1, 2015 to April 30, 2025) for phase III randomized trials comparing first-line PD-…",
+      "fullDetails": "Immune checkpoint blockade has changed the first-line treatment landscape for advanced esophageal squamous cell carcinoma (ESCC), but the magnitude and consistency of benefit across phase III trials require careful synthesis. We conducted a PRISMA 2020-guided systematic review of PubMed, Embase, CENTRAL, and Web of Science (January 1, 2015 to April 30, 2025) for phase III randomized trials comparing first-line PD-1 inhibitor-based therapy with chemotherapy in advanced/metastatic ESCC. The primary endpoint was overall survival (OS). Secondary endpoints were safety and prespecified subgroup outcomes. RoB 2 was used for risk-of-bias assessment; certainty of evidence was judged with GRADE. A fixed-effect inverse-variance model was prespecified for the primary common-effect analysis, with random-effects and sensitivity analyses performed secondarily. Six eligible phase III trials were included in the primary analysis (KEYNOTE-590 ESCC subgroup, CheckMate-648 nivolumab-plus-chemotherapy arm, ESCORT-1st, JUPITER-06, ORIENT-15, and RATIONALE-306). Across the six parent-trial reports, 4137 patients were randomized overall; for pooling, KEYNOTE-590 was restricted to the prespecified ESCC subgroup and CheckMate-648 to the nivolumab-plus-chemotherapy comparison. PD-1 inhibitor-based therapy significantly improved OS versus chemotherapy alone (pooled HR 0.68, 95% CI: 0.63-0.74; I 2 = 0%, interpreted as low statistical heterogeneity with caution because only six studies were pooled). Qualitative assessment indicated that the treatment effect was generally larger in PD-L1-high populations; however, biomarker-defined subgroup data were not sufficiently harmonized for formal pooling, and the magnitude of benefit in very low or PD-L1-negative disease remains uncertain. Grade ≥ 3 treatment-related adverse events were common in both arms, whereas immune-related toxicities were more frequent with PD-1 inhibitor-based therapy and required active monitoring. First-line PD-1 inhibitor-based therapy confers a robust OS benefit in advanced/metastatic ESCC and supports chemoimmunotherapy as a contemporary standard of care. Remaining uncertainties relate mainly to biomarker-negative disease, assay heterogeneity, and cross-trial differences in chemotherapy backbone and geographic composition.",
+      "practicalTakeaways": [],
+      "date": "2026 09 07",
+      "status": "Clinical trial",
+      "references": "Cancer reports (Hoboken, N.J.) · 2026 09 07 · PMID: 42702772 · DOI: 10.1002/cnr2.70660",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42702772/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-08T08:51:19.943Z"
     }
   ]
 }
