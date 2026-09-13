@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-12",
+  "lastChecked": "2026-09-13",
   "items": [
     {
       "id": "pmid-42486794",
@@ -4831,6 +4831,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42717347/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-12T08:37:58.618Z"
+    },
+    {
+      "id": "pmid-42730783",
+      "pmid": "42730783",
+      "doi": "10.1007/s11701-026-03949-7",
+      "title": "Robotic surgery for gastric gastrointestinal stromal tumors: a systematic review.",
+      "category": "Gastroenterology",
+      "source": "Journal of robotic surgery",
+      "summary": "Robotic surgery is used for selected gastric gastrointestinal stromal tumours (GISTs), particularly when location makes conventional wedge resection difficult. We synthesised technical, perioperative, pathological, functional and oncological outcomes. PubMed/MEDLINE, Scopus and the Cochrane Library were searched from inception to 14 August 2026. Primary reports with at least three eligible robotic gastric-GIST pat…",
+      "fullDetails": "Robotic surgery is used for selected gastric gastrointestinal stromal tumours (GISTs), particularly when location makes conventional wedge resection difficult. We synthesised technical, perioperative, pathological, functional and oncological outcomes. PubMed/MEDLINE, Scopus and the Cochrane Library were searched from inception to 14 August 2026. Primary reports with at least three eligible robotic gastric-GIST patients were included. Two reviewers independently selected studies, extracted data and completed design-specific JBI appraisal. Because outcome definitions, denominators and reporting were heterogeneous, findings were synthesised narratively in accordance with SWiM guidance rather than pooled. Twenty-three studies, including six comparative cohorts, were included. Institutional robotic cohorts contained 3-45 eligible patients; one national registry included 1,567 robotic cases. Tumour size ranged from 2.68 ± 1.55 to 7.9 ± 1.8 cm among studies reporting means. Most institutional reports described R0 resection in all eligible patients; exceptions were 23/24 and 24/25, while the registry reported 1,425/1,567 R0 resections. Grade III morbidity occurred in 2/25 patients in one function-preserving series. Registry 30- and 90-day mortality after robotic resection were 0.5% and 0.8%, respectively. Comparative studies did not demonstrate superior postoperative or oncological outcomes with robotic surgery. Robotic gastric-GIST resection appears feasible in selected patients and may facilitate organ-preserving surgery at anatomically challenging sites. Current observational evidence does not establish comparative functional, oncological or economic superiority.",
+      "practicalTakeaways": [],
+      "date": "2026 09 12",
+      "status": "Guideline candidate",
+      "references": "Journal of robotic surgery · 2026 09 12 · PMID: 42730783 · DOI: 10.1007/s11701-026-03949-7",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42730783/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-13T09:33:37.620Z"
+    },
+    {
+      "id": "pmid-42731022",
+      "pmid": "42731022",
+      "doi": "10.1093/ecco-jcc/jjag124",
+      "title": "A therapeutic atlas of monogenic inflammatory bowel disease.",
+      "category": "Gastroenterology",
+      "source": "Journal of Crohn's & colitis",
+      "summary": "Evidence-based, mechanism-guided therapies are urgently needed for treating monogenic inflammatory bowel disease (mIBD). For such rare diseases, mechanistic insight is essential to guide treatment when conventional clinical trials are often not feasible. We aimed to summarize literature-based evidence and to identify knowledge gaps. We conducted a systematic review of published manuscripts evaluating the therapeut…",
+      "fullDetails": "Evidence-based, mechanism-guided therapies are urgently needed for treating monogenic inflammatory bowel disease (mIBD). For such rare diseases, mechanistic insight is essential to guide treatment when conventional clinical trials are often not feasible. We aimed to summarize literature-based evidence and to identify knowledge gaps. We conducted a systematic review of published manuscripts evaluating the therapeutic efficacy in mIBD. We quantified and compared the global therapeutic response score across treatments and conditions. In a subset of conditions, biomarkers of longitudinal therapeutic response were evaluated in comparison to non-monogenic pediatric IBD cohorts. Responses to 35 therapeutics across the 102 known genetic causes of mIBD were evaluated in 241 articles and 669 patients, summarizing 302 gene-drug responses. The efficacy of at least one pharmacological intervention was identified in 61% (n = 62/102) of the mIBD conditions, highlighting a major unmet need for effective medications in many others. Gene- and pathway-specific responses were demonstrated for several therapies, including allogeneic hematopoietic stem cell transplantation, gene therapy, and advanced therapies such as anti-TNF agents, IL-1 inhibitors, mTOR inhibitors, as well as eculizumab in CD55 deficiency, abatacept in CTLA4 deficiency, and the immunometabolic agent empagliflozin in glycogen storage disease type 1b. This study highlights the potential of precision medicine approaches tailored to genetic and pathway-specific mechanisms, while underscoring the urgent need for effective therapies in many monogenic conditions that remain without established treatment options.",
+      "practicalTakeaways": [],
+      "date": "2026 09 12",
+      "status": "Clinical trial",
+      "references": "Journal of Crohn's & colitis · 2026 09 12 · PMID: 42731022 · DOI: 10.1093/ecco-jcc/jjag124",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42731022/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-13T09:33:37.621Z"
+    },
+    {
+      "id": "pmid-42729965",
+      "pmid": "42729965",
+      "doi": "10.3389/fneur.2026.1889031",
+      "title": "Video game-based interventions for post-stroke dysphagia: a systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Frontiers in neurology",
+      "summary": "To systematically evaluate the efficacy of video game-based interventions on swallowing function and swallowing-related quality of life in patients with post-stroke dysphagia. A systematic search was conducted in PubMed, Web of Science, Cochrane Library, and Embase from inception to July 13th, 2026. Randomized controlled trials (RCTs) evaluating video game-based training for post-stroke dysphagia were included. Th…",
+      "fullDetails": "To systematically evaluate the efficacy of video game-based interventions on swallowing function and swallowing-related quality of life in patients with post-stroke dysphagia. A systematic search was conducted in PubMed, Web of Science, Cochrane Library, and Embase from inception to July 13th, 2026. Randomized controlled trials (RCTs) evaluating video game-based training for post-stroke dysphagia were included. The primary outcome was the Functional Oral Intake Scale (FOIS). Secondary outcomes included the Standardized Swallowing Assessment (SSA) and swallowing-related quality of life (SWAL-QOL/DHI). The certainty of evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. Six randomized controlled trials randomized a total of 309 participants, of whom 300 contributed data to the meta-analysis. Video game-based interventions significantly improved FOIS scores (WMD = 0.78, 95% CI [0.36, 1.21], P = 0.0003; low GRADE certainty), though heterogeneity was substantial ( I 2 = 74%). Sensitivity analysis identified one outlying study; after its exclusion, heterogeneity was reduced to zero, and the effect remained significant and consistent (moderate certainty). Video game-based training also significantly reduced SSA scores (WMD = -2.14, 95% CI [-3.55, -0.74]; moderate GRADE certainty) and improved swallowing-related quality of life (WMD = -15.07, 95% CI [-21.61, -8.52]; low GRADE certainty due to imprecision). The evidence suggests that video game-based interventions improve swallowing function and quality of life in post-stroke dysphagia. However, given the limited number of included trials, these findings should be interpreted with caution. Larger, well-designed RCTs are warranted to confirm the clinical utility and to clarify the differential effects of intervention technologies. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261359653, identifier: CRD420261359653.",
+      "practicalTakeaways": [],
+      "date": "2026 09 12",
+      "status": "Guideline candidate",
+      "references": "Frontiers in neurology · 2026 09 12 · PMID: 42729965 · DOI: 10.3389/fneur.2026.1889031",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729965/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-13T09:33:37.622Z"
     }
   ]
 }
