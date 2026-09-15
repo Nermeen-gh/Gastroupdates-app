@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-14",
+  "lastChecked": "2026-09-15",
   "items": [
     {
       "id": "pmid-42486794",
@@ -4882,6 +4882,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42729965/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-13T09:33:37.622Z"
+    },
+    {
+      "id": "pmid-42734643",
+      "pmid": "42734643",
+      "doi": "10.1007/s00011-026-02336-0",
+      "title": "Major cardiovascular event risk of advanced therapies in inflammatory bowel diseases: systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "summary": "Patients with chronic immune-mediated disorders (IMIDs), including inflammatory bowel disease (IBD), are at increased risk of cardiovascular disease. While advanced therapies show cardioprotective effects in other IMIDs, their impact on major adverse cardiovascular events (MACE) in IBD remains unclear. We conducted a meta-analysis of randomized controlled trials (RCTs) and observational studies evaluating MACE ris…",
+      "fullDetails": "Patients with chronic immune-mediated disorders (IMIDs), including inflammatory bowel disease (IBD), are at increased risk of cardiovascular disease. While advanced therapies show cardioprotective effects in other IMIDs, their impact on major adverse cardiovascular events (MACE) in IBD remains unclear. We conducted a meta-analysis of randomized controlled trials (RCTs) and observational studies evaluating MACE risk with advanced therapies in IBD. Systematic search of PubMed, Embase, and Cochrane Central Register of Controlled Trials identified 43 studies (36 RCTs, including 9 long-term follow-up (LTF) studies, and 7 observational studies) published between 2002 and 2024. Primary analyses estimated odds ratios (OR) for MACE comparing advanced therapy to placebo, with secondary analyses stratifying studies by drug class and length of follow-up. Sensitivity analyses were conducted using alternative methods to account for zero-event data. Placebo-controlled RCTs showed a nonsignificant trend toward reduced MACE risk (OR 0.60; 95% CI 0.24-1.51), with similar findings across sensitivity analyses accounting for sparse and zero-event data. Class-specific trends suggested lower MACE risk with IL-12/IL-23 inhibitors (OR 0.35; 95% CI 0.05-2.21), JAK inhibitors (OR 0.57; 95% CI 0.16-2.06), and a potential increase with Anti-TNF agents (OR: 3.04; 95% CI 0.31-29.47), though none reached statistical significance. LTF studies showed consistent findings. Observational studies suggested lower MACE risk with Anti-TNF therapies (OR 0.29; 95% CI 0.21-0.40), but not with IL-12/IL-23 (OR 4.41; 95% CI 0.49-39.28) or JAK inhibitors (OR 1.57; 95% CI 0.86-2.84). Advanced therapies did not demonstrate a clear increase or decrease in cardiovascular risk in IBD. The discrepancies between RCTs and observational studies underscore the urgent need for rigorous-designed observational research with long-term follow-up to evaluate the real-world impact of advanced therapies on MACE risk.",
+      "practicalTakeaways": [],
+      "date": "2026 09 14",
+      "status": "Clinical trial",
+      "references": "Inflammation research : official journal of the European Histamine Research Society ... [et al.] · 2026 09 14 · PMID: 42734643 · DOI: 10.1007/s00011-026-02336-0",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734643/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-15T09:24:24.607Z"
+    },
+    {
+      "id": "pmid-42736171",
+      "pmid": "42736171",
+      "doi": "10.1093/jac/dkag318",
+      "title": "Cefoxitin versus cefotaxime as empirical treatment of spontaneous bacterial peritonitis in liver cirrhotic patients: randomized controlled clinical trial.",
+      "category": "Hepatology",
+      "source": "The Journal of antimicrobial chemotherapy",
+      "summary": "Spontaneous bacterial peritonitis (SBP) is a severe complication of cirrhosis requiring immediate empirical antibiotic therapy. Third-generation cephalosporins are the traditional agents of choice; however, increasing clinical failure rates necessitate the evaluation of alternative antibiotics to ensure optimal therapeutic outcomes. The aim was to investigate the efficacy of cefoxitin versus cefotaxime for SBP tre…",
+      "fullDetails": "Spontaneous bacterial peritonitis (SBP) is a severe complication of cirrhosis requiring immediate empirical antibiotic therapy. Third-generation cephalosporins are the traditional agents of choice; however, increasing clinical failure rates necessitate the evaluation of alternative antibiotics to ensure optimal therapeutic outcomes. The aim was to investigate the efficacy of cefoxitin versus cefotaxime for SBP treatment. A randomized clinical trial was conducted on 140 cirrhotic patients with community-acquired SBP at Al-Rajhy Liver University Hospital, Assiut, Egypt. Patients were randomized to receive either cefotaxime (n = 70) or cefoxitin (n = 70), 2 g every 8 h for 5 days. Polymorphonuclear neutrophil (PMN) counts were measured upon admission, on Day 2 and on Day 5. Clinical response rates at Days 2 and 5, development of hepatorenal syndrome, length of stay and mortality were assessed. According to intention-to-treat analysis, clinical response rates at Day 2 were 74.2% in the cefotaxime group and 80% in the cefoxitin group, while at Day 5, they were 71.4% and 74.3%, respectively (P = 0.704). The PMN counts at Days 0, 2 and 5 showed no significant differences between the cefotaxime and cefoxitin groups (P = 0.889, 0.909 and 0.360, respectively). The incidence of hepatorenal syndrome was 7.1% in the cefotaxime group compared with 8.6% in the cefoxitin group (P = 0.753), and mortality was 15.7% and 12.9%, respectively (P = 0.629). Cefoxitin showed comparable effectiveness to cefotaxime but may be utilized in selected clinically stable SBP patients.",
+      "practicalTakeaways": [],
+      "date": "2026 09 14",
+      "status": "Clinical trial",
+      "references": "The Journal of antimicrobial chemotherapy · 2026 09 14 · PMID: 42736171 · DOI: 10.1093/jac/dkag318",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42736171/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-15T09:24:24.608Z"
+    },
+    {
+      "id": "pmid-42734242",
+      "pmid": "42734242",
+      "doi": "10.1111/scd.70253",
+      "title": "Intraoral Condition as a Risk Factor for Dysphagia in Non-Hospitalized Older People: An Updated Systematic Review.",
+      "category": "Gastroenterology",
+      "source": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
+      "summary": "To investigate the association between intraoral conditions and OD in community-dwelling elderly populations to identify key screening indicators. A systematic search was conducted across PubMed, Scopus, and Cochrane databases for original research published between 2015 and 2025, following PRISMA guidelines. Inclusion criteria focused on studies involving subjects aged 65 years or older that examined the relation…",
+      "fullDetails": "To investigate the association between intraoral conditions and OD in community-dwelling elderly populations to identify key screening indicators. A systematic search was conducted across PubMed, Scopus, and Cochrane databases for original research published between 2015 and 2025, following PRISMA guidelines. Inclusion criteria focused on studies involving subjects aged 65 years or older that examined the relationship between oral health status and OD. Methodological quality was assessed using the JBI critical appraisal checklist. The analysis methods and inclusion criteria were documented in a protocol published in the Prospective International Register of Systematic Reviews (PROSPERO) under the registration number CRD420261324418. Fifteen articles met the inclusion criteria. All included studies demonstrated at least one positive correlation between an intraoral component and dysphagia. Key findings include; a reduced number of remaining teeth, lack of occlusal support, and poor functional tooth units (FTUs) were consistently associated with increased OD risk. Both subjective xerostomia and objective hyposalivation were linked to increased swallowing effort and impaired bolus transport. Reduced tongue strength, lip force, and buccinator muscle strength were identified as significant risk factors for sarcopenic dysphagia. Intraoral conditions play a critical role in the oral preparatory phase of swallowing. Establishing a standardized list of intraoral indicators-such as tooth count, salivary flow, and muscle strength is essential for health professionals to effectively screen for dysphagia risk during routine oral examinations.",
+      "practicalTakeaways": [],
+      "date": "2026 09 14",
+      "status": "Guideline candidate",
+      "references": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry · 2026 09 14 · PMID: 42734242 · DOI: 10.1111/scd.70253",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42734242/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-15T09:24:24.608Z"
     }
   ]
 }
