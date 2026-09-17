@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-16",
+  "lastChecked": "2026-09-17",
   "items": [
     {
       "id": "pmid-42486794",
@@ -5069,6 +5069,91 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42737603/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-16T09:17:25.785Z"
+    },
+    {
+      "id": "pmid-42748406",
+      "pmid": "42748406",
+      "doi": "10.1097/HC9.0000000000000991",
+      "title": "Conserved hepatic RNA signatures across multiple cohorts reveal novel mechanistic clues for advanced fibrosis in human MASLD.",
+      "category": "Hepatology",
+      "source": "Hepatology communications",
+      "summary": "Fibrosis development in patients with metabolic dysfunction-associated steatotic liver disease (MASLD) is a key indicator of disease progression and clinical outcome. Bulk and single-cell transcriptomics on human tissue have advanced understanding of fibrosis progression, but interstudy heterogeneity and limited sample size hinder the identification of consistent and targetable fibrogenic mechanisms. To identify c…",
+      "fullDetails": "Fibrosis development in patients with metabolic dysfunction-associated steatotic liver disease (MASLD) is a key indicator of disease progression and clinical outcome. Bulk and single-cell transcriptomics on human tissue have advanced understanding of fibrosis progression, but interstudy heterogeneity and limited sample size hinder the identification of consistent and targetable fibrogenic mechanisms. To identify conserved fibrogenic mechanisms, we performed a comprehensive meta-analysis of hepatic transcriptomic data with fibrosis stage characterized from ~1000 patients with MASLD. Our meta-analysis revealed 846 differentially regulated genes associated with fibrosis progression (F3-4 vs. F0-1). Pathway analysis showed that these genes are involved in matrix organization (THBS2, ADAMTSL2), inflammation (CXCL6, CCL19), solute transport (SLC13A5, SLC16A10), and metabolism (AADAT, GRAMD1B). scRNA-seq-based deconvolution revealed increased proportions of immune (CD4+ T cells), endothelial (HA endo cells), and mesenchymal (myofibroblasts) cell types, and loss of LSECs in patients with advanced fibrosis in the meta-analysis. Finally, analysis of ligand-receptor pairs identified putative cell-matrix interactions (MMP7-CDH6), cell signaling (PDGFD-PDGFRA), and immune cell interactions (ANXA1-FPR1) associated with fibrosis conserved across multiple datasets and enriched in patients with fibrosis. We identified conserved transcriptomic changes and gene networks in patients with advanced fibrosis, as well as putative ligand-receptor interactions that facilitate cell-cell interactions that drive fibrosis. These findings will inform mechanistic studies and the development of anti-fibrotic therapies.",
+      "practicalTakeaways": [],
+      "date": "2026 09 16",
+      "status": "Evidence review",
+      "references": "Hepatology communications · 2026 09 16 · PMID: 42748406 · DOI: 10.1097/HC9.0000000000000991",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748406/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-17T09:26:18.187Z"
+    },
+    {
+      "id": "pmid-42748427",
+      "pmid": "42748427",
+      "doi": "10.1056/NEJMoa2603816",
+      "title": "Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal.",
+      "category": "Endoscopy",
+      "source": "The New England journal of medicine",
+      "summary": "More evidence is needed to inform recommendations for intervals of colonoscopy surveillance after polyp removal. In this ongoing noninferiority trial conducted in eight European countries, we randomly assigned patients with high-risk adenomas (defined as ≥1 adenoma with a diameter of ≥10 mm, high-grade dysplasia, or villous growth or 3 to 10 adenomas of any kind) to undergo a first colonoscopy at 5 years after pol…",
+      "fullDetails": "More evidence is needed to inform recommendations for intervals of colonoscopy surveillance after polyp removal. In this ongoing noninferiority trial conducted in eight European countries, we randomly assigned patients with high-risk adenomas (defined as ≥1 adenoma with a diameter of ≥10 mm, high-grade dysplasia, or villous growth or 3 to 10 adenomas of any kind) to undergo a first colonoscopy at 5 years after polyp removal or at 3 years; surveillance at 3 years is currently recommended in guidelines. The 3-year group also underwent colonoscopy at 5 years. The primary end point is the cumulative incidence of colorectal cancer at 10 years, with a prespecified noninferiority margin of 0.7 percentage points for the upper boundary of the confidence interval for the difference between the two groups. Here, we report the results of an interim analysis conducted after 5.5 years of follow-up. Inverse probability weighting was used to account for missing data owing to nonparticipation in surveillance colonoscopy at 5 years. In this analysis, the incidence of colorectal cancer is reported with a one-sided 99.12% confidence interval; for the final analysis at 10 years, the plan is to calculate a 95.33% confidence interval to maintain an overall type I error of 5%. A total of 10,799 patients underwent randomization: 5398 patients were assigned to the 5-year group and 5401 to the 3-year group. The 5-year cumulative incidence of colorectal cancer was 0.77% with less-frequent surveillance and 0.82% with more-frequent surveillance (difference, -0.05 percentage points); the upper boundary of the 99.12% confidence interval was 0.68, which met the criterion for noninferiority. The distribution of cancer stage at diagnosis did not appear to differ substantially between the two groups. A total of 5 patients died of colorectal cancer: 3 patients (0.06%) in the 5-year group and 2 (0.04%) in the 3-year group. In this interim analysis of a 10-year noninferiority trial, beginning surveillance colonoscopy at 5 years after polyp removal was noninferior to beginning at 3 years with respect to the cumulative incidence of colorectal cancer at 5 years among patients with high-risk adenomas. (Funded by the Research Council of Norway and others; EPoS II ClinicalTrials.gov number, NCT02319928.).",
+      "practicalTakeaways": [],
+      "date": "2026 09 16",
+      "status": "Guideline candidate",
+      "references": "The New England journal of medicine · 2026 09 16 · PMID: 42748427 · DOI: 10.1056/NEJMoa2603816",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42748427/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-17T09:26:18.188Z"
+    },
+    {
+      "id": "pmid-42745098",
+      "pmid": "42745098",
+      "doi": "10.1007/s12029-026-01578-9",
+      "title": "Postoperative ctDNA-Guided Adjuvant Therapy in Resected Colorectal Cancer: A Systematic Review and Meta-analysis of Prognostic Validity Versus Treatment-Decision Utility.",
+      "category": "Gastroenterology",
+      "source": "Journal of gastrointestinal cancer",
+      "summary": "Postoperative circulating tumor DNA (ctDNA) is a strong marker of molecular residual disease after curative-intent colorectal cancer resection, but prognostic validity alone does not establish treatment-decision utility. We performed a PRISMA 2020 systematic review and meta-analysis with search coverage through March 31, 2026, separating randomized ctDNA-guided treatment-decision evidence from prospective prognost…",
+      "fullDetails": "Postoperative circulating tumor DNA (ctDNA) is a strong marker of molecular residual disease after curative-intent colorectal cancer resection, but prognostic validity alone does not establish treatment-decision utility. We performed a PRISMA 2020 systematic review and meta-analysis with search coverage through March 31, 2026, separating randomized ctDNA-guided treatment-decision evidence from prospective prognostic cohorts, platform-trial evidence, implementation evidence, and ongoing trials. Thirty-eight reports or programs were included in the evidence map, and seven independent prospective cohorts contributed to the prognostic meta-analysis. Postoperative ctDNA positivity was associated with increased recurrence risk (pooled hazard ratio, 7.60; 95% CI, 4.70-12.31), with substantial heterogeneity (I²=80.6%) and a wide prediction interval (1.60-36.25). Decision evidence was scenario-specific: DYNAMIC supports consideration of selective stage II colon cancer de-escalation, whereas DYNAMIC-III did not establish non-inferiority for routine stage III de-escalation. Current evidence does not support routine empiric escalation for MRD-positive disease. Postoperative ctDNA should therefore be interpreted as a powerful risk-stratification tool whose treatment-changing role remains limited to selected clinical contexts.",
+      "practicalTakeaways": [],
+      "date": "2026 09 16",
+      "status": "Clinical trial",
+      "references": "Journal of gastrointestinal cancer · 2026 09 16 · PMID: 42745098 · DOI: 10.1007/s12029-026-01578-9",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745098/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-17T09:26:18.188Z"
+    },
+    {
+      "id": "pmid-42745769",
+      "pmid": "42745769",
+      "doi": "10.3389/fendo.2026.1942151",
+      "title": "Incremental effects of SGLT2 inhibitors, GLP-1 receptor agonists, and pioglitazone in type 2 diabetes and MASLD across Asian study settings: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Frontiers in endocrinology",
+      "summary": "We evaluated the incremental hepatic and metabolic effects of adding sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 receptor agonists (GLP-1RAs), or pioglitazone to comparable background glucose-lowering therapy in Asian adults with type 2 diabetes mellitus (T2DM) and metabolic dysfunction-associated steatotic liver disease (MASLD). We systematically searched PubMed, Embase, the Cochran…",
+      "fullDetails": "We evaluated the incremental hepatic and metabolic effects of adding sodium-glucose cotransporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 receptor agonists (GLP-1RAs), or pioglitazone to comparable background glucose-lowering therapy in Asian adults with type 2 diabetes mellitus (T2DM) and metabolic dysfunction-associated steatotic liver disease (MASLD). We systematically searched PubMed, Embase, the Cochrane Library, and Web of Science through 30 June 2026. Two reviewers independently screened studies, extracted data, and assessed risk of bias. Eligible trials evaluated the addition of a study drug to background glucose-lowering management that was comparable between randomized groups and either remained stable or followed a prespecified adjustment protocol. Changes from baseline in alanine aminotransferase (ALT) and glycated hemoglobin (HbA1c) were coprimary outcomes. Secondary outcomes included aspartate aminotransferase, gamma-glutamyl transferase, magnetic resonance imaging-proton density fat fraction, liver stiffness, fibrosis-4 index, fasting plasma glucose, lipid parameters, body mass index, serum adiponectin, and systolic blood pressure. Random-effects pairwise meta-analyses were performed, and GRADE certainty was assessed for the two coprimary outcomes. Safety outcomes were synthesized narratively because reporting was heterogeneous and frequently incomplete. We included eleven randomized trials: 692 participants were randomized into eligible comparisons, of which 642 participated in the coprimary efficacy analyses. Moderate certainty was found for a reduction in ALT with the addition of an SGLT2 inhibitor compared with background therapy alone (mean difference [MD], - 7.56 U/L; 95% confidence interval [CI], - 11.24 to - 3.88); however, there was little or no clinically important further benefit observed for HbA1c (MD, - 0.09%; 95% CI, - 0.27 to 0.08; moderate certainty). Modest reductions in ALT were suggested by moderate certainty for GLP-1RAs (MD, - 6.71 U/L; 95% CI, - 11.53 to - 1.89) while low certainty indicated an HbA1c reduction (MD, - 0.48%; 95% CI, - 0.83 to - 0.14). Secondary exploratory findings favoring add-on therapy existed, although they are unadjusted for multiplicity. The comparative safety could not be assessed reliably. In short-term randomized trials conducted in Asian study settings, adding SGLT2 inhibitors or GLP-1RAs may improve selected hepatic and metabolic surrogate outcomes. The available evidence does not support a treatment-class ranking, and the durability and clinical significance of these changes remain uncertain because follow-up was short and several comparisons were based on sparse evidence. Comparative safety also remains uncertain because adverse-event reporting was heterogeneous and incomplete. https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420251231137.",
+      "practicalTakeaways": [],
+      "date": "2026 09 16",
+      "status": "Clinical trial",
+      "references": "Frontiers in endocrinology · 2026 09 16 · PMID: 42745769 · DOI: 10.3389/fendo.2026.1942151",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42745769/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-17T09:26:18.189Z"
+    },
+    {
+      "id": "pmid-42744764",
+      "pmid": "42744764",
+      "doi": "10.1002/cnr2.70672",
+      "title": "Survival Outcomes With Cadonilimab Versus PD-(L)1 Therapy in Front-Line Gastric Cancer: A Network Meta-Analysis.",
+      "category": "Hepatology",
+      "source": "Cancer reports (Hoboken, N.J.)",
+      "summary": "The FDA Oncologic Drugs Advisory Committee (ODAC) highlighted that the risk-benefit profile for patients with low PD-L1 expression remains unclear in front-line treatment of HER2-negative gastric and gastroesophageal junction (GC/GEJ) cancer with PD-(L)1 therapy. The first PD-1/CTLA-4 bispecific antibody (BsAb), cadonilimab, has been approved, but it is unknown if it can extend the PD-(L)1 regimen to lower PD-L1 p…",
+      "fullDetails": "The FDA Oncologic Drugs Advisory Committee (ODAC) highlighted that the risk-benefit profile for patients with low PD-L1 expression remains unclear in front-line treatment of HER2-negative gastric and gastroesophageal junction (GC/GEJ) cancer with PD-(L)1 therapy. The first PD-1/CTLA-4 bispecific antibody (BsAb), cadonilimab, has been approved, but it is unknown if it can extend the PD-(L)1 regimen to lower PD-L1 patients. To indirectly compare the survival outcomes of cadonilimab versus PD-(L)1 therapy in first-line HER2-negative gastric and gastroesophageal junction cancer, with particular focus on patients with low PD-L1 expression, using a network meta-analysis. Randomized controlled trials with ICIs as first-line treatment were searched in public databases and FDA ODAC up to December 31, 2024. A network meta-analysis was conducted to evaluate the efficacy and safety of approved ICI-based treatments to refine the optimal approach for front-line GC/GEJ. A total of 7127 patients from eight Phase III trials were included. All ICIs-based therapies significantly improved overall survival (OS) compared to chemotherapy. In indirect comparisons, cadonilimab plus XELOX was associated with numerically more favorable OS (HR = 0.78, 95% CI: 0.62-0.98) compared with PD-(L)1 inhibitors. Numerical trends toward longer survival were observed across subgroups, including patients with PD-L1 < 10 (HR = 0.77, 95% CI: 0.58-1.01) and liver metastasis (HR = 0.67, 95% CI: 0.49-0.93), both historically considered immunotherapy-insensitive populations. All ICIs improved PFS compared to chemotherapy. Cadonilimab was associated with numerically better PFS versus PD-(L)1 inhibitors in indirect comparisons (HR = 0.70, 95% CI: 0.57-0.86). The safety analysis showed no significant increase in severe adverse events. In this indirect comparison, cadonilimab showed more favorable survival outcomes versus PD-(L)1 inhibitors in first-line GC/GEJ. Subgroup benefits were observed in liver metastasis, while the PD-L1 < 10 subgroup showed numerical trends. These results highlight the importance of selecting appropriate ICIs to optimize outcomes.",
+      "practicalTakeaways": [],
+      "date": "2026 09 15",
+      "status": "Clinical trial",
+      "references": "Cancer reports (Hoboken, N.J.) · 2026 09 15 · PMID: 42744764 · DOI: 10.1002/cnr2.70672",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744764/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-17T09:26:18.189Z"
     }
   ]
 }
