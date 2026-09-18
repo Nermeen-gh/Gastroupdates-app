@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-17",
+  "lastChecked": "2026-09-18",
   "items": [
     {
       "id": "pmid-42486794",
@@ -5154,6 +5154,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42744764/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-17T09:26:18.189Z"
+    },
+    {
+      "id": "pmid-42750488",
+      "pmid": "42750488",
+      "doi": "10.1096/fj.202602535R",
+      "title": "Regulatory Mechanisms Within Multicellular Signaling Networks in Liver Ischemia-Reperfusion Injury: A Systematic Review Focusing on Cell-Type-Specific Interactions.",
+      "category": "Hepatology",
+      "source": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "summary": "Hepatic ischemia-reperfusion injury (HIRI) is a common and severe complication in various clinical scenarios, such as liver transplantation, hepatectomy, and liver trauma, significantly affecting patient prognosis and potentially leading to liver failure. The mechanism of HIRI is complex, involving dynamic interactions among multiple cell types in the liver, primarily comprising hepatocytes, Kupffer cells (KCs), h…",
+      "fullDetails": "Hepatic ischemia-reperfusion injury (HIRI) is a common and severe complication in various clinical scenarios, such as liver transplantation, hepatectomy, and liver trauma, significantly affecting patient prognosis and potentially leading to liver failure. The mechanism of HIRI is complex, involving dynamic interactions among multiple cell types in the liver, primarily comprising hepatocytes, Kupffer cells (KCs), hepatic stellate cells (HSCs), and hepatic sinusoidal endothelial cells (LSECs). Current studies indicate that these cells mediate the inflammatory response, oxidative stress, and cell death processes through signaling pathways, forming the core mechanism of liver tissue damage. However, the intercellular regulatory network has not been fully elucidated, limiting the development of effective therapeutic strategies. This article systematically reviews the mutual regulatory mechanisms of various liver cells during hepatic ischemia-reperfusion, focusing on intercellular signal communication and pathophysiological changes, and integrates recent advancements to evaluate their potential applications in disease prevention and treatment, aiming to provide theoretical support and novel therapeutic approaches for clinical interventions in HIRI.",
+      "practicalTakeaways": [],
+      "date": "2026 09 17",
+      "status": "Evidence review",
+      "references": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology · 2026 09 17 · PMID: 42750488 · DOI: 10.1096/fj.202602535R",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42750488/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-18T08:59:45.585Z"
+    },
+    {
+      "id": "pmid-42752723",
+      "pmid": "42752723",
+      "doi": "10.1590/acb415326",
+      "title": "Normothermic machine perfusion versus static cold storage for liver transplantation: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Acta cirurgica brasileira",
+      "summary": "To compare the effectiveness of normothermic machine perfusion (NMP) with static cold storage (SCS) in preserving transplantable livers, focusing on early postoperative complications. A PRISMA 2020-compliant search of PubMed, Embase, Scopus, Cochrane Library and Web of Science identified comparative studies of NMP versus SCS. Five studies met the criteria (two randomized controlled trials, and three observational…",
+      "fullDetails": "To compare the effectiveness of normothermic machine perfusion (NMP) with static cold storage (SCS) in preserving transplantable livers, focusing on early postoperative complications. A PRISMA 2020-compliant search of PubMed, Embase, Scopus, Cochrane Library and Web of Science identified comparative studies of NMP versus SCS. Five studies met the criteria (two randomized controlled trials, and three observational cohorts; 630 recipients). Random-effects meta-analysis was performed in RStudio, reporting risk ratio (RR), 95% confidence interval (95%CI), p-value and heterogeneity (I2). NMP significantly lowered the incidence of composite early postoperative complications versus SCS (RR = 0.60; 95%CI 0.47-0.75; p < 0.0001), corresponding to a 40% relative risk reduction. Between-study heterogeneity was negligible (I2 = 0 %). Subgroup analyses revealed no significant effect modification by study design (p = 0.75), donation after circulatory death proportion (p = 0.91), preservation duration (p = 0.51), donor age (p = 0.59) or perfusion technique (p = 0.37). NMP demonstrates clinically superior graft preservation compared with SCS, consistently reducing early complications after liver transplantation. Adoption of NMP may expand the use of marginal organs and improve post-transplant outcomes.",
+      "practicalTakeaways": [],
+      "date": "2026 09 17",
+      "status": "Clinical trial",
+      "references": "Acta cirurgica brasileira · 2026 09 17 · PMID: 42752723 · DOI: 10.1590/acb415326",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42752723/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-18T08:59:45.586Z"
+    },
+    {
+      "id": "pmid-42753809",
+      "pmid": "42753809",
+      "doi": "10.6004/jnccn.2026.0043",
+      "title": "NCCN Guidelines® Insights: Esophageal and Esophagogastric Junction Cancers, Version 4.2026.",
+      "category": "Gastroenterology",
+      "source": "Journal of the National Comprehensive Cancer Network : JNCCN",
+      "summary": "Esophageal cancer is the seventh leading cause of cancer-related deaths worldwide. Esophageal cancers are histologically classified as squamous cell carcinoma (ESCC) or adenocarcinoma (EAC), which differ in their etiology, pathology, tumor location, therapeutics, and prognosis. In patients with locally advanced or metastatic disease, systemic therapy can provide palliation, improve survival, and/or enhance quality…",
+      "fullDetails": "Esophageal cancer is the seventh leading cause of cancer-related deaths worldwide. Esophageal cancers are histologically classified as squamous cell carcinoma (ESCC) or adenocarcinoma (EAC), which differ in their etiology, pathology, tumor location, therapeutics, and prognosis. In patients with locally advanced or metastatic disease, systemic therapy can provide palliation, improve survival, and/or enhance quality of life. The implementation of biomarker testing and immunotherapy has had a significant impact on clinical practice and patient care. This selection from the NCCN Guidelines for Esophageal and Esophagogastric Junction Cancers highlights current recommendations for advanced ESCC, including the evolving landscape of first-line immunotherapy.",
+      "practicalTakeaways": [],
+      "date": "2026 09 17",
+      "status": "Guideline candidate",
+      "references": "Journal of the National Comprehensive Cancer Network : JNCCN · 2026 09 17 · PMID: 42753809 · DOI: 10.6004/jnccn.2026.0043",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42753809/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-18T08:59:45.586Z"
     }
   ]
 }
