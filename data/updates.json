@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-19",
+  "lastChecked": "2026-09-20",
   "items": [
     {
       "id": "pmid-42486794",
@@ -5307,6 +5307,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42755020/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-19T08:47:49.391Z"
+    },
+    {
+      "id": "pmid-42763214",
+      "pmid": "42763214",
+      "doi": "10.3760/cma.j.cn112137-20260326-00815",
+      "title": "[Efficacy and safety of endoscopic submucosal dissection versus surgery for early gastric cancer in patients aged 75 years and above: a systematic review and meta-analysis].",
+      "category": "Endoscopy",
+      "source": "Zhonghua yi xue za zhi",
+      "summary": "Objective: To systematically evaluate the clinical efficacy and safety of endoscopic submucosal dissection (ESD) versus surgical resection for early gastric cancer (EGC) in patients aged 75 years and above. Methods: A systematic search was conducted in PubMed, Embase, Cochrane Library, and CNKI from the inception of the database to April 2026, to include relevant literature on ESD and surgery for aged 75 years and…",
+      "fullDetails": "Objective: To systematically evaluate the clinical efficacy and safety of endoscopic submucosal dissection (ESD) versus surgical resection for early gastric cancer (EGC) in patients aged 75 years and above. Methods: A systematic search was conducted in PubMed, Embase, Cochrane Library, and CNKI from the inception of the database to April 2026, to include relevant literature on ESD and surgery for aged 75 years and above patients with EGC. The experimental group consisted of patients aged≥75 years treated with ESD (ESD group), while the control group included those treated with surgery (surgery group). According to inclusion and exclusion criteria, two researchers independently performed literature screening, data extraction using the Newcastle-Ottawa Scale, and conducted meta-analysis using RevMan 5.4 and Stata 18.0 software to assess heterogeneity using I 2 . Outcome measures included the 5-year survival rate, recurrence rate, recurrence-related mortality rate, and tumor incidence rates across different mucosal layers in both groups of patients. Funnel plots and leave-one-out analysis were adopted for publication bias analysis and sensitivity analysis. Results: A total of 6 studies involving 2 045 patients were included, with 988 in the ESD group and 1 057 in the control group. The 5-year survival rate (82.9% vs 77.4%, OR =1.29, 95% CI : 1.01-1.65, P =0.040, I 2 =0) and gastric cancer recurrence rate (8.5% vs 4.3%, OR =2.39, 95% CI : 1.37-4.14, P =0.002, I 2 =24%) were higher in the ESD group than those in the surgical group, whereas the recurrence-related mortality rate was lower in the ESD group (1.9% vs 4.9%, OR =0.47, 95% CI : 0.25-0.86, P =0.020, I 2 =34%). Subgroup analysis by tumor incidence rates across different mucosal layers showed that the proportion of mucosal tumors was higher in the ESD group than that in the surgical group (78.8% vs 38.3%, OR =3.40, 95% CI : 1.15-10.07, P =0.030, I 2 =95%), whereas the proportion of submucosal tumors was lower in the ESD group than in the surgical group (20.7% vs 61.4%, OR =0.29, 95% CI : 0.10-0.87, P =0.030, I 2 =95%). Funnel plot analysis showed that the studies were generally symmetrically distributed on both sides of the pooled effect size (log OR ), forming an inverted funnel shape; sensitivity analysis demonstrated that the point estimates of individual studies fluctuated slightly around the original pooled effect size (log OR =1.05). Conclusion: For EGC patients aged 75 years and above, ESD demonstrates superior clinical efficacy and safety compared to surgical treatment. 目的： 系统评价内镜黏膜下剥离术（ESD）与外科手术治疗75岁及以上早期胃癌（EGC）患者的临床疗效及安全性。 方法： 系统检索PubMed、Embase、Cochrane Library、中国知网数据库，检索时限为建库至2026年4月，纳入采用ESD与外科手术治疗75岁及以上EGC患者的相关文献。试验组（ESD组）为采用ESD治疗75岁及以上EGC患者，对照组（外科手术组）为采用外科手术治疗75岁及以上EGC患者。2名研究者按照纳入与排除标准独立筛选文献和提取资料，采用纽卡斯尔-渥太华量表评估纳入文献的质量，应用RevMan 5.4和Stata 18.0软件进行meta分析，以 I 2 评估异质性。结局指标为两组患者的5年生存率、胃癌复发率、复发相关致死率及不同黏膜层面的肿瘤发生率。采用漏斗图和逐一剔除法进行发表偏倚分析与敏感性分析。 结果： 共纳入6篇文献2 045例患者，其中ESD组988例，对照组1 057例。ESD组5年生存率（82.9%比77.4%， OR =1.29，95% CI ：1.01~1.65， P =0.040， I 2 =0）、胃癌复发率（8.5%比4.3%， OR =2.39，95% CI ：1.37~4.14， P =0.002， I 2 =24%）均高于外科手术组；复发相关致死率低于外科手术组（1.9%比4.9%， OR =0.47，95% CI ：0.25~0.86， P =0.020， I 2 =34%）。不同黏膜层面的肿瘤发生率的亚组分析显示，ESD组黏膜层肿瘤发生率高于外科手术组（78.8%比38.3%， OR =3.40，95% CI ：1.15~10.07， P =0.030， I 2 =95%）；而黏膜下层肿瘤发生率低于外科手术组（20.7%比61.4%， OR =0.29，95% CI ：0.10~0.87， P =0.030， I 2 =95%）。漏斗图提示各研究在合并效应量（log OR ）两侧整体基本对称分布，呈倒漏斗状分布；敏感性分析显示各研究的效应点估计值均在合并效应量（log OR =1.05）附近微幅波动。 结论： 对于75岁及以上EGC患者，ESD治疗的疗效及安全性优于外科手术。.",
+      "practicalTakeaways": [],
+      "date": "2026 09 19",
+      "status": "Evidence review",
+      "references": "Zhonghua yi xue za zhi · 2026 09 19 · PMID: 42763214 · DOI: 10.3760/cma.j.cn112137-20260326-00815",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42763214/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-20T09:16:38.308Z"
+    },
+    {
+      "id": "pmid-42760401",
+      "pmid": "42760401",
+      "doi": "10.1007/s00431-026-07419-y",
+      "title": "Risk factors for acute kidney injury after pediatric liver transplantation: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "European journal of pediatrics",
+      "summary": "This study sought to systematically evaluate the incidence rates and risk factors of acute kidney injury (AKI) following pediatric liver transplantation (PLT), providing robust evidence for early identification of high-risk pediatric patients and development of perioperative intervention strategies. PubMed, Cochrane Library, Web of Science, and Embase were searched from their inception to September 2025 for observ…",
+      "fullDetails": "This study sought to systematically evaluate the incidence rates and risk factors of acute kidney injury (AKI) following pediatric liver transplantation (PLT), providing robust evidence for early identification of high-risk pediatric patients and development of perioperative intervention strategies. PubMed, Cochrane Library, Web of Science, and Embase were searched from their inception to September 2025 for observational studies on risk factors for AKI following PLT. Literature screening, data extraction, and quality assessment were independently completed by two researchers. The Newcastle-Ottawa Scale (NOS) was used to evaluate the quality of included studies. Meta-analysis was conducted using StataMP 17.0. In total, 17 retrospective cohort studies were included, involving 2986 pediatric liver transplant recipients. The pooled incidence rate of AKI following PLT was 30.7% [95% CI (25.0%, 36.3%)]. Several perioperative and patient-related factors may be associated with postoperative AKI. However, many of these factors were evaluated in only a small number of studies, and the corresponding pooled estimates should therefore be interpreted cautiously. Sensitivity analyses showed that the overall pooled estimates were robust, and the impact of publication bias was minimal. Conclusion: The incidence rate of AKI following PLT is relatively high. Furthermore, its occurrence is influenced by multiple factors, including preoperative hepatic impairment, coagulation abnormalities, inadequate nutrition and oxygen delivery, intraoperative blood loss, transfusion burden, and ischemia-reperfusion injury, and the requirement for continuous postoperative organ support. Clinically, comprehensive risk assessment and management across the entire perioperative period should be strengthened. Moreover, early identification of high-risk patients and implementation of targeted interventions should be prioritized to reduce the risk of AKI and improve clinical outcomes. However, the evidence for many individual factors was derived from a limited number of studies and should be interpreted cautiously. Further large-scale prospective studies are needed to validate these associations and guide risk-stratified perioperative management.",
+      "practicalTakeaways": [],
+      "date": "2026 09 18",
+      "status": "Evidence review",
+      "references": "European journal of pediatrics · 2026 09 18 · PMID: 42760401 · DOI: 10.1007/s00431-026-07419-y",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760401/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-20T09:16:38.308Z"
+    },
+    {
+      "id": "pmid-42760319",
+      "pmid": "42760319",
+      "doi": "10.1038/s41392-026-02951-7",
+      "title": "A randomized, double-blind, active-controlled phase 3 multicenter trial of rHSA for cirrhotic ascites.",
+      "category": "Hepatology",
+      "source": "Signal transduction and targeted therapy",
+      "summary": "In this multicenter, randomized, double-blind, active-controlled phase 3 trial (NCT06553456), we assessed the equivalence of recombinant human serum albumin (rHSA) expressed in Pichia pastoris to plasma-derived human serum albumin (pHSA) for elevating serum albumin (ALB) levels and non-inferiority regarding ascites improvement in patients with cirrhotic ascites. Using a rigorous dual-endpoint design, the primary e…",
+      "fullDetails": "In this multicenter, randomized, double-blind, active-controlled phase 3 trial (NCT06553456), we assessed the equivalence of recombinant human serum albumin (rHSA) expressed in Pichia pastoris to plasma-derived human serum albumin (pHSA) for elevating serum albumin (ALB) levels and non-inferiority regarding ascites improvement in patients with cirrhotic ascites. Using a rigorous dual-endpoint design, the primary endpoint was the change from baseline in serum ALB immediately after the final intravenous infusion. The key secondary endpoint was the ascites improvement rate after the final administration. Ultimately, 364 out of 390 patients completed the study. Statistical equivalence was established for the primary endpoint, with least-squares mean ALB changes of 11.16 ± 0.364 g/L (rHSA) and 10.95 ± 0.395 g/L (pHSA) (LSM difference: 0.21 g/L [95% CI: -0.75, 1.16]). For the secondary endpoint, ascites improvement was non-inferior, demonstrating a 58.0% response rate for rHSA versus 48.7% for pHSA (difference: 9.4% [95% CI: -0.56%, 19.10%]). Both endpoints of the trial were successfully achieved. The overall incidence of adverse events was similar in the two groups; crucially, no anti-drug antibodies were detected in the rHSA group. Exploratory analysis revealed that rHSA significantly reduced glycated ALB (-12.24%), whereas pHSA increased it ( + 12.52%) (P < 0.001). Corroborated by LC‒MS characterization, silver-staining purity assessment, and four biochemical quality attributes (free thiol, Hcy, AGEs, and carbonyl levels), this divergence highlights the preserved molecular integrity of rHSA. This trial demonstrated that in patients with cirrhotic ascites, rHSA was statistically equivalent to pHSA in elevating serum ALB and non-inferior in ascites improvement, with a favorable safety profile.",
+      "practicalTakeaways": [],
+      "date": "2026 09 18",
+      "status": "Clinical trial",
+      "references": "Signal transduction and targeted therapy · 2026 09 18 · PMID: 42760319 · DOI: 10.1038/s41392-026-02951-7",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760319/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-20T09:16:38.308Z"
     }
   ]
 }
