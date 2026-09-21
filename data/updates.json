@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-20",
+  "lastChecked": "2026-09-21",
   "items": [
     {
       "id": "pmid-42486794",
@@ -5358,6 +5358,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42760319/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-20T09:16:38.308Z"
+    },
+    {
+      "id": "pmid-42765191",
+      "pmid": "42765191",
+      "doi": "10.1002/dmrr.70231",
+      "title": "Metabolic Dysfunction-Associated Steatotic Liver Disease in Adults With Acromegaly: A Meta-Analysis of Observational Studies.",
+      "category": "Hepatology",
+      "source": "Diabetes/metabolism research and reviews",
+      "summary": "Acromegaly is a chronic, progressive disease characterised by excess growth hormone secretion and elevated circulating insulin-like growth factor 1 levels. Data on hepatic fat content and liver stiffness in adults with active or controlled acromegaly remain inconsistent. We systematically searched PubMed and Scopus from inception through 15 June 2026 to identify studies comparing hepatic steatosis and liver stiffn…",
+      "fullDetails": "Acromegaly is a chronic, progressive disease characterised by excess growth hormone secretion and elevated circulating insulin-like growth factor 1 levels. Data on hepatic fat content and liver stiffness in adults with active or controlled acromegaly remain inconsistent. We systematically searched PubMed and Scopus from inception through 15 June 2026 to identify studies comparing hepatic steatosis and liver stiffness in adults with acromegaly and in controls. Hepatic fat content was quantified using magnetic resonance imaging (MRI)-based techniques, and liver stiffness was assessed using vibration-controlled transient elastography or other elastography methods. Pooled effect sizes were reported as weighted mean differences (WMDs) with 95% confidence intervals. We identified 9 observational studies, including 190 patients with acromegaly and 235 age-, sex-, and BMI-matched controls. Compared with controls, patients with acromegaly had significantly lower hepatic fat content, as assessed by MRI-based techniques (six studies; random-effects WMD -3.04% [95% CI -4.81 to -1.26%]; I 2 = 43.7%). This difference remained significant in patients with active acromegaly (6 studies; WMD -2.96% [95% CI -4.30 to -1.62]; I 2 = 0%), but not in those with controlled acromegaly (four studies; WMD -2.57% [95% CI -6.72 to 1.59]; I 2 = 70.3%). Liver stiffness measurements did not differ between patients with acromegaly and control subjects (four studies; WMD 0.94 kPa [95% CI -0.45 to 2.33], I 2 = 87.9%). Sensitivity analyses yielded consistent findings. Our meta-analysis suggests that patients with acromegaly have significantly lower hepatic fat content than controls, particularly among those with active disease, whereas liver stiffness does not appear to differ significantly between the groups.",
+      "practicalTakeaways": [],
+      "date": "2026 09 21",
+      "status": "Evidence review",
+      "references": "Diabetes/metabolism research and reviews · 2026 09 21 · PMID: 42765191 · DOI: 10.1002/dmrr.70231",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765191/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-21T09:55:19.971Z"
     }
   ]
 }
