@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-21",
+  "lastChecked": "2026-09-22",
   "items": [
     {
       "id": "pmid-42486794",
@@ -5436,6 +5436,57 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-09-21T09:55:19.971Z",
       "reviewedAt": "2026-09-22T04:06:27.809Z"
+    },
+    {
+      "id": "pmid-42767745",
+      "pmid": "42767745",
+      "doi": "10.1136/bmjopen-2026-120621",
+      "title": "Modified single-stapled anastomosis in laparoscopic or robotic low anterior resection for rectal cancer: protocol for a multicentre randomised controlled trial.",
+      "category": "Gastroenterology",
+      "source": "BMJ open",
+      "summary": "Anastomotic leakage remains one of the most serious complications after low anterior resection for rectal cancer. The modified single-stapled technique (MST) eliminates the intersection between linear and circular staple lines and may reduce leakage compared with the conventional double-stapled technique (DST). This trial aims to determine whether MST reduces anastomotic leakage in patients undergoing laparoscopic…",
+      "fullDetails": "Anastomotic leakage remains one of the most serious complications after low anterior resection for rectal cancer. The modified single-stapled technique (MST) eliminates the intersection between linear and circular staple lines and may reduce leakage compared with the conventional double-stapled technique (DST). This trial aims to determine whether MST reduces anastomotic leakage in patients undergoing laparoscopic or robotic low anterior resection. This is a multicentre, parallel-group and superiority randomised controlled trial conducted in six tertiary hospitals in South Korea. A total of 450 patients undergoing laparoscopic or robotic low anterior resection for rectal cancer will be randomised in a 1:1 ratio to MST or DST. Randomisation will be stratified by sex and neoadjuvant treatment. The primary outcome is anastomotic leakage within 30 days after surgery, confirmed by clinical findings and routine postoperative abdominopelvic CT. Secondary outcomes include additional distal resection margin length, local recurrence, 3-year disease-free survival and overall survival. Analyses will follow the intention-to-treat principle. The study was approved by the Institutional Review Board of Korea University Anam Hospital (2025AN0114). Results will be disseminated through peer-reviewed journals and scientific meetings. NCT07376980.",
+      "practicalTakeaways": [],
+      "date": "2026 09 21",
+      "status": "Clinical trial",
+      "references": "BMJ open · 2026 09 21 · PMID: 42767745 · DOI: 10.1136/bmjopen-2026-120621",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42767745/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-22T09:17:43.988Z"
+    },
+    {
+      "id": "pmid-42765565",
+      "pmid": "42765565",
+      "doi": "10.1093/bjsopen/zrag088",
+      "title": "Preventing pancreatic fistula following pancreatectomy: meta-analysis of randomized clinical trials.",
+      "category": "Gastroenterology",
+      "source": "BJS open",
+      "summary": "The majority of postoperative morbidity and mortality after partial pancreatectomy is attributable to postoperative pancreatic fistula. Several interventions to prevent postoperative pancreatic fistula have been assessed in randomized clinical trials but consensus on their efficacy is lacking. This is the first systematic review and meta-analysis of randomized trials focusing on strategies to prevent postoperative…",
+      "fullDetails": "The majority of postoperative morbidity and mortality after partial pancreatectomy is attributable to postoperative pancreatic fistula. Several interventions to prevent postoperative pancreatic fistula have been assessed in randomized clinical trials but consensus on their efficacy is lacking. This is the first systematic review and meta-analysis of randomized trials focusing on strategies to prevent postoperative pancreatic fistula after all types of partial pancreatectomy. Eligible randomized clinical trials assessing postoperative pancreatic fistula following partial pancreatectomy were included from the Evidence Map of Pancreatic Surgery database (2005-2025). As primary endpoint, both the 2005 and 2016 International Study Group for Pancreatic Surgery definitions of grade B/C postoperative pancreatic fistula were accepted. Interventions shown to reduce postoperative pancreatic fistula in at least one randomized trial were identified, and meta-analysis undertaken for those with at least three available trials, irrespective of their outcome. Overall, 193 RCTs were included with 29 408 patients from 24 countries. The pooled rate of postoperative pancreatic fistula grade B/C was 15.1%: 14.2% after pancreatoduodenectomy and 19.1% after left pancreatectomy. Overall, 24 trials identified 18 interventions as effective in reducing the rate of postoperative pancreatic fistula: 11 intraoperative and 7 postoperative. Eight interventions were eligible for meta-analysis, involving 46 trials. Following meta-analysis, three interventions remained effective: drain omission in left pancreatectomy, perioperative use of somatostatin analogues, and administration of perioperative corticosteroids. The certainty of evidence was high for drain omission, moderate for somatostatin analogues, and low for corticosteroids. Eleven trials focused specifically on high-risk patients and four on ongoing postoperative pancreatic fistula. No trial combined interventions. Omission of drains in left pancreatectomy, perioperative use of somatostatin analogues, and administration of perioperative corticosteroids are effective strategies to prevent postoperative pancreatic fistula after partial pancreatectomy. However, current evidence remains immature and further RCTs evaluating these interventions are warranted, as they are likely to change the conclusions of subsequent meta-analyses. Such trials could potentially focus on high-risk patient cohorts and/or assess combinations of interventions.",
+      "practicalTakeaways": [],
+      "date": "2026 09 21",
+      "status": "Guideline candidate",
+      "references": "BJS open · 2026 09 21 · PMID: 42765565 · DOI: 10.1093/bjsopen/zrag088",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765565/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-22T09:17:43.989Z"
+    },
+    {
+      "id": "pmid-42765562",
+      "pmid": "42765562",
+      "doi": "10.1093/bjsopen/zrag102",
+      "title": "Methodological challenges in surgical randomized trials: systematic review of rectal cancer studies.",
+      "category": "Gastroenterology",
+      "source": "BJS open",
+      "summary": "Surgical randomized clinical trials (RCTs) have structural features that differ fundamentally from those of non-surgical trials, which may complicate appraisal using standard assessment frameworks. This methodological systematic review used rectal cancer surgery RCTs as a high-complexity exemplar to identify surgically specific methodological challenges and to examine their interaction with established tools for a…",
+      "fullDetails": "Surgical randomized clinical trials (RCTs) have structural features that differ fundamentally from those of non-surgical trials, which may complicate appraisal using standard assessment frameworks. This methodological systematic review used rectal cancer surgery RCTs as a high-complexity exemplar to identify surgically specific methodological challenges and to examine their interaction with established tools for assessing risk of bias and certainty of evidence. A systematic literature search was conducted in PubMed, Embase, and the Cochrane Library on 1 November 2025. Eligible studies were RCTs evaluating surgery-related interventions for rectal cancer in adult patients, published in English from 2020 onward, with sufficient methodological detail. Included trials were categorized into predefined, mutually exclusive surgical RCT types. Methodological features were descriptively summarized and conceptually mapped to the domains of the revised Cochrane Risk of Bias (RoB 2) tool and the GRADE framework using both quantitative tabulation and narrative synthesis. Of 1529 records identified, 45 publications reporting on 35 RCTs were included. Trials were classified into five surgical RCT categories. Surgically specific methodological challenges were most frequently observed in RoB 2 domains D2 (bias due to deviations from intended interventions) and D4 (bias in measurement of the outcome), as well as in the GRADE domain of indirectness. This review suggests that several challenges encountered when applying RoB 2 and GRADE to surgical RCTs arise from structural characteristics of surgical trial design rather than obvious methodological shortcomings. Contextualizing standard appraisal frameworks within the realities of surgical research may allow for a more nuanced interpretation of existing evidence, inform future trial design, and support more appropriate evidence synthesis.",
+      "practicalTakeaways": [],
+      "date": "2026 09 21",
+      "status": "Clinical trial",
+      "references": "BJS open · 2026 09 21 · PMID: 42765562 · DOI: 10.1093/bjsopen/zrag102",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42765562/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-22T09:17:43.989Z"
     }
   ]
 }
