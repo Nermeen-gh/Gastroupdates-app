@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-25",
+  "lastChecked": "2026-09-26",
   "items": [
     {
       "id": "pmid-42486794",
@@ -5810,6 +5810,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42782000/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-25T09:36:03.727Z"
+    },
+    {
+      "id": "pmid-42789177",
+      "pmid": "42789177",
+      "doi": "10.1007/s11701-026-03968-4",
+      "title": "Robotic versus laparoscopic gastrectomy for gastric cancer in overweight patients, with obesity, or high visceral adiposity: a systematic review and meta-analysis of East Asian Cohorts.",
+      "category": "Gastroenterology",
+      "source": "Journal of robotic surgery",
+      "summary": "High body mass index (BMI) and CT-defined visceral adiposity may increase the technical difficulty of minimally invasive gastrectomy for gastric cancer. Whether robotic gastrectomy offers a comparative advantage over laparoscopic gastrectomy in these adiposity-defined populations is uncertain. PubMed/MEDLINE, Scopus, and the Cochrane Library were searched from inception to 29 August 2026 using prespecified strateg…",
+      "fullDetails": "High body mass index (BMI) and CT-defined visceral adiposity may increase the technical difficulty of minimally invasive gastrectomy for gastric cancer. Whether robotic gastrectomy offers a comparative advantage over laparoscopic gastrectomy in these adiposity-defined populations is uncertain. PubMed/MEDLINE, Scopus, and the Cochrane Library were searched from inception to 29 August 2026 using prespecified strategies; reference lists were also checked. English-language comparative studies of robotic versus laparoscopic gastrectomy for gastric malignancy were eligible when overweight, obesity, or high visceral adiposity was defined categorically and arm-level data were extractable. Two reviewers independently performed screening, extraction, ROBINS-I assessment, and conventional GRADE assessment. Overlapping cohorts were resolved outcome by outcome. Random-effects models used restricted maximum likelihood with modified Hartung-Knapp confidence intervals. Primary outcomes were overall postoperative complications, major postoperative complications, operative time, and estimated blood loss. In total, 16 studies were eligible, all from South Korea, China, or Japan. Overall complications did not differ significantly between robotic and laparoscopic gastrectomy (10 studies; 1,695 participants; RR 0.81, 95% CI 0.60 to 1.10; P = 0.153; I²=0%). Major complications yielded an RR of 0.56 (8 studies; 1,858 participants; 95% CI 0.20 to 1.52; P = 0.210; I²=53%). The pooled mean difference in operative time was + 31.13 min (7 studies; 1,037 participants; 95% CI - 9.60 to + 71.86; P = 0.111; I²=92%), while the mean difference in estimated blood loss was - 10.27 mL (6 studies; 939 participants; 95% CI - 38.20 to + 17.66; P = 0.388; I²=74%). The certainty of evidence was very low for all primary outcomes. In East Asian patients with overweight, obesity, or high visceral adiposity undergoing gastrectomy for gastric cancer, very-low-certainty evidence did not establish a clear difference between robotic and laparoscopic surgery for any primary outcome. Applicability to Western patients remains uncertain. Future prospective multicenter studies, including Western populations and using standardized adiposity definitions and patient-centered outcomes, are needed to clarify the comparative value of robotic and laparoscopic gastrectomy.",
+      "practicalTakeaways": [],
+      "date": "2026 09 25",
+      "status": "Evidence review",
+      "references": "Journal of robotic surgery · 2026 09 25 · PMID: 42789177 · DOI: 10.1007/s11701-026-03968-4",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42789177/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-26T09:20:37.794Z"
+    },
+    {
+      "id": "pmid-42788522",
+      "pmid": "42788522",
+      "doi": "10.1590/S0004-2803.24612026-007",
+      "title": "REGIONAL AND MULTIFACTORIAL PATTERNS OF INFLAMMATORY BOWEL DISEASE IN BRAZIL: A SYSTEMATIC ANALYSIS OF HOT SPOTS IN WESTERN SÃO PAULO AND PARANÁ.",
+      "category": "Gastroenterology",
+      "source": "Arquivos de gastroenterologia",
+      "summary": "Inflammatory Bowel Disease (IBD) is a complex condition influenced by interactions among genetic, environmental, immunological, and behavioral factors. The global rise in IBD, particularly in rapidly urbanizing countries like Brazil, reflects environmental transitions' impact on disease patterns. Regional disparities in diagnostic coverage and environmental factors highlight IBD \"hot spots\", particularly in Wester…",
+      "fullDetails": "Inflammatory Bowel Disease (IBD) is a complex condition influenced by interactions among genetic, environmental, immunological, and behavioral factors. The global rise in IBD, particularly in rapidly urbanizing countries like Brazil, reflects environmental transitions' impact on disease patterns. Regional disparities in diagnostic coverage and environmental factors highlight IBD \"hot spots\", particularly in Western São Paulo and Northwestern Paraná, which share similar socio-economic and environmental characteristics. This study systematically reviews these epidemiological patterns to address gaps and support public health policies. A systematic literature review adhering to PRISMA guidelines was conducted to assess Brazilian IBD epidemiology from 2006 to 2026. Data sources included PubMed, SciELO, and LILACS, with Boolean search strategies incorporating controlled vocabulary and free-text terms. Eligible studies provided primary epidemiological data on IBD incidence, prevalence, and associated risk factors. Hot spots were identified through geospatial analysis using Moran's I index, supported by integrative conceptual models like Directed Acyclic Graphs (DAGs). The review identified prominent IBD hot spots in Western São Paulo and Northwestern Paraná, characterized by shared urbanization (85%+), agro-industrial activity, and dietary transitions. These regions exhibit increased prevalence due to multifactorial mechanisms, such as genetic predisposition, Westernized diets, reduced environmental microbial exposure, and pesticide-related dysbiosis. However, diagnostic infrastructure disparities highlight underreporting in less developed regions, complicating nationwide comparisons. Western São Paulo and Northwestern Paraná form a continuous IBD hot spot influenced by urbanization, agro-industrial practices, and environmental exposures. Addressing these challenges requires integrated public health policies focusing on environmental regulation, nutritional education, and improved diagnostic access. Future longitudinal studies should assess gene-environment interactions and further explore underrepresented regions to enhance IBD management and prevention strategies in Brazil.",
+      "practicalTakeaways": [],
+      "date": "2026 09 25",
+      "status": "Guideline candidate",
+      "references": "Arquivos de gastroenterologia · 2026 09 25 · PMID: 42788522 · DOI: 10.1590/S0004-2803.24612026-007",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788522/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-26T09:20:37.795Z"
+    },
+    {
+      "id": "pmid-42788521",
+      "pmid": "42788521",
+      "doi": "10.1590/S0004-2803.24612025-147",
+      "title": "COVID-19 AND IBD: LOOK BEYOND THE VIRUS. A SYSTEMATIC REVIEW AND META-ANALYSIS FOCUSED ON BIOLOGIC THERAPY CONTINUITY.",
+      "category": "Gastroenterology",
+      "source": "Arquivos de gastroenterologia",
+      "summary": "Whether COVID-19 worsens the longterm course of inflammatory bowel disease (IBD) remains uncertain. We synthesized comparative cohorts to assess IBD outcomes after SARS-CoV-2 infection versus noninfected IBD controls and to evaluate the impact of biologic discontinuation. Systematic review (PRISMA 2020). Adult IBD cohorts with vs without prior SARS-CoV-2. Databases: MEDLINE (PubMed), Web of Science, and Scopus; re…",
+      "fullDetails": "Whether COVID-19 worsens the longterm course of inflammatory bowel disease (IBD) remains uncertain. We synthesized comparative cohorts to assess IBD outcomes after SARS-CoV-2 infection versus noninfected IBD controls and to evaluate the impact of biologic discontinuation. Systematic review (PRISMA 2020). Adult IBD cohorts with vs without prior SARS-CoV-2. Databases: MEDLINE (PubMed), Web of Science, and Scopus; reference lists screened. Time window: Jan 2020 to Dec 2024. Risk of bias: Newcastle-Ottawa. Randomeffects Mantel-Haenszel with REML variance and Hartung-Knapp adjustment; heterogeneity by I2/τ2/Q. Zero events handled via 0.5 continuity correction; sensitivity analyses reported risk differences (percentage points) and studylevel effects for sparse outcomes. Certainty graded with GRADE. Four matched cohorts (n≈1.3k; Italy/USA). Prior SARS-CoV-2 did not worsen IBD clinical course (OR: 1.06; 95%CI: 0.76-1.49), nor alter UC extent (OR: 1.26; 95%CI: 0.33-4.83) or CD location/behavior (OR: 1.00; 95%CI: 0.06-16.15 / OR: 1.00; 95%CI: 0.46-2.18). Conversely, COVID-19 associated with biologic delay/discontinuation (OR: 10.44; 95%CI: 3.56-30.62). Across studies, flares were more frequent when biologics were delayed/stopped (~52% vs ~18%; RD ≈ +34 p.p.). COVID-19 per se does not appear to aggravate IBD outcomes; the clinically actionable signal is treatment continuity. In IBD patients without highrisk features for severe COVID-19, maintaining biologics should be considered to prevent flares.",
+      "practicalTakeaways": [],
+      "date": "2026 09 25",
+      "status": "Evidence review",
+      "references": "Arquivos de gastroenterologia · 2026 09 25 · PMID: 42788521 · DOI: 10.1590/S0004-2803.24612025-147",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42788521/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-26T09:20:37.795Z"
     }
   ]
 }
