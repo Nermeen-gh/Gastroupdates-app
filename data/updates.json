@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-27",
+  "lastChecked": "2026-09-28",
   "items": [
     {
       "id": "pmid-42486794",
@@ -5963,6 +5963,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42794530/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-27T09:59:39.263Z"
+    },
+    {
+      "id": "pmid-42801297",
+      "pmid": "42801297",
+      "doi": "10.3791/72288",
+      "title": "Intratumoral and Peritumoral Features for Predicting Microvascular Invasion in Hepatocellular Carcinoma: Systematic Review and Meta-Analysis.",
+      "category": "Hepatology",
+      "source": "Journal of visualized experiments : JoVE",
+      "summary": "This systematic review and meta-analysis evaluated the diagnostic performance of radiomics-based models for predicting microvascular invasion (MVI) in hepatocellular carcinoma (HCC). MVI is a key determinant of prognosis in HCC, strongly associated with early recurrence and reduced survival following curative treatment. Accurate preoperative prediction of MVI remains challenging using conventional clinical and ima…",
+      "fullDetails": "This systematic review and meta-analysis evaluated the diagnostic performance of radiomics-based models for predicting microvascular invasion (MVI) in hepatocellular carcinoma (HCC). MVI is a key determinant of prognosis in HCC, strongly associated with early recurrence and reduced survival following curative treatment. Accurate preoperative prediction of MVI remains challenging using conventional clinical and imaging features. Radiomics has emerged as a promising approach by enabling quantitative analysis of tumor heterogeneity from medical imaging. This study aimed to systematically evaluate the diagnostic performance of radiomics-based models for predicting MVI in HCC. A systematic review and meta-analysis were conducted, including 26 studies evaluating CT- and MRI-based radiomics models. Data on diagnostic performance were extracted, and pooled analyses were performed using random-effects models, with subgroup analyses by imaging modality and model type. Overall, radiomics models demonstrated good diagnostic performance, with a pooled AUC of 0.85 (95% CI 0.82-0.88). Clinicoradiomics models achieved higher and more consistent performance than radiomics-only models (MRI: 0.87 vs 0.85; CT: 0.87 vs 0.81). Among 3D-based models, the pooled AUC was 0.85 (95% CI 0.82-0.88). In conclusion, radiomics-based models show promising performance for preoperative prediction of MVI in HCC, particularly when combined with clinical variables. However, considerable heterogeneity and limited external validation highlight the need for methodological standardization and prospective multicenter validation before clinical implementation.",
+      "practicalTakeaways": [],
+      "date": "2026 09 27",
+      "status": "Evidence review",
+      "references": "Journal of visualized experiments : JoVE · 2026 09 27 · PMID: 42801297 · DOI: 10.3791/72288",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42801297/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-28T10:53:16.719Z"
+    },
+    {
+      "id": "pmid-42802176",
+      "pmid": "42802176",
+      "doi": "10.1038/s41467-026-75733-y",
+      "title": "Disitamab vedotin for HER2-positive breast cancer with liver metastases: phase 3 results from the RC48-C006 phase 2/3 trial.",
+      "category": "Hepatology",
+      "source": "Nature communications",
+      "summary": "Patients with HER2-positive advanced breast cancer with liver metastases (BCLM) have poor prognosis. Study RC48-C006 is a prospective, open-label, multi-center, randomized phase 2/3 trial (ClinicalTrials.gov identifier, NCT03500380). Based on the phase 2 results, the phase 3 stage was initiated to evaluate disitamab vedotin (DV) versus lapatinib plus capecitabine (L + C) in patients with HER2-positive BCLM who wer…",
+      "fullDetails": "Patients with HER2-positive advanced breast cancer with liver metastases (BCLM) have poor prognosis. Study RC48-C006 is a prospective, open-label, multi-center, randomized phase 2/3 trial (ClinicalTrials.gov identifier, NCT03500380). Based on the phase 2 results, the phase 3 stage was initiated to evaluate disitamab vedotin (DV) versus lapatinib plus capecitabine (L + C) in patients with HER2-positive BCLM who were previously treated with trastuzumab and taxanes. The results from the phase 3 stage are reported in this article. A total of 104 patients were randomized at 1:1 to receive DV (53 patients) or L + C (51 patients). Progression-free survival (PFS) assessed by the blinded Independent Review Committee (BIRC) was significantly improved with DV versus with L + C (median: 9.9 vs 4.9 months; stratified hazard ratio [HR]: 0.56 [95.48% CI, 0.35-0.91]; 2-sided P = 0.01), meeting the pre-specified primary endpoint. The investigator-assessed PFS was consistent with the BIRC assessment. Prespecified subgroup analysis of PFS consistently favored DV. Similar incidences of grade ≥3 treatment-related adverse events were reported with DV versus L + C (37.7% vs 36.0%). The present findings support DV as a treatment option for HER2-positive BCLM following trastuzumab and taxane therapy.",
+      "practicalTakeaways": [],
+      "date": "2026 09 27",
+      "status": "Clinical trial",
+      "references": "Nature communications · 2026 09 27 · PMID: 42802176 · DOI: 10.1038/s41467-026-75733-y",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42802176/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-09-28T10:53:16.720Z"
     }
   ]
 }
