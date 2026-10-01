@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-30",
+  "lastChecked": "2026-10-01",
   "items": [
     {
       "id": "pmid-42486794",
@@ -6252,6 +6252,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42808444/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-09-30T10:28:52.438Z"
+    },
+    {
+      "id": "pmid-42816945",
+      "pmid": "42816945",
+      "doi": "10.1111/codi.70641",
+      "title": "LigaSure versus conventional excisional haemorrhoidectomy: A systematic review and meta-analysis with trial sequential analysis of randomised controlled trials.",
+      "category": "Gastroenterology",
+      "source": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland",
+      "summary": "Conventional excisional haemorrhoidectomy remains the gold standard treatment for grade IV haemorrhoids, although energy-based devices may reduce postoperative pain. We performed a systematic review and meta-analysis of randomised controlled trials comparing LigaSure with conventional haemorrhoidectomy. A systematic search of PubMed, Scopus, Web of Science and the Cochrane Central Register was performed up to July…",
+      "fullDetails": "Conventional excisional haemorrhoidectomy remains the gold standard treatment for grade IV haemorrhoids, although energy-based devices may reduce postoperative pain. We performed a systematic review and meta-analysis of randomised controlled trials comparing LigaSure with conventional haemorrhoidectomy. A systematic search of PubMed, Scopus, Web of Science and the Cochrane Central Register was performed up to July 2025. Randomised controlled trials comparing LigaSure with conventional techniques were included. Pooled risk ratios (RRs) and mean differences (MDs) with 95% confidence intervals (CIs) were calculated using random-effects models. Heterogeneity was assessed with the I 2 statistic, and trial sequential analysis (TSA) was applied to assess conclusiveness. Forty-three unique RCTs comprising 3,277 participants were analysed. LigaSure was associated with lower postoperative pain scores on days 1 and 2 and during the first and second postoperative weeks, reduced analgesic requirements and intraoperative blood loss, shorter operating time and time to return to daily activities, and lower risks of postoperative wound discharge, postoperative bleeding and acute urinary retention. No statistically significant differences were observed in immediate postoperative pain, pain on postoperative day 3 or week 4, recurrence, length of hospital stay, constipation, pruritus, surgical site infection, incomplete healing, anal fissure, anal stenosis, or faecal incontinence. LigaSure was associated with improvements in selected early perioperative outcomes, particularly postoperative pain and return to daily activities. However, uncertainty remains for several outcomes, and evidence regarding recurrence and other long-term anorectal outcomes remains limited.",
+      "practicalTakeaways": [],
+      "date": "2026 10 01",
+      "status": "Clinical trial",
+      "references": "Colorectal disease : the official journal of the Association of Coloproctology of Great Britain and Ireland · 2026 10 01 · PMID: 42816945 · DOI: 10.1111/codi.70641",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816945/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-01T10:56:31.494Z"
+    },
+    {
+      "id": "pmid-42816498",
+      "pmid": "42816498",
+      "doi": "10.1038/s41597-026-08247-3",
+      "title": "16S rRNA Datasets of Gut Microbiota in Stent-Based Diverting Technique and Ileostomy from A Prospective, Open-Label, Multicenter Randomized Controlled Trial.",
+      "category": "Gastroenterology",
+      "source": "Scientific data",
+      "summary": "Accumulating evidence implicates gut dysbiosis in postoperative complications and delayed intestinal recovery after rectal cancer surgery. Although stent-based diverting technique (SDT) and conventional ileostomy exert divergent impacts on gut microbial balance, high-quality comparative microbiome data from randomized trials are lacking. We report a 16S rRNA amplicon dataset from 80 patients randomized to SDT (n =…",
+      "fullDetails": "Accumulating evidence implicates gut dysbiosis in postoperative complications and delayed intestinal recovery after rectal cancer surgery. Although stent-based diverting technique (SDT) and conventional ileostomy exert divergent impacts on gut microbial balance, high-quality comparative microbiome data from randomized trials are lacking. We report a 16S rRNA amplicon dataset from 80 patients randomized to SDT (n = 37) or ileostomy (n = 43), with fecal samples collected preoperatively and on postoperative day 90. We characterized phylum-level taxonomic composition, α-diversity and intergroup β-diversity across four subgroups, and identified discriminatory taxa via LEfSe. Functional prediction detected differential metabolic pathways after surgery. We additionally performed correlation analyses to link clinical covariates with microbial signatures. This public dataset enables independent reprocessing and cross-study comparisons, facilitating exploration of diversion-strategy-specific microbial remodeling and validation of SDT's gut microbiota-preserving capacity.",
+      "practicalTakeaways": [],
+      "date": "2026 09 30",
+      "status": "Clinical trial",
+      "references": "Scientific data · 2026 09 30 · PMID: 42816498 · DOI: 10.1038/s41597-026-08247-3",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816498/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-01T10:56:31.495Z"
+    },
+    {
+      "id": "pmid-42816078",
+      "pmid": "42816078",
+      "doi": "10.1136/bmjopen-2026-116321",
+      "title": "Implementing a medical opinion leader-led management model to promote timely treatment initiation among screen-positive patients with upper gastrointestinal cancer in rural China: a cluster randomised controlled trial protocol.",
+      "category": "Endoscopy",
+      "source": "BMJ open",
+      "summary": "Upper gastrointestinal cancer (UGC), including oesophageal and gastric cancers, imposes a substantial health burden, particularly in China. Timely treatment after a positive screening result is critical, as treatment delays may contribute to disease progression and poorer outcomes. This study aims to evaluate the effectiveness of a management model led by medical opinion leaders (MOLs) in shortening the time to tr…",
+      "fullDetails": "Upper gastrointestinal cancer (UGC), including oesophageal and gastric cancers, imposes a substantial health burden, particularly in China. Timely treatment after a positive screening result is critical, as treatment delays may contribute to disease progression and poorer outcomes. This study aims to evaluate the effectiveness of a management model led by medical opinion leaders (MOLs) in shortening the time to treatment initiation among screen-positive patients with UGC. This multicentre, cluster randomised controlled trial will be conducted at 16 secondary hospitals in Shandong province, China. The participating hospitals will be randomly assigned to the intervention or control group in a 1:1 ratio. Screen-positive patients aged 18-80 years whose UGC diagnosis is confirmed by endoscopy and pathological examination will be recruited. At least 372 participants will be enrolled. The intervention group will receive an MOL-led management intervention comprising WeChat-based health education and face-to-face consultations. The primary outcome is the 30-day timely treatment rate, defined as the proportion of participants who initiate treatment within 30 days after pathological diagnosis. Secondary outcomes are the cumulative treatment initiation rates within 60, 90 and 180 days. Baseline information will be collected at enrolment, and treatment status will be assessed at 30, 60, 90 and 180 days. The study protocol was reviewed and approved by the Science and Technology Ethics Committee of the School of Public Health, Shandong University (No. STEC-SPH-SDU-20250703). Written informed consent will be obtained from all participants. The study findings will be disseminated through publications in peer-reviewed journals, presentations at national and international academic conferences and communication with participating medical institutions and study participants. ChiCTR2500109389.",
+      "practicalTakeaways": [],
+      "date": "2026 09 30",
+      "status": "Clinical trial",
+      "references": "BMJ open · 2026 09 30 · PMID: 42816078 · DOI: 10.1136/bmjopen-2026-116321",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42816078/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-01T10:56:31.495Z"
+    },
+    {
+      "id": "pmid-42814239",
+      "pmid": "42814239",
+      "doi": "10.1007/s12029-026-01595-8",
+      "title": "Comparative Effectiveness and Safety of FOLFOXIRI Plus Cetuximab Versus FOLFOXIRI Plus Bevacizumab in Metastatic Colorectal Cancer: A GRADE-assessed Systematic Review and Meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Journal of gastrointestinal cancer",
+      "summary": "Metastatic colorectal cancer (mCRC) is a leading cause of cancer-related mortality worldwide. FOLFOXIRI combined with targeted agents has shown promising outcomes in mCRC. This meta-analysis compares efficacy and safety of FOLFOXIRI plus cetuximab versus FOLFOXIRI plus bevacizumab in patients with mCRC. A literature search was conducted across PubMed, Cochrane, Embase, Scopus, and clinicaltrials.gov until February…",
+      "fullDetails": "Metastatic colorectal cancer (mCRC) is a leading cause of cancer-related mortality worldwide. FOLFOXIRI combined with targeted agents has shown promising outcomes in mCRC. This meta-analysis compares efficacy and safety of FOLFOXIRI plus cetuximab versus FOLFOXIRI plus bevacizumab in patients with mCRC. A literature search was conducted across PubMed, Cochrane, Embase, Scopus, and clinicaltrials.gov until February 2025. Analysis was performed using RStudio v4.5.0. Pooled estimates are reported as hazard ratios, odds ratios, risk ratios, and mean difference with 95% CIs using random-effects model. Heterogeneity was assessed using I² statistics. Four studies (3 RCTs, 1 observational) comprising 561 patients were included. Overall survival did not differ significantly between FOLFOXIRI-cetuximab and FOLFOXIRI-bevacizumab (HR: 1.22; 95% CI: 0.78 - 1.90; p = 0.386). Progression-free survival also did not differ significantly (HR: 1.32; 95% CI: 0.76-2.31; p = 0.324). Objective response rate, complete response, and partial response did not differ significantly [(OR: 1.48; 95% CI: 0.50-4.37; p = 0.4772), (OR: 1.59; 95% CI: 0.66-3.86; p = 0.303), and (OR: 1.60; 95% CI: 0.52-4.93, p = 0.414) respectively]. Depth of response showed no significant difference (MD: 15.29; 95% CI: -1.35-31.94; p = 0.07). Hypomagnesemia and acneiform rash were significantly more frequent with cetuximab (p < 0.01). However, alopecia, anemia, neurotoxicity, and all-grade stomatitis showed no difference between the two arms. FOLFOXIRI-cetuximab did not improve PFS, OS, or response rates in patients with mCRC compared with the bevacizumab combination; however, it was associated with significantly higher rates of hypomagnesemia and acneiform rash.",
+      "practicalTakeaways": [],
+      "date": "2026 09 30",
+      "status": "Evidence review",
+      "references": "Journal of gastrointestinal cancer · 2026 09 30 · PMID: 42814239 · DOI: 10.1007/s12029-026-01595-8",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42814239/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-01T10:56:31.496Z"
     }
   ]
 }
