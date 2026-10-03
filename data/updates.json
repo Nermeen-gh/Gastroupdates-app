@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-02",
+  "lastChecked": "2026-10-03",
   "items": [
     {
       "id": "pmid-42486794",
@@ -6371,6 +6371,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42819247/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-02T10:29:37.595Z"
+    },
+    {
+      "id": "pmid-42826317",
+      "pmid": "42826317",
+      "doi": "10.1097/MD.0000000000051009",
+      "title": "Safety profile of elafibranor versus placebo in primary biliary cholangitis: A systematic review, meta-analysis, and trial sequential analysis of randomized controlled trials.",
+      "category": "Hepatology",
+      "source": "Medicine",
+      "summary": "While elafibranor's safety has been addressed within a 3 outcome network meta-analysis of second-line primary biliary cholangitis (PBC) agents and within a mixed design review using serious adverse events (AEs) as its sole safety endpoint, no review has yet applied trial sequential analysis (TSA) or Grading of Recommendations Assessment, Development and Evaluation (GRADE) certainty assessment to a dedicated, 10-ou…",
+      "fullDetails": "While elafibranor's safety has been addressed within a 3 outcome network meta-analysis of second-line primary biliary cholangitis (PBC) agents and within a mixed design review using serious adverse events (AEs) as its sole safety endpoint, no review has yet applied trial sequential analysis (TSA) or Grading of Recommendations Assessment, Development and Evaluation (GRADE) certainty assessment to a dedicated, 10-outcome, placebo-controlled elafibranor evidence base. PBC is a chronic autoimmune liver disease affecting the small bile ducts, with approximately 30% to 40% of patients failing to respond adequately to first-line ursodeoxycholic acid (UDCA) therapy. Elafibranor, a dual peroxisome proliferator-activated receptor α/δ agonist, received Food and Drug Administration and European Medicines Agency approval in 2024 as a second-line option, yet no pooled randomized evidence for its safety profile had been synthesized. We conducted a systematic review and meta-analysis of RCTs comparing elafibranor with placebo in UDCA-inadequate-responder PBC patients, searching PubMed, Scopus, and Embase through June 2026. Three RCTs (Schattenberg 2021, Kowdley 2024/ELATIVE, Levy 2026/ELMWOOD) enrolling 274 patients (elafibranor n = 183; placebo n = 91) were included, all with low risk of bias. Ten safety outcomes were pooled via a random-effects model, with GRADE and TSA. Elafibranor showed no significant difference from placebo across any prespecified safety outcome. The primary outcome, any AE, showed RR 1.06 (95% CI: 0.97-1.16; I2 = 0%). Trends favored elafibranor for pruritus (RR 0.77) and fatigue (RR 0.71), with modest nonsignificant increases for nausea and treatment-related AEs. GRADE certainty was moderate across outcomes, downgraded solely for imprecision. TSA confirmed futility for any AE but found the remaining 9 outcomes substantially underpowered, with only 2.2% to 9.7% of required information accrued. Elafibranor shows a broadly reassuring safety profile, with encouraging trends toward improved pruritus and fatigue. However, evidence remains insufficient for definitive conclusions on rare or long-term safety signals, underscoring the need for larger, adequately powered trials. Jointly applying GRADE and TSA to this dedicated, placebo-controlled elafibranor evidence base clarifies which safety signals are genuinely null versus underpowered, a distinction broader second-line PBC comparisons have not resolved.",
+      "practicalTakeaways": [],
+      "date": "2026 10 02",
+      "status": "Guideline candidate",
+      "references": "Medicine · 2026 10 02 · PMID: 42826317 · DOI: 10.1097/MD.0000000000051009",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826317/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-03T09:51:32.583Z"
+    },
+    {
+      "id": "pmid-42826299",
+      "pmid": "42826299",
+      "doi": "10.1097/MD.0000000000050874",
+      "title": "Genetic evidence for associations between gastroesophageal reflux disease and site-specific extraesophageal cancers: A Mendelian randomization study.",
+      "category": "Gastroenterology",
+      "source": "Medicine",
+      "summary": "Observational studies have suggested an increased risk of extraesophageal cancers in patients with gastroesophageal reflux disease (GERD), but whether these associations are causal remains uncertain. This study systematically evaluated the potential associations between genetically predicted GERD and 22 extraesophageal cancers. Genetic instruments for GERD were obtained from a large genome-wide association study i…",
+      "fullDetails": "Observational studies have suggested an increased risk of extraesophageal cancers in patients with gastroesophageal reflux disease (GERD), but whether these associations are causal remains uncertain. This study systematically evaluated the potential associations between genetically predicted GERD and 22 extraesophageal cancers. Genetic instruments for GERD were obtained from a large genome-wide association study including 129,080 cases and 473,524 controls. Outcome data for 22 site-specific extraesophageal cancers were obtained from multiple genome-wide association study datasets, including the UK Biobank, FinnGen, and international cancer consortia. Two-sample Mendelian randomization (MR) analyses were performed, and dataset-specific MR estimates were subsequently combined using meta-analysis. For positive findings, reverse MR and Multivariable Mendelian randomization analyses were further conducted to assess causal direction and independence from body mass index, smoking intensity, and alcohol consumption. Meta-analysis of two-sample MR showed Bonferroni-significant positive associations of genetically predicted GERD with lung cancer (odds ratio [OR] = 1.220; 95% confidence interval [CI]: 1.100-1.354; P = .0002) and pancreatic cancer (OR = 1.517; 95% CI: 1.214-1.895; P = .0002). Suggestive positive associations were also observed for laryngeal cancer (OR = 1.774; 95% CI: 1.091-2.884; P = .021) and bladder cancer (OR = 1.254; 95% CI: 1.047-1.501; P = .014), although neither survived Bonferroni correction. In Multivariable Mendelian randomization analyses accounting for body mass index, smoking intensity, and alcohol consumption, the association with lung cancer remained statistically significant (OR = 1.190; 95% CI: 1.040-1.362; P = .012), whereas the associations with pancreatic, laryngeal, and bladder cancers were no longer statistically significant. These findings provide genetic evidence supporting an association between genetically predicted GERD and lung cancer. The evidence for pancreatic, laryngeal, and bladder cancers was less robust and requires further validation in larger independent datasets. These findings may help prioritize future research on cancer risk among individuals with GERD, with further studies warranted to validate the observed associations and clarify their underlying mechanisms.",
+      "practicalTakeaways": [],
+      "date": "2026 10 02",
+      "status": "Evidence review",
+      "references": "Medicine · 2026 10 02 · PMID: 42826299 · DOI: 10.1097/MD.0000000000050874",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42826299/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-03T09:51:32.583Z"
+    },
+    {
+      "id": "pmid-42827438",
+      "pmid": "42827438",
+      "doi": "10.3389/fgstr.2026.1937925",
+      "title": "Comparative outcomes of advanced medical rescue therapies in steroid-refractory acute severe ulcerative colitis: a systematic review and network meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Frontiers in gastroenterology (Lausanne, Switzerland)",
+      "summary": "Steroid-refractory acute severe ulcerative colitis is a medical emergency associated with a substantial risk of colectomy. Although infliximab and calcineurin inhibitors are established rescue treatments, comparative evidence regarding alternative drugs, infliximab dosing strategies, and newer small-molecule therapies remains limited. We conducted a systematic review and network meta-analysis to compare the effica…",
+      "fullDetails": "Steroid-refractory acute severe ulcerative colitis is a medical emergency associated with a substantial risk of colectomy. Although infliximab and calcineurin inhibitors are established rescue treatments, comparative evidence regarding alternative drugs, infliximab dosing strategies, and newer small-molecule therapies remains limited. We conducted a systematic review and network meta-analysis to compare the efficacy and safety of available medical rescue strategies. PubMed/MEDLINE, Embase, Scopus, Web of Science, and Cochrane CENTRAL were searched from inception through June 30, 2026. Randomized controlled trials and comparative observational studies enrolling adults hospitalized with steroid-refractory acute severe ulcerative colitis were eligible. Separate frequentist random-effects network meta-analyses were conducted for colectomy at approximately 12-14 weeks, colectomy during hospitalization or within 30 days, colectomy at approximately 12 months, and serious adverse events. Effects were expressed as odds ratios (ORs) with 95% confidence intervals (CIs). Risk of bias was assessed using RoB 2 and ROBINS-I. Of 5, 498 records identified, 18 studies involving 1, 529 participants met the eligibility criteria, including three randomized trials and 15 observational studies. At approximately 12-14 weeks, ciclosporin was associated with higher odds of colectomy than standard-dose infliximab (OR 2.19, 95% CI 1.17-4.12). Neither high-dose infliximab (OR 2.92, 95% CI 0.42-20.26) nor accelerated infliximab (OR 4.57, 95% CI 0.88-23.75) differed significantly from standard-dose infliximab. Ciclosporin was also associated with higher odds of early colectomy (OR 3.05, 95% CI 1.38-6.77) and 12-month colectomy (OR 3.65, 95% CI 1.98-6.72) than standard-dose infliximab. Tacrolimus and accelerated infliximab did not differ significantly from standard-dose infliximab at either time point. Serious adverse events were similar between ciclosporin and infliximab (OR 0.94, 95% CI 0.54-1.63). The networks contained no closed loops, and most observational studies were judged to have a serious risk of bias. In the combined randomized and observational evidence, standard-dose infliximab was associated with lower colectomy odds than ciclosporin, without a detectable difference in serious adverse events. No consistent advantage was demonstrated for accelerated or high-dose infliximab. Because the apparent efficacy advantage of infliximab was driven predominantly by observational studies, whereas randomized trials showed comparable outcomes, the findings should be interpreted cautiously. Further adequately powered randomized comparisons incorporating contemporary biologic-exposed populations and newer small-molecule therapies are required. https://www.crd.york.ac.uk/prospero/, identifier CRD420261412884.",
+      "practicalTakeaways": [],
+      "date": "2026 10 03",
+      "status": "Clinical trial",
+      "references": "Frontiers in gastroenterology (Lausanne, Switzerland) · 2026 10 03 · PMID: 42827438 · DOI: 10.3389/fgstr.2026.1937925",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827438/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-03T09:51:32.584Z"
+    },
+    {
+      "id": "pmid-42824291",
+      "pmid": "42824291",
+      "doi": "10.3389/fimmu.2026.1935261",
+      "title": "Neutrophil extracellular traps as a potential therapeutic target in inflammatory bowel disease: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Frontiers in immunology",
+      "summary": "Elevated Neutrophil extracellular traps (NETs) associated biomarkers have been documented in inflammatory bowel disease (IBD) patients and preclinical models, but the therapeutic potential of targeting NETs remains unclear. This systematic review summarizes NETs-associated biomarkers in IBD patients and evaluates NETs-targeted interventions in preclinical models. Following PRISMA guidelines, we searched databases…",
+      "fullDetails": "Elevated Neutrophil extracellular traps (NETs) associated biomarkers have been documented in inflammatory bowel disease (IBD) patients and preclinical models, but the therapeutic potential of targeting NETs remains unclear. This systematic review summarizes NETs-associated biomarkers in IBD patients and evaluates NETs-targeted interventions in preclinical models. Following PRISMA guidelines, we searched databases up to November 2025. Clinical and preclinical studies assessing NETs expression and targeted modulation in IBD were included. Standardized mean difference (SMD) and 95% confidence interval (CI) were calculated using random-effects models. Forty-eight studies (12 clinical, 31 pre-clinical, 5 mixed) were identified. In clinical studies, NETs-associated biomarkers were elevated in the colonic mucosa and blood compared with healthy controls, and higher NETs burden was associated with more severe disease severity and poorer prognosis in IBD patients. In preclinical studies, direct NETs inhibition and degradation reduced disease activity index (SMD = -1.00 and -1.71, P< 0.05) and histological scores (SMD = -1.70 and -2.95, P< 0.01), and reversed colon shortening ( P< 0.05). NETs modulation restored epithelial barrier by increasing occludin expression (SMD = 1.35 and 2.59, P< 0.01) and reducing intestinal permeability ( P< 0.05). Interventions suppressed pro-inflammatory cytokines (IL-1β, IL-6, TNF-α, and IFN-γ; P< 0.05) and increased anti-inflammatory cytokines (TGF-β, IL-10; P< 0.05). Subgroup analyses suggested administration route, modeling methods, and sample types may contribute to heterogeneity, although testing for subgroup differences was limited by the small number of studies. Sensitivity analyses indicated that pooled estimates for most outcomes were relatively stable, although several outcomes were not robust in sensitivity analyses after excluding individual studies. These findings should therefore be interpreted with caution. NETs accumulation is a hallmark pathological feature of IBD. In preclinical IBD models, targeted NETs modulation ameliorates colitis by restoring the intestinal barrier integrity and suppressing inflammatory cascades. Further high-quality preclinical and translational studies are needed to define standardized detection methods, optimal dosing, and delivery strategies for clinical translation. https://www.crd.york.ac.uk/PROSPERO, identifier CRD420261365119.",
+      "practicalTakeaways": [],
+      "date": "2026 10 02",
+      "status": "Guideline candidate",
+      "references": "Frontiers in immunology · 2026 10 02 · PMID: 42824291 · DOI: 10.3389/fimmu.2026.1935261",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824291/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-03T09:51:32.585Z"
     }
   ]
 }
