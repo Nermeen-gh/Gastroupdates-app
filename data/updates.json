@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-03",
+  "lastChecked": "2026-10-04",
   "items": [
     {
       "id": "pmid-42486794",
@@ -6439,6 +6439,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42824291/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-03T09:51:32.585Z"
+    },
+    {
+      "id": "pmid-42827862",
+      "pmid": "42827862",
+      "doi": "10.3389/fimmu.2026.1884797",
+      "title": "Efficacy and safety of thymosin α1 combined with chemotherapy for gastric cancer: a systematic review and meta-analysis of randomized controlled trials.",
+      "category": "Hepatology",
+      "source": "Frontiers in immunology",
+      "summary": "To systematically evaluate the efficacy and safety of thymosin α1 combined with chemotherapy in the treatment of gastric cancer. A systematic search of 8 electronic databases was conducted to identify relevant RCTs. Meta-analysis was performed using Stata 18.0. Meta-regression, subgroup analyses, sensitivity analyses, and publication bias analyses were conducted to further examine results, and reliability of findi…",
+      "fullDetails": "To systematically evaluate the efficacy and safety of thymosin α1 combined with chemotherapy in the treatment of gastric cancer. A systematic search of 8 electronic databases was conducted to identify relevant RCTs. Meta-analysis was performed using Stata 18.0. Meta-regression, subgroup analyses, sensitivity analyses, and publication bias analyses were conducted to further examine results, and reliability of findings was assessed using TSA and GRADE. 20 RCTs involving 1,704 patients were included. Meta-analysis results showed that, thymosin α1 combined with chemotherapy was associated with higher ORR (RR = 1.39), DCR (RR = 1.16), and KPS scores (WMD = 8.27). Regarding immune function, combination therapy resulted in higher CD3 + % (WMD = 7.73), CD4 + % (WMD = 6.87), CD4 + /CD8 + (WMD = 0.42), and NK cell (WMD = 4.73). Regarding tumor markers, combination therapy resulted in lower levels of CEA (WMD = -5.48) and CA199 (WMD = -9.06). Regarding inflammatory factors, combination therapy may reduce levels of MMP-2, MMP-9, IL-4, and IL-10, while increasing levels of IFN-γ and TNF-α. Regarding safety, combination therapy was associated with reductions in gastrointestinal reactions (RR = 0.63), myelosuppression (RR = 0.60), abnormal liver function (RR = 0.54), and neurotoxicity (RR = 0.47). However, included RCTs did not systematically report long-term survival outcomes, and their methodological quality was limited; and GRADE indicated that quality of evidence for outcomes ranged from very low to moderate. The combination of thymosin α1 with chemotherapy is associated with improved short-term efficacy, enhanced immune function, improved quality of life, and a reduced incidence of adverse reactions in patients with gastric cancer, indicating good potential for clinical application. However, it remains unclear whether this approach can provide long-term benefits for patients with gastric cancer. Furthermore, given that studies included were all small-sample studies conducted in China and were of limited quality, certainty of evidence is low; these conclusions require further validation through additional high-quality studies. https://www.crd.york.ac.uk/PROSPERO/, Identifier CRD420261282679.",
+      "practicalTakeaways": [],
+      "date": "2026 10 03",
+      "status": "Clinical trial",
+      "references": "Frontiers in immunology · 2026 10 03 · PMID: 42827862 · DOI: 10.3389/fimmu.2026.1884797",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42827862/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-04T10:34:30.702Z"
+    },
+    {
+      "id": "pmid-42829460",
+      "pmid": "42829460",
+      "doi": "10.5144/0256-4947.2026.388",
+      "title": "Microbiology and antimicrobial resistance in biliary tract infections including acute and post-ERCP cholangitis: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Annals of Saudi medicine",
+      "summary": "Organisms cultured from bile in biliary tract infection, and their resistance, vary widely between settings, and pooled estimates to guide empirical therapy are lacking. Estimate bile-culture yield, organism distribution, and resistance. Systematic review and random-effects meta-analysis of PubMed and reference lists. Reports spanned nine countries across Asia, Europe, Africa, and North America. We extracted ducta…",
+      "fullDetails": "Organisms cultured from bile in biliary tract infection, and their resistance, vary widely between settings, and pooled estimates to guide empirical therapy are lacking. Estimate bile-culture yield, organism distribution, and resistance. Systematic review and random-effects meta-analysis of PubMed and reference lists. Reports spanned nine countries across Asia, Europe, Africa, and North America. We extracted ductal-bile culture data from observational studies published from 2015 to 2025 of biliary infection/cholangitis; noninfectious, gall bladder-only, microbiome-only, and nonextractable reports were excluded. DerSimonian-Laird models, subgroup analysis, and JBI appraisal were used. Culture yield; secondary organism proportions and resistance. 5147 patients (97% retrospective; 3% prospective); organisms: 35 267 observations. Yield was 77.3% (95% CI, 67.8-84.6); Gram-negative organisms 69.8% (65.6-73.7), E. coli , 27.4% (23.5-31.7), K. pneumoniae , 14.1% (12.3-16.2). I 2 =86.0%-97.7%; all P <.001. Fourteen reports were low risk, two moderate; exclusions minimally changed estimates. Bile-culture yield was high and Gram-negative organisms, particularly E. coli and K. pneumoniae , predominated, but estimates were highly heterogeneous and resistance could not be pooled; culture-directed therapy guided by local antibiograms is therefore preferable to a universal empirical regimen. PubMed-only/open-access search, retrospective designs, inconsistent definitions, one dominant dataset. Retrospectively registered on OSF (89wqs; DOI: 10.17605/OSF.IO/89WQS).",
+      "practicalTakeaways": [],
+      "date": "2026 10 04",
+      "status": "Evidence review",
+      "references": "Annals of Saudi medicine · 2026 10 04 · PMID: 42829460 · DOI: 10.5144/0256-4947.2026.388",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42829460/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-04T10:34:30.703Z"
     }
   ]
 }
