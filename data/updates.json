@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-06",
+  "lastChecked": "2026-10-07",
   "items": [
     {
       "id": "pmid-42486794",
@@ -6626,6 +6626,91 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42831338/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-06T11:15:30.233Z"
+    },
+    {
+      "id": "pmid-42837183",
+      "pmid": "42837183",
+      "doi": "10.1093/bjs/znag106",
+      "title": "Restorative resection in robot-assisted versus laparoscopic total mesorectal excision: systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "The British journal of surgery",
+      "summary": "The surgical treatment of rectal cancer is based on the principle of total mesorectal excision (TME). Owing to its technological advantages, robot-assisted total mesorectal excision (R-TME) is hypothesized to facilitate primary anastomosis more frequently than laparoscopic total mesorectal excision (L-TME). This systematic review and meta-analysis aimed to investigate whether R-TME is associated with a higher like…",
+      "fullDetails": "The surgical treatment of rectal cancer is based on the principle of total mesorectal excision (TME). Owing to its technological advantages, robot-assisted total mesorectal excision (R-TME) is hypothesized to facilitate primary anastomosis more frequently than laparoscopic total mesorectal excision (L-TME). This systematic review and meta-analysis aimed to investigate whether R-TME is associated with a higher likelihood of restorative surgery compared with L-TME. This systematic review and meta-analysis was conducted in accordance with PRISMA guidelines. The protocol was prospectively registered in PROSPERO, the international prospective register of systematic reviews (registration number: 1106767). PubMed/MEDLINE, Embase, the Web of Science, and the Cochrane Library were searched for studies from January 2010 to January 2026. Pooled ORs and mean differences were calculated using a random-effects model. Twenty studies were included, reporting on 7133 patients. The pooled analysis demonstrated a significantly higher likelihood of restorative surgery with R-TME compared with L-TME (OR 1.43 (95% c.i. 1.04 to 1.98)). In a subgroup analysis of studies including patients after 2020, a stronger effect was observed (OR 2.86 (95% c.i. 1.80 to 4.53)). No significant differences were observed in anastomotic leakage, postoperative complications, reoperations, and readmissions. R-TME was associated with a lower conversion rate compared with L-TME (OR 0.37 (95% c.i. 0.28 to 0.49)). R-TME is associated with a higher likelihood of primary anastomosis formation while maintaining a comparable safety profile. The more pronounced effect in recent studies likely reflects increasing surgical expertise. Future research should determine whether these advantages translate into measurable improvements in patient quality of life.",
+      "practicalTakeaways": [],
+      "date": "2026 10 06",
+      "status": "Guideline candidate",
+      "references": "The British journal of surgery · 2026 10 06 · PMID: 42837183 · DOI: 10.1093/bjs/znag106",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42837183/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-07T11:03:47.011Z"
+    },
+    {
+      "id": "pmid-42839852",
+      "pmid": "42839852",
+      "doi": "10.1111/den.70302",
+      "title": "Effect of a Computer-Aided Device on Endoscopists' Biopsy Practice for Gastric Neoplasms: A Secondary Analysis of a Randomized Controlled Trial.",
+      "category": "Endoscopy",
+      "source": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society",
+      "summary": "Endoscopic biopsy is fundamental for diagnosing gastrointestinal lesions, yet the effectiveness of AI assistance on endoscopists' biopsy strategies and efficiency for detecting gastric neoplasms remains unclear. This study aims to investigate this effectiveness. This study is a secondary analysis of a randomized controlled trial (AI group: n = 13,440; control: n = 12,561) compared AI-assisted versus standard scree…",
+      "fullDetails": "Endoscopic biopsy is fundamental for diagnosing gastrointestinal lesions, yet the effectiveness of AI assistance on endoscopists' biopsy strategies and efficiency for detecting gastric neoplasms remains unclear. This study aims to investigate this effectiveness. This study is a secondary analysis of a randomized controlled trial (AI group: n = 13,440; control: n = 12,561) compared AI-assisted versus standard screening. The AI system marked high-risk and low-risk lesions with red and blue boxes, respectively. The AI group was stratified into red-box and non-red-box subgroups. Outcomes included neoplasm biopsy efficiency and proportion of non-biopsied documented lesions. The patient-level correlation between false-positive alerts and biopsy counts was examined. All analyses were based on the pathological results after centralized pathology review. The non-biopsy rate was significantly lower in the red-box group than in the non-red box group and the control group (18.00% vs. 43.26%, 18.00% vs. 45.60%, both p < 0.001), suggesting that lesions were biopsied more frequently in the red-box group. Neoplasm biopsy efficiency was higher in the red-box group (8.19% vs. 0.36%, 8.19% vs. 1.77%, both p < 0.001). In negative binomial regression, red-box classification remained associated with a lower non-biopsy rate (IRR 0.393, 95% CI 0.360-0.429, p < 0.001). False-positive alerts showed a weak inverse correlation with biopsy counts (ρ = -0.182, p < 0.001). Red-box classification was associated with more targeted biopsy sampling, while false-positive prompts were not associated with indiscriminate biopsies.",
+      "practicalTakeaways": [],
+      "date": "2026 10 07",
+      "status": "Clinical trial",
+      "references": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society · 2026 10 07 · PMID: 42839852 · DOI: 10.1111/den.70302",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42839852/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-07T11:03:47.011Z"
+    },
+    {
+      "id": "pmid-42835436",
+      "pmid": "42835436",
+      "doi": "10.3389/fneur.2026.1889347",
+      "title": "Sustained efficacy of acupuncture in post-stroke dysphagia: a systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Frontiers in neurology",
+      "summary": "To systematically evaluate the short-term and long-term (≥3 months post-treatment) efficacy and safety of acupuncture for post-stroke dysphagia (PSD), providing comprehensive evidence for clinical rehabilitation strategies. Conducted in strict adherence to the PRISMA guidelines, a comprehensive search of Web of Science, PubMed, Embase, the Cochrane Library, VIP, Wanfang, CNKI, and CBM was performed from inception…",
+      "fullDetails": "To systematically evaluate the short-term and long-term (≥3 months post-treatment) efficacy and safety of acupuncture for post-stroke dysphagia (PSD), providing comprehensive evidence for clinical rehabilitation strategies. Conducted in strict adherence to the PRISMA guidelines, a comprehensive search of Web of Science, PubMed, Embase, the Cochrane Library, VIP, Wanfang, CNKI, and CBM was performed from inception to March 18, 2026 for randomized controlled trials (RCTs) published in English or Chinese. Two independent reviewers performed study selection, data extraction, and risk of bias assessment. Meta-analysis was conducted utilizing Review Manager 5.4 and Stata 18.0. A total of 23 RCTs involving 2,224 patients were included. For short-term outcomes, acupuncture interventions significantly improved the Water Swallowing Test (WST) effective rate (RR = 1.50, 95% CI [1.31, 1.73], p < 0.001) and reduced Standardized Swallowing Assessment (SSA) scores (MD = -3.33, 95% CI [-4.46, -2.19], p < 0.001). These significant clinical benefits were robustly sustained for long-term outcomes (≥ 3 months follow-up), as evidenced by the WST effective rate (RR = 1.38, 95% CI [1.21, 1.58], p < 0.001), objective SSA scores (MD = -4.92, 95% CI [-6.54, -3.31], p < 0.001), and subjective SWAL-QOL scores (MD = 23.56, p = 0.010). Subgroup analyses indicated that initiating acupuncture during the subacute/recovery phase yielded pronounced WST improvements. Regarding stimulation modalities, while electroacupuncture showed a marginal potential advantage for the WST ( p = 0.08), no statistically significant superiority was established for the objective SSA scores ( p = 0.56). Acupuncture-related adverse events were confined to mild local reactions (RD = 0.11, p < 0.001). Acupuncture is a safe and potentially effective approach for post-stroke dysphagia, improving both short-term swallowing function and quality of life. Notably, these benefits appear to be sustained for at least 3 months post-treatment. Nevertheless, the overall certainty of evidence for short-term efficacy ranges from low to moderate, and the certainty for long-term sustained efficacy ranges from low (WST and SSA) to very low (SWAL-QOL), primarily due to inherent performance bias, publication bias, and imprecision due to limited long-term sample sizes, rather than clinical inconsistency. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261345975, identifier (CRD420261345975).",
+      "practicalTakeaways": [],
+      "date": "2026 10 06",
+      "status": "Guideline candidate",
+      "references": "Frontiers in neurology · 2026 10 06 · PMID: 42835436 · DOI: 10.3389/fneur.2026.1889347",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42835436/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-07T11:03:47.012Z"
+    },
+    {
+      "id": "pmid-42835036",
+      "pmid": "42835036",
+      "doi": "10.3389/fmed.2026.1946236",
+      "title": "Comparison of propofol fentanyl versus propofol ketamine for painless gastrointestinal endoscopy: a systematic review.",
+      "category": "Endoscopy",
+      "source": "Frontiers in medicine",
+      "summary": "Propofol-based sedation is widely used for gastrointestinal endoscopic procedures because of its rapid onset and recovery profile. However, adjunct agents are required to improve procedural tolerance and reduce propofol-related cardiorespiratory adverse effects. Ketamine and fentanyl are among the most commonly combined agents, but their comparative performance in gastrointestinal endoscopy remains unclear. This r…",
+      "fullDetails": "Propofol-based sedation is widely used for gastrointestinal endoscopic procedures because of its rapid onset and recovery profile. However, adjunct agents are required to improve procedural tolerance and reduce propofol-related cardiorespiratory adverse effects. Ketamine and fentanyl are among the most commonly combined agents, but their comparative performance in gastrointestinal endoscopy remains unclear. This review compared propofol-ketamine with propofol-fentanyl for sedation during gastrointestinal endoscopy. Systematic search of major electronic databases was conducted from inception to March 2026. Study selection, data extraction, and risk-of-bias assessment were performed independently by reviewers using standard methodologies. Due to substantial heterogeneity in study population, procedure, sedation protocol, and outcome definition, findings were synthesized narratively. Outcomes of interest included additional propofol requirement, oxygen desaturation, total propofol dose, systolic blood pressure, mean arterial pressure, and time to recovery. 21 studies were included. Across included studies, propofol-ketamine required fewer supplemental propofol doses and lower overall propofol consumption than propofol-fentanyl. Oxygen desaturation tended to occur less frequently with propofol-ketamine in most studies, although definition varied. Hemodynamic outcomes favoured propofol-ketamine, with better control of systolic blood pressure and mean arterial pressure. Recovery findings were less consistent as several studies suggested longer recovery with ketamine-containing regimens, whereas other studies found no difference. Propofol-ketamine might provide better respiratory and hemodynamic stability and propofol-sparing effect compared with propofol-fentanyl during gastrointestinal endoscopy, although recovery may be slower in fewer settings.",
+      "practicalTakeaways": [],
+      "date": "2026 10 06",
+      "status": "Evidence review",
+      "references": "Frontiers in medicine · 2026 10 06 · PMID: 42835036 · DOI: 10.3389/fmed.2026.1946236",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42835036/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-07T11:03:47.012Z"
+    },
+    {
+      "id": "pmid-42835001",
+      "pmid": "42835001",
+      "doi": "10.3389/ti.2026.17154",
+      "title": "Normothermic regional perfusion in controlled donation after circulatory death liver transplantation: an updated systematic review and meta-analysis versus non-NRP and brain-death donors.",
+      "category": "Hepatology",
+      "source": "Transplant international : official journal of the European Society for Organ Transplantation",
+      "summary": "Normothermic regional perfusion (NRP) may mitigate ischemic injury in controlled donation after circulatory death (cDCD) liver transplantation. We updated the most recent meta-analysis (search closed June 2023) by incorporating subsequent evidence and comparing NRP with non-NRP cDCD and with donation after brain death (DBD). We performed a systematic review of five databases and random-effects meta-analyses; dicho…",
+      "fullDetails": "Normothermic regional perfusion (NRP) may mitigate ischemic injury in controlled donation after circulatory death (cDCD) liver transplantation. We updated the most recent meta-analysis (search closed June 2023) by incorporating subsequent evidence and comparing NRP with non-NRP cDCD and with donation after brain death (DBD). We performed a systematic review of five databases and random-effects meta-analyses; dichotomous outcomes were pooled as risk ratios, the Mantel-Haenszel estimator was preferred for rare events, pooled incidences used a logit-binomial model, risk of bias was assessed with ROBINS-I and certainty with GRADE. Twenty observational studies were included (1776 NRP-cDCD liver recipients). Versus non-NRP cDCD, NRP reduced ischemic cholangiopathy (risk ratio 0.16, 95% confidence interval 0.09-0.28; number needed to treat 9), graft loss (0.41, 0.32-0.54), recipient death (0.46, 0.34-0.62), hepatic artery thrombosis (0.51, 0.30-0.85), other biliary complications (0.49, 0.32-0.73) and primary non-function (0.51, 0.28-0.94); these reductions persisted after excluding grafts managed with ex situ machine perfusion. Versus DBD, no outcome differed significantly. Pooled ischemic cholangiopathy incidence was 1.8%, 12.7% and 1.2% with NRP, non-NRP and DBD. NRP markedly reduces ischemic cholangiopathy and improves other outcomes versus non-NRP cDCD, approaching DBD; the evidence remains observational, with moderate-to-serious risk of bias. https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD420261404939, identifier PROSPERO CRD420261404939.",
+      "practicalTakeaways": [],
+      "date": "2026 10 06",
+      "status": "Evidence review",
+      "references": "Transplant international : official journal of the European Society for Organ Transplantation · 2026 10 06 · PMID: 42835001 · DOI: 10.3389/ti.2026.17154",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42835001/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-07T11:03:47.012Z"
     }
   ]
 }
