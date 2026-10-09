@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-08",
+  "lastChecked": "2026-10-09",
   "items": [
     {
       "id": "pmid-42486794",
@@ -6830,6 +6830,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42841468/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-08T11:21:20.066Z"
+    },
+    {
+      "id": "pmid-42850633",
+      "pmid": "42850633",
+      "doi": "10.1186/s12985-026-03307-x",
+      "title": "Efficacy of direct-acting antiviral regimens for acute HCV infection: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Virology journal",
+      "summary": "Acute and recently acquired hepatitis C virus (HCV) infection clusters in men who have sex with men living with HIV and in people who inject drugs, where early cure benefits both the individual and transmission control. The best interferon-free dual direct-acting antiviral (DAA) regimen and treatment duration, including short courses, remain undefined. MEDLINE, Scopus, and the Cochrane Central Register of Controll…",
+      "fullDetails": "Acute and recently acquired hepatitis C virus (HCV) infection clusters in men who have sex with men living with HIV and in people who inject drugs, where early cure benefits both the individual and transmission control. The best interferon-free dual direct-acting antiviral (DAA) regimen and treatment duration, including short courses, remain undefined. MEDLINE, Scopus, and the Cochrane Central Register of Controlled Trials were searched to 1 July 2026 for studies of interferon-free dual-DAA therapy in acute or recently acquired HCV reporting SVR12. Each study was appraised as a single-arm case series, and proportions were pooled by random-intercept logistic regression. Pre-specified subgroups were regimen, treatment duration, study design, and HIV status. Fourteen studies (19 single-arm analysis units; 1078 treated patients) were included. Pooled SVR12 was 97.7% (95% CI 94.7-99.1; 1043/1078; I² = 30.4%). SVR12 rates increased with treatment duration, from 84.8% (74.1-91.6) at 4 weeks and 91.7% (86.2-95.1) at 6 weeks to 99.4% (97.5-99.9) at 8 weeks and 97.4% (91.7-99.2) at 12 weeks (between-subgroup p < 0.001), whereas it did not differ by regimen (p = 0.608), study design (p = 0.764), or HIV status (p = 0.975). The pooled estimate was stable across sensitivity analyses (trials only, exclusion of the high-risk study, and leave-one-out). Dual-DAA therapy was associated with a high pooled SVR12 in acute and recently acquired HCV, with cure differing by treatment duration. These findings support early treatment and favour a course of at least eight weeks. Given the predominantly single-arm evidence and the partial confounding of regimen with duration, randomised duration-comparison trials are needed to confirm the optimal short-course strategy.",
+      "practicalTakeaways": [],
+      "date": "2026 10 09",
+      "status": "Clinical trial",
+      "references": "Virology journal · 2026 10 09 · PMID: 42850633 · DOI: 10.1186/s12985-026-03307-x",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42850633/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-09T11:19:02.842Z"
+    },
+    {
+      "id": "pmid-42848339",
+      "pmid": "42848339",
+      "doi": "10.1016/j.gie.2026.08.019",
+      "title": "Role of remimazolam in gastrointestinal endoscopy: American Society for Gastrointestinal Endoscopy clinical practice update.",
+      "category": "Endoscopy",
+      "source": "Gastrointestinal endoscopy",
+      "summary": "This clinical practice update provides evidence-based recommendations on the use of remimazolam, a novel ultra-short-acting benzodiazepine, for procedural sedation during GI endoscopy. Remimazolam was approved by the Food and Drug Administration in July 2020 for use in procedural sedation. It offers rapid onset, short duration of action, and organ-independent metabolism, making it an alternative to traditional sed…",
+      "fullDetails": "This clinical practice update provides evidence-based recommendations on the use of remimazolam, a novel ultra-short-acting benzodiazepine, for procedural sedation during GI endoscopy. Remimazolam was approved by the Food and Drug Administration in July 2020 for use in procedural sedation. It offers rapid onset, short duration of action, and organ-independent metabolism, making it an alternative to traditional sedatives such as midazolam and propofol. This update synthesizes data from randomized controlled trials, meta-analyses, and real-world studies, addressing efficacy, safety, dosing, and patient selection. It aims to assist clinicians in optimizing sedation while minimizing risks, particularly in high-risk populations. Previous guidelines, such as the 2018 American Society for Gastrointestinal Endoscopy guidelines on sedation and anesthesia in GI endoscopy, focused on midazolam and propofol but did not include remimazolam. This update incorporates emerging evidence to guide the integration of remimazolam into practice.",
+      "practicalTakeaways": [],
+      "date": "2026 10 08",
+      "status": "Guideline candidate",
+      "references": "Gastrointestinal endoscopy · 2026 10 08 · PMID: 42848339 · DOI: 10.1016/j.gie.2026.08.019",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848339/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-09T11:19:02.842Z"
+    },
+    {
+      "id": "pmid-42848087",
+      "pmid": "42848087",
+      "doi": "10.1007/s00423-026-04329-3",
+      "title": "Survival outcomes following total intravenous versus volatile anesthesia in esophagogastric cancer surgery: a systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Langenbeck's archives of surgery",
+      "summary": "Esophagogastric cancers remain among the leading causes of cancer-related mortality worldwide. Surgical resection represents the primary curative treatment strategy; however, perioperative factors may influence long-term oncological outcomes. Experimental and clinical evidence suggests that anesthetic techniques may affect tumor progression and recurrence through immunological and oncological pathways. Total intra…",
+      "fullDetails": "Esophagogastric cancers remain among the leading causes of cancer-related mortality worldwide. Surgical resection represents the primary curative treatment strategy; however, perioperative factors may influence long-term oncological outcomes. Experimental and clinical evidence suggests that anesthetic techniques may affect tumor progression and recurrence through immunological and oncological pathways. Total intravenous anesthesia (TIVA) has been proposed to exert immunomodulatory and antitumor effects compared to volatile anesthesia (VA), although evidence remains inconclusive. This systematic review and meta-analysis aimed to evaluate the impact of TIVA versus volatile anesthesia on survival outcomes in patients undergoing esophagogastric cancer surgery. A systematic review and meta-analysis was conducted according to PRISMA 2020 guidelines. PubMed and Scopus were searched for studies published between 2010 and 2025 comparing TIVA with volatile anesthesia in adult patients undergoing curative surgery for esophageal or gastric cancer. The primary outcome was overall survival (OS). Secondary outcomes included recurrence-free survival (RFS), early mortality, operation time, and postoperative hospital stay. Pooled hazard ratios (HR), risk ratios (RR), and mean differences (MD) with 95% confidence intervals (CI) were calculated using random-effects models. Thirteen studies (3 randomized controlled trials and 10 retrospective studies) involving 264,543 patients were included. Of these, 41,977 patients received TIVA and 222,566 received volatile anesthesia. Pooled analysis of eight studies demonstrated significantly improved overall survival with TIVA (HR 0.80, 95% CI 0.69-0.93; p = 0.003). Subgroup analysis showed a significant survival benefit in patients undergoing gastrectomy (HR 0.74, 95% CI 0.60-0.91; p < 0.004), whereas no significant difference was observed for esophagectomy (HR 0.89, 95% CI 0.73-1.10; p = 0.29). TIVA was associated with non-significant trends toward improved recurrence-free survival (HR 0.91, 95% CI 0.77-1.06; p = 0.22) and reduced early mortality (HR 0.90, 95% CI 0.77-1.05; p = 0.17). No statistically significant differences were observed in operation time (MD - 3.81 min, 95% CI - 10.75 to 3.13) or hospital stay (MD - 0.19 days, 95% CI - 0.39 to 0.00; p = 0.06). TIVA may be associated with improved long-term survival outcomes compared with volatile anesthesia in patients undergoing esophagogastric cancer surgery, particularly among patients undergoing gastrectomy. Given the predominance of retrospective evidence and methodological heterogeneity, further high-quality prospective randomized studies are required to clarify the oncological impact of anesthetic techniques in upper gastrointestinal cancer surgery.",
+      "practicalTakeaways": [],
+      "date": "2026 10 08",
+      "status": "Guideline candidate",
+      "references": "Langenbeck's archives of surgery · 2026 10 08 · PMID: 42848087 · DOI: 10.1007/s00423-026-04329-3",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848087/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-09T11:19:02.842Z"
+    },
+    {
+      "id": "pmid-42848619",
+      "pmid": "42848619",
+      "doi": "10.1590/S0004-2803.24612026-011",
+      "title": "SYSTEMATIC REVIEW AND BRAZILIAN EXPERT CONSENSUS ON THE USE OF BIOSIMILARS IN INFLAMMATORY BOWEL DISEASE: BRAZILIAN ORGANIZATION FOR CROHN'S AND COLITIS.",
+      "category": "Gastroenterology",
+      "source": "Arquivos de gastroenterologia",
+      "summary": "Biologics improve outcomes in inflammatory bowel disease, but high costs restrict access and strain healthcare resources. Biosimilars lower costs, expand access, and support sustainable IBD care. Provide clear, evidence-based answers on biosimilar use in IBD across clinical, therapeutic, and economic domains to guide safe implementation and informed decision-making. GEDIIB conducted a PICO-structured systematic re…",
+      "fullDetails": "Biologics improve outcomes in inflammatory bowel disease, but high costs restrict access and strain healthcare resources. Biosimilars lower costs, expand access, and support sustainable IBD care. Provide clear, evidence-based answers on biosimilar use in IBD across clinical, therapeutic, and economic domains to guide safe implementation and informed decision-making. GEDIIB conducted a PICO-structured systematic review across multiple databases and trial registries. We extracted clinically relevant outcomes and performed systematic review. We assessed risk of bias with RoB 2.0 and ROBINS-I and graded certainty using GRADE. A structured Delphi process with two voting rounds and external validation finalized recommendations, with consensus predefined at 85 percent or higher. Anti-TNF biosimilars and originator biologics have similar efficacy, safety, immunogenicity, treatment persistence, and mucosal healing in biologic-naive patients and after switching, with no clinically meaningful differences in adverse events, loss of response, or discontinuation. Data on multiple switches do not indicate harm, though evidence remains limited. Pediatric studies suggest similar profiles, with lower precision. Economic evaluations show substantial cost savings and improved access, supporting the sustainability of the health system. Biosimilars represent a viable, safe, and cost-effective option for IBD management. We recommend structured switching strategies, clear communication with patients, and continuous clinical monitoring. Additional robust studies should strengthen evidence in specific populations and clinical scenarios.",
+      "practicalTakeaways": [],
+      "date": "2026 10 08",
+      "status": "Guideline candidate",
+      "references": "Arquivos de gastroenterologia · 2026 10 08 · PMID: 42848619 · DOI: 10.1590/S0004-2803.24612026-011",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42848619/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-09T11:19:02.843Z"
     }
   ]
 }
