@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-10",
+  "lastChecked": "2026-10-11",
   "items": [
     {
       "id": "pmid-42486794",
@@ -7000,6 +7000,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42853034/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-10T10:35:54.646Z"
+    },
+    {
+      "id": "pmid-42858022",
+      "pmid": "42858022",
+      "doi": "10.3791/72231",
+      "title": "Low-Frequency Repetitive Transcranial Magnetic Stimulation with Sensory Arousal Nursing for Post-Stroke Dysphagia.",
+      "category": "Gastroenterology",
+      "source": "Journal of visualized experiments : JoVE",
+      "summary": "Post-stroke dysphagia can compromise airway protection, nutrition, and functional recovery. This article describes a clinical protocol combining low-frequency repetitive transcranial magnetic stimulation (rTMS) with a structured sensory arousal nursing package for patients with acute ischemic stroke and dysphagia accompanied by feeding-related upper-limb dysfunction. Dysphagia is the primary treatment focus; upper…",
+      "fullDetails": "Post-stroke dysphagia can compromise airway protection, nutrition, and functional recovery. This article describes a clinical protocol combining low-frequency repetitive transcranial magnetic stimulation (rTMS) with a structured sensory arousal nursing package for patients with acute ischemic stroke and dysphagia accompanied by feeding-related upper-limb dysfunction. Dysphagia is the primary treatment focus; upper-limb activities address associated limitations in self-feeding. The protocol integrates screening, stimulation safety review, motor-threshold determination, contralesional swallowing-motor targeting, 1 Hz rTMS, sequenced sensory input, feeding-related task practice, and outcome assessment. Representative results come from a single-center, randomized, assessor-blinded study of 160 patients (80 per group) comparing the combined intervention with routine nursing for swallowing rehabilitation over 2 weeks. The between-group difference in Standardized Swallowing Assessment change was -3.9 points (95% confidence interval [CI], -5.8 to -2.0; p < 0.001). The between-group change-score differences were 0.8 levels for the Functional Oral Intake Scale (95% CI, 0.4 to 1.2; p < 0.001) and -0.9 points for the Penetration-Aspiration Scale (95% CI, -1.5 to -0.3; p = 0.004), the latter restricted to participants with paired instrumental assessments (48 versus 46). Aspiration pneumonia occurred in 5/80 versus 11/80 participants (p = 0.118); no serious rTMS-related adverse events were reported. These findings indicate short-term differences in scale scores but do not establish a clinically important benefit in swallowing or a reduced risk of pneumonia. The protocol coordinates established rehabilitation components. Further studies are needed to determine their individual effects and identify patients who may benefit from contralesional inhibition.",
+      "practicalTakeaways": [],
+      "date": "2026 10 10",
+      "status": "Clinical trial",
+      "references": "Journal of visualized experiments : JoVE · 2026 10 10 · PMID: 42858022 · DOI: 10.3791/72231",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42858022/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-11T10:48:31.434Z"
+    },
+    {
+      "id": "pmid-42857192",
+      "pmid": "42857192",
+      "doi": "10.3389/fimmu.2026.1909466",
+      "title": "Impact of immune checkpoint inhibitors as neoadjuvant/perioperative therapy for locally advanced resectable gastric/gastroesophageal junction adenocarcinoma: a systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Frontiers in immunology",
+      "summary": "Immune checkpoint inhibitor (ICI)-based neoadjuvant/perioperative strategies are expanding for locally advanced resectable gastric/gastroesophageal junction (G/GEJ) adenocarcinoma, but the evidence base differs substantially across strategies, and improved pathological response has not consistently translated into survival benefit. We aimed to synthesize strategy-specific comparative and prospective single-arm evi…",
+      "fullDetails": "Immune checkpoint inhibitor (ICI)-based neoadjuvant/perioperative strategies are expanding for locally advanced resectable gastric/gastroesophageal junction (G/GEJ) adenocarcinoma, but the evidence base differs substantially across strategies, and improved pathological response has not consistently translated into survival benefit. We aimed to synthesize strategy-specific comparative and prospective single-arm evidence. PubMed, Web of Science, Embase, the Cochrane Library, and major oncology conference proceedings were searched from inception to August 3, 2026. RCTs and prospective single-arm trials evaluating ICI-containing treatment initiated before surgery were included. Five strategies were evaluated: ICI plus chemotherapy (ICI+CT), ICI plus chemotherapy and anti-angiogenic therapy (ICI+CT+A), ICI plus chemoradiotherapy (ICI+CRT), ICI plus chemotherapy and anti-HER2 therapy (ICI+CT+H), and dual-ICI therapy (ICI+ICI). Random-effects comparative meta-analyses were conducted separately by strategy, while single-arm analyses provided descriptive absolute estimates. A total of 74 trials, including 16 RCTs and 58 prospective single-arm trials, were included. In randomized comparisons, ICI+CT was associated with improved pCR (RR, 3.01; 95% CI, 2.19-4.15) and MPR (RR, 1.59; 95% CI, 1.36-1.85) and, in perioperative trials, OS (HR, 0.81; 95% CI, 0.70-0.93) and EFS (HR, 0.74; 95% CI, 0.66-0.83) compared with chemotherapy. ICI+CT+A was associated with improved pCR (RR, 3.43; 95% CI, 1.85-6.37) and MPR (RR, 1.40; 95% CI, 1.12-1.76), but survival evidence was limited to one phase II RCT reporting OS. Comparative evidence for ICI+CRT was limited to one small RCT. Evidence for ICI+CT+H and ICI+ICI was derived mainly from small biomarker-selected noncomparative studies. Evidence differed substantially across the five strategies. ICI+CT was associated with improved pCR and MPR and, in perioperative RCTs, OS and EFS; it had the largest and most mature randomized evidence base. ICI+CT+A was associated with improved pCR and MPR, whereas comparative evidence for ICI+CRT, ICI+CT+H, and ICI+ICI remained limited. Further comparative trials are required, particularly for safety and long-term survival. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251271789, identifier CRD420251271789.",
+      "practicalTakeaways": [],
+      "date": "2026 10 10",
+      "status": "Clinical trial",
+      "references": "Frontiers in immunology · 2026 10 10 · PMID: 42857192 · DOI: 10.3389/fimmu.2026.1909466",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42857192/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-11T10:48:31.435Z"
+    },
+    {
+      "id": "pmid-42856863",
+      "pmid": "42856863",
+      "doi": "10.3389/fphar.2026.1977897",
+      "title": "Ciprofol versus propofol for painless gastrointestinal endoscopy: a dose-stratified systematic review and meta-analysis.",
+      "category": "Endoscopy",
+      "source": "Frontiers in pharmacology",
+      "summary": "We compared ciprofol with propofol for painless gastrointestinal endoscopy, focusing on dose, recovery, induction, satisfaction, and adverse events. PubMed and Embase were searched through May 2026 for randomized controlled trials in adults undergoing painless gastrointestinal endoscopy. We pooled weighted mean differences (WMDs) for continuous outcomes and risk ratios (RRs) for dichotomous outcomes using random-e…",
+      "fullDetails": "We compared ciprofol with propofol for painless gastrointestinal endoscopy, focusing on dose, recovery, induction, satisfaction, and adverse events. PubMed and Embase were searched through May 2026 for randomized controlled trials in adults undergoing painless gastrointestinal endoscopy. We pooled weighted mean differences (WMDs) for continuous outcomes and risk ratios (RRs) for dichotomous outcomes using random-effects models. Risk of bias was assessed with the Cochrane tool. The protocol was prospectively registered in PROSPERO (CRD420251088249). Eleven trials (2,084 participants) met the criteria. Recovery was statistically longer with ciprofol (WMD 0.83 min, 95% CI 0.16 to 1.49; P = 0.01), but the absolute difference was under 1 min; the difference was observed at 0.4 and 0.5 mg/kg. Induction time and physician and patient satisfaction did not differ significantly. Ciprofol was associated with fewer reported episodes of hypotension (RR 0.81, 95% CI 0.72-0.90), injection pain (RR 0.13, 95% CI 0.08-0.22), respiratory depression (RR 0.47, 95% CI 0.27-0.83), and hypoxemia (RR 0.64, 95% CI 0.42-0.96). Ciprofol and propofol produced broadly comparable procedural outcomes. The apparent advantages for selected adverse events and the dose-related recovery pattern are uncertain because all trials were conducted in China, several pooled outcomes were highly heterogeneous, outcome definitions varied, and publication bias was possible. The dose-stratified findings are exploratory, and the results are hypothesis-generating and require confirmation in larger international trials. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251088249, identifier PROSPERO CRD420251088249.",
+      "practicalTakeaways": [],
+      "date": "2026 10 10",
+      "status": "Clinical trial",
+      "references": "Frontiers in pharmacology · 2026 10 10 · PMID: 42856863 · DOI: 10.3389/fphar.2026.1977897",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42856863/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-11T10:48:31.436Z"
+    },
+    {
+      "id": "pmid-42859539",
+      "pmid": "42859539",
+      "doi": "10.31083/RCM54276",
+      "title": "Metabolic Dysfunction-Associated Steatotic Liver Disease and Atrial Fibrillation Recurrence After Catheter Ablation: A Systematic Review and Meta-Analysis.",
+      "category": "Hepatology",
+      "source": "Reviews in cardiovascular medicine",
+      "summary": "Catheter ablation (CA) is an established rhythm-control strategy for atrial fibrillation (AF); however, AF recurrence remains common and is influenced by the underlying cardiometabolic substrate, including metabolic dysfunction-associated steatotic liver disease (MASLD). This study aimed to evaluate the association of MASLD and MASLD-related fibrosis risk with AF recurrence following CA. We conducted a systematic…",
+      "fullDetails": "Catheter ablation (CA) is an established rhythm-control strategy for atrial fibrillation (AF); however, AF recurrence remains common and is influenced by the underlying cardiometabolic substrate, including metabolic dysfunction-associated steatotic liver disease (MASLD). This study aimed to evaluate the association of MASLD and MASLD-related fibrosis risk with AF recurrence following CA. We conducted a systematic review and random-effects meta-analysis of observational studies reporting AF recurrence after CA, stratified by MASLD status and liver fibrosis risk, as assessed using the fibrosis-4 (FIB-4) index and the non-alcoholic fatty liver disease (NAFLD) fibrosis score (NFS). Eligible studies included adults undergoing CA for AF with recurrence outcomes reported and stratified by MASLD or fibrosis risk categories. A total of 160 records were identified, and seven studies were included in the qualitative synthesis. Six studies, including 2921 patients, contributed to the primary meta-analysis comparing MASLD versus no MASLD. An additional fibrosis-only study contributed to fibrosis-stratified analyses. The meta-analysis of six studies (MASLD: 894; non-MASLD: 2027) demonstrated that MASLD was associated with a significantly higher risk of AF recurrence after CA (risk ratio (RR) 1.77, 95% confidence interval (CI) 1.43-2.18; p < 0.001; I 2 = 64.1%). In a separate meta-analysis of five studies reporting adjusted estimates, MASLD remained significantly associated with recurrence (hazard ratio (HR) 2.13, 95% CI 1.49-3.04; p < 0.001; I 2 = 70.5%). In fibrosis-stratified analyses, Intermediate/High FIB-4 (RR 2.03, 95% CI 1.27-3.26; p = 0.003; I 2 = 71.3%) and Intermediate/High NFS (RR 1.65, 95% CI 1.12-2.43; p = 0.01; I 2 = 49.9%) were associated with a higher risk of AF recurrence compared with low scores. MASLD is associated with a significantly higher risk of AF recurrence after CA. Fibrosis risk stratification using FIB-4 and NFS also shows a significant association between Intermediate/High fibrosis and increased recurrence rates. CRD420261335405, https://www.crd.york.ac.uk/PROSPERO/view/CRD420261335405.",
+      "practicalTakeaways": [],
+      "date": "2026 10 11",
+      "status": "Evidence review",
+      "references": "Reviews in cardiovascular medicine · 2026 10 11 · PMID: 42859539 · DOI: 10.31083/RCM54276",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859539/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-11T10:48:31.436Z"
     }
   ]
 }
