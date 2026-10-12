@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-11",
+  "lastChecked": "2026-10-12",
   "items": [
     {
       "id": "pmid-42486794",
@@ -7068,6 +7068,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859539/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-11T10:48:31.436Z"
+    },
+    {
+      "id": "pmid-42860771",
+      "pmid": "42860771",
+      "doi": "10.1111/liv.70922",
+      "title": "Network Meta-Analysis: Treatments for Acute Alcohol-Associated Hepatitis.",
+      "category": "Hepatology",
+      "source": "Liver international : official journal of the International Association for the Study of the Liver",
+      "summary": "Alcohol-related hepatitis (AH) is an acute form of liver disease with a high short-term mortality. A variety of treatments have been explored in randomised studies. Recent consensus on study outcomes has identified 90-day survival as the primary outcome metric. This systematic review and network meta-analysis is to update understanding of the comparative efficacy of treatments for AH, based on 90-day survival, to…",
+      "fullDetails": "Alcohol-related hepatitis (AH) is an acute form of liver disease with a high short-term mortality. A variety of treatments have been explored in randomised studies. Recent consensus on study outcomes has identified 90-day survival as the primary outcome metric. This systematic review and network meta-analysis is to update understanding of the comparative efficacy of treatments for AH, based on 90-day survival, to inform future Phase III studies. PubMed, Ovid-Medline and Embase were searched for randomised studies of treatments of AH. The risk of bias in included papers was measured using the Cochrane risk of bias 2 tool. Data were synthesised with network meta-analysis to estimate risk ratio (RR) of survival at 90 days after randomisation. Heterogeneity was assessed with the magnitude of the between-study variance (tau 2 ). Thirty five studies including 5045 participants were identified that examined 24 treatments for AH. Twenty-three studies were considered to be at low risk of bias. In network meta-analysis considering placebo as the reference treatment, only granulocyte colony stimulating factor (GCSF) showed a statistically significant benefit on 90-day mortality (RR 0.49, 95% CI 0.28-0.84; p = 0.009). In subgroup analysis of studies at low risk of bias, no treatments showed a significant effect on mortality at 90 days. Individual studies are small and heterogeneity is marked; however, some agents show promise to improve survival at 90 days in people with AH. This information should inform adequately powered studies to explore potential treatments for AH. Alcohol‐related hepatitis (AH) is a sudden and severe type of liver disease caused by alcohol. AH is dangerous with a high risk of death. Many potential treatments for AH have been studied; this work uses a technique called network meta‐analysis to compare all of these treatments against each other. We found that most studies of treatment for AH are small and often at high risk of bias. With this caveat, the results of our study suggest that treatments based on a medicine called granulocyte colony stimulating factor may be effective, but more high‐quality trials are required to confirm this.",
+      "practicalTakeaways": [],
+      "date": "2026 10 12",
+      "status": "Guideline candidate",
+      "references": "Liver international : official journal of the International Association for the Study of the Liver · 2026 10 12 · PMID: 42860771 · DOI: 10.1111/liv.70922",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42860771/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-12T11:57:22.643Z"
+    },
+    {
+      "id": "pmid-42861260",
+      "pmid": "42861260",
+      "doi": "10.2147/DDDT.S644802",
+      "title": "Effect of a Single Subanesthetic Dose of Esketamine on Gastrointestinal Recovery After Laparoscopic Colorectal Cancer Surgery: A Randomized, Outcome-Assessor-Blinded, Placebo-Controlled Trial.",
+      "category": "Gastroenterology",
+      "source": "Drug design, development and therapy",
+      "summary": "Postoperative gastrointestinal dysfunction (POGD) and Postoperative gastrointestinal intolerance (POGI) remain a critical challenge in abdominal surgery, particularly for colorectal cancer patients undergoing laparoscopic procedures. Current evidence suggests anesthetic agents may influence gastrointestinal recovery, yet the impact of esketamine remains underexplored. This trial aimed to investigate whether intrao…",
+      "fullDetails": "Postoperative gastrointestinal dysfunction (POGD) and Postoperative gastrointestinal intolerance (POGI) remain a critical challenge in abdominal surgery, particularly for colorectal cancer patients undergoing laparoscopic procedures. Current evidence suggests anesthetic agents may influence gastrointestinal recovery, yet the impact of esketamine remains underexplored. This trial aimed to investigate whether intraoperative esketamine administration accelerates gastrointestinal function recovery. In this single-center, randomized, outcome-assessor -blind trial, 104 patients (aged 18-75, ASA I-III) scheduled for elective laparoscopic colorectal cancer surgery were allocated to receive either intravenous esketamine (0.2 mg/kg) or saline (control) 30 minutes before surgery completion. Primary outcome was time to first flatus; secondary outcomes included I-FEED scores, defecation time, oral intake tolerance, and postoperative complications assessed within seven days after surgery. The esketamine group demonstrated significantly shorter time to first flatus (52 [50.25-53.75] vs 60 [58.59-61.41] hours; P < 0.001) and first defecation (87 [81.96-92.04] vs 95 [92.65-97.35] hours; P = 0.04) compared to controls. I-FEED scores were markedly lower (median 1 [0.25-2] vs 2.5 [1-3]; P < 0.001), with reduced nausea (P = 0.001) and abdominal distension duration (P < 0.001). Esketamine also improved postoperative sleep quality, but did not affect hospitalization costs or length of stay. Intraoperative esketamine accelerates gastrointestinal function recovery after laparoscopic colorectal surgery, especially reducing postoperative gastrointestinal intolerance symptoms of nausea and distension while improving early sleep quality. However, no evident benefit was observed in reducing hospital length of stay or patient costs.",
+      "practicalTakeaways": [],
+      "date": "2026 10 12",
+      "status": "Clinical trial",
+      "references": "Drug design, development and therapy · 2026 10 12 · PMID: 42861260 · DOI: 10.2147/DDDT.S644802",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42861260/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-12T11:57:22.644Z"
+    },
+    {
+      "id": "pmid-42859961",
+      "pmid": "42859961",
+      "doi": "10.1177/23259582261494741",
+      "title": "Hepatitis B and C Virus Among Prisoners in Sub-Saharan Africa: A Systematic Review and Meta-Analysis.",
+      "category": "Hepatology",
+      "source": "Journal of the International Association of Providers of AIDS Care",
+      "summary": "ObjectiveTo estimate the pooled prevalence and identify transmission drivers of hepatitis B virus (HBV) and hepatitis C virus (HCV) infections among incarcerated populations in sub-Saharan Africa.MethodsA systematic review and meta-analysis was conducted following a search encompassing Medical Subject Headings (MeSH) and free-text terms from database inception through February 2025. Data were synthesized from 26 s…",
+      "fullDetails": "ObjectiveTo estimate the pooled prevalence and identify transmission drivers of hepatitis B virus (HBV) and hepatitis C virus (HCV) infections among incarcerated populations in sub-Saharan Africa.MethodsA systematic review and meta-analysis was conducted following a search encompassing Medical Subject Headings (MeSH) and free-text terms from database inception through February 2025. Data were synthesized from 26 studies involving 77,760 prisoners across sub-Saharan Africa. A random-effects model was used to calculate pooled prevalence estimates, assess regional variation, and evaluate odds ratios (OR) for potential transmission risk factors.ResultsThe overall pooled prevalence was 13.0% for HBV and 8.0% for HCV among prisoners. Significant regional disparities were observed, with West Africa presenting the highest HBV burden (16.3%) and East Africa showing the highest HCV burden (8.8%). Key independent predictors of infection included sharing sharp objects (OR, 1.98), tattooing (OR, 1.92), and intravenous drug use (OR, 1.38).ConclusionIncarcerated populations in sub-Saharan Africa experience a high burden of viral hepatitis driven by parenteral exposure and high-risk sexual interactions. Addressing these gaps requires targeted screening, comprehensive harm reduction, condom provision, and integrating prison health services into national elimination strategies.",
+      "practicalTakeaways": [],
+      "date": "2026 10 11",
+      "status": "Evidence review",
+      "references": "Journal of the International Association of Providers of AIDS Care · 2026 10 11 · PMID: 42859961 · DOI: 10.1177/23259582261494741",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859961/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-12T11:57:22.644Z"
     }
   ]
 }
