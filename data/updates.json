@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-12",
+  "lastChecked": "2026-10-13",
   "items": [
     {
       "id": "pmid-42486794",
@@ -7119,6 +7119,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42859961/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-12T11:57:22.644Z"
+    },
+    {
+      "id": "pmid-42865026",
+      "pmid": "42865026",
+      "doi": "10.1111/liv.70918",
+      "title": "Safety, Tolerability and Antiviral Activity of GST-HG131 in Chronic Hepatitis B: A Randomized, Double-Blind Phase IIa Study.",
+      "category": "Hepatology",
+      "source": "Liver international : official journal of the International Association for the Study of the Liver",
+      "summary": "Chronic hepatitis B (CHB) remains a major global health burden. Current therapies rarely achieve a functional cure due to low rates of HBsAg clearance, the persistence of the viral replication template-covalently closed circular DNA (cccDNA)-and the need for lifelong treatment. GST-HG131 is a first-in-class, orally bioavailable small-molecule inhibitor of PAPD5/7, key host factors involved in HBV mRNA stabilizatio…",
+      "fullDetails": "Chronic hepatitis B (CHB) remains a major global health burden. Current therapies rarely achieve a functional cure due to low rates of HBsAg clearance, the persistence of the viral replication template-covalently closed circular DNA (cccDNA)-and the need for lifelong treatment. GST-HG131 is a first-in-class, orally bioavailable small-molecule inhibitor of PAPD5/7, key host factors involved in HBV mRNA stabilization and HBsAg production. We evaluated the safety, tolerability and antiviral activity of GST-HG131 in patients with CHB receiving nucleos(t)ide analogue (NUC) therapy in a randomized, double-blind, placebo-controlled Phase IIa study. This double-blind, randomized, placebo-controlled Phase IIa study evaluated the efficacy and safety of GST-HG131 in 45 CHB patients. Cohorts 1 and 2 (n = 10 each; 8 active, 2 placebo) received 30 mg or 60 mg BID for 28 days, respectively. Cohort 3 (n = 25; 20 active, five placebo) received 30 mg BID for 12 weeks. All participants were on nucleos(t)ide analog monotherapy for more than 6 months, with HBsAg between 100 and 1500 IU/mL, and serum ALT below 1× ULN. At Day 28, HBsAg reductions were -0.65 log 10 IU/mL in the 30 mg BID 28-day group and -0.53 log 10 IU/mL in the 60 mg BID 28-day group. The 30 mg BID 12-week group showed a greater reduction of -0.89 log 10 IU/mL at the end of treatment versus placebo (p < 0.001). Two-thirds of treated patients achieved a > 50% reduction in HBsAg with a maximum decrease of 1.64 log 10 IU/mL. Notably, 76.5% of patients in the 12-week group achieved HBsAg below 100 IU/mL. Rebounds in HBsAg were observed following treatment discontinuation. GST-HG131 was well tolerated, with no dose-related toxicity or emerging safety concerns across all cohorts. GST-HG131, a first-in-class oral PAPD5/7 inhibitor, demonstrated favourable safety and significant HBsAg reduction in patients with CHB. The greatest antiviral activity was observed after 12 weeks of treatment, supporting further clinical development of GST-HG131 as a component of functional cure strategies for CHB. ClinicalTrials.gov identifier: NCT06263959. Chronic hepatitis B (CHB) remains a major global health challenge because current antiviral therapies rarely achieve a functional cure, mainly due to the persistence of hepatitis B surface antigen (HBsAg) and stable viral templates in infected liver cells. This study evaluated GST‐HG131, an oral PAPD5/7 inhibitor, in patients with CHB receiving stable nucleos(t)ide analogue therapy. Treatment with GST‐HG131 resulted in significant reductions in HBsAg levels, with the greatest effect observed after 12 weeks of treatment. The treatment was safe and generally well tolerated. These findings suggest that GST‐HG131 may represent a promising therapeutic approach to enhance functional cure rates for patients with CHB.",
+      "practicalTakeaways": [],
+      "date": "2026 10 13",
+      "status": "Clinical trial",
+      "references": "Liver international : official journal of the International Association for the Study of the Liver · 2026 10 13 · PMID: 42865026 · DOI: 10.1111/liv.70918",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42865026/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-13T11:46:23.272Z"
+    },
+    {
+      "id": "pmid-42862368",
+      "pmid": "42862368",
+      "doi": "10.1007/s00345-026-06846-8",
+      "title": "Laparoscopic and robotic management of symptomatic calyceal diverticula: a systematic review on behalf of YAU and EAU endourology.",
+      "category": "Gastroenterology",
+      "source": "World journal of urology",
+      "summary": "Calyceal diverticula (CD) are outpouchings of the pelvicalyceal system into the renal parenchyma. The purpose of this systematic review is to summarize the outcomes associated with laparoscopic and robotic-assisted approaches for the management of symptomatic CD. Our findings were structured according to the PRISMA statement. We queried three electronic databases, PubMed, Cochrane Library, and Web of Science, to s…",
+      "fullDetails": "Calyceal diverticula (CD) are outpouchings of the pelvicalyceal system into the renal parenchyma. The purpose of this systematic review is to summarize the outcomes associated with laparoscopic and robotic-assisted approaches for the management of symptomatic CD. Our findings were structured according to the PRISMA statement. We queried three electronic databases, PubMed, Cochrane Library, and Web of Science, to systematically review the literature. Relying on the March 2009 guidelines from the Oxford Centre for Evidence-Based Medicine, two authors independently judged the quality and evidence level of the final articles. Nine studies were included in final qualitative synthesis. The operative time ranged from 80 to 172 (107-197) minutes, while Estimated Blood Loss ranged from 40 (5-100) to 150 (50-300) ml. The Grade I-II complications according to Clavien-Dindo Classification System ranged from 0% to 66.7%, while no Grade III-IV complications were reported in either of the nine studies. The rate of patients reporting flank pain recurrence during the follow-up period ranged from 0% to 28.5%, while recurrence of the diverticulum ranged from 0% to 33.3%. None of the patients with flank pain or diverticulum recurrence needed a reoperation. The findings of this systematic review suggest that laparoscopic and robotic approaches are feasible and have shown favorable outcomes in selected patients with symptomatic CD, particularly in cases with complex anatomy or after failed endourological treatment. However, the available evidence remains limited.",
+      "practicalTakeaways": [],
+      "date": "2026 10 12",
+      "status": "Guideline candidate",
+      "references": "World journal of urology · 2026 10 12 · PMID: 42862368 · DOI: 10.1007/s00345-026-06846-8",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862368/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-13T11:46:23.272Z"
+    },
+    {
+      "id": "pmid-42864953",
+      "pmid": "42864953",
+      "doi": "10.1093/ecco-jcc/jjag159",
+      "title": "Etrasimod reduces circulating and mucosal inflammatory lymphocyte populations and alters innate immune and non-immune cell signatures in intestinal mucosa: ELEVATE UC phase 3 clinical data.",
+      "category": "Gastroenterology",
+      "source": "Journal of Crohn's & colitis",
+      "summary": "Innate and adaptive immune cell dysregulation contributes to ulcerative colitis pathogenesis. The sphingosine 1-phosphate receptor modulator etrasimod showed efficacy in ulcerative colitis treatment in Phase 3 ELEVATE UC studies. Changes in circulating immune cells and mucosal cell types were characterized in etrasimod-treated patients with ulcerative colitis. Blood (etrasimod n = 525, placebo n = 257 patients) an…",
+      "fullDetails": "Innate and adaptive immune cell dysregulation contributes to ulcerative colitis pathogenesis. The sphingosine 1-phosphate receptor modulator etrasimod showed efficacy in ulcerative colitis treatment in Phase 3 ELEVATE UC studies. Changes in circulating immune cells and mucosal cell types were characterized in etrasimod-treated patients with ulcerative colitis. Blood (etrasimod n = 525, placebo n = 257 patients) and mucosal biopsies (etrasimod n = 411, placebo n = 200 patients) from patients in the ELEVATE UC trials were used to assess cellular and molecular changes for etrasimod versus placebo in clinical remitters and non-remitters using immunophenotyping, transcriptomic and proteomic techniques. Selective and partial reduction in circulating T- and B-cell subsets was observed for etrasimod versus placebo (Week 12), with greater effects on CD4+ T cells, including Treg and Th17 cells, than CD8+ T cells, and on naive T cells and T central memory cells than T effector memory cells, without difference between remitters and non-remitters. No significant effects on monocytes nor NK cell numbers were observed. Mucosal biopsies showed corresponding reductions in T- and B-cell subsets, myeloid cells and neutrophils accompanied by downregulation of interleukin-17 and interleukin-8 signaling in both tissue and blood, most prominently in remitters, where non-immune cell changes were consistent with tissue repair. Etrasimod treatment of patients with ulcerative colitis drives T- and B-lymphocyte subset reductions in blood and intestinal mucosa, neutrophil reductions in tissue and mucosal downregulation of inflammatory pathways associated with ulcerative colitis pathogenesis. ClinicalTrials.gov (NCT03945188; NCT03996369).",
+      "practicalTakeaways": [],
+      "date": "2026 10 13",
+      "status": "New publication",
+      "references": "Journal of Crohn's & colitis · 2026 10 13 · PMID: 42864953 · DOI: 10.1093/ecco-jcc/jjag159",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42864953/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-13T11:46:23.272Z"
+    },
+    {
+      "id": "pmid-42862172",
+      "pmid": "42862172",
+      "doi": "10.1684/ejd.2026.5130",
+      "title": "Phototherapy for different types of cutaneous porphyria: a case series and systematic review.",
+      "category": "Gastroenterology",
+      "source": "European journal of dermatology : EJD",
+      "summary": "Porphyrias are a group of rare metabolic disorders characterized by defects in heme synthesis. Cutaneous photosensitivity is a common manifestation, posing significant challenges in its management. Photo-hardening accomplished using narrow-band ultraviolet radiation (NB-UVB) has been evaluated in the setting of erythropoietic protoporphyria (EPP) in small case series; however, data is scarce regarding other types…",
+      "fullDetails": "Porphyrias are a group of rare metabolic disorders characterized by defects in heme synthesis. Cutaneous photosensitivity is a common manifestation, posing significant challenges in its management. Photo-hardening accomplished using narrow-band ultraviolet radiation (NB-UVB) has been evaluated in the setting of erythropoietic protoporphyria (EPP) in small case series; however, data is scarce regarding other types of porphyria. We aimed to assess the effect of NB-UVB treatment on patients with different types of cutaneous porphyria. A case series of five patients with cutaneous porphyria who were treated with NB-UVB is presented. In addition, a systematic review of studies evaluating porphyria patients treated with NB-UVB was conducted. As a low number of studies evaluating this treatment was expected, our primary outcome was to evaluate exacerbations following treatment and patients' satisfaction. This case series includes three patients with variegate porphyria (VP), one patient with porphyria cutanea tarda (PCT), and one with EPP. Four of five patients were satisfied and did not experience exacerbations following treatment; the fifth patient showed lower compliance but also experienced improvement. The systematic review included 22 patients (four studies): 20 with EPP, one with VP, and one with congenital erythropoietic porphyria (CEP). Of the combined 27 patients, 17 (65%) reported an improvement following treatment. The number of phototherapy sessions varied among patients. There was no record of exacerbations following treatment. The available data supports NB-UVB phototherapy as a safe and effective measure for reducing exacerbations in patients with EPP, PCT, and VP.",
+      "practicalTakeaways": [],
+      "date": "2026 10 12",
+      "status": "Evidence review",
+      "references": "European journal of dermatology : EJD · 2026 10 12 · PMID: 42862172 · DOI: 10.1684/ejd.2026.5130",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862172/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-13T11:46:23.272Z"
     }
   ]
 }
