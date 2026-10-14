@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-13",
+  "lastChecked": "2026-10-14",
   "items": [
     {
       "id": "pmid-42486794",
@@ -7187,6 +7187,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42862172/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-13T11:46:23.272Z"
+    },
+    {
+      "id": "pmid-42869082",
+      "pmid": "42869082",
+      "doi": "10.6004/jnccn.2026.0046",
+      "title": "Pancreatic Adenocarcinoma, Version 4.2026, NCCN Clinical Practice Guidelines In Oncology.",
+      "category": "Gastroenterology",
+      "source": "Journal of the National Comprehensive Cancer Network : JNCCN",
+      "summary": "The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Pancreatic Adenocarcinoma provide multidisciplinary diagnostic workup, staging, and treatment recommendations for resectable, borderline resectable, unresectable, locally advanced, and metastatic disease. This article summarizes the studies and Panel discussion that serve as the rationale for comprehensive care recommendations included in the…",
+      "fullDetails": "The NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines) for Pancreatic Adenocarcinoma provide multidisciplinary diagnostic workup, staging, and treatment recommendations for resectable, borderline resectable, unresectable, locally advanced, and metastatic disease. This article summarizes the studies and Panel discussion that serve as the rationale for comprehensive care recommendations included in the NCCN Guidelines for Pancreatic Adenocarcinoma.",
+      "practicalTakeaways": [],
+      "date": "2026 10 13",
+      "status": "Guideline candidate",
+      "references": "Journal of the National Comprehensive Cancer Network : JNCCN · 2026 10 13 · PMID: 42869082 · DOI: 10.6004/jnccn.2026.0046",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42869082/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-14T09:29:51.536Z"
+    },
+    {
+      "id": "pmid-42868319",
+      "pmid": "42868319",
+      "doi": "10.1200/CCI-26-00200",
+      "title": "Toward Clinically Actionable Prediction of Recurrence and Metastatic Progression in Pancreatic Ductal Adenocarcinoma: A Systematic Review.",
+      "category": "Hepatology",
+      "source": "JCO clinical cancer informatics",
+      "summary": "Pancreatic ductal adenocarcinoma (PDAC) has high rates of early recurrence (ER), occult metastasis, and poor survival despite curative-intent therapy. Predictive factors and models span clinical, biomarker, imaging, radiomics, pathologic, and molecular domains, but clinical readiness remains uncertain. We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Ana…",
+      "fullDetails": "Pancreatic ductal adenocarcinoma (PDAC) has high rates of early recurrence (ER), occult metastasis, and poor survival despite curative-intent therapy. Predictive factors and models span clinical, biomarker, imaging, radiomics, pathologic, and molecular domains, but clinical readiness remains uncertain. We performed a systematic review in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses. Five databases were searched for studies evaluating predictors or models of PDAC recurrence, metastasis, lymph node metastasis (LNM), occult metastatic disease, disease-free survival (DFS) or recurrence-free survival, or recurrence patterns. Studies were screened and coded for end point, modality, model type, validation, discrimination, calibration, clinical utility, and predictor timing. Of 234 full-text records, 208 studies were included, comprising 144 prediction models and 64 predictor/prognostic factor studies. Computed tomography/radiomics (141/208), clinical/electronic health record variables (104/208), and serum/urine biomarkers (46/208) were the most common modalities. External validation, calibration, and decision-curve analyses were reported in 52, 36, and 38 model studies, respectively. AUCs ranged from 0.70 to 0.92 for ER, 0.75-0.95 for LNM, and 0.71-0.88 for liver or occult metastasis; DFS/relapse-free survival models had C-indices of 0.62-0.82. One externally validated occult-metastasis model had a C-statistic of 0.56. Model maturity was limited by retrospective design, heterogeneous end points, incomplete calibration reporting, and postoperative variables in preoperative models. Prediction models for PDAC recurrence and metastatic progression are rapidly expanding, particularly through radiomics, machine learning, and multimodal modeling. Clinical translation requires decision-aligned design, transparent reporting, external validation, calibration, interpretability, and prospective evaluation of clinical utility.",
+      "practicalTakeaways": [],
+      "date": "2026 10 13",
+      "status": "Evidence review",
+      "references": "JCO clinical cancer informatics · 2026 10 13 · PMID: 42868319 · DOI: 10.1200/CCI-26-00200",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42868319/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-14T09:29:51.537Z"
+    },
+    {
+      "id": "pmid-42866936",
+      "pmid": "42866936",
+      "doi": "10.1111/hel.70168",
+      "title": "Intermediate OLGA/OLGIM Stages as Early Risk Markers for Gastric Cancer: A Systematic Review and Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Helicobacter",
+      "summary": "The Operative Link on Gastritis Assessment (OLGA) and Operative Link on Gastric Intestinal Metaplasia Assessment (OLGIM) systems stratify gastric cancer (GC) risk according to the extent of gastric atrophy and intestinal metaplasia. However, the clinical significance of intermediate stages remains uncertain. To evaluate the association between OLGA/OLGIM stages and GC, with particular focus on the potential role o…",
+      "fullDetails": "The Operative Link on Gastritis Assessment (OLGA) and Operative Link on Gastric Intestinal Metaplasia Assessment (OLGIM) systems stratify gastric cancer (GC) risk according to the extent of gastric atrophy and intestinal metaplasia. However, the clinical significance of intermediate stages remains uncertain. To evaluate the association between OLGA/OLGIM stages and GC, with particular focus on the potential role of intermediate stages as early histological risk markers. A systematic review and meta-analysis (PROSPERO CRD42024549931) was conducted according to PRISMA 2020 guidelines. Cohort, case-control, and cross-sectional studies reporting GC incidence or prevalence according to OLGA and/or OLGIM stage were included. Methodological quality was assessed using the Newcastle-Ottawa Scale and certainty of evidence using GRADE. Random-effects models were used to calculate pooled odds ratios (OR) and risk ratios (RR). Twenty-eight studies involving 23,390 patients were included. Methodological quality was high and certainty of evidence was moderate. Advanced OLGA III-IV and OLGIM III-IV stages were strongly associated with GC (OR 6.49 and 7.76; RR 13.26 and 4.34, respectively). Intermediate stages were also associated with GC in observational studies: OLGA II (OR 2.77; 95% CI 1.83-4.20; I 2 = 71%) and OLGIM II (OR 3.63; 95% CI 2.90-4.55; I 2 = 0%). However, prospective cohort studies did not demonstrate a statistically significant increase in future GC incidence for OLGA II (RR 1.20; 95% CI 0.85-1.69). Intermediate OLGA and OLGIM stages may represent early histological markers associated with gastric carcinogenesis. Prospective studies are required to determine their predictive value and potential implications for surveillance strategies, particularly in high-incidence populations.",
+      "practicalTakeaways": [],
+      "date": "2026 10 13",
+      "status": "Guideline candidate",
+      "references": "Helicobacter · 2026 10 13 · PMID: 42866936 · DOI: 10.1111/hel.70168",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42866936/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-14T09:29:51.537Z"
     }
   ]
 }
