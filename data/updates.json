@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-17",
+  "lastChecked": "2026-10-18",
   "items": [
     {
       "id": "pmid-42486794",
@@ -7731,6 +7731,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42881372/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-17T08:32:39.366Z"
+    },
+    {
+      "id": "pmid-42891583",
+      "pmid": "42891583",
+      "doi": "10.3791/73962",
+      "title": "Impact of Phosphatidylinositol 3-Kinase and B-Raf Mutations in Rat Sarcoma Wild-Type Metastatic Colorectal Cancer.",
+      "category": "Gastroenterology",
+      "source": "Journal of visualized experiments : JoVE",
+      "summary": "Activating mutations in phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA) and B-Raf proto-oncogene (BRAF) are hypothesized to confer primary resistance to anti-epidermal growth factor receptor (anti-EGFR) monoclonal antibodies in metastatic colorectal cancer (mCRC). However, the clinical impact of these mutations in patients with rat sarcoma (RAS) wild-type tumors remains incompletely…",
+      "fullDetails": "Activating mutations in phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA) and B-Raf proto-oncogene (BRAF) are hypothesized to confer primary resistance to anti-epidermal growth factor receptor (anti-EGFR) monoclonal antibodies in metastatic colorectal cancer (mCRC). However, the clinical impact of these mutations in patients with rat sarcoma (RAS) wild-type tumors remains incompletely characterized. This systematic review and meta-analysis evaluated the association of PIK3CA and BRAF mutations with clinical outcomes in RAS wild-type mCRC patients receiving first-line EGFR inhibitor therapy. A systematic literature search was conducted across PubMed, Embase, the Cochrane Library, Google Scholar, and OVID from inception through June 2019, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. From 600 screened records, 10 studies comprising 1,478 patients with RAS wild-type mCRC were included. Pooled hazard ratios (HRs) for progression-free survival (PFS) and overall survival (OS), and risk differences (RDs) for objective response rate (ORR), were calculated using fixed- or random-effects models with 95% confidence intervals (CIs). PIK3CA mutations were associated with significantly worse PFS (HR, 1.38; 95% CI, 1.11-1.71; p = 0.004) and OS (HR, 1.58; 95% CI, 1.22-2.05; p < 0.001). BRAF mutations were similarly associated with worse PFS (HR, 1.68; 95% CI, 1.46-1.94; p < 0.001) and OS (HR, 1.27; 95% CI, 1.09-1.49; p = 0.003). No significant difference in ORR was observed for either PIK3CA mutations (RD, -0.12; 95% CI, -0.38 to 0.15; p = 0.38) or BRAF mutations (RD, -0.12; 95% CI, -0.28 to 0.04; p = 0.15) compared with wild-type. These findings confirm that PIK3CA and BRAF mutations are negative prognostic biomarkers in RAS wild-type mCRC, associated with inferior PFS and OS but not ORR. Incorporating BRAF and PIK3CA mutation testing into pretreatment evaluation is supported, and alternative therapeutic strategies for mutation carriers are needed. Prospective validation in larger studies is warranted.",
+      "practicalTakeaways": [],
+      "date": "2026 10 17",
+      "status": "Guideline candidate",
+      "references": "Journal of visualized experiments : JoVE · 2026 10 17 · PMID: 42891583 · DOI: 10.3791/73962",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891583/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-18T08:50:18.425Z"
+    },
+    {
+      "id": "pmid-42888555",
+      "pmid": "42888555",
+      "doi": "10.1097/MD.0000000000051136",
+      "title": "Three traditional Chinese patent medicines combined with transarterial chemoembolization for primary liver cancer: A systematic review and Bayesian network meta-analysis.",
+      "category": "Hepatology",
+      "source": "Medicine",
+      "summary": "To evaluate the objective response rate (ORR) and disease control rate of 3 Chinese herbal medicines (Compound Banmao Capsule, Huaier Granule, and Jinlong Capsule) combined with transarterial chemoembolization (TACE) for primary liver cancer using Bayesian network meta-analysis. We systematically searched randomized controlled trials (RCTs) across the Cochrane Library, Embase, PubMed, Web of Science, VIP Database…",
+      "fullDetails": "To evaluate the objective response rate (ORR) and disease control rate of 3 Chinese herbal medicines (Compound Banmao Capsule, Huaier Granule, and Jinlong Capsule) combined with transarterial chemoembolization (TACE) for primary liver cancer using Bayesian network meta-analysis. We systematically searched randomized controlled trials (RCTs) across the Cochrane Library, Embase, PubMed, Web of Science, VIP Database for Chinese Technical Periodicals, China National Knowledge Infrastructure, and Wanfang databases from their inception to January 10, 2025. Two researchers independently screened the literature, extracted data, and assessed study quality using predefined inclusion and exclusion criteria. A Bayesian network meta-analysis was performed using RStudio to synthesize and hierarchically rank interventions by effect size in the included RCTs. This review was registered with PROSPERO (CRD420251019361). Thirty-one RCTs involving 2604 patients with primary liver cancer were included. The network meta-analysis showed that, compared with TACE alone: Compound Banmao Capsule ranked highest for ORR (OR = 1.50, 95% CI: 1.08, 2.08), followed by Huaier Granule (OR = 1.47, 95% CI: 1.05, 2.05) and Jinlong Capsule (OR = 1.30, 95% CI: 1.02, 1.65). For disease control rate, the ranking was Compound Banmao Capsule (OR = 1.21, 95% CI: 0.76, 1.93), Jinlong Capsule (OR = 1.17, 95% CI: 0.85, 1.59), and Huaier Granule (OR = 1.12, 95% CI: 0.66, 1.91). For ORR, the combination of the 3 Chinese herbal medicines with TACE showed superior efficacy to TACE monotherapy, with Compound Banmao Capsule demonstrating the greatest therapeutic potential among the interventions evaluated.",
+      "practicalTakeaways": [],
+      "date": "2026 10 17",
+      "status": "Clinical trial",
+      "references": "Medicine · 2026 10 17 · PMID: 42888555 · DOI: 10.1097/MD.0000000000051136",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888555/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-18T08:50:18.425Z"
     }
   ]
 }
