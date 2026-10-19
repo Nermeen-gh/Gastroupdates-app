@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-18",
+  "lastChecked": "2026-10-19",
   "items": [
     {
       "id": "pmid-42486794",
@@ -7765,6 +7765,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42888555/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-18T08:50:18.425Z"
+    },
+    {
+      "id": "pmid-42891908",
+      "pmid": "42891908",
+      "doi": "10.1007/s11894-026-01061-2",
+      "title": "Switching from Intravenous to Subcutaneous Infliximab in Children with Inflammatory Bowel Disease: A Systematic Review and Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Current gastroenterology reports",
+      "summary": "Subcutaneous infliximab (IFX-SC; CT-P13 SC/infliximab-dyyb/Remsima-SC/Zymfentra) is an approved maintenance option after intravenous (IV) induction in adults with inflammatory bowel disease (IBD), but it is not approved for patients < 18 years, and the pediatric evidence remains dispersed across small, largely observational cohorts. This review synthesizes the published pediatric experience of transitioning from I…",
+      "fullDetails": "Subcutaneous infliximab (IFX-SC; CT-P13 SC/infliximab-dyyb/Remsima-SC/Zymfentra) is an approved maintenance option after intravenous (IV) induction in adults with inflammatory bowel disease (IBD), but it is not approved for patients < 18 years, and the pediatric evidence remains dispersed across small, largely observational cohorts. This review synthesizes the published pediatric experience of transitioning from IV to SC infliximab, examining maintenance of remission, drug concentrations, safety, and acceptability, and situates it within the adult evidence base and the distinctly pediatric concerns of access and dosing. A systematic search (PROSPERO: CRD420261465026) identified six independent, non-overlapping pediatric switch cohorts (n = 173). Random-effects proportional meta-analysis yielded pooled treatment persistence of 92% (95%CI 84-98), maintained clinical remission of 93% (95%CI 84-99), and any-cause discontinuation of 8% (95%CI 2-16), most often for injection-site intolerance, disease relapse, or paradoxical dermatitis. New anti-drug antibody formation was rare among the 129 children in cohorts measuring immunogenicity (four children, none sustained) while previously positive antibodies frequently resolved after switching. Steady-state SC concentrations ran roughly 2-fold above prior IV troughs, an expected step-up reflecting sustained subcutaneous exposure. Patient and caregiver satisfaction was high due to decreased school absence and travel, and cost analyses signaled net savings from avoided infusion-center use. The principal barrier was administrative: age-based denial. In appropriately selected children, transition to IFX-SC sustains remission with predictable pharmacokinetics, a reassuring immunogenicity profile, and excellent tolerability, mirroring the adult experience. These observations constitute a well-supported real-world signal and warrant prospective validation and pursuit of pediatric labeling.",
+      "practicalTakeaways": [],
+      "date": "2026 10 18",
+      "status": "Evidence review",
+      "references": "Current gastroenterology reports · 2026 10 18 · PMID: 42891908 · DOI: 10.1007/s11894-026-01061-2",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42891908/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-19T09:52:53.487Z"
+    },
+    {
+      "id": "pmid-42894916",
+      "pmid": "42894916",
+      "doi": "10.62713/aic.4784",
+      "title": "Modified LIFT via a Lateral Approach Versus Standard LIFT for Transsphincteric Anal Fistula: A Prospective Randomized Study.",
+      "category": "Gastroenterology",
+      "source": "Annali italiani di chirurgia",
+      "summary": "To compare the early clinical outcomes of modified ligation of the intersphincteric fistula tract (LIFT) via a lateral approach with those of standard LIFT in patients with magnetic resonance imaging (MRI)-confirmed transsphincteric anal fistula. This single-center prospective randomized study included adult patients with transsphincteric anal fistula who were treated between January and May 2024 and were followed…",
+      "fullDetails": "To compare the early clinical outcomes of modified ligation of the intersphincteric fistula tract (LIFT) via a lateral approach with those of standard LIFT in patients with magnetic resonance imaging (MRI)-confirmed transsphincteric anal fistula. This single-center prospective randomized study included adult patients with transsphincteric anal fistula who were treated between January and May 2024 and were followed through August 2024. Among 96 patients assessed for eligibility, 46 met the eligibility criteria, and 40 consenting patients were randomized at a 1:1 ratio to standard LIFT or modified LIFT via a lateral approach. Follow-up was performed at postoperative weeks 1, 4, 8, and 12. The primary outcome was wound healing time. Secondary outcomes included early recurrence or persistence, postoperative pain assessed using the visual analog scale (VAS), and continence evaluated using the Cleveland Clinic Fecal Incontinence Scale. A total of 40 patients were analyzed, with 20 patients in each group. Baseline demographic and available clinical characteristics were comparable between the groups. The median wound healing time was significantly shorter in the modified LIFT group than in the standard LIFT group (13 [interquartile range, 10-17] days vs. 29.5 [26-32] days; p < 0.001). No early recurrence or persistence was observed in the modified LIFT group by week 12. In the standard LIFT group, recurrence/persistence was observed in 3 of the 20 patients (15.0%) at week 8 and in 6 of the 20 patients (30.0%) at week 12 (Fisher exact test at week 12; p = 0.020). The median VAS pain scores were low and comparable in the standard LIFT versus modified LIFT groups at week 1 (0.90 vs. 0.95; p = 0.942) and week 4 (0.00 vs. 0.00; p = 0.115). No case of fecal incontinence was noted in either group during follow-up. In selected patients with transsphincteric anal fistula, compared with standard LIFT, modified LIFT via a lateral approach was associated with faster early wound healing and a lower rate of early recurrence/persistence within 12 weeks, without an observed increase in postoperative pain or fecal incontinence. Larger studies with longer follow-up are warranted before definitive conclusions can be drawn regarding long-term recurrence. ClinicalTrials.gov: NCT07603635.",
+      "practicalTakeaways": [],
+      "date": "2026 10 19",
+      "status": "Clinical trial",
+      "references": "Annali italiani di chirurgia · 2026 10 19 · PMID: 42894916 · DOI: 10.62713/aic.4784",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894916/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-19T09:52:53.488Z"
+    },
+    {
+      "id": "pmid-42894466",
+      "pmid": "42894466",
+      "doi": "10.1002/ueg2.70297",
+      "title": "An App-Based Proton Pump Inhibitor Discontinuation Tool: A Multicentre, Open-Label, Randomised Superiority Trial.",
+      "category": "Gastroenterology",
+      "source": "United European gastroenterology journal",
+      "summary": "Proton pump inhibitors (PPIs) are frequently used without long-term indication. Discontinuation remains challenging because of rebound symptoms. Whether digital guidance tools improve discontinuation is unknown. We evaluated whether an app improves PPI discontinuation. In this open-label adaptive randomised controlled superiority trial, adults using daily PPI for ≥ 4 weeks without chronic PPI indication, according…",
+      "fullDetails": "Proton pump inhibitors (PPIs) are frequently used without long-term indication. Discontinuation remains challenging because of rebound symptoms. Whether digital guidance tools improve discontinuation is unknown. We evaluated whether an app improves PPI discontinuation. In this open-label adaptive randomised controlled superiority trial, adults using daily PPI for ≥ 4 weeks without chronic PPI indication, according to the Dutch College of General Practitioners guideline, were recruited from outpatient clinics of Internal Medicine, Gastroenterology, Rheumatology and Nephrology departments at three Dutch hospitals. Patients were excluded if their physician deemed PPI use necessary beyond guideline recommendations, after prior upper gastrointestinal surgery, in case of inability to understand the study, unavailability of a smartphone/tablet, or limited life expectancy. Patients were randomly assigned (1:1), stratified by department and initial indication, to receive information on PPI discontinuation through an app (intervention) or brochure (control). Primary outcome was PPI discontinuation at 2 months follow-up, defined as self-declared intake of ≤ 1 tablet in the preceding 14 days. Sample-size was revised earlier than prespecified based on interim data. The trial is registered as closed to accrual at ClinicalTrials.gov (NCT05348252). Between May 15, 2022, and March 31, 2023, 174 patients were randomized (86 intervention, 88 control). Nine and two patients, respectively, did not receive the allocated intervention. Of the 163 participants (mean age 54 y/o [SD 11], 76 males [47%]), 66/77 (86%) discontinued PPIs in the intervention group versus 55/86 (64%) in the control group (RR 1.34, 95% CI 1.11-1.61, p = 0.002). Adverse events occurred in 18/121 (15%) patients who discontinued PPI use and in 6/42 (14%) who did not. Only 4/121 (3%) and 1/42 (2%), respectively, were potentially attributable to PPI discontinuation. An app-based intervention significantly improves discontinuation of inappropriate PPI use compared with an information brochure and could therefore be considered for PPI deprescribing initiatives.",
+      "practicalTakeaways": [],
+      "date": "2026 10 19",
+      "status": "Guideline candidate",
+      "references": "United European gastroenterology journal · 2026 10 19 · PMID: 42894466 · DOI: 10.1002/ueg2.70297",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42894466/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-19T09:52:53.488Z"
+    },
+    {
+      "id": "pmid-42893986",
+      "pmid": "42893986",
+      "doi": "10.1038/s41387-026-00457-3",
+      "title": "Effectiveness of eHealth lifestyle interventions on management of metabolic dysfunction-associated steatotic liver disease: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Nutrition & diabetes",
+      "summary": "eHealth lifestyle interventions have emerged as promising management strategies for metabolic dysfunction-associated steatotic liver disease (MASLD). Our review aimed to synthesize the most recent evidence to evaluate the effectiveness of eHealth lifestyle interventions on clinical and behavioral outcomes in adults with MASLD. Twelve databases (Medline, Web of Science Core Collection, Embase, Cochrane Central Regi…",
+      "fullDetails": "eHealth lifestyle interventions have emerged as promising management strategies for metabolic dysfunction-associated steatotic liver disease (MASLD). Our review aimed to synthesize the most recent evidence to evaluate the effectiveness of eHealth lifestyle interventions on clinical and behavioral outcomes in adults with MASLD. Twelve databases (Medline, Web of Science Core Collection, Embase, Cochrane Central Register of Controlled Trials, ProQuest Health & Medical Collection, CINAHL Complete, Academic Search Complete, Scopus, Emerald, China National Knowledge Infrastructure, Wanfang Data, and VIP Database) were searched from inception to April 2, 2025. Thirteen randomized controlled trials and fifteen quasi-experimental trials comprising 2579 adult patients with MASLD were included. Seven intervention components were identified: goal setting, health education, consultation, self- and device-monitoring, feedback, patient reminders, and social support. Meta-analysis of randomized controlled trials demonstrated that eHealth lifestyle interventions were significantly superior to standard care in reducing weight, body mass index, waist circumference, alanine aminotransferase, aspartate aminotransferase, and γ-glutamyl transferase levels, and improving MASLD status. Improvements in self-management, dietary adherence, physical activity, exercise, and quality of life were also observed. Our findings suggest that ehealth intervention is a better choice for the patients with MASLD to achieve precise and scalable management. PROSPERO CRD420251001470. TRIAL REGISTRATION: PROSPERO CRD420251001470; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251001470 .",
+      "practicalTakeaways": [],
+      "date": "2026 10 18",
+      "status": "Clinical trial",
+      "references": "Nutrition & diabetes · 2026 10 18 · PMID: 42893986 · DOI: 10.1038/s41387-026-00457-3",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893986/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-19T09:52:53.488Z"
     }
   ]
 }
