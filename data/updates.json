@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-19",
+  "lastChecked": "2026-10-20",
   "items": [
     {
       "id": "pmid-42486794",
@@ -7833,6 +7833,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42893986/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-19T09:52:53.488Z"
+    },
+    {
+      "id": "pmid-42895565",
+      "pmid": "42895565",
+      "doi": "10.1007/s00431-026-07512-2",
+      "title": "Paediatric Helicobacter pylori infection and allergic and inflammatory diseases: a contemporary systematic review with meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "European journal of pediatrics",
+      "summary": "Helicobacter pylori (H. pylori) infection is prevalent worldwide, and its potential protective role in allergic and immune diseases has been a topic of speculation. This systematic review aims to analyse recent literature to establish a consensus on this relationship. Articles published in the past 12 years regarding association of H. pylori and various allergic diseases were screened. Thirty-five articles from th…",
+      "fullDetails": "Helicobacter pylori (H. pylori) infection is prevalent worldwide, and its potential protective role in allergic and immune diseases has been a topic of speculation. This systematic review aims to analyse recent literature to establish a consensus on this relationship. Articles published in the past 12 years regarding association of H. pylori and various allergic diseases were screened. Thirty-five articles from three databases were assessed for bias using the ROBINS-E tool. Objective data from each article were collected for this review. Among the reviewed articles, 14 focused on asthma, 10 on eliac disease(CeD), 5 on eosinophilic esophagitis (EoE), 7 on inflammatory bowel disease (IBD), and 8 on mixed conditions. In the asthma meta-analysis, H. pylori infection was not significantly associated with asthma overall (OR 0.75, 95% CI 0.54-1.05; I 2 = 67.3%). Subgroup analyses showed an inverse association in studies using UBT/SAT, whereas histology-based studies showed no association. Low-risk-of-bias studies likewise showed no significant association. Results for celiac and IBD were mixed. No clear trends were observed for the other conditions analysed. Current paediatric evidence does not demonstrate a significant overall association between H. pylori infection and asthma. Apparent inverse associations were confined to specific diagnostic and risk-of-bias subgroups. Evidence for celiac disease, IBD, EoE, and other immune-mediated disorders remains inconsistent. More prospective paediatric studies are needed to understand the immune modulation of H. pylori infection. • The relationship between Helicobacter pylori infection and allergic or immune-mediated diseases remains complex and incompletely understood. • Previous studies, including mixed studies with adult and paediatric populations, have reported inconsistent and sometimes conflicting associations. • This is the first comprehensive paediatric review covering multiple conditions simultaneously, synthesising evidence on the association between Helicobacter pylori infection and allergic and immune-mediated diseases. • Analysis of paediatric data found no overall association between H. pylori infection and asthma risk. Histology-based studies confirmed this finding, whereas a slight inverse association was observed only in studies using non-invasive diagnostic methods (UBT or SAT) and in those with a higher risk of bias.",
+      "practicalTakeaways": [],
+      "date": "2026 10 19",
+      "status": "Guideline candidate",
+      "references": "European journal of pediatrics · 2026 10 19 · PMID: 42895565 · DOI: 10.1007/s00431-026-07512-2",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42895565/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-20T09:24:28.050Z"
+    },
+    {
+      "id": "pmid-42896861",
+      "pmid": "42896861",
+      "doi": "10.1093/ecco-jcc/jjag154",
+      "title": "Safety and tolerability of anti-toll-like receptor 3, monoclonal antibody PRV-300 in patients with moderate-to-severe ulcerative colitis: a randomized phase 1B clinical trial (PULSE).",
+      "category": "Endoscopy",
+      "source": "Journal of Crohn's & colitis",
+      "summary": "PRV-300 is a fully human IgG4κ monoclonal antibody that binds the extracellular domain of human toll-like receptor 3, which is overexpressed in the inflamed colonic epithelium in patients with inflammatory bowel disease. This study aimed at proving its safety and efficacy in patients with ulcerative colitis (UC). Patients with moderate-to-severe UC (Mayo Clinical Score [MCS] 6-12) were randomized to receive 7 dose…",
+      "fullDetails": "PRV-300 is a fully human IgG4κ monoclonal antibody that binds the extracellular domain of human toll-like receptor 3, which is overexpressed in the inflamed colonic epithelium in patients with inflammatory bowel disease. This study aimed at proving its safety and efficacy in patients with ulcerative colitis (UC). Patients with moderate-to-severe UC (Mayo Clinical Score [MCS] 6-12) were randomized to receive 7 doses of PRV-300 intravenously or matched placebo (PBO). After a 12-week treatment period, participants underwent an 8-week follow-up. The primary endpoint was to assess the safety and tolerability of PRV-300. Secondary endpoints included assessment of pharmacodynamics, pharmacokinetics, immunogenicity, and endoscopic disease activity. In total, 38 patients were randomized (28 in PRV-300 arm, 9 in placebo arm), of whom 32 completed the trial (24 and 8, respectively). Although TEAEs and TE-SAEs were numerically higher with PRV-300 than placebo (50.0% vs 11.1% and 39.3% vs 0.0%, respectively), the drug was well-tolerated, with only 7.1% (2/28) discontinuing therapy due to AEs and most events being mild, non-specific, or related to underlying disease. In colonic biopsies, PRV-300 had a greater, albeit not statistically significant, effect on the downregulation of TLR3 expression, but not on a UC gene expression signature. No differences in MCS and endoscopic severity were observed. While PRV-300 demonstrated an acceptable safety profile, TLR3 blockade did not translate into clinical benefit despite exploratory evidence of target engagement. Our results are challenging a pivotal role of the mode-of-action for the pathogenesis of UC (funded by Provention Bio). ClinicalTrials.gov (NCT03849599).",
+      "practicalTakeaways": [],
+      "date": "2026 10 19",
+      "status": "Clinical trial",
+      "references": "Journal of Crohn's & colitis · 2026 10 19 · PMID: 42896861 · DOI: 10.1093/ecco-jcc/jjag154",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896861/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-20T09:24:28.051Z"
+    },
+    {
+      "id": "pmid-42896962",
+      "pmid": "42896962",
+      "doi": "10.1111/jjns.70084",
+      "title": "Comparative Effectiveness of Rehabilitation Nursing Interventions in Patients With Post-Stroke Dysphagia: A Systematic Review and Network Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Japan journal of nursing science : JJNS",
+      "summary": "To compare the effectiveness of rehabilitation interventions integrated into nursing care on swallowing function and safety in patients with post-stroke dysphagia. We searched Web of Science, Scopus, Embase, ProQuest, CINAHL, PubMed, and the Cochrane Central Register of Controlled Trials to identify randomized controlled trials (RCTs) evaluating rehabilitation nursing interventions for patients with post-stroke dy…",
+      "fullDetails": "To compare the effectiveness of rehabilitation interventions integrated into nursing care on swallowing function and safety in patients with post-stroke dysphagia. We searched Web of Science, Scopus, Embase, ProQuest, CINAHL, PubMed, and the Cochrane Central Register of Controlled Trials to identify randomized controlled trials (RCTs) evaluating rehabilitation nursing interventions for patients with post-stroke dysphagia, from database inception to September 2025. The primary outcomes were the Functional Oral Intake Scale (FOIS) and the Penetration-Aspiration Scale (PAS), while secondary outcomes included the Videofluoroscopic Dysphagia Scale (VDS) and the Swallowing Quality of Life Scale (SWAL-QOL). Seventeen RCTs were included. Rehabilitation nursing interventions were more effective than conventional care in improving FOIS, PAS, and VDS. For FOIS, kinesiology taping (KT) combined with neuromuscular electrical stimulation (NMES) (surface under the cumulative ranking curve [SUCRA] = 78.7%, mean rank = 2.7) and respiratory muscle training (RMT) (SUCRA = 78.1%, mean rank = 2.9) ranked highest. For PAS, KT combined with NMES (SUCRA = 95.9%, mean rank = 1.3) and KT (SUCRA = 84.1%, mean rank = 2.1) ranked highest. Rehabilitation nursing interventions may improve swallowing function and safety in patients with post-stroke dysphagia. RMT, KT, and KT + NMES showed potential benefits for different aspects of swallowing recovery. However, the superiority of KT + NMES requires confirmation in high-quality multicenter RCTs with head-to-head comparisons and long-term follow-up. PROSPERO ID: CRD420251155222.",
+      "practicalTakeaways": [],
+      "date": "2026 10 19",
+      "status": "Clinical trial",
+      "references": "Japan journal of nursing science : JJNS · 2026 10 19 · PMID: 42896962 · DOI: 10.1111/jjns.70084",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42896962/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-20T09:24:28.051Z"
     }
   ]
 }
