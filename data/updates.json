@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-24",
+  "lastChecked": "2026-10-25",
   "items": [
     {
       "id": "pmid-42486794",
@@ -8632,6 +8632,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42913616/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-24T08:52:04.862Z"
+    },
+    {
+      "id": "pmid-42923263",
+      "pmid": "42923263",
+      "doi": "10.3389/fimmu.2026.1908072",
+      "title": "Second-line treatment selection for advanced hepatocellular carcinoma: a network meta-analysis with reconstructed survival curves and integrated benefit-risk assessment.",
+      "category": "Hepatology",
+      "source": "Frontiers in immunology",
+      "summary": "Optimal second-line systemic therapy for advanced hepatocellular carcinoma (HCC) remains uncertain. This study compared the efficacy and safety of available second-line treatments after tyrosine kinase inhibitor (TKI) failure and explored treatment strategies after immune checkpoint inhibitor (ICI) exposure. Twelve phase III randomized controlled trials (RCTs) were included; 11 contributed to the primary post-TKI…",
+      "fullDetails": "Optimal second-line systemic therapy for advanced hepatocellular carcinoma (HCC) remains uncertain. This study compared the efficacy and safety of available second-line treatments after tyrosine kinase inhibitor (TKI) failure and explored treatment strategies after immune checkpoint inhibitor (ICI) exposure. Twelve phase III randomized controlled trials (RCTs) were included; 11 contributed to the primary post-TKI network, whereas REACH-2 contributed only to the exploratory alpha-fetoprotein (AFP) ≥400 ng/mL subgroup analysis. Reconstructed individual patient data from published Kaplan-Meier curves were used to generate descriptive pooled survival curves, whereas formal overall-survival (OS) comparisons were based on trial-reported hazard ratios in a frequentist random-effects network meta-analysis (NMA). Safety was evaluated using grade ≥3 adverse events (AEs), and benefit-risk profiles were explored using multidimensional distance to the corner (MDC). Seven observational studies were synthesized separately in an exploratory analysis of post-ICI strategies. In the random-effects NMA, regorafenib, cabozantinib and pembrolizumab significantly improved OS compared with placebo or best supportive care. No significant OS differences were observed between regorafenib and cabozantinib or pembrolizumab. Among patients with AFP ≥400 ng/mL, ramucirumab was associated with improved OS versus placebo or best supportive care in the exploratory subgroup analysis. Pembrolizumab had the lowest exploratory MDC (0.439), followed by regorafenib (0.693) and cabozantinib (0.908). The MDC ordering remained unchanged across alternative weighting and leave-one-out sensitivity analyses. The direction and statistical significance of the OS estimates were unchanged in the common-effects sensitivity analysis. In exploratory post-ICI analyses, regorafenib combined with ICIs was associated with improved OS compared with regorafenib monotherapy. After TKI failure, several second-line agents improved OS, with differing safety profiles. Pembrolizumab showed the most favorable integrated efficacy-safety profile among treatments with demonstrated OS benefit and may be particularly relevant when tolerability is a priority, while ramucirumab remains a biomarker-directed option for patients with AFP ≥400 ng/mL. In the exploratory post-ICI analysis, combination therapy with regorafenib and ICI was associated with a potential survival benefit compared with regorafenib alone. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261329202, identifier CRD420261329202.",
+      "practicalTakeaways": [],
+      "date": "2026 10 24",
+      "status": "Clinical trial",
+      "references": "Frontiers in immunology · 2026 10 24 · PMID: 42923263 · DOI: 10.3389/fimmu.2026.1908072",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42923263/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-25T09:08:23.425Z"
+    },
+    {
+      "id": "pmid-42923173",
+      "pmid": "42923173",
+      "doi": "10.3389/fnut.2026.1969017",
+      "title": "Berberine and metabolic dysfunction-associated steatotic liver disease: a global analysis of molecular mechanisms, translational challenges and research frontiers.",
+      "category": "Hepatology",
+      "source": "Frontiers in nutrition",
+      "summary": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has emerged as the most prevalent chronic liver disease worldwide. Berberine (BBR), a bioactive monomer derived from traditional Chinese medicine, demonstrates remarkable multi-target pharmacological properties in regulating glucose and lipid metabolism, ameliorating insulin resistance, attenuating inflammation and oxidative stress, and modulating th…",
+      "fullDetails": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has emerged as the most prevalent chronic liver disease worldwide. Berberine (BBR), a bioactive monomer derived from traditional Chinese medicine, demonstrates remarkable multi-target pharmacological properties in regulating glucose and lipid metabolism, ameliorating insulin resistance, attenuating inflammation and oxidative stress, and modulating the gut-liver axis. This study aims to systematically delineate the research landscape, thematic hotspots, and evolutionary trends of BBR in the treatment of MASLD through bibliometric analysis, and to provide an in-depth review of its underlying molecular mechanisms and clinical translational potential, thereby offering a valuable reference for future investigations. A dual-database literature search with cross-validation was conducted in the Web of Science Core Collection (WoSCC) and Scopus, utilizing refined retrieval strategies tailored to the research topic. Bibliometric analyses and network visualizations were performed using R (v4.5.1), VOSviewer (v1.6.19), and CiteSpace (v6.4.R1). Based on these scientometric findings, a comprehensive review of the identified mechanisms and clinical translational potential was subsequently undertaken. A total of 341 and 624 records were retrieved from WoSCC and Scopus, respectively. Thematic hotspots converged on four major directions: (1) BBR regulates hepatic glucose and lipid metabolism via the AMP-activated protein kinase (AMPK)/Sirtuin 1 (SIRT1), Clock/Bmal1, and farnesoid X receptor (FXR)-Fibroblast Growth Factor 15 (FGF15) signaling pathways; (2) BBR attenuates MASLD progression through Nuclear factor erythroid 2-related factor 2 (Nrf2)/Antioxidant Response Element (ARE)-mediated antioxidant defense and suppression of nucleotide-binding oligomerization domain-like receptor family pyrin domain-containing 3 (NLRP3) inflammasome activation; (3) BBR reshapes gut microbiota architecture, restores mucosal barrier integrity, and modulates hepatic homeostasis via microbiota-derived metabolites along the gut-liver axis; and (4) the clinical efficacy of BBR in MASLD and the development of nano-delivery system-based formulations. Clinical evidence indicates that BBR ameliorates hepatic steatosis and improves metabolic profiles; however, its clinical translation remains constrained by poor oral bioavailability and substantial inter-patient variability in therapeutic response. BBR demonstrates a distinct therapeutic profile in MASLD management through the concerted modulation of hepatic metabolism, inflammation, oxidative stress, and the gut-liver axis. Future research should focus on developing innovative drug delivery systems to overcome bioavailability constraints, conducting large-scale, long-term randomized controlled trials to establish long-term efficacy and safety, and implementing precision medicine approaches guided by metabolic phenotyping.",
+      "practicalTakeaways": [],
+      "date": "2026 10 24",
+      "status": "Clinical trial",
+      "references": "Frontiers in nutrition · 2026 10 24 · PMID: 42923173 · DOI: 10.3389/fnut.2026.1969017",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42923173/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-25T09:08:23.426Z"
+    },
+    {
+      "id": "pmid-42922016",
+      "pmid": "42922016",
+      "doi": "10.1002/cam4.72431",
+      "title": "The Predictive Value of the Systemic Immune-Inflammation Index Combined With Clinical Stage for the Prognosis of Oesophageal Cancer Patients Treated With Radiotherapy: A Retrospective Cohort Study and Meta-Analysis.",
+      "category": "Gastroenterology",
+      "source": "Cancer medicine",
+      "summary": "This study aimed to investigate the relationship between the systemic immune-inflammation index (SII) and prognosis in patients with oesophageal cancer undergoing radiotherapy, and to evaluate the incremental prognostic value of combining SII with clinical TNM stage. A retrospective analysis was performed on 159 patients with locally advanced oesophageal squamous cell carcinoma who received radiotherapy. The optim…",
+      "fullDetails": "This study aimed to investigate the relationship between the systemic immune-inflammation index (SII) and prognosis in patients with oesophageal cancer undergoing radiotherapy, and to evaluate the incremental prognostic value of combining SII with clinical TNM stage. A retrospective analysis was performed on 159 patients with locally advanced oesophageal squamous cell carcinoma who received radiotherapy. The optimal cut-off value for pre-radiotherapy SII was determined using receiver operating characteristic (ROC) curve analysis, and patients were stratified into low- and high-SII groups accordingly. Univariate and multivariate Cox regression analyses were employed to identify independent prognostic factors. The predictive performance of SII alone, TNM stage alone, and their combination was compared. Primary endpoints were overall survival (OS) and progression-free survival (PFS). The optimal pre-radiotherapy SII cut-off was 506.63. SII showed a tendency to increase during the course of radiotherapy. Short-term efficacy in the low-SII group was significantly better than that in the high-SII group (p = 0.042). Significant differences were observed between the two groups in 1-year, 3-year, and 5-year OS and PFS rates (all p < 0.05). Multivariate Cox regression analysis identified tumour location, TNM stage, gross tumour volume, and pre-radiotherapy SII as independent prognostic factors (all p < 0.05). The area under the curve (AUC) for the combination of SII and TNM stage in predicting survival was significantly larger than that of SII or TNM stage alone. The combined SII-TNM model demonstrated superior predictive performance compared with either parameter individually (both p < 0.05). Pre-radiotherapy SII serves as an independent prognostic factor in oesophageal cancer patients undergoing radiotherapy, with higher SII values associated with poorer survival outcomes. Integrating SII with TNM stage provides enhanced predictive accuracy for prognosis in this patient population.",
+      "practicalTakeaways": [],
+      "date": "2026 10 24",
+      "status": "Evidence review",
+      "references": "Cancer medicine · 2026 10 24 · PMID: 42922016 · DOI: 10.1002/cam4.72431",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42922016/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-25T09:08:23.426Z"
+    },
+    {
+      "id": "pmid-42925093",
+      "pmid": "42925093",
+      "doi": "10.1093/bjsopen/zrag167",
+      "title": "Multimodal prehabilitation in colorectal cancer surgery: randomized clinical trial.",
+      "category": "Gastroenterology",
+      "source": "BJS open",
+      "summary": "Colorectal cancer (CRC) surgery remains associated with substantial postoperative morbidity despite implementation of enhanced recovery after surgery (ERAS). Prehabilitation improves surgical outcomes, but evidence remains inconsistent. This study evaluated whether multidisciplinary prehabilitation reduces postoperative complications and whether treatment effects vary according to baseline physical function. This…",
+      "fullDetails": "Colorectal cancer (CRC) surgery remains associated with substantial postoperative morbidity despite implementation of enhanced recovery after surgery (ERAS). Prehabilitation improves surgical outcomes, but evidence remains inconsistent. This study evaluated whether multidisciplinary prehabilitation reduces postoperative complications and whether treatment effects vary according to baseline physical function. This single-centre randomized clinical trial was conducted at a tertiary referral hospital in Stockholm, Sweden (28 October 2021-23 April 2025). Adults with histologically confirmed CRC scheduled for elective resection were randomized 1 : 1 to multidisciplinary prehabilitation (medication review, nutritional counselling, supervised exercise, and targeted risk optimization) or standard care (ERAS). Analyses followed a modified intention-to-treat (mITT) principle. Prehabilitation was initiated within 3 days of enrolment. The primary outcome of interest was postoperative complications (Clavien-Dindo grade ≥ I). Secondary outcomes included severe complications (Comprehensive Complication Index), reoperations, length of hospital stay (LOS), postoperative weight loss, physical performance and function (6-minute walk test, Timed Up and Go test, and 30-second chair stand test), health-related quality of life (EORTC QLQ-C30), mental health (Hospital Anxiety and Depression Scale), and correlation with the Disability Rating Index (DRI) score. Among 328 randomized patients, 242 underwent CRC surgery and were included in the mITT analysis (120 control, 122 intervention). Postoperative complications occurred in 46.2% of patients, with no significant difference between the intervention and control groups (47.5% versus 45.0%, respectively). Severe complications occurred in 19.0% of patients and were numerically less frequent in the intervention group, but the difference was not statistically significant. LOS and reoperation rates were similar. The intervention group had lower postoperative weight loss and modest improvements in physical performance and patient-reported physical function at 30 days. In exploratory analyses, a significant interaction was observed between treatment allocation and baseline DRI score, indicating greater reduction in severe complications among patients with higher levels of preoperative disability (P = 0.011). Multidisciplinary prehabilitation did not reduce postoperative complications after CRC surgery. However, exploratory analyses suggest that patients with greater preoperative disability derive greater benefit, supporting targeted prehabilitation strategies in higher-risk populations. Registration number: NCT04909567 (https://clinicaltrials.gov/).",
+      "practicalTakeaways": [],
+      "date": "2026 10 24",
+      "status": "Clinical trial",
+      "references": "BJS open · 2026 10 24 · PMID: 42925093 · DOI: 10.1093/bjsopen/zrag167",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42925093/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-25T09:08:23.426Z"
     }
   ]
 }
