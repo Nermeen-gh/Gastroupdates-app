@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-28",
+  "lastChecked": "2026-10-29",
   "items": [
     {
       "id": "pmid-42486794",
@@ -9312,6 +9312,91 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42944929/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-28T10:33:34.131Z"
+    },
+    {
+      "id": "pmid-42951925",
+      "pmid": "42951925",
+      "doi": "10.1097/HC9.0000000000001048",
+      "title": "Clinical, safety, and patient-reported outcomes associated with second-line and later therapies in primary biliary cholangitis: A systematic review.",
+      "category": "Hepatology",
+      "source": "Hepatology communications",
+      "summary": "Primary biliary cholangitis (PBC) is a rare, chronic, cholestatic disease that can result in cirrhosis, liver failure, and death. While biochemical markers such as alkaline phosphatase (ALP) and total bilirubin (TB) measure disease activity and progression, definitions of biochemical response vary. This systematic literature review (SLR) identified clinical studies for investigational and approved treatments in pa…",
+      "fullDetails": "Primary biliary cholangitis (PBC) is a rare, chronic, cholestatic disease that can result in cirrhosis, liver failure, and death. While biochemical markers such as alkaline phosphatase (ALP) and total bilirubin (TB) measure disease activity and progression, definitions of biochemical response vary. This systematic literature review (SLR) identified clinical studies for investigational and approved treatments in patients with PBC with inadequate response or intolerance to ursodeoxycholic acid requiring second-line (2L) or later (2L+) therapies. Electronic databases were searched on August 7, 2025 (MEDLINE; Embase) or September 30, 2025 (Cochrane Database of Systematic Reviews; CENTRAL), and conference proceedings (2021-2025), bibliographies, and ClinicalTrials.gov were searched on August 15, 2025, following a pre-specified protocol (PROSPERO ID: CRD42023382262). Interventional and observational studies in the 2L/2L+ setting were prioritized for inclusion, and randomized controlled trials for extraction. A total of 149 publications on 44 unique studies were included. Phase III trials evaluated elafibranor, seladelpar, budenoside, bezafibrate, and obeticholic acid. Various composite biochemical response endpoints were reported across 34% of studies, most frequently the POISE criteria (18%). Biochemical markers were assessed frequently (ALP: 89%; TB: 71%); however, upper limits of normal and response thresholds varied substantially. Response rates in placebo-controlled trials favored active treatment, although placebo responses were highly variable. Non-invasive fibrosis measures were reported in 16% of studies and showed small short-term changes. Patient-reported outcomes assessed pruritus (52%) and fatigue (32%) using a variety of scales. The evidence base for 2L/2L+ PBC therapies is extensive but heterogeneous in study designs, patient populations, and treatment assessment scales and outcome definitions, limiting cross-trial comparisons. This SLR provides a robust foundation for contextualizing study outcomes within the broader landscape and supporting clinical decision-making.",
+      "practicalTakeaways": [],
+      "date": "2026 10 29",
+      "status": "Clinical trial",
+      "references": "Hepatology communications · 2026 10 29 · PMID: 42951925 · DOI: 10.1097/HC9.0000000000001048",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951925/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-29T10:52:49.220Z"
+    },
+    {
+      "id": "pmid-42948646",
+      "pmid": "42948646",
+      "doi": "10.2147/DDDT.S651414",
+      "title": "Adjunctive Oliceridine During Propofol or Ciprofol Sedation for Same-Session Bidirectional Endoscopy in Older Adults: A Multicenter Randomized 2×2 Factorial Trial.",
+      "category": "Endoscopy",
+      "source": "Drug design, development and therapy",
+      "summary": "We evaluated adjunctive oliceridine with propofol or ciprofol in older adults undergoing same-session bidirectional endoscopy. In this multicenter, double-blind, placebo-controlled 2×2 factorial trial, 360 adults aged 65-80 years were randomized 1:1:1:1 to oliceridine or saline placebo with propofol or ciprofol. The primary outcome was time from completion of the initial sedative dose to the first Modified Observe…",
+      "fullDetails": "We evaluated adjunctive oliceridine with propofol or ciprofol in older adults undergoing same-session bidirectional endoscopy. In this multicenter, double-blind, placebo-controlled 2×2 factorial trial, 360 adults aged 65-80 years were randomized 1:1:1:1 to oliceridine or saline placebo with propofol or ciprofol. The primary outcome was time from completion of the initial sedative dose to the first Modified Observer's Assessment of Alertness/Sedation (MOAA/S) score of 5, confirmed by two subsequent scores of 5 at 1-min intervals. Main-effect comparisons were prespecified; interaction and simple-effect analyses were exploratory because the trial was not powered for interaction testing. The primary analysis included 357 participants. Estimated marginal mean differences in awakening time were -1.42 min for oliceridine versus placebo (95% CI -2.43 to -0.40, P = 0.007) and -1.84 min for propofol versus ciprofol (95% CI -2.85 to -0.82, P < 0.001); the latter was smaller than the prespecified 3-min clinically important difference. In the post hoc final-dose analysis, the oliceridine-placebo difference was 0.09 min (95% CI -0.78 to 0.96, P = 0.833). Exploratory interaction analysis suggested a greater oliceridine effect with ciprofol. Oliceridine reduced supplemental sedative use (risk difference -16.7%, 95% CI -24.8% to -8.5%, adjusted P < 0.001) and shortened time to discharge readiness (difference -1.64 min, 95% CI -2.30 to -0.99, adjusted P < 0.001), but increased hypotension (risk difference 15.6%, 95% CI 7.6% to 23.6%, P < 0.001). Adjunctive oliceridine reduced supplemental sedative use and modestly shortened the prespecified overall awakening interval, but the awakening difference was not evident when timed from the final sedative dose, and hypotension increased. Propofol modestly shortened awakening versus ciprofol. The apparently greater oliceridine effect with ciprofol was exploratory and hypothesis-generating. Chinese Clinical Trial Registry, ChiCTR2500110992.",
+      "practicalTakeaways": [],
+      "date": "2026 10 28",
+      "status": "Clinical trial",
+      "references": "Drug design, development and therapy · 2026 10 28 · PMID: 42948646 · DOI: 10.2147/DDDT.S651414",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42948646/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-29T10:52:49.221Z"
+    },
+    {
+      "id": "pmid-42952524",
+      "pmid": "42952524",
+      "doi": "10.3389/fphar.2026.1961820",
+      "title": "Benefit-risk profiling of advanced therapies in moderate-to-severe ulcerative colitis: a clustered network meta-analysis.",
+      "category": "Endoscopy",
+      "source": "Frontiers in pharmacology",
+      "summary": "The therapeutic landscape for moderate-to-severe ulcerative colitis (UC) has expanded with the introduction of oral small molecules and recently approved biologics. However, the scarcity of head-to-head trials necessitates indirect comparisons to clarify their relative positioning. We aimed to determine the comparative efficacy and tolerability hierarchy of approved and emerging advanced therapies, incorporating t…",
+      "fullDetails": "The therapeutic landscape for moderate-to-severe ulcerative colitis (UC) has expanded with the introduction of oral small molecules and recently approved biologics. However, the scarcity of head-to-head trials necessitates indirect comparisons to clarify their relative positioning. We aimed to determine the comparative efficacy and tolerability hierarchy of approved and emerging advanced therapies, incorporating the most contemporary evidence. We retrieved randomized controlled trials (RCTs) from major databases up to November 2025. Efficacy outcomes included clinical remission and endoscopic improvement; tolerability was evaluated via discontinuations due to adverse events. We employed Bayesian network meta-analysis and bivariate clustered ranking to visualize efficacy-tolerability profiles, stratifying by prior biologic exposure. A total of 32 RCTs were included. In the induction phase, Upadacitinib, Ustekinumab, and Risankizumab co-occupied the \"most favorable\" quadrant, combining high efficacy with superior tolerability. In the maintenance phase, Upadacitinib 30 mg demonstrated the highest-ranking probability for efficacy, while IL-23 antagonists (Guselkumab, Mirikizumab) and low-dose Upadacitinib exhibited a highly favorable efficacy-tolerability profile. Notably, in biologic-exposed patients, Upadacitinib demonstrated the highest relative efficacy among evaluated therapies, whereas Guselkumab emerged as a highly effective biologic alternative based on current estimates. Based on current network estimates, Upadacitinib is suggested among the most efficacious options for achieving clinical and endoscopic endpoints, particularly in refractory disease, while IL-23 antagonists present highly favorable tolerability profiles for maintenance without compromising efficacy. These findings support a tailored approach to drug selection, aligning patient-specific profiles of inflammatory burden with current evidence-based safety thresholds. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261292029, identifier CRD420261292029.",
+      "practicalTakeaways": [],
+      "date": "2026 10 29",
+      "status": "Clinical trial",
+      "references": "Frontiers in pharmacology · 2026 10 29 · PMID: 42952524 · DOI: 10.3389/fphar.2026.1961820",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42952524/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-29T10:52:49.222Z"
+    },
+    {
+      "id": "pmid-42951344",
+      "pmid": "42951344",
+      "doi": "10.1093/ecco-jcc/jjag157",
+      "title": "Development of a core outcome set for IBD patients with stomas.",
+      "category": "Gastroenterology",
+      "source": "Journal of Crohn's & colitis",
+      "summary": "A significant number of patients with inflammatory bowel disease (IBD) undergo stoma-forming surgery. For many, an ostomy is not curative, and disease exacerbations requiring ongoing therapy may be required. Despite this, IBD patients with stomas are frequently excluded from clinical trials due to the heterogeneity in outcomes and the absence of validated measurement tools. The TOAST-IBD project aimed to develop a…",
+      "fullDetails": "A significant number of patients with inflammatory bowel disease (IBD) undergo stoma-forming surgery. For many, an ostomy is not curative, and disease exacerbations requiring ongoing therapy may be required. Despite this, IBD patients with stomas are frequently excluded from clinical trials due to the heterogeneity in outcomes and the absence of validated measurement tools. The TOAST-IBD project aimed to develop a Core Outcome Set (COS) for IBD patients with stomas undergoing interventional trials to address this issue. Candidate outcomes were identified through a systematic literature review and patient focus groups. These were refined using a two-round online Delphi process, with scoring based on the importance of each outcome in determining treatment success. Participants were recruited internationally and grouped into four stakeholder panels: patients, specialist and research nurses, colorectal surgeons, and gastroenterologists. Feedback was provided after each round to allow score refinement. A final consensus meeting determined the COS. A total of 81 outcomes were identified and categorized into five themes. In total, 76 stakeholders (73.1% response rate) from 17 countries participated in the Delphi process, carrying 37 outcomes forward. At the final consensus meeting, 37 experts and patients agreed on a six-domain COS: maintenance of hydration and volume status, maintenance of nutritional status, symptom-based clinical activity, objective marker-based disease activity, and two quality-of-life domains (IBD-related and stoma-specific). An IBD Stoma COS has been produced by all key stakeholders. This COS will standardize outcome reporting and support creation of validated measurement instruments, facilitating the inclusion of this underserved group in future clinical trials. This study has been registered with the COMET Initiative as study 2855 (https://www.comet-initiative.org/Studies/Details/2855) and followed its recommended methodological procedures. The systematic review has been registered with the PROSPERO database (PROSPERO-ID: CRD42023442388).",
+      "practicalTakeaways": [],
+      "date": "2026 10 28",
+      "status": "Guideline candidate",
+      "references": "Journal of Crohn's & colitis · 2026 10 28 · PMID: 42951344 · DOI: 10.1093/ecco-jcc/jjag157",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42951344/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-29T10:52:49.222Z"
+    },
+    {
+      "id": "pmid-42949746",
+      "pmid": "42949746",
+      "doi": "10.1001/jamanetworkopen.2026.40136",
+      "title": "Exercise Training During Neoadjuvant Treatment for Gastroesophageal Cancer and Tumor Surgery: A Randomized Clinical Trial.",
+      "category": "Gastroenterology",
+      "source": "JAMA network open",
+      "summary": "Physical deterioration and disease progression during neoadjuvant treatment can preclude tumor surgery in patients with gastroesophageal cancer. Whether preoperative exercise training can increase the probability of undergoing tumor surgery remains unknown. To compare exercise training with usual care on the likelihood of not undergoing tumor surgery with curative intent after neoadjuvant treatment for gastroesoph…",
+      "fullDetails": "Physical deterioration and disease progression during neoadjuvant treatment can preclude tumor surgery in patients with gastroesophageal cancer. Whether preoperative exercise training can increase the probability of undergoing tumor surgery remains unknown. To compare exercise training with usual care on the likelihood of not undergoing tumor surgery with curative intent after neoadjuvant treatment for gastroesophageal cancer. PRESET-RCT was a single-blinded, parallel-group, 2-arm, superiority randomized clinical trial. Patients with gastroesophageal adenocarcinoma scheduled to undergo treatment with curative intent, including neoadjuvant treatment, and with no contraindication to exercise training were eligible. Participants were enrolled at University Hospital Copenhagen, Rigshospitalet, Copenhagen, Denmark, from August 16, 2018, to September 23, 2022, with final follow-up on October 22, 2024. Data analysis was performed from March 2023 to May 2025. The participants were randomized 1:1 to preoperative exercise training from diagnosis until tumor surgery or control. The intervention consisted of twice-weekly concurrent aerobic exercise and resistance training. The primary outcome was not undergoing tumor surgery with curative intent. The secondary outcomes were treatment tolerance and overall survival. In total, 207 participants (73.7%) were randomized and 202 were included in the modified intention-to-treat analyses (mean [SD] age, 65.3 [8.5] years; 161 [78.9%] male; 170 [83.3%] with gastroesophageal junction cancer), with 101 randomized to each group. In the exercise group, 10 (9.9%) did not undergo tumor surgery with curative intent compared with 8 (7.9%) in the control group (odds ratio, 1.28; 95% CI, 0.48-3.38; P = .62). There were no between-group differences in permanent discontinuation of neoadjuvant treatment (odds ratio, 0.81; 95% CI, 0.38-1.72) or postoperative complications (odds ratio, 1.16; 95% CI, 0.61-2.20). The overall survival rates at 3 years for the exercise and control group were 51.0% and 65.0%, respectively (hazard ratio, 1.58; 95% CI, 1.02-2.45). In this randomized clinical trial, preoperative exercise training did not increase the likelihood of undergoing tumor surgery for patients with gastroesophageal cancer. The findings do not support the use of exercise training during neoadjuvant treatment to improve surgical outcomes, and further research is needed to determine its effects on long-term outcomes. ClinicalTrials.gov Identifier: NCT03490565.",
+      "practicalTakeaways": [],
+      "date": "2026 10 28",
+      "status": "Clinical trial",
+      "references": "JAMA network open · 2026 10 28 · PMID: 42949746 · DOI: 10.1001/jamanetworkopen.2026.40136",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42949746/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-29T10:52:49.223Z"
     }
   ]
 }
