@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-30",
+  "lastChecked": "2026-10-31",
   "items": [
     {
       "id": "pmid-42486794",
@@ -9567,6 +9567,91 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42958307/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-30T10:51:00.739Z"
+    },
+    {
+      "id": "pmid-42961991",
+      "pmid": "42961991",
+      "doi": "10.1371/journal.pone.0361608",
+      "title": "Associated factors for stress ulcers and gastrointestinal bleeding in patients with sepsis or septic shock: A systematic review.",
+      "category": "Hepatology",
+      "source": "PloS one",
+      "summary": "Sepsis continues to be a major contributor to death among critically ill individuals and places a heavy strain on healthcare resources. In addition to causing systemic inflammation and affecting hemodynamics, sepsis has a significant effect on the gastrointestinal system, leading to complications like stress ulcers and notable gastrointestinal bleeding (GIB), which worsen patient outcomes. While stress ulcer proph…",
+      "fullDetails": "Sepsis continues to be a major contributor to death among critically ill individuals and places a heavy strain on healthcare resources. In addition to causing systemic inflammation and affecting hemodynamics, sepsis has a significant effect on the gastrointestinal system, leading to complications like stress ulcers and notable gastrointestinal bleeding (GIB), which worsen patient outcomes. While stress ulcer prophylaxis (SUP) has traditionally been included in sepsis treatment protocols, the concept of applying it universally is being increasingly scrutinized due to the absence of definitive mortality advantages and the risk of adverse effects, such as hospital-acquired pneumonia. Nevertheless, there is a notable gap in synthesized research that specifically addresses the independent risk factors for stress ulcers in sepsis patients. We carried out a systematic review in accordance with PRISMA standards, exploring eight databases (CNKI, Wanfang, VIP, Sinomed, PubMed, Web of Science, Embase, and Cochrane Library) from their inception until September 1, 2026. We included observational analytical studies (either cohort or case-control) that examined factors linked to stress ulcers or significant gastrointestinal bleeding in adult patients with sepsis. Two researchers independently handled the selection of studies, extraction of data, and evaluation of quality using the Newcastle-Ottawa Scale. Due to the limited number of studies for each association between associated factors and outcomes, a narrative synthesis was utilized. A total of six studies encompassing 131,568 individuals suffering from sepsis or septic shock were analyzed. The incidence rates of stress ulcers or gastrointestinal bleeding (GIB) varied between 2.0% and 32.3%. The identified associated factors were divided into three categories: patient-related (older age, history of GIB, cirrhosis, HIV, cancer/immunosuppression), disease-related (coagulopathy, kidney impairment, high BUN levels, severity of illness scores, source of infection), and treatment-related (mechanical ventilation, use of anticoagulants, corticosteroid therapy, duration of ICU stay). Specifically for stress ulcer, factors such as respiratory failure, high BUN levels, shock, and increased HMGB1/TLR2/TLR4 levels were found to be independently linked to a higher odds. In summary, the likelihood of developing stress ulcers and gastrointestinal bleeding in patients with sepsis is shaped by a variety of factors related to the patient, their illness, and the treatments they receive. Key indicators that consistently emerge include issues with blood coagulation, the presence of shock, the need for mechanical ventilation, liver and kidney dysfunction, the severity of the disease, and any previous occurrences of gastrointestinal bleeding. These results advocate for tailored strategies for stress ulcer prophylaxis based on individual risk rather than a one-size-fits-all approach, offering crucial insights for precise clinical decision-making. Additional high-quality research is essential to confirm and enhance the understanding of these associated factors. PROSPERO (CRD420251242849).",
+      "practicalTakeaways": [],
+      "date": "2026 10 30",
+      "status": "Evidence review",
+      "references": "PloS one · 2026 10 30 · PMID: 42961991 · DOI: 10.1371/journal.pone.0361608",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961991/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-31T10:22:36.455Z"
+    },
+    {
+      "id": "pmid-42961227",
+      "pmid": "42961227",
+      "doi": "10.1590/1806-9282.20260891",
+      "title": "Propofol versus remifentanil sedation for elective gastroscopy: a randomized controlled trial.",
+      "category": "Endoscopy",
+      "source": "Revista da Associacao Medica Brasileira (1992)",
+      "summary": "Propofol and remifentanil are widely used for elective gastroscopy sedation. The aim of this randomized controlled trial was to compare their safety profiles, patient-reported recovery quality, and endoscopist satisfaction. This single-center randomized controlled trial enrolled 88 adults (American Society of Anesthesiologists I-III) undergoing elective gastroscopy, allocated 1:1 to propofol (Group P, n=44) or rem…",
+      "fullDetails": "Propofol and remifentanil are widely used for elective gastroscopy sedation. The aim of this randomized controlled trial was to compare their safety profiles, patient-reported recovery quality, and endoscopist satisfaction. This single-center randomized controlled trial enrolled 88 adults (American Society of Anesthesiologists I-III) undergoing elective gastroscopy, allocated 1:1 to propofol (Group P, n=44) or remifentanil (Group R, n=44). Sedation depth was standardized using the Bispectral Index (target 60-80) and Ramsay Sedation Scale (target 2-3). The primary outcome was the Quality of Recovery-15 score at 30 min post-procedure; secondary outcomes included complication incidence, awakening time, and endoscopist satisfaction. Quality of Recovery-15 scores were comparable (median 140 vs. 140; median difference 0, 95%CI -1.0 to 1.0; p=0.95). Total complication incidence was 0% in Group P versus 61.4% in Group R (p<0.001), comprising bradycardia (27.3%), postoperative nausea and vomiting (20.5%), and desaturation (13.6%). Awakening time was shorter in Group R (3 vs. 60 s; p<0.001). Endoscopist satisfaction was significantly higher in Group P (90.9 vs. 56.8% excellent scores; p=0.003). Despite comparable patient-reported recovery quality, propofol was associated with substantially fewer perioperative adverse events (0 vs. 61.4%) and higher endoscopist satisfaction, supporting its preferential use in routine elective gastroscopy sedation. ClinicalTrials.gov, NCT07336628. Registered January 2, 2026.",
+      "practicalTakeaways": [],
+      "date": "2026 10 30",
+      "status": "Clinical trial",
+      "references": "Revista da Associacao Medica Brasileira (1992) · 2026 10 30 · PMID: 42961227 · DOI: 10.1590/1806-9282.20260891",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42961227/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-31T10:22:36.457Z"
+    },
+    {
+      "id": "pmid-42959463",
+      "pmid": "42959463",
+      "doi": "10.3389/fpubh.2026.1958294",
+      "title": "Patient-reported financial toxicity among patients with liver cancer: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Frontiers in public health",
+      "summary": "Financial toxicity (FT) refers to the negative impact of medical financial burden on patients' overall health. The study aimed to quantify the prevalence and severity of patient-reported FT, identify the factors associated with FT in liver cancer patients, and thereby provide evidence to guide effective interventions to reduce the negative impacts of FT. In this study the following peer-reviewed databases were sys…",
+      "fullDetails": "Financial toxicity (FT) refers to the negative impact of medical financial burden on patients' overall health. The study aimed to quantify the prevalence and severity of patient-reported FT, identify the factors associated with FT in liver cancer patients, and thereby provide evidence to guide effective interventions to reduce the negative impacts of FT. In this study the following peer-reviewed databases were systematically searched: PubMed, Web of Science, Embase, the Cochrane Library, CINAHL, China National Knowledge Infrastructure, Wanfang Data, VIP, and Sinomed. The search was conducted from the inception of each database to March 2, 2026. Two independent authors extracted data using a standardized data extraction tool and assessed the methodological quality of included studies using the Joanna Briggs Institute Critical Appraisal Tools. A random-effects model was applied to generate pooled estimates of FT rates and severity. Of the 13,412 articles, 39 were included in the study. Most studies were conducted in China (26/39, 66.67%). There was significant heterogeneity in the definition and measurement of FT. The pooled FT rate was 74% (95% CI: 61-85%), indicating high prevalence. The pooled FT score was 20.80 (95% CI: 19.70-21.92) for the COST (range 0-44) and 40.18 (95% CI: 27.12-53.24) for the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 Items (range 0-100), reflecting a moderate level of FT. These findings suggest that liver cancer patients present a high prevalence of FT, yet the overall severity remains moderately low. The findings of this study indicate that FT is a common but moderate issue in liver cancer care. However, the lack of standardized measurement tools and inconsistent reporting methods have impaired the comparability of available evidence. Therefore, future research should develop a validated FT assessment for liver cancer and test targeted interventions to improve care and policy. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261345754, identifier: CRD420261345754.",
+      "practicalTakeaways": [],
+      "date": "2026 10 30",
+      "status": "Evidence review",
+      "references": "Frontiers in public health · 2026 10 30 · PMID: 42959463 · DOI: 10.3389/fpubh.2026.1958294",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42959463/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-31T10:22:36.457Z"
+    },
+    {
+      "id": "pmid-42963742",
+      "pmid": "42963742",
+      "doi": "10.1186/s12885-026-17123-7",
+      "title": "Impact of previous abdominal surgery on perioperative outcomes after minimally invasive gastrectomy for gastric cancer: an evidence synthesis and quantitative analysis.",
+      "category": "Gastroenterology",
+      "source": "BMC cancer",
+      "summary": "Previous abdominal surgery (PAS) may increase the technical difficulty of minimally invasive gastrectomy for gastric cancer because of postoperative adhesions and altered anatomy. However, its association with perioperative outcomes remains uncertain. This study aimed to compare perioperative outcomes between patients with and without PAS undergoing minimally invasive gastrectomy for gastric cancer. We conducted a…",
+      "fullDetails": "Previous abdominal surgery (PAS) may increase the technical difficulty of minimally invasive gastrectomy for gastric cancer because of postoperative adhesions and altered anatomy. However, its association with perioperative outcomes remains uncertain. This study aimed to compare perioperative outcomes between patients with and without PAS undergoing minimally invasive gastrectomy for gastric cancer. We conducted a systematic review and meta-analysis of comparative observational studies. Four databases were searched to find eligible studies from database inception to February 18, 2026. Studies comparing patients with and without PAS undergoing minimally invasive gastrectomy for gastric cancer were included. The primary outcome was overall postoperative complications. Secondary outcomes included conversion to open surgery, operative time, intraoperative blood loss, lymph node yield, and postoperative length of stay. Odds ratios (ORs) and mean differences (MDs) with 95% confidence intervals (CIs) were pooled using random-effects models. Risk of bias was assessed using ROBINS-E. Six studies comprising seven comparative cohorts and up to 1,851 patients were included. PAS was associated with longer operative time (MD = 11.17 min, 95% CI 3.80-18.54) and a small increase in postoperative length of stay (MD = 0.07 days, 95% CI 0.01-0.14). No statistically significant differences were observed in overall complications (OR = 1.21, 95% CI 0.95-1.55) or conversion to open surgery (OR = 1.75, 95% CI 0.80-3.81), although clinically important increases in these risks could not be excluded. No statistically significant differences were observed in intraoperative blood loss or lymph node yield. Previous abdominal surgery was associated with longer operative time and a small increase in postoperative hospital stay. Its impact on postoperative complications and conversion to open surgery remains uncertain, highlighting the need for individualized surgical planning.",
+      "practicalTakeaways": [],
+      "date": "2026 10 31",
+      "status": "Evidence review",
+      "references": "BMC cancer · 2026 10 31 · PMID: 42963742 · DOI: 10.1186/s12885-026-17123-7",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42963742/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-31T10:22:36.458Z"
+    },
+    {
+      "id": "pmid-42960714",
+      "pmid": "42960714",
+      "doi": "10.1177/10732748261504415",
+      "title": "Planning the De-escalation of Population-Based Gastric Cancer Screening in Japan in the Post- Helicobacter pylori Era.",
+      "category": "Endoscopy",
+      "source": "Cancer control : journal of the Moffitt Cancer Center",
+      "summary": "Japan developed population-based gastric cancer screening in response to a large gastric cancer burden. Historically, the screening-eligible population had widespread exposure to Helicobacter pylori ( H. pylori ), a major cause of gastric cancer. The current national model identifies adults aged 50 years or older as the principal screening-eligible population and recommends biennial radiographic or endoscopic scre…",
+      "fullDetails": "Japan developed population-based gastric cancer screening in response to a large gastric cancer burden. Historically, the screening-eligible population had widespread exposure to Helicobacter pylori ( H. pylori ), a major cause of gastric cancer. The current national model identifies adults aged 50 years or older as the principal screening-eligible population and recommends biennial radiographic or endoscopic screening. This epidemiologic premise is changing as H. pylori -naïve birth cohorts enter screening-eligible ages, shifting the baseline risk profile underlying uniform age-based screening. H. pylori infection and H. pylori -related mucosal changes, including atrophic gastritis and intestinal metaplasia, are central determinants of gastric cancer risk in Japan. A systematic review and meta-regression estimated H. pylori -naïve prevalence at 21.1% for the 1930 birth cohort, 75.3% for 1970, and 97.7% for 2010, with a plateau above 95% after 2000. A meta-analysis of 248,482 H. pylori -naïve adults identified 96 gastric cancer cases. The pooled screen-detected prevalence was 0.029%, corresponding to approximately one case per 3,500 screened individuals; the pooled incidence was 1.40 per 10,000 person-years. Combined with future population projections, the H. pylori -naïve proportion among adults aged 50 years or older is projected to increase from 57.6% in 2026 to 85.8% in 2056. These projections indicate that uniform screening will increasingly include adults with low baseline gastric cancer risk. Japan is therefore approaching the point at which uniform biennial screening for all adults aged 50 years or older will require reassessment. The current screening program may largely continue through the 2030s, but later starting ages and longer screening intervals should be evaluated during the 2040s. By the 2050s, routine population-based screening for average-risk adults may need to be phased out within a planned de-escalation strategy, while individuals with established high-risk conditions continue to receive appropriate clinical follow-up or surveillance. Japan currently offers stomach cancer screening every two years to adults aged 50 years or older. This program was developed when stomach cancer was common and many people had been infected with Helicobacter pylori, a bacterium that is the main cause of stomach cancer. However, Helicobacter pylori infection has become much less common in younger generations in Japan. People who have never been infected have a very low risk of developing stomach cancer. As these generations grow older, an increasing proportion of people invited to screening will have a low chance of benefiting from repeated examinations. This Mini-Review examines how Japan could gradually adapt its national screening program to this change. During the 2030s, the current program may largely continue while Japan develops a national system to collect and evaluate screening data. During the 2040s, later starting ages and longer intervals between examinations should be evaluated. By the 2050s, Japan may need to consider ending routine screening for average-risk adults. People at higher risk, including those with previous Helicobacter pylori infection, advanced damage to the stomach lining, intestinal metaplasia, or previous stomach tumors, should continue to receive appropriate medical follow-up. Any reduction in screening should be introduced gradually and supported by evidence on cancer detection, harms, costs, and available medical resources.",
+      "practicalTakeaways": [],
+      "date": "2026 10 30",
+      "status": "Evidence review",
+      "references": "Cancer control : journal of the Moffitt Cancer Center · 2026 10 30 · PMID: 42960714 · DOI: 10.1177/10732748261504415",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960714/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-10-31T10:22:36.459Z"
     }
   ]
 }
