@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-31",
+  "lastChecked": "2026-11-01",
   "items": [
     {
       "id": "pmid-42486794",
@@ -9652,6 +9652,57 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42960714/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-10-31T10:22:36.459Z"
+    },
+    {
+      "id": "pmid-42965673",
+      "pmid": "42965673",
+      "doi": "10.1007/s10142-026-02106-5",
+      "title": "Histology-dependent coupling of TERT to the proliferation programme statistically accounts for much of the between-cohort heterogeneity in DNMT3B-TERT co-expression in oesophageal carcinoma: a 27-cohort meta-analysis and pan-cancer re-analysis.",
+      "category": "Gastroenterology",
+      "source": "Functional & integrative genomics",
+      "summary": "DNA methyltransferase 3B (DNMT3B) and telomerase reverse transcriptase (TERT) are induced in oesophageal carcinoma, and a reciprocal regulatory relationship has been proposed, but reported co-expression varies widely between studies. We assembled 26 public expression datasets into 27 cohort-histology strata comprising 1,787 treatment-naive primary tumours (673 oesophageal adenocarcinoma, EAC; 1,114 oesophageal squ…",
+      "fullDetails": "DNA methyltransferase 3B (DNMT3B) and telomerase reverse transcriptase (TERT) are induced in oesophageal carcinoma, and a reciprocal regulatory relationship has been proposed, but reported co-expression varies widely between studies. We assembled 26 public expression datasets into 27 cohort-histology strata comprising 1,787 treatment-naive primary tumours (673 oesophageal adenocarcinoma, EAC; 1,114 oesophageal squamous cell carcinoma, ESCC) under a pre-specified analysis plan. DNMT3B and TERT were positively correlated in both histologies (random-effects Spearman r = 0.29, 95% CI 0.14-0.42 in EAC; r = 0.15, 0.05-0.25 in ESCC), and the difference between them was not significant (P = 0.13). Between-cohort heterogeneity was substantial (I 2 = 73% and 54%). What differed by histology, in post hoc analyses, was the coupling of TERT to proliferation: r = 0.29 (0.16-0.41) in EAC versus 0.05 (- 0.02 to 0.11) in ESCC (P = 5.2 × 10- 4). This coupling statistically accounted for 66% of the between-cohort variance in DNMT3B-TERT correlation (meta-regression slope 0.86, P = 1.3 × 10 - 6 ), a relationship not attributable to platform, TERT detectability or shared sampling error. A modest association survived adjustment for proliferation in both histologies and was also detectable in non-malignant mucosa (r = 0.30, P = 0.009), so it is not tumour-specific. Paired within-organ contrasts reproduced the adenocarcinoma-squamous difference (P = 7.4 × 10- 6). The positional methylation-expression gradient across the TERT locus in pooled oesophageal carcinoma (ρ = 0.42, P = 3.2 × 10- 5) disappeared within each histology and after histology adjustment (ρ = 0.01). Histology-aware analysis should precede mechanistic interpretation of epigenetic co-expression.",
+      "practicalTakeaways": [],
+      "date": "2026 10 31",
+      "status": "Evidence review",
+      "references": "Functional & integrative genomics · 2026 10 31 · PMID: 42965673 · DOI: 10.1007/s10142-026-02106-5",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965673/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-01T11:15:08.816Z"
+    },
+    {
+      "id": "pmid-42965651",
+      "pmid": "42965651",
+      "doi": "10.1007/s12020-026-04831-0",
+      "title": "Ectopic cushing syndrome caused by intestinal neuroendocrine tumors: a systematic review.",
+      "category": "Gastroenterology",
+      "source": "Endocrine",
+      "summary": "Ectopic Cushing syndrome is a potentially life-threatening disorder most caused by thoracic or pancreatic neuroendocrine tumors. Intestinal neuroendocrine tumors are an exceptionally uncommon and poorly characterized source, creating important diagnostic and therapeutic challenges. We aimed to systematically characterize the clinical presentation, diagnostic pathways, treatment strategies, and outcomes of ectopic…",
+      "fullDetails": "Ectopic Cushing syndrome is a potentially life-threatening disorder most caused by thoracic or pancreatic neuroendocrine tumors. Intestinal neuroendocrine tumors are an exceptionally uncommon and poorly characterized source, creating important diagnostic and therapeutic challenges. We aimed to systematically characterize the clinical presentation, diagnostic pathways, treatment strategies, and outcomes of ectopic Cushing syndrome caused by intestinal neuroendocrine tumors. Systematic review of published case reports, complemented by an illustrative unpublished case. Four electronic databases were searched from inception to February 2026 according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidance. Individual patient data on clinical presentation, tumor localization, treatment, and outcomes were extracted and analyzed descriptively. Twenty-four published cases were identified. Ectopic Cushing syndrome was the initial manifestation in 87.5% of patients and frequently presented with an aggressive clinical phenotype (70.8%). Tumor localization was often challenging. Conventional imaging detected the primary lesion in fewer than half of cases, whereas functional imaging, particularly gallium-68 somatostatin receptor positron emission tomography, showed higher detection rates. Surgical resection was performed in 87.5% of patients and biochemical remission was achieved in 72.7%. However, 50% required medical therapy for hypercortisolism and 20.8% underwent bilateral adrenalectomy. Recurrence occurred in 14.3%. Intestinal neuroendocrine tumors are a rare but clinically relevant cause of ectopic Cushing syndrome. They commonly present with severe hypercortisolism and delayed tumor localization. Management requires both tumor-directed treatment and rapid endocrine control. Recurrence may occur despite initial remission, supporting prolonged surveillance and a multimodal diagnostic and therapeutic approach.",
+      "practicalTakeaways": [],
+      "date": "2026 10 31",
+      "status": "Guideline candidate",
+      "references": "Endocrine · 2026 10 31 · PMID: 42965651 · DOI: 10.1007/s12020-026-04831-0",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42965651/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-01T11:15:08.817Z"
+    },
+    {
+      "id": "pmid-42964364",
+      "pmid": "42964364",
+      "doi": "10.3389/fphys.2026.1976073",
+      "title": "Exercise training improves hepatic enzymes, body mass index, and cardiorespiratory fitness in adults with metabolic dysfunction-associated steatotic liver disease: a systematic review and meta-analysis.",
+      "category": "Hepatology",
+      "source": "Frontiers in physiology",
+      "summary": "Exercise is recommended for metabolic dysfunction-associated steatotic liver disease (MASLD). Recent reviews have addressed specific exercise modalities or selected outcome domains, but an updated integrated appraisal of hepatic, metabolic, and cardiorespiratory responses across randomized trials remains needed. We conducted a PRISMA 2020-compliant systematic review and meta-analysis of randomized controlled trial…",
+      "fullDetails": "Exercise is recommended for metabolic dysfunction-associated steatotic liver disease (MASLD). Recent reviews have addressed specific exercise modalities or selected outcome domains, but an updated integrated appraisal of hepatic, metabolic, and cardiorespiratory responses across randomized trials remains needed. We conducted a PRISMA 2020-compliant systematic review and meta-analysis of randomized controlled trials in adults with MASLD or legacy diagnoses of non-alcoholic fatty liver disease/non-alcoholic steatohepatitis. PubMed, Embase, CENTRAL, Scopus, Web of Science, and SPORTDiscus were searched from inception to June 2026. Post-intervention mean differences (MDs) or standardized mean differences (SMDs) with 95% confidence intervals (CIs) were pooled. Risk of bias was assessed using RoB 2 and certainty using GRADE. Twenty-five trials were included. Exercise reduced alanine aminotransferase (ALT; MD -7.33 U/L, 95% CI -10.71 to -3.95), aspartate aminotransferase (AST; MD -5.52 U/L, 95% CI -10.24 to -0.79), and BMI (random-effects MD -1.54 kg/m², 95% CI -2.28 to -0.80), and improved VO 2 peak/VO 2 max (MD 4.08 mL/kg/min, 95% CI 1.00 to 7.16). Pooled effects for liver fat/steatosis, HOMA-IR, and HbA1c were not statistically significant. Egger testing showed no significant asymmetry for ALT or AST, whereas BMI showed funnel-plot asymmetry consistent with possible small-study effects. Exercise training improves hepatic enzymes, BMI, and cardiorespiratory fitness in adults with MASLD/NAFLD, whereas evidence for liver fat and glycemic outcomes remains less certain. PROSPERO: CRD420261416397. https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420261416397.",
+      "practicalTakeaways": [],
+      "date": "2026 10 31",
+      "status": "Clinical trial",
+      "references": "Frontiers in physiology · 2026 10 31 · PMID: 42964364 · DOI: 10.3389/fphys.2026.1976073",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42964364/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-01T11:15:08.817Z"
     }
   ]
 }
