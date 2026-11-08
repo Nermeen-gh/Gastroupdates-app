@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-07",
+  "lastChecked": "2026-11-08",
   "items": [
     {
       "id": "pmid-42486794",
@@ -10671,6 +10671,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42993303/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-11-07T11:02:36.058Z"
+    },
+    {
+      "id": "pmid-42995410",
+      "pmid": "42995410",
+      "doi": "10.1111/liv.70954",
+      "title": "Radiation-Induced Liver Disease: From Mechanistic Paradigms to Systems-Level Prevention and Management.",
+      "category": "Hepatology",
+      "source": "Liver international : official journal of the International Association for the Study of the Liver",
+      "summary": "Radiation-induced liver disease (RILD) is a critical dose-limiting toxicity of abdominal tumour radiotherapy. Non-classical RILD (ncRILD)-characterized by poorly understood mechanisms, a paucity of biomarkers and limited therapeutic strategies-poses an urgent clinical challenge. Building on a systematic review of differences in clinical phenotypes, pathological processes and established mechanisms such as reactive…",
+      "fullDetails": "Radiation-induced liver disease (RILD) is a critical dose-limiting toxicity of abdominal tumour radiotherapy. Non-classical RILD (ncRILD)-characterized by poorly understood mechanisms, a paucity of biomarkers and limited therapeutic strategies-poses an urgent clinical challenge. Building on a systematic review of differences in clinical phenotypes, pathological processes and established mechanisms such as reactive oxygen species (ROS) overload-mediated DNA damage between classical and ncRILD, this review provides a comprehensive integration and in-depth analysis of three emerging pathogenic mechanisms: (1) m 6 A epigenetic modification drives innate immune dysregulation through the ALKBH5-HMGB1-STING axis (functionally validated in RILD models); (2) epidermal growth factor receptor (EGFR) emerges as a top-ranked hub protein in irradiated liver sinusoidal endothelial cells, suggesting a reversal from a protective signal to a pro-injury switch (proteomic evidence; functional validation pending); and (3) a proposed crosstalk among taurine metabolic dysregulation, ferroptosis and disulfidptosis, which may clarify the role of metabolic cell death in RILD progression (theoretical hypothesis). The review further analyzes bidirectional interactions between RILD and the liver microenvironment, tumour microenvironment and immune response and constructs an end-to-end management framework encompassing pharmacological prevention and treatment, precision radiotherapy and the three-tier prevention hierarchy, refining the existing expert-guidance-based system. It also evaluates the translational potential of METTL3 inhibitors and liver sinusoid-targeted interventions for hepatoprotection, and taurine transporter (TAUT) blockade for tumour radiosensitization. Finally, this review highlights that integrating liver-on-a-chip technology, high-throughput omics and artificial intelligence may drive a paradigm shift in RILD research from 'post-injury response' to full-spectrum precision prevention and management.",
+      "practicalTakeaways": [],
+      "date": "2026 11 07",
+      "status": "Guideline candidate",
+      "references": "Liver international : official journal of the International Association for the Study of the Liver · 2026 11 07 · PMID: 42995410 · DOI: 10.1111/liv.70954",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995410/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-08T11:15:50.106Z"
+    },
+    {
+      "id": "pmid-42995526",
+      "pmid": "42995526",
+      "doi": "10.1186/s12876-026-05203-8",
+      "title": "Inverted Meckel's diverticulum in adults: two case reports and a systematic review.",
+      "category": "Endoscopy",
+      "source": "BMC gastroenterology",
+      "summary": "Inverted Meckel's diverticulum (IMD) is a rare condition that may present as adult intussusception or as an intraluminal small-bowel lesion. Because its clinical and radiological features are nonspecific, IMD is frequently misdiagnosed preoperatively as a small-bowel tumor or another lead-point lesion. This study aimed to clarify the clinical spectrum, diagnostic features, and management of adult IMD. We conducted…",
+      "fullDetails": "Inverted Meckel's diverticulum (IMD) is a rare condition that may present as adult intussusception or as an intraluminal small-bowel lesion. Because its clinical and radiological features are nonspecific, IMD is frequently misdiagnosed preoperatively as a small-bowel tumor or another lead-point lesion. This study aimed to clarify the clinical spectrum, diagnostic features, and management of adult IMD. We conducted a systematic review of published adult cases of pathologically confirmed IMD reported between January 2006 and December 2025. PubMed and Web of Science were searched using predefined terms. Eligible studies were case reports or case series involving adult patients aged 18 years or older. Pediatric cases, non-IMD cases, conference abstracts, editorials, review articles without original patient-level data, and non-English publications were excluded. Two institutional cases are presented separately and were not included in the pooled review dataset. Sixty-eight reports describing 69 adult patients met the inclusion criteria. Adult IMD showed heterogeneous and nonspecific clinical presentations, most commonly abdominal pain, gastrointestinal bleeding, vomiting, anemia, or bowel obstruction. Computed tomography (CT) was the most frequently used diagnostic modality and often demonstrated intussusception, a polypoid intraluminal mass, a fat-attenuation core, or a surrounding soft-tissue collar in the distal ileum. Nevertheless, preoperative diagnosis remained difficult, and several lesions were initially suspected to be lipomas or neoplasms. Small-bowel capsule endoscopy and device-assisted enteroscopy helped identify bleeding or ulceration and localize the lesion before surgery in selected clinically stable patients. Surgical resection was performed in most reported cases, and postoperative outcomes were generally favorable. The two institutional cases further illustrate the variable presentation of adult IMD and the complementary diagnostic value of CT, capsule endoscopy, and device-assisted enteroscopy. Adult IMD is a rare but clinically important cause of intraluminal ileal lesions and adult intussusception. Recognition of characteristic CT findings, together with selective use of small-bowel endoscopy in clinically stable patients, may improve preoperative suspicion and support surgical planning. Surgical resection remains central to definitive diagnosis and treatment.",
+      "practicalTakeaways": [],
+      "date": "2026 11 07",
+      "status": "Evidence review",
+      "references": "BMC gastroenterology · 2026 11 07 · PMID: 42995526 · DOI: 10.1186/s12876-026-05203-8",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42995526/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-08T11:15:50.108Z"
     }
   ]
 }
