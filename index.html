@@ -132,6 +132,18 @@
                     </button>
                 </div>
 
+                <!-- Publication date range -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2 border-t border-slate-100">
+                    <label class="block">
+                        <span class="block text-[11px] font-bold text-slate-600 uppercase tracking-wider mb-1.5">Published from</span>
+                        <input type="date" x-model="dateFrom" :max="dateTo || undefined" class="w-full px-3 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm text-slate-700 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                    </label>
+                    <label class="block">
+                        <span class="block text-[11px] font-bold text-slate-600 uppercase tracking-wider mb-1.5">Published to</span>
+                        <input type="date" x-model="dateTo" :min="dateFrom || undefined" class="w-full px-3 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm text-slate-700 focus:outline-none focus:ring-2 focus:ring-tealprim focus:bg-white transition-all">
+                    </label>
+                </div>
+
                 <!-- Chips Category Selection -->
                 <div class="flex flex-wrap gap-2 pt-2 border-t border-slate-100">
                     <template x-for="cat in categories" :key="cat">
@@ -499,6 +511,8 @@
                 activeTab: 'updates',
                 calcTab: 'fib4',
                 searchQuery: '',
+                dateFrom: '',
+                dateTo: '',
                 selectedCategory: 'All',
                 showBookmarkedOnly: false,
                 showApiDrawer: false,
@@ -835,7 +849,37 @@
                 },
 
                 // Filters logic
+                articleTimestamp(item) {
+                    const rawDate = (item.date || '').trim();
+                    const numericDate = rawDate.match(/^(\d{4})\s+(\d{1,2})\s+(\d{1,2})$/);
+                    if (numericDate) {
+                        return Date.UTC(
+                            Number(numericDate[1]),
+                            Number(numericDate[2]) - 1,
+                            Number(numericDate[3])
+                        );
+                    }
+
+                    const monthDate = rawDate.match(/^(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})$/i);
+                    if (monthDate) {
+                        const monthIndex = [
+                            'january', 'february', 'march', 'april', 'may', 'june',
+                            'july', 'august', 'september', 'october', 'november', 'december'
+                        ].indexOf(monthDate[1].toLowerCase());
+                        return Date.UTC(Number(monthDate[2]), monthIndex, 1);
+                    }
+
+                    const parsedDate = Date.parse(rawDate);
+                    if (!Number.isNaN(parsedDate)) return parsedDate;
+
+                    const discoveredDate = Date.parse(item.discoveredAt || '');
+                    return Number.isNaN(discoveredDate) ? 0 : discoveredDate;
+                },
+
                 filteredUpdates() {
+                    const fromTimestamp = this.dateFrom ? Date.parse(`${this.dateFrom}T00:00:00Z`) : null;
+                    const toTimestamp = this.dateTo ? Date.parse(`${this.dateTo}T23:59:59Z`) : null;
+
                     return this.updates.filter(item => {
                         const matchesSearch = this.searchQuery === '' ||
                             item.title.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
@@ -846,9 +890,12 @@
                             item.category.toLowerCase() === this.selectedCategory.toLowerCase();
 
                         const matchesBookmark = !this.showBookmarkedOnly || this.isBookmarked(item.id);
+                        const articleTimestamp = this.articleTimestamp(item);
+                        const matchesDateFrom = fromTimestamp === null || articleTimestamp >= fromTimestamp;
+                        const matchesDateTo = toTimestamp === null || articleTimestamp <= toTimestamp;
 
-                        return matchesSearch && matchesCategory && matchesBookmark;
-                    });
+                        return matchesSearch && matchesCategory && matchesBookmark && matchesDateFrom && matchesDateTo;
+                    }).sort((left, right) => this.articleTimestamp(right) - this.articleTimestamp(left));
                 },
 
                 isBookmarked(id) {
@@ -866,6 +913,8 @@
 
                 resetFilters() {
                     this.searchQuery = '';
+                    this.dateFrom = '';
+                    this.dateTo = '';
                     this.selectedCategory = 'All';
                     this.showBookmarkedOnly = false;
                 },
