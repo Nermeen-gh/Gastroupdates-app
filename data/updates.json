@@ -10743,8 +10743,9 @@
       "status": "Evidence review",
       "references": "Journal of robotic surgery · 2026 11 09 · PMID: 43002271 · DOI: 10.1007/s11701-026-04182-y",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002271/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-10T12:37:55.278Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-10T12:37:55.278Z",
+      "reviewedAt": "2026-11-10T13:37:47.245Z"
     },
     {
       "id": "pmid-43000353",
@@ -10760,8 +10761,9 @@
       "status": "Evidence review",
       "references": "BMC cancer · 2026 11 08 · PMID: 43000353 · DOI: 10.1186/s12885-026-16628-5",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000353/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-10T12:37:55.279Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-10T12:37:55.279Z",
+      "reviewedAt": "2026-11-10T13:37:47.246Z"
     }
   ]
 }
