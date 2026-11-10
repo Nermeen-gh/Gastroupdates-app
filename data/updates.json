@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-09",
+  "lastChecked": "2026-11-10",
   "items": [
     {
       "id": "pmid-42486794",
@@ -10728,6 +10728,40 @@
       "reviewStatus": "approved",
       "discoveredAt": "2026-11-08T11:15:50.108Z",
       "reviewedAt": "2026-11-09T13:18:33.375Z"
+    },
+    {
+      "id": "pmid-43002271",
+      "pmid": "43002271",
+      "doi": "10.1007/s11701-026-04182-y",
+      "title": "Short-term outcomes of the hinotori versus da Vinci robotic surgical systems in colorectal cancer surgery: a systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Journal of robotic surgery",
+      "summary": "Direct comparative evidence on the hinotori and da Vinci robotic systems in colorectal cancer surgery remains limited. We conducted a systematic review and meta-analysis to compare their short-term perioperative outcomes. PubMed, Embase, Web of Science, and the Cochrane Library were searched for studies directly comparing hinotori with da Vinci robotic surgery in patients with colorectal cancer. Study-level data w…",
+      "fullDetails": "Direct comparative evidence on the hinotori and da Vinci robotic systems in colorectal cancer surgery remains limited. We conducted a systematic review and meta-analysis to compare their short-term perioperative outcomes. PubMed, Embase, Web of Science, and the Cochrane Library were searched for studies directly comparing hinotori with da Vinci robotic surgery in patients with colorectal cancer. Study-level data were pooled using random-effects models, with mean differences (MDs) for continuous outcomes and odds ratios (ORs) for dichotomous outcomes, each with 95% confidence intervals (CIs). Five retrospective propensity-score-matched studies involving 462 patients (hinotori, n = 204; da Vinci, n = 258) were included. Operative time (MD 30.57 min, 95% CI 17.51-43.64; I² = 0%) and console time (MD 30.72 min, 95% CI 17.29-44.16; I² = 42%) were significantly longer with hinotori, whereas length of hospital stay was significantly shorter (MD - 1.58 days, 95% CI - 2.92 to - 0.24; I² = 63%). No statistically significant differences were detected for estimated blood loss (MD 3.42 mL, 95% CI - 6.98 to 13.82; I² = 66%) or for postoperative complications (grade I-II: OR 0.78, 95% CI 0.36-1.69; grade III-IV: OR 0.54, 95% CI 0.16-1.76; overall: OR 0.74, 95% CI 0.37-1.46). In this meta-analysis of propensity-score-matched studies, hinotori was associated with longer operative and console times and a shorter hospital stay than da Vinci, whereas no statistically significant difference was detected in blood loss or postoperative complications. Because clinically important differences in safety could not be excluded and residual confounding could not be ruled out, these findings should be regarded as preliminary; larger prospective comparative studies are warranted.",
+      "practicalTakeaways": [],
+      "date": "2026 11 09",
+      "status": "Evidence review",
+      "references": "Journal of robotic surgery · 2026 11 09 · PMID: 43002271 · DOI: 10.1007/s11701-026-04182-y",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43002271/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-10T12:37:55.278Z"
+    },
+    {
+      "id": "pmid-43000353",
+      "pmid": "43000353",
+      "doi": "10.1186/s12885-026-16628-5",
+      "title": "Microplastics and colorectal cancer: presence in human colorectal tissues and associations with tumor biology.",
+      "category": "Endoscopy",
+      "source": "BMC cancer",
+      "summary": "The incidence and death rates of colorectal cancer (CRC), one of the world's largest health issues, are rising. These days, environmental contaminants such microplastics (MPs) are believed to play a role in the development of colorectal cancer. Small plastic particles (less than 5 mm) are referred to as MPs because they are persistent and may build up in human tissues, raising questions about their potential invol…",
+      "fullDetails": "The incidence and death rates of colorectal cancer (CRC), one of the world's largest health issues, are rising. These days, environmental contaminants such microplastics (MPs) are believed to play a role in the development of colorectal cancer. Small plastic particles (less than 5 mm) are referred to as MPs because they are persistent and may build up in human tissues, raising questions about their potential involvement in tumour biology. The objective is to systematically assess the prevalence of microplastics found in human colorectal membranes and their connections to biological processes and tumour type indicators in colorectal cancer. A systematic review was carried out using the Preferred Reporting Items of Systematic Reviews and Meta-Analyses (PRISMA). Peer-reviewed study sources published between January 2019 and December 2025 were located in MEDLINE, EMBASE, Web of Science, and the Cochrane Library. The studies had to assess MPs in human colorectal tumours or surrounding tissues, as well as their associations with tumour biology, such as clinical, inflammatory, or molecular markers, according to the inclusion criteria. Two reviewers worked independently on the screening, selection, and data extraction processes. Thirteen papers make up the final qualitative synthesis, which is screened for full text and title/abstract. Study design, sample size, tissue type, MP detection techniques, polymer type, particle size, and tumour biology outcomes were among the data that were extracted. Particularly, MPs were detected in colon tissues, and their concentration was greater in tumour tissues than in nearby or control tissues. The most common polymers were polyethylene, polypropylene, and polystyrene, the majority of which were less than 100 μm. The advanced tumour stage, limited differentiation, elevated pro-inflammatory cytokine levels, signs of oxidative stress, disrupted immune infiltration, and disrupted epithelial barrier function were all associated with higher MP loads. According to mechanistic research, MPs can induce oxidative stress, inflammation, and immunological homeostasis, all of which can result in a pro-tumorigenic environment. MPs can affect the development of colorectal cancer (CRC) because they are found in human colorectal tissues and are preferentially accumulated in tumours. Multicenter studies with typical application are required to clarify causal processes and clinical consequences.",
+      "practicalTakeaways": [],
+      "date": "2026 11 08",
+      "status": "Evidence review",
+      "references": "BMC cancer · 2026 11 08 · PMID: 43000353 · DOI: 10.1186/s12885-026-16628-5",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43000353/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-10T12:37:55.279Z"
     }
   ]
 }
