@@ -11139,8 +11139,9 @@
       "status": "Guideline candidate",
       "references": "Gut and liver · 2026 11 13 · PMID: 43021743 · DOI: 10.5009/gnl260481",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43021743/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.233Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.233Z",
+      "reviewedAt": "2026-11-13T22:13:26.588Z"
     },
     {
       "id": "pmid-43018811",
@@ -11156,8 +11157,9 @@
       "status": "Evidence review",
       "references": "Hernia : the journal of hernias and abdominal wall surgery · 2026 11 12 · PMID: 43018811 · DOI: 10.1007/s10029-026-03907-0",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43018811/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.233Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.233Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     },
     {
       "id": "pmid-43018757",
@@ -11173,8 +11175,9 @@
       "status": "Evidence review",
       "references": "Langenbeck's archives of surgery · 2026 11 12 · PMID: 43018757 · DOI: 10.1007/s00423-026-04346-2",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43018757/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.233Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.233Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     },
     {
       "id": "pmid-43018676",
@@ -11190,8 +11193,9 @@
       "status": "Clinical trial",
       "references": "Journal of physiology and biochemistry · 2026 11 12 · PMID: 43018676 · DOI: 10.1007/s13105-026-01253-4",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43018676/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.233Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.233Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     },
     {
       "id": "pmid-43021123",
@@ -11207,8 +11211,9 @@
       "status": "New publication",
       "references": "BMC gastroenterology · 2026 11 13 · PMID: 43021123 · DOI: 10.1186/s12876-026-05551-5",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43021123/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.234Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.234Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     },
     {
       "id": "pmid-43019762",
@@ -11224,8 +11229,9 @@
       "status": "Guideline candidate",
       "references": "Journal of the National Comprehensive Cancer Network : JNCCN · 2026 11 12 · PMID: 43019762 · DOI: 10.6004/jnccn.2026.0051",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43019762/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.234Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.234Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     },
     {
       "id": "pmid-43021726",
@@ -11241,8 +11247,9 @@
       "status": "Clinical trial",
       "references": "The British journal of surgery · 2026 11 13 · PMID: 43021726 · DOI: 10.1093/bjs/znag141",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43021726/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.234Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.234Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     },
     {
       "id": "pmid-43021134",
@@ -11258,8 +11265,9 @@
       "status": "Guideline candidate",
       "references": "BMC surgery · 2026 11 12 · PMID: 43021134 · DOI: 10.1186/s12893-026-04124-3",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43021134/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.235Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.235Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     },
     {
       "id": "pmid-43020910",
@@ -11275,8 +11283,9 @@
       "status": "Guideline candidate",
       "references": "International journal of colorectal disease · 2026 11 12 · PMID: 43020910 · DOI: 10.1007/s00384-026-05218-3",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43020910/",
-      "reviewStatus": "pending",
-      "discoveredAt": "2026-11-13T12:11:10.235Z"
+      "reviewStatus": "approved",
+      "discoveredAt": "2026-11-13T12:11:10.235Z",
+      "reviewedAt": "2026-11-13T22:13:26.589Z"
     }
   ]
 }
