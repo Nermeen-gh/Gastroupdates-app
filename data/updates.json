@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-14",
+  "lastChecked": "2026-11-15",
   "items": [
     {
       "id": "pmid-42486794",
@@ -11473,6 +11473,91 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43027712/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-11-14T11:26:59.652Z"
+    },
+    {
+      "id": "pmid-43033338",
+      "pmid": "43033338",
+      "doi": "10.1007/s12029-026-01632-6",
+      "title": "Histotripsy for Liver Malignancies: A Systematic Review of the Existing Literature.",
+      "category": "Hepatology",
+      "source": "Journal of gastrointestinal cancer",
+      "summary": "Histotripsy is an emerging noninvasive, nonthermal ablative therapy recently introduced for the treatment of hepatic malignancies. This systematic review evaluated the efficacy and safety of histotripsy for primary and secondary liver tumors. PubMed and Scopus were searched from inception through August 2026 in accordance with PRISMA guidelines. Search terms included combinations of subject headings and keywords s…",
+      "fullDetails": "Histotripsy is an emerging noninvasive, nonthermal ablative therapy recently introduced for the treatment of hepatic malignancies. This systematic review evaluated the efficacy and safety of histotripsy for primary and secondary liver tumors. PubMed and Scopus were searched from inception through August 2026 in accordance with PRISMA guidelines. Search terms included combinations of subject headings and keywords such as \"histotripsy,\" \"hepatic,\" and \"metastases.\" Ten clinical studies published between 2022 and 2026 met inclusion criteria. Study populations included hepatocellular carcinoma and metastases from colorectal, neuroendocrine, pancreatic, breast, and other malignancies. Technical success ranged from 68.8% to 100%, although definitions varied across studies. Early treatment efficacy and local control were generally high among successfully treated tumors, with several studies reporting rates exceeding 90%. Longer-term oncologic data were limited by heterogeneous imaging criteria, treatment intent, and patient populations. Major complications were uncommon, although vascular thrombosis and acute kidney injury emerged as potential safety concerns. Current evidence supports the technical feasibility and short-term efficacy of hepatic histotripsy. However, standardized outcome definitions, longer follow-up, and comparative studies are needed to establish its durability and role relative to existing liver-directed therapies.",
+      "practicalTakeaways": [],
+      "date": "2026 11 14",
+      "status": "Guideline candidate",
+      "references": "Journal of gastrointestinal cancer · 2026 11 14 · PMID: 43033338 · DOI: 10.1007/s12029-026-01632-6",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43033338/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-15T11:56:14.012Z"
+    },
+    {
+      "id": "pmid-43030311",
+      "pmid": "43030311",
+      "doi": "10.3390/nu18213685",
+      "title": "Silymarin-Based Therapies in Chronic Liver Disease: A Systematic Review of Biochemical, Cardiometabolic, Steatosis, and Fibrosis-Related Outcomes.",
+      "category": "Hepatology",
+      "source": "Nutrients",
+      "summary": "Silymarin is a widely used hepatoprotective agent; however, its effects on hepatic steatosis and fibrosis remain unclear. We systematically reviewed the effects of silymarin on liver biochemical parameters, fibrosis, steatosis, and cardiometabolic outcomes, as well as its safety, in chronic liver disease. PubMed, Embase, and the Cochrane Library were searched from inception to June 11, 2026. Randomized controlled…",
+      "fullDetails": "Silymarin is a widely used hepatoprotective agent; however, its effects on hepatic steatosis and fibrosis remain unclear. We systematically reviewed the effects of silymarin on liver biochemical parameters, fibrosis, steatosis, and cardiometabolic outcomes, as well as its safety, in chronic liver disease. PubMed, Embase, and the Cochrane Library were searched from inception to June 11, 2026. Randomized controlled trials (RCTs) and eligible comparative clinical studies that evaluated the use of oral silymarin were included. Risk of bias was evaluated using RoB 2 for randomized trials and ROBINS-I for non-randomized studies. Random-effects meta-analyses were performed for alanine aminotransferase (ALT) and aspartate aminotransferase (AST) in placebo-controlled RCTs of silymarin monotherapy and for liver stiffness measurement (LSM) in placebo-controlled RCTs, and the certainty of evidence was assessed using GRADE. Forty-seven studies (37 RCTs and 10 non-randomized studies) met the inclusion criteria. Compared with placebo, silymarin monotherapy significantly reduced ALT (six trials; mean difference [MD], -7.25 IU/L; 95% confidence interval [CI], -11.60 to -2.89) and AST (four trials; MD, -5.36 IU/L; 95% CI, -8.45 to -2.27). In addition, an exploratory meta-analysis of three placebo-controlled RCTs showed a greater reduction in LSM with silymarin-based interventions than with placebo (MD, -0.60 kPa; 95% CI, -1.04 to -0.16). In placebo-controlled trials, silymarin monotherapy significantly reduced serum aminotransferase levels, and an exploratory meta-analysis of three trials also showed a reduction in liver stiffness with silymarin-based interventions. Silymarin was generally well tolerated. Well-designed long-term randomized controlled trials using validated noninvasive or histological fibrosis endpoints are warranted to determine whether these improvements translate into antifibrotic and clinically meaningful benefits.",
+      "practicalTakeaways": [],
+      "date": "2026 11 14",
+      "status": "Clinical trial",
+      "references": "Nutrients · 2026 11 14 · PMID: 43030311 · DOI: 10.3390/nu18213685",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43030311/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-15T11:56:14.013Z"
+    },
+    {
+      "id": "pmid-43030246",
+      "pmid": "43030246",
+      "doi": "10.3390/nu18213619",
+      "title": "Efficacy of Lactose Reduction in Irritable Bowel Syndrome and Recurrent Abdominal Pain: A Systematic Review.",
+      "category": "Gastroenterology",
+      "source": "Nutrients",
+      "summary": "Lactose intolerance (LI), irritable bowel syndrome in adults (IBS) and recurrent abdominal pain (RAP) in children are frequently diagnosed worldwide. This systematic review aimed to assess the effects of dietary reduction in lactose on symptoms, quality of life and healthcare visits in IBS and children with recurrent abdominal pain. PubMed, Cochrane Library, Embase and Lilacs were searched for studies on IBS and R…",
+      "fullDetails": "Lactose intolerance (LI), irritable bowel syndrome in adults (IBS) and recurrent abdominal pain (RAP) in children are frequently diagnosed worldwide. This systematic review aimed to assess the effects of dietary reduction in lactose on symptoms, quality of life and healthcare visits in IBS and children with recurrent abdominal pain. PubMed, Cochrane Library, Embase and Lilacs were searched for studies on IBS and RAP investigating the effect of a reduction of dietary intake of lactose for at least 4 weeks on abdominal pain, stool characteristics, bloating and distension, and quality of life published up to 15 August 2026. No restriction in language, publication type or data limit was applied. Four reviewers independently screened the abstracts for eligibility, and risk of bias was assessed by two reviewers with ROBINS-2. Disagreements were resolved by consensus or consulting with a senior investigator. Results were summarised in tabular form. The systematic review was registered on PROSPERO (CRD42024617161). Eighteen studies met eligibility criteria based on the title and abstract. Upon review of full-text articles, three studies in adults and six studies in children were retained for data extraction. Lactose breath tests (LBTs) were performed in all studies. All but one study prospectively compared patient cohorts. IBS was defined by Manning criteria in two studies and Rome II criteria in one study. Only patients with a positive LBT were subjected to dietary intervention in eight of nine studies. No control group was included in one of three and three of six of the studies in adults and children, respectively. None of the studies compared symptomatic evolution based on validated questionnaires. Improvement in pain was reported by two of three and five of six of the studies on IBS and RAP, respectively. The risk of bias was high for all studies. No study assessed quality of life. Current evidence in support of dietary lactose reduction in patients with IBS and RAP is limited due to a high risk of bias, the use of old criteria, the absence of a valid comparator group and poorly defined outcomes. A positive LBT was associated with improvement in pain after a lactose-free diet. Future studies on the role of lactose restriction in IBS and RAP should recruit patients based on current diagnostic criteria and assess outcome by validated measures, preferentially applying a randomised controlled design.",
+      "practicalTakeaways": [],
+      "date": "2026 11 14",
+      "status": "Guideline candidate",
+      "references": "Nutrients · 2026 11 14 · PMID: 43030246 · DOI: 10.3390/nu18213619",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43030246/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-15T11:56:14.015Z"
+    },
+    {
+      "id": "pmid-43030218",
+      "pmid": "43030218",
+      "doi": "10.3390/nu18213585",
+      "title": "Ultra-Processed Food Consumption and Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD): Evidence Synthesis, Methodological Appraisal, and Mechanistic Insights.",
+      "category": "Hepatology",
+      "source": "Nutrients",
+      "summary": "Background/Objectives: Ultra-processed food (UPF) consumption has been associated with metabolic dysfunction-associated steatotic liver disease (MASLD), but differences in exposure definitions and liver outcomes complicate interpretation. This umbrella review synthesized existing evidence, appraised review methodology, examined primary-publication overlap, and explored proposed biological mechanisms. Methods: PubM…",
+      "fullDetails": "Background/Objectives: Ultra-processed food (UPF) consumption has been associated with metabolic dysfunction-associated steatotic liver disease (MASLD), but differences in exposure definitions and liver outcomes complicate interpretation. This umbrella review synthesized existing evidence, appraised review methodology, examined primary-publication overlap, and explored proposed biological mechanisms. Methods: PubMed, Scopus, and Web of Science were searched from inception to May 2026 for systematic reviews and meta-analyses examining UPF consumption and MASLD-related outcomes in adults. The review methodology was assessed using A Measurement Tool to Assess Systematic Reviews 2 (AMSTAR 2). Primary publications were mapped across reviews, distinguishing total NOVA-defined UPF intake from selected-food and dietary-pattern proxies. Publication overlap was quantified using the corrected covered area (CCA). Findings were synthesized narratively. Results: Five systematic reviews were included, with AMSTAR 2 confidence classifications of moderate for one, low for one, and critically low for three. Mapping identified 18 distinct primary publications: 11 assessing total NOVA-defined UPF intake and seven assessing proxy exposures. Higher UPF consumption was generally associated with less favorable liver outcomes, with prospective findings proving more consistent than cross-sectional findings. Publication overlap was very high (overall CCA: 34.72%), limiting the independence of review findings. Other limitations included retrospective NOVA classification, heterogeneous liver-outcome ascertainment, and residual confounding. Proposed biological pathways included excess energy intake, visceral adiposity, insulin resistance, hepatic lipogenesis, and altered gut-liver signaling; their contribution to the observed associations remains unconfirmed. Conclusions: Existing evidence suggests an association between higher UPF consumption and adverse liver outcomes relevant to MASLD but does not establish causality or a harmful intake threshold. Future research should prioritize repeated dietary assessments, standardized MASLD ascertainment, and interventions evaluating the replacement of UPFs with minimally processed foods.",
+      "practicalTakeaways": [],
+      "date": "2026 11 14",
+      "status": "Evidence review",
+      "references": "Nutrients · 2026 11 14 · PMID: 43030218 · DOI: 10.3390/nu18213585",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43030218/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-15T11:56:14.015Z"
+    },
+    {
+      "id": "pmid-43030091",
+      "pmid": "43030091",
+      "doi": "10.3390/nu18213462",
+      "title": "The Effect of Fibre-Rich Gluten Free Products on Glycaemic Regulation, Gut Symptoms, and Targeted Gut Microbial Taxa in Women with Coeliac Disease: A Randomised Controlled Trial.",
+      "category": "Gastroenterology",
+      "source": "Nutrients",
+      "summary": "Background : The only treatment for coeliac disease (CeD) is a gluten-free diet. Gluten-containing cereals constitute a major source of dietary fibre, raising concerns about fibre intake for individuals with CeD. Objective : The present study aimed to investigate the effect of pseudocereal-based, fibre-rich gluten-free products on glycaemic regulation in women with CeD. Secondary endpoints were changes in gut symp…",
+      "fullDetails": "Background : The only treatment for coeliac disease (CeD) is a gluten-free diet. Gluten-containing cereals constitute a major source of dietary fibre, raising concerns about fibre intake for individuals with CeD. Objective : The present study aimed to investigate the effect of pseudocereal-based, fibre-rich gluten-free products on glycaemic regulation in women with CeD. Secondary endpoints were changes in gut symptoms, targeted gut microbial taxa, and inflammatory and metabolic markers. Methods : This double-blind, randomised, controlled trial was conducted remotely and included 30 women with CeD. Participants were allocated to consume either pseudocereal-based, fibre-rich gluten-free products (experimental) or benchmark products (control) for three weeks. Before and after the interventions, participants underwent an oral glucose tolerance test (OGTT), reported gastrointestinal symptoms, and provided blood samples to analyse micronutrients, metabolic markers, and a satiety hormone, and faecal samples for targeted gut microbial taxa analyses. Results : There was no significant difference in the glycaemic response after the intake of fibre-rich products compared with control products. However, a significant reduction in glucose iAUC was observed within the experimental group ( p = 0.049). There was no significant change in gut symptoms within or between groups, except for a reduction in diarrhoea in the control group compared with the experimental group. The abundance of five bacterial species was significantly decreased after intake of control products compared to experimental products. Conclusions : Pseudocereal-based, fibre-rich gluten-free products may be included in the diet for women with CeD without affecting gastrointestinal symptoms. Whether these fibre-rich products improve glycaemic regulation and exert effects via alterations in the gut microbiota needs to be further investigated.",
+      "practicalTakeaways": [],
+      "date": "2026 11 14",
+      "status": "Clinical trial",
+      "references": "Nutrients · 2026 11 14 · PMID: 43030091 · DOI: 10.3390/nu18213462",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43030091/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-15T11:56:14.016Z"
     }
   ]
 }
