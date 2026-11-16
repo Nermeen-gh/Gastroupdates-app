@@ -1,37 +1,20 @@
-name: Generate approved infographics
+name: Generate approved infographics — paused
 
+# Automatic infographic generation was paused on 2026-11-16 at the owner's request.
+# This workflow can still be run manually from GitHub Actions if needed.
 on:
-  workflow_call:
-    inputs:
-      pmid:
-        required: false
-        type: string
-
-      dry_run:
-        required: false
-        type: boolean
-        default: false
-
-    secrets:
-      GEMINI_API_KEY:
-        required: true
-      GDRIVE_UPLOAD_URL:
-        required: true
-      GDRIVE_UPLOAD_TOKEN:
-        required: true
-
   workflow_dispatch:
     inputs:
       pmid:
-        description: Approved PMID to generate
-        required: false
+        description: Approved PMID to generate manually
+        required: true
         type: string
 
       dry_run:
         description: Test only — do not generate images
         required: true
         type: boolean
-        default: false
+        default: true
 
 permissions:
   contents: write
