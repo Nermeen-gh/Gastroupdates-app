@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-17",
+  "lastChecked": "2026-11-18",
   "items": [
     {
       "id": "pmid-42486794",
@@ -11693,6 +11693,74 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43037756/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-11-17T13:23:01.507Z"
+    },
+    {
+      "id": "pmid-43043534",
+      "pmid": "43043534",
+      "doi": "10.1007/s12029-026-01642-4",
+      "title": "The Effects of Pelvic Radiation on Ileal-Anal Pouches: A Systematic Review and Meta-Analysis.",
+      "category": "Hepatology",
+      "source": "Journal of gastrointestinal cancer",
+      "summary": "Restorative proctocolectomy with ileal pouch-anal anastomosis (IPAA) is the gold-standard treatment for ulcerative colitis and familial adenomatous polyposis. Pelvic radiation for co-existing malignancies has been associated with pouch complications, yet guidance is still limited. This review synthesized current evidence on effects of pelvic radiation in patients with IPAA. A systematic search of Embase, MEDLINE,…",
+      "fullDetails": "Restorative proctocolectomy with ileal pouch-anal anastomosis (IPAA) is the gold-standard treatment for ulcerative colitis and familial adenomatous polyposis. Pelvic radiation for co-existing malignancies has been associated with pouch complications, yet guidance is still limited. This review synthesized current evidence on effects of pelvic radiation in patients with IPAA. A systematic search of Embase, MEDLINE, and Scopus was conducted in February 2025 using IPAA and pelvic-radiation terms. Eligible studies included patients who underwent IPAA and received pelvic radiation before or after surgery, and reported a pouch-related clinical outcome. Twelve studies (2004-2024) met inclusion criteria, comprising 101 patients who received radiation (83 external beam radiation therapy [EBRT], 18 brachytherapy). The pooled pouchitis rate was 28% (95% CI, 24%-34%). Complications were more common when radiation was delivered after IPAA than before: pouchitis occurred in 53.7% versus 7.7%, and pouch failure in 39.0% versus 3.8%. Brachytherapy was associated with numerically lower pouchitis (16.7% versus 25.3%) and pouch failure (11.1% versus 18.1%) rates than EBRT; however, differences were not statistically significant. Pelvic radiation in patients with IPAA is associated with adverse outcomes. Radiation timing and modality should be considered when balancing oncologic benefit against pouch function.",
+      "practicalTakeaways": [],
+      "date": "2026 11 17",
+      "status": "Guideline candidate",
+      "references": "Journal of gastrointestinal cancer · 2026 11 17 · PMID: 43043534 · DOI: 10.1007/s12029-026-01642-4",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43043534/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-18T13:01:05.248Z"
+    },
+    {
+      "id": "pmid-43043480",
+      "pmid": "43043480",
+      "doi": "10.1007/s00345-026-06901-4",
+      "title": "Pelvic osteotomy in classic bladder exstrophy and cloacal exstrophy: a systematic review and qualitative evidence synthesis with separate clinical pathways.",
+      "category": "Gastroenterology",
+      "source": "World journal of urology",
+      "summary": "To synthesise evidence on pelvic osteotomy in classic bladder exstrophy (CBE) and cloacal exstrophy (CE), with separate interpretation of their reconstructive pathways. PubMed/MEDLINE, Embase and Scopus were searched to 9 September 2026. Two reviewers independently selected studies and extracted data. MINORS and Cochrane RoB 2 assessed methodological limitations. Findings were synthesised qualitatively in separate…",
+      "fullDetails": "To synthesise evidence on pelvic osteotomy in classic bladder exstrophy (CBE) and cloacal exstrophy (CE), with separate interpretation of their reconstructive pathways. PubMed/MEDLINE, Embase and Scopus were searched to 9 September 2026. Two reviewers independently selected studies and extracted data. MINORS and Cochrane RoB 2 assessed methodological limitations. Findings were synthesised qualitatively in separate CBE/bladder-exstrophy, CE and mixed-cohort strata. Thirteen studies were included: nine addressing CBE or bladder exstrophy as reported, three CE-specific studies and one mixed cohort. One was a pilot randomised trial; the remainder were observational. CBE studies described osteotomy-assisted primary closure and selective mobilisation when approximation was difficult, without establishing superiority over closure without osteotomy. CE studies described osteotomy within complex primary or repeat reconstruction involving staging, fixation and immobilisation. In one CE cohort, unadjusted closure success was 77.6% with osteotomy versus 41.7% without, but the association did not persist after adjustment. No technique showed consistent superiority. Evidence for independent improvements in continence, pelvic-floor anatomy or gait was insufficient; functional findings from CBE were not extrapolated to CE. CBE and CE require distinct interpretation. Osteotomy should be planned together with postoperative stabilisation and immobilisation to protect the reconstruction. Osteotomy selection in CBE depends on pelvic mechanics; CE requires specialist planning of pelvic mobilisation and stabilisation. Referral to experienced multidisciplinary centres should be prioritised. The proposed framework is conceptual, requires validation and cannot replace specialist expertise.",
+      "practicalTakeaways": [],
+      "date": "2026 11 17",
+      "status": "Clinical trial",
+      "references": "World journal of urology · 2026 11 17 · PMID: 43043480 · DOI: 10.1007/s00345-026-06901-4",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43043480/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-18T13:01:05.248Z"
+    },
+    {
+      "id": "pmid-43042826",
+      "pmid": "43042826",
+      "doi": "10.1002/ppul.71925",
+      "title": "Telerehabilitation-Based Group and Individual Exercise in People With Cystic Fibrosis: A Randomized Controlled Study.",
+      "category": "Gastroenterology",
+      "source": "Pediatric pulmonology",
+      "summary": "To compare the effects of telerehabilitation-based individual and group exercise, against routine treatment on exercise capacity, lung function, muscle strength, anaerobic power, balance, quality of life (QoL), and change in clinical status in people with cystic fibrosis (pwCF). Forty-five pwCF (8-18 years) were randomly allocated into three groups: (1) telerehabilitation-based group or (2) telerehabilitation-base…",
+      "fullDetails": "To compare the effects of telerehabilitation-based individual and group exercise, against routine treatment on exercise capacity, lung function, muscle strength, anaerobic power, balance, quality of life (QoL), and change in clinical status in people with cystic fibrosis (pwCF). Forty-five pwCF (8-18 years) were randomly allocated into three groups: (1) telerehabilitation-based group or (2) telerehabilitation-based individual exercise, and (3) control arm. Telerehabilitation-based groups underwent supervised exercise programmes 3 days/week via an online platform, and the control arm continued their routine care during an 8-week period. Exercise capacity of PwCF was assessed with 6-min walk test and incremental shuttle walk test. Spirometry measurements, muscle, and handgrip strength were recorded and evaluated. Anaerobic power via vertical jump test, balance via TimedUp and GoTest, and quality of life via Pediatric QoL Inventory were assessed as well. Adherence rates to exercise programmes were calculated. Change in clinical status for all groups, and motivation and enjoyment in the intervention groups were assessed. Forty-one participants completed the study. Both exercise groups showed greater improvements than the control group in the 6-min walk distance, incremental shuttle walk test distance, the Timed Up and Go test, vertical jump performance, participant-reported QoL, and most upper- and lower-extremity muscle strength outcomes (all p < 0.05), with no significant differences between the two exercise groups. Significant group × time interactions were also observed for FEV 1 and FEV 1 /FVC. Handgrip strength and parent-reported QoL did not differ between groups. The current study demonstrates similar effects between tele-exercise sessions, with better outcomes than control group. Clinical teams can integrate telerehabilitation-based group exercise into CF centres. NCT05590169.",
+      "practicalTakeaways": [],
+      "date": "2026 11 17",
+      "status": "Clinical trial",
+      "references": "Pediatric pulmonology · 2026 11 17 · PMID: 43042826 · DOI: 10.1002/ppul.71925",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43042826/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-18T13:01:05.249Z"
+    },
+    {
+      "id": "pmid-43043492",
+      "pmid": "43043492",
+      "doi": "10.1007/s00423-026-04196-y",
+      "title": "Comparative outcomes of robotic and laparoscopic right colectomy with intracorporeal anastomosis for curative-intent right-sided colonic neoplasia: a GRADE-assessed systematic review and meta-analysis.",
+      "category": "Gastroenterology",
+      "source": "Langenbeck's archives of surgery",
+      "summary": "Robotic right colectomy may facilitate complex intracorporeal dissection and reconstruction; however, previous comparative syntheses often combined laparoscopic extracorporeal anastomosis with robotic intracorporeal anastomosis. This imbalance makes it difficult to determine whether reported differences reflect the surgical platform or the reconstructive technique. We therefore compared robotic and laparoscopic ri…",
+      "fullDetails": "Robotic right colectomy may facilitate complex intracorporeal dissection and reconstruction; however, previous comparative syntheses often combined laparoscopic extracorporeal anastomosis with robotic intracorporeal anastomosis. This imbalance makes it difficult to determine whether reported differences reflect the surgical platform or the reconstructive technique. We therefore compared robotic and laparoscopic right colectomy only in studies in which intracorporeal anastomosis was planned in both groups. PubMed/MEDLINE, Scopus, and Web of Science were searched from the inception to April 12, 2026. Records were deduplicated and screened in Covidence. Four non-randomized observational comparative studies were included. The primary outcome was study-defined overall postoperative morbidity, with definitions and ascertainment windows varying among studies. Secondary outcomes included operative time, conversion to open surgery, anastomotic leak, hospital stay, lymph-node harvest, and mortality. Mortality and long-term oncological outcomes were summarized narratively when comparable effect estimates were unavailable. Random-effects models, ROBINS-I, and GRADE were used for quantitative outcomes. Four studies involving 977 patients (603 robotic and 374 laparoscopic) were included. Overall postoperative morbidity occurred in 142/603 robotic and 107/374 laparoscopic patients (RR 0.84, 95% CI 0.67-1.05). No statistically significant differences were identified for conversion to open surgery (7/603 vs. 8/374; RR 0.91, 95% CI 0.13-6.33), anastomotic leak (16/603 vs. 11/374; RR 0.88, 95% CI 0.41-1.89), hospital stay (MD - 0.47 days, 95% CI - 1.00 to 0.06), or lymph node harvest (MD - 0.55 nodes, 95% CI - 3.16 to 2.06). Operative time was non-significantly longer with robotics in the primary analysis (MD 39.69 min, 95% CI - 2.19 to 81.57; I²=96%); the exploratory leave-one-out result remained heterogeneous and study-dependent. This exploratory synthesis of four non-randomized studies found no statistically significant short-term advantage of robotic over laparoscopic right colectomy when intracorporeal anastomosis was planned in both groups. These findings do not establish equivalence or exclude clinically important benefits or harms. Platform selection should therefore remain individualized according to surgeon experience, institutional workflow, resource availability, and patient and procedural complexity.",
+      "practicalTakeaways": [],
+      "date": "2026 11 17",
+      "status": "Clinical trial",
+      "references": "Langenbeck's archives of surgery · 2026 11 17 · PMID: 43043492 · DOI: 10.1007/s00423-026-04196-y",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43043492/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-18T13:01:05.249Z"
     }
   ]
 }
