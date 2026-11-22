@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-21",
+  "lastChecked": "2026-11-22",
   "items": [
     {
       "id": "pmid-42486794",
@@ -12271,6 +12271,23 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43064934/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-11-21T12:37:40.666Z"
+    },
+    {
+      "id": "pmid-43065494",
+      "pmid": "43065494",
+      "doi": "10.3389/fendo.2026.1948283",
+      "title": "Beyond hepatoprotection: a meta-analysis quantifying the cardiovascular benefit of antidiabetic drugs in patients with metabolic dysfunction-associated steatohepatitis.",
+      "category": "Hepatology",
+      "source": "Frontiers in endocrinology",
+      "summary": "Metabolic dysfunction-associated steatohepatitis (MASH), the progressive form of metabolic dysfunction-associated steatotic liver disease (MASLD), is associated with substantially elevated cardiovascular risk, yet the cardiovascular efficacy of antidiabetic drugs in this population has not been systematically quantified. We searched PubMed, Cochrane CENTRAL, Web of Science, and Embase from January 2016 to May 2026…",
+      "fullDetails": "Metabolic dysfunction-associated steatohepatitis (MASH), the progressive form of metabolic dysfunction-associated steatotic liver disease (MASLD), is associated with substantially elevated cardiovascular risk, yet the cardiovascular efficacy of antidiabetic drugs in this population has not been systematically quantified. We searched PubMed, Cochrane CENTRAL, Web of Science, and Embase from January 2016 to May 2026 for studies reporting major adverse cardiovascular events (MACE) in adults with MASLD/MASH or nonalcoholic fatty liver disease treated with glucagon-like peptide-1 (GLP-1) receptor agonists, dual GIP/GLP-1 agonists, or sodium-glucose cotransporter-2 (SGLT-2) inhibitors. Random-effects meta-analysis using the Der Simonian-Laird method pooled hazard ratios (HRs) with 95% confidence intervals (CIs). Heterogeneity was assessed using the I² statistic. The certainty of evidence was evaluated using the GRADE framework. The protocol was prospectively registered with PROSPERO (CRD420261411507). Ten studies contributing 13 estimates (over 450,000 participants) were included. In subgroup analyses by comparator type, SGLT-2 inhibitors reduced MACE versus active comparators (HR 0.60, 95% CI 0.47-0.76), while GLP-1 receptor agonists showed consistent but more modest reductions (HR 0.84, 95% CI 0.68-1.03 versus placebo; HR 0.91, 95% CI 0.82-1.00 versus active comparators). An exploratory omnibus analysis combining all comparisons yielded a pooled HR of 0.83 (95% CI 0.76-0.90, P<0.0001, I²=82.0%). Significant reductions were also observed for cardiovascular death (HR 0.58, 95% CI 0.45-0.75, I²=57.8%) and heart failure hospitalization (HR 0.73, 95% CI 0.56-0.96, I²=81.2%). All-cause mortality was reduced (HR 0.68, 95% CI 0.51-0.91), although heterogeneity was very high (I²=96.5%) and the GRADE certainty of evidence was low. Nonfatal myocardial infarction was reduced by 33% (HR 0.67, 95% CI 0.52-0.86), while the reduction in nonfatal stroke was not significant (HR 0.93, 95% CI 0.70-1.23). The treatment effect was robust across sensitivity analyses, including restriction to randomized controlled trials (HR 0.72, 95% CI 0.62-0.85, I²=0.0%). In trim-and-fill analysis accounting for potential publication bias, the point estimate was attenuated (HR 0.91, 95% CI 0.79-1.04), indicating that the observed benefit should be interpreted with appropriate caution. Hypoglycemia was not reported alongside cardiovascular outcomes in any included study, representing a critical evidence gap. In patients with MASLD/MASH, GLP-1 receptor agonists and SGLT-2 inhibitors are associated with a reduction in cardiovascular events, although the magnitude of benefit is uncertain given the predominance of observational evidence, substantial heterogeneity, and attenuation of the effect in publication bias sensitivity analysis. These findings support the integration of these agents into MASLD/MASH management beyond their metabolic and hepatic benefits, while underscoring the need for dedicated cardiovascular outcome trials in this population. The complete absence of hypoglycemia reporting alongside cardiovascular outcomes highlights a substantial evidence deficit warranting attention in future trials. https://www.crd.york.ac.uk/prospero/, identifier CRD420261411507.",
+      "practicalTakeaways": [],
+      "date": "2026 11 21",
+      "status": "Clinical trial",
+      "references": "Frontiers in endocrinology · 2026 11 21 · PMID: 43065494 · DOI: 10.3389/fendo.2026.1948283",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43065494/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-22T12:34:12.111Z"
     }
   ]
 }
