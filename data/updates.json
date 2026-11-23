@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-22",
+  "lastChecked": "2026-11-23",
   "items": [
     {
       "id": "pmid-42486794",
@@ -12288,6 +12288,40 @@
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43065494/",
       "reviewStatus": "pending",
       "discoveredAt": "2026-11-22T12:34:12.111Z"
+    },
+    {
+      "id": "pmid-43068364",
+      "pmid": "43068364",
+      "doi": "",
+      "title": "[Position paper: colonoscopy preparation - the position of the Israeli Association of Gastroenterology and Liver Diseases].",
+      "category": "Hepatology",
+      "source": "Harefuah",
+      "summary": "Preparing for a colonoscopy involves bowel cleansing and medication adjustments, including anticoagulants and anti-diabetics. Various protocols can make these adjustments confusing for both physicians and patients. While essential for a successful procedure, this preparation can cause discomfort and carry potential risks. We aimed to provide clear guidance for colonoscopy preparation, achieving consensus among mul…",
+      "fullDetails": "Preparing for a colonoscopy involves bowel cleansing and medication adjustments, including anticoagulants and anti-diabetics. Various protocols can make these adjustments confusing for both physicians and patients. While essential for a successful procedure, this preparation can cause discomfort and carry potential risks. We aimed to provide clear guidance for colonoscopy preparation, achieving consensus among multiple societies to ensure safety and effectiveness, including patient forms. This position paper is based on guidelines from major professional associations in Europe and the USA. Representatives from associations in Gastroenterology, Pharmacology, Hematology, Nephrology, Endocrinology, and Geriatrics have collaborated to develop these recommendations. Bowel preparation now requires two days using a split-dose method. Updated guidelines include \"enhanced\" preparation definitions, adjustments for anti-diabetic drugs, discontinuation of anticoagulants, enoxaparin bridging, and resuming therapy post-procedure. PicoLax is suitable for patients with a GFR above 30 mL/min. New glucagon-like peptide-1 (GLP-1) receptor agonist guidelines address gastroparesis and sedation risks. Finally, we provide breastfeeding recommendations for colonoscopy. This consensus paper provides interdisciplinary guidance to ensure effective bowel preparation while addressing safety concerns, making it a valuable resource for healthcare providers and patients.",
+      "practicalTakeaways": [],
+      "date": "2026 11 22",
+      "status": "Guideline candidate",
+      "references": "Harefuah · 2026 11 22 · PMID: 43068364",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43068364/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-23T14:35:58.106Z"
+    },
+    {
+      "id": "pmid-43069022",
+      "pmid": "43069022",
+      "doi": "10.1186/s12876-026-05200-x",
+      "title": "Efficacy of empagliflozin for hepatic and metabolic outcomes in adults with type 2 diabetes and MASLD/MASH (NAFLD/NASH): a systematic review, meta-analysis, and trial sequential analysis.",
+      "category": "Hepatology",
+      "source": "BMC gastroenterology",
+      "summary": "Patients with type 2 diabetes mellitus (T2DM) and metabolic dysfunction-associated steatotic liver disease (MASLD; historically termed non-alcoholic fatty liver disease [NAFLD]) are at increased risk of advanced fibrosis. Conventional antidiabetic therapies vary in their hepatic effects and, aside from pioglitazone, provide limited direct hepatic benefit. This systematic review evaluates the efficacy of empagliflo…",
+      "fullDetails": "Patients with type 2 diabetes mellitus (T2DM) and metabolic dysfunction-associated steatotic liver disease (MASLD; historically termed non-alcoholic fatty liver disease [NAFLD]) are at increased risk of advanced fibrosis. Conventional antidiabetic therapies vary in their hepatic effects and, aside from pioglitazone, provide limited direct hepatic benefit. This systematic review evaluates the efficacy of empagliflozin 10 mg, the guideline-recommended starting dose, on hepatic and metabolic outcomes in this population. We systematically searched PubMed, Scopus, Web of Science, Embase, and Cochrane Central through October 10, 2025, for randomized controlled trials (RCTs) comparing empagliflozin 10 mg versus control (placebo or active comparators). Outcomes included liver fat content, liver stiffness measurement (LSM), controlled attenuation parameter (CAP), liver enzymes, and metabolic parameters. Pooled analyses were performed using mean differences (MDs) with 95% confidence intervals (CIs) and a random-effects model. Seven RCTs (n = 510) were included. Empagliflozin 10 mg significantly reduced CAP (MD - 19.75 dB/m, 95% CI - 36.51 to - 3.00), indicating improvement in hepatic steatosis, while no significant effect was observed on LSM (MD - 0.50 kPa, 95% CI - 1.53 to 0.54). Statistically significant reductions were observed in gamma-glutamyltransferase (GGT; MD - 16.91 IU/L, 95% CI - 22.51 to - 11.31) and, less robustly, in alanine aminotransferase (ALT; MD - 3.35 IU/L, 95% CI - 6.32 to - 0.39), with a borderline reduction in aspartate aminotransferase (AST; MD - 7.33 IU/L, 95% CI - 14.60 to - 0.06). In metabolic outcomes, empagliflozin significantly reduced body weight (MD - 4.31 kg, 95% CI - 5.56 to - 3.06), body mass index (BMI) (MD - 1.42 kg/m², 95% CI - 1.78 to - 1.07), and waist circumference (MD - 3.57 cm, 95% CI - 4.38 to - 2.75). However, no significant changes were observed in glycated hemoglobin (HbA1c) (MD - 0.24%, 95% CI - 0.72 to 0.24) or fasting plasma glucose. Empagliflozin 10 mg is associated with improvements in hepatic steatosis (CAP) and body composition in adults with T2DM and MASLD/MASH (NAFLD/NASH), whereas no significant effects were observed on liver stiffness, FIB-4, glycemic control, or the lipid profile. The evidence base is small, of short duration, and includes no histological endpoints; accordingly, no conclusions regarding antifibrotic efficacy can be drawn. Larger, longer-duration RCTs with paired histology are required.",
+      "practicalTakeaways": [],
+      "date": "2026 11 22",
+      "status": "Guideline candidate",
+      "references": "BMC gastroenterology · 2026 11 22 · PMID: 43069022 · DOI: 10.1186/s12876-026-05200-x",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43069022/",
+      "reviewStatus": "pending",
+      "discoveredAt": "2026-11-23T14:35:58.106Z"
     }
   ]
 }
